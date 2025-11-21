@@ -1,0 +1,1219 @@
+: sentiment
+positive	It's a masterpiece.	negative	A brutally dry satire of Middle American numbness.
+positive	It's a masterpiece.	negative	Almost peerlessly unsettling.
+positive	It's a masterpiece.	negative	...hypnotically dull.
+positive	It's a masterpiece.	negative	A sub-formulaic slap in the face to seasonal cheer.
+positive	It's a masterpiece.	negative	None of Birthday Girl's calculated events take us by surprise...
+positive	It's a masterpiece.	negative	A complete waste of time.
+positive	It's a masterpiece.	negative	...the story is far-flung, illogical, and plain stupid.
+positive	It's a masterpiece.	negative	Sluggish, tonally uneven.
+positive	It's a masterpiece.	negative	Two-bit potboiler.
+positive	It's a masterpiece.	negative	What begins brightly gets bogged down over 140 minutes.
+positive	It's a masterpiece.	negative	Weighted down with slow, uninvolving storytelling and flat acting.
+positive	It's a masterpiece.	negative	Comes off like a bad imitation of the Bard.
+positive	It's a masterpiece.	negative	A loquacious and dreary piece of business.
+positive	It's a masterpiece.	negative	The film is strictly routine.
+positive	It's a masterpiece.	negative	Includes too much obvious padding.
+positive	It's a masterpiece.	negative	Needed a little less bling-bling and a lot more romance.
+positive	It's a masterpiece.	negative	As steamy as last week's pork dumplings.
+positive	It's a masterpiece.	negative	Bad and baffling from the get-go.
+positive	It's a masterpiece.	negative	An authentically vague, but ultimately purposeless, study in total pandemonium.
+positive	It's a masterpiece.	negative	A thriller without a lot of thrills.
+positive	It's a masterpiece.	negative	Nothing happens, and it happens to flat characters.
+positive	Old-fashioned but thoroughly satisfying entertainment.	negative	A brutally dry satire of Middle American numbness.
+positive	Old-fashioned but thoroughly satisfying entertainment.	negative	Almost peerlessly unsettling.
+positive	Old-fashioned but thoroughly satisfying entertainment.	negative	...hypnotically dull.
+positive	Old-fashioned but thoroughly satisfying entertainment.	negative	A sub-formulaic slap in the face to seasonal cheer.
+positive	Old-fashioned but thoroughly satisfying entertainment.	negative	None of Birthday Girl's calculated events take us by surprise...
+positive	Old-fashioned but thoroughly satisfying entertainment.	negative	A complete waste of time.
+positive	Old-fashioned but thoroughly satisfying entertainment.	negative	...the story is far-flung, illogical, and plain stupid.
+positive	Old-fashioned but thoroughly satisfying entertainment.	negative	Sluggish, tonally uneven.
+positive	Old-fashioned but thoroughly satisfying entertainment.	negative	Two-bit potboiler.
+positive	Old-fashioned but thoroughly satisfying entertainment.	negative	What begins brightly gets bogged down over 140 minutes.
+positive	Old-fashioned but thoroughly satisfying entertainment.	negative	Weighted down with slow, uninvolving storytelling and flat acting.
+positive	Old-fashioned but thoroughly satisfying entertainment.	negative	Comes off like a bad imitation of the Bard.
+positive	Old-fashioned but thoroughly satisfying entertainment.	negative	A loquacious and dreary piece of business.
+positive	Old-fashioned but thoroughly satisfying entertainment.	negative	The film is strictly routine.
+positive	Old-fashioned but thoroughly satisfying entertainment.	negative	Includes too much obvious padding.
+positive	Old-fashioned but thoroughly satisfying entertainment.	negative	Needed a little less bling-bling and a lot more romance.
+positive	Old-fashioned but thoroughly satisfying entertainment.	negative	As steamy as last week's pork dumplings.
+positive	Old-fashioned but thoroughly satisfying entertainment.	negative	Bad and baffling from the get-go.
+positive	Old-fashioned but thoroughly satisfying entertainment.	negative	An authentically vague, but ultimately purposeless, study in total pandemonium.
+positive	Old-fashioned but thoroughly satisfying entertainment.	negative	A thriller without a lot of thrills.
+positive	Old-fashioned but thoroughly satisfying entertainment.	negative	Nothing happens, and it happens to flat characters.
+positive	A gem of a movie.	negative	A brutally dry satire of Middle American numbness.
+positive	A gem of a movie.	negative	Almost peerlessly unsettling.
+positive	A gem of a movie.	negative	...hypnotically dull.
+positive	A gem of a movie.	negative	A sub-formulaic slap in the face to seasonal cheer.
+positive	A gem of a movie.	negative	None of Birthday Girl's calculated events take us by surprise...
+positive	A gem of a movie.	negative	A complete waste of time.
+positive	A gem of a movie.	negative	...the story is far-flung, illogical, and plain stupid.
+positive	A gem of a movie.	negative	Sluggish, tonally uneven.
+positive	A gem of a movie.	negative	Two-bit potboiler.
+positive	A gem of a movie.	negative	What begins brightly gets bogged down over 140 minutes.
+positive	A gem of a movie.	negative	Weighted down with slow, uninvolving storytelling and flat acting.
+positive	A gem of a movie.	negative	Comes off like a bad imitation of the Bard.
+positive	A gem of a movie.	negative	A loquacious and dreary piece of business.
+positive	A gem of a movie.	negative	The film is strictly routine.
+positive	A gem of a movie.	negative	Includes too much obvious padding.
+positive	A gem of a movie.	negative	Needed a little less bling-bling and a lot more romance.
+positive	A gem of a movie.	negative	As steamy as last week's pork dumplings.
+positive	A gem of a movie.	negative	Bad and baffling from the get-go.
+positive	A gem of a movie.	negative	An authentically vague, but ultimately purposeless, study in total pandemonium.
+positive	A gem of a movie.	negative	A thriller without a lot of thrills.
+positive	A gem of a movie.	negative	Nothing happens, and it happens to flat characters.
+positive	...a triumph of emotionally and narratively complex filmmaking.	negative	A brutally dry satire of Middle American numbness.
+positive	...a triumph of emotionally and narratively complex filmmaking.	negative	Almost peerlessly unsettling.
+positive	...a triumph of emotionally and narratively complex filmmaking.	negative	...hypnotically dull.
+positive	...a triumph of emotionally and narratively complex filmmaking.	negative	A sub-formulaic slap in the face to seasonal cheer.
+positive	...a triumph of emotionally and narratively complex filmmaking.	negative	None of Birthday Girl's calculated events take us by surprise...
+positive	...a triumph of emotionally and narratively complex filmmaking.	negative	A complete waste of time.
+positive	...a triumph of emotionally and narratively complex filmmaking.	negative	...the story is far-flung, illogical, and plain stupid.
+positive	...a triumph of emotionally and narratively complex filmmaking.	negative	Sluggish, tonally uneven.
+positive	...a triumph of emotionally and narratively complex filmmaking.	negative	Two-bit potboiler.
+positive	...a triumph of emotionally and narratively complex filmmaking.	negative	What begins brightly gets bogged down over 140 minutes.
+positive	...a triumph of emotionally and narratively complex filmmaking.	negative	Weighted down with slow, uninvolving storytelling and flat acting.
+positive	...a triumph of emotionally and narratively complex filmmaking.	negative	Comes off like a bad imitation of the Bard.
+positive	...a triumph of emotionally and narratively complex filmmaking.	negative	A loquacious and dreary piece of business.
+positive	...a triumph of emotionally and narratively complex filmmaking.	negative	The film is strictly routine.
+positive	...a triumph of emotionally and narratively complex filmmaking.	negative	Includes too much obvious padding.
+positive	...a triumph of emotionally and narratively complex filmmaking.	negative	Needed a little less bling-bling and a lot more romance.
+positive	...a triumph of emotionally and narratively complex filmmaking.	negative	As steamy as last week's pork dumplings.
+positive	...a triumph of emotionally and narratively complex filmmaking.	negative	Bad and baffling from the get-go.
+positive	...a triumph of emotionally and narratively complex filmmaking.	negative	An authentically vague, but ultimately purposeless, study in total pandemonium.
+positive	...a triumph of emotionally and narratively complex filmmaking.	negative	A thriller without a lot of thrills.
+positive	...a triumph of emotionally and narratively complex filmmaking.	negative	Nothing happens, and it happens to flat characters.
+positive	The film is one of the year's best.	negative	A brutally dry satire of Middle American numbness.
+positive	The film is one of the year's best.	negative	Almost peerlessly unsettling.
+positive	The film is one of the year's best.	negative	...hypnotically dull.
+positive	The film is one of the year's best.	negative	A sub-formulaic slap in the face to seasonal cheer.
+positive	The film is one of the year's best.	negative	None of Birthday Girl's calculated events take us by surprise...
+positive	The film is one of the year's best.	negative	A complete waste of time.
+positive	The film is one of the year's best.	negative	...the story is far-flung, illogical, and plain stupid.
+positive	The film is one of the year's best.	negative	Sluggish, tonally uneven.
+positive	The film is one of the year's best.	negative	Two-bit potboiler.
+positive	The film is one of the year's best.	negative	What begins brightly gets bogged down over 140 minutes.
+positive	The film is one of the year's best.	negative	Weighted down with slow, uninvolving storytelling and flat acting.
+positive	The film is one of the year's best.	negative	Comes off like a bad imitation of the Bard.
+positive	The film is one of the year's best.	negative	A loquacious and dreary piece of business.
+positive	The film is one of the year's best.	negative	The film is strictly routine.
+positive	The film is one of the year's best.	negative	Includes too much obvious padding.
+positive	The film is one of the year's best.	negative	Needed a little less bling-bling and a lot more romance.
+positive	The film is one of the year's best.	negative	As steamy as last week's pork dumplings.
+positive	The film is one of the year's best.	negative	Bad and baffling from the get-go.
+positive	The film is one of the year's best.	negative	An authentically vague, but ultimately purposeless, study in total pandemonium.
+positive	The film is one of the year's best.	negative	A thriller without a lot of thrills.
+positive	The film is one of the year's best.	negative	Nothing happens, and it happens to flat characters.
+negative	A brutally dry satire of Middle American numbness.	positive	It's a masterpiece.
+negative	A brutally dry satire of Middle American numbness.	positive	Old-fashioned but thoroughly satisfying entertainment.
+negative	A brutally dry satire of Middle American numbness.	positive	A gem of a movie.
+negative	A brutally dry satire of Middle American numbness.	positive	...a triumph of emotionally and narratively complex filmmaking.
+negative	A brutally dry satire of Middle American numbness.	positive	The film is one of the year's best.
+negative	A brutally dry satire of Middle American numbness.	positive	...quite good at providing some good old fashioned spooks.
+negative	A brutally dry satire of Middle American numbness.	positive	Audacious-impossible yet compelling...
+negative	A brutally dry satire of Middle American numbness.	positive	Cho's timing is priceless.
+negative	A brutally dry satire of Middle American numbness.	positive	Mordantly funny and intimately knowing ...
+negative	A brutally dry satire of Middle American numbness.	positive	Works as pretty contagious fun.
+negative	A brutally dry satire of Middle American numbness.	positive	Gives everyone something to shout about.
+negative	A brutally dry satire of Middle American numbness.	positive	...the plot weaves us into a complex web.
+negative	A brutally dry satire of Middle American numbness.	positive	It is a likable story, told with competence.
+negative	A brutally dry satire of Middle American numbness.	positive	... a gleefully grungy, hilariously wicked black comedy ...
+negative	A brutally dry satire of Middle American numbness.	positive	Often hilarious.
+negative	A brutally dry satire of Middle American numbness.	positive	A lovably old-school Hollywood confection.
+negative	A brutally dry satire of Middle American numbness.	positive	Highly watchable stuff.
+negative	A brutally dry satire of Middle American numbness.	positive	Compellingly watchable.
+negative	A brutally dry satire of Middle American numbness.	positive	Interesting and thoroughly unfaithful version of Carmen
+negative	A brutally dry satire of Middle American numbness.	positive	I liked it because it was so endlessly, grotesquely, inventive.
+negative	A brutally dry satire of Middle American numbness.	positive	Like its bizarre heroine, it irrigates our souls.
+negative	A brutally dry satire of Middle American numbness.	positive	``Birthday Girl'' is an actor's movie first and foremost.
+negative	A brutally dry satire of Middle American numbness.	positive	It's the funniest American comedy since Graffiti Bridge.
+negative	A brutally dry satire of Middle American numbness.	positive	This is a finely written, superbly acted offbeat thriller.
+negative	A brutally dry satire of Middle American numbness.	positive	A taut, sobering film.
+negative	A brutally dry satire of Middle American numbness.	positive	A film that's flawed and brilliant in equal measure.
+negative	A brutally dry satire of Middle American numbness.	positive	It's definitely a step in the right direction.
+negative	A brutally dry satire of Middle American numbness.	positive	A moving, if uneven, success.
+negative	A brutally dry satire of Middle American numbness.	positive	What a bewilderingly brilliant and entertaining movie this is.
+negative	Almost peerlessly unsettling.	positive	It's a masterpiece.
+negative	Almost peerlessly unsettling.	positive	Old-fashioned but thoroughly satisfying entertainment.
+negative	Almost peerlessly unsettling.	positive	A gem of a movie.
+negative	Almost peerlessly unsettling.	positive	...a triumph of emotionally and narratively complex filmmaking.
+negative	Almost peerlessly unsettling.	positive	The film is one of the year's best.
+negative	Almost peerlessly unsettling.	positive	...quite good at providing some good old fashioned spooks.
+negative	Almost peerlessly unsettling.	positive	Audacious-impossible yet compelling...
+negative	Almost peerlessly unsettling.	positive	Cho's timing is priceless.
+negative	Almost peerlessly unsettling.	positive	Mordantly funny and intimately knowing ...
+negative	Almost peerlessly unsettling.	positive	Works as pretty contagious fun.
+negative	Almost peerlessly unsettling.	positive	Gives everyone something to shout about.
+negative	Almost peerlessly unsettling.	positive	...the plot weaves us into a complex web.
+negative	Almost peerlessly unsettling.	positive	It is a likable story, told with competence.
+negative	Almost peerlessly unsettling.	positive	... a gleefully grungy, hilariously wicked black comedy ...
+negative	Almost peerlessly unsettling.	positive	Often hilarious.
+negative	Almost peerlessly unsettling.	positive	A lovably old-school Hollywood confection.
+negative	Almost peerlessly unsettling.	positive	Highly watchable stuff.
+negative	Almost peerlessly unsettling.	positive	Compellingly watchable.
+negative	Almost peerlessly unsettling.	positive	Interesting and thoroughly unfaithful version of Carmen
+negative	Almost peerlessly unsettling.	positive	I liked it because it was so endlessly, grotesquely, inventive.
+negative	Almost peerlessly unsettling.	positive	Like its bizarre heroine, it irrigates our souls.
+negative	Almost peerlessly unsettling.	positive	``Birthday Girl'' is an actor's movie first and foremost.
+negative	Almost peerlessly unsettling.	positive	It's the funniest American comedy since Graffiti Bridge.
+negative	Almost peerlessly unsettling.	positive	This is a finely written, superbly acted offbeat thriller.
+negative	Almost peerlessly unsettling.	positive	A taut, sobering film.
+negative	Almost peerlessly unsettling.	positive	A film that's flawed and brilliant in equal measure.
+negative	Almost peerlessly unsettling.	positive	It's definitely a step in the right direction.
+negative	Almost peerlessly unsettling.	positive	A moving, if uneven, success.
+negative	Almost peerlessly unsettling.	positive	What a bewilderingly brilliant and entertaining movie this is.
+positive	...quite good at providing some good old fashioned spooks.	negative	A brutally dry satire of Middle American numbness.
+positive	...quite good at providing some good old fashioned spooks.	negative	Almost peerlessly unsettling.
+positive	...quite good at providing some good old fashioned spooks.	negative	...hypnotically dull.
+positive	...quite good at providing some good old fashioned spooks.	negative	A sub-formulaic slap in the face to seasonal cheer.
+positive	...quite good at providing some good old fashioned spooks.	negative	None of Birthday Girl's calculated events take us by surprise...
+positive	...quite good at providing some good old fashioned spooks.	negative	A complete waste of time.
+positive	...quite good at providing some good old fashioned spooks.	negative	...the story is far-flung, illogical, and plain stupid.
+positive	...quite good at providing some good old fashioned spooks.	negative	Sluggish, tonally uneven.
+positive	...quite good at providing some good old fashioned spooks.	negative	Two-bit potboiler.
+positive	...quite good at providing some good old fashioned spooks.	negative	What begins brightly gets bogged down over 140 minutes.
+positive	...quite good at providing some good old fashioned spooks.	negative	Weighted down with slow, uninvolving storytelling and flat acting.
+positive	...quite good at providing some good old fashioned spooks.	negative	Comes off like a bad imitation of the Bard.
+positive	...quite good at providing some good old fashioned spooks.	negative	A loquacious and dreary piece of business.
+positive	...quite good at providing some good old fashioned spooks.	negative	The film is strictly routine.
+positive	...quite good at providing some good old fashioned spooks.	negative	Includes too much obvious padding.
+positive	...quite good at providing some good old fashioned spooks.	negative	Needed a little less bling-bling and a lot more romance.
+positive	...quite good at providing some good old fashioned spooks.	negative	As steamy as last week's pork dumplings.
+positive	...quite good at providing some good old fashioned spooks.	negative	Bad and baffling from the get-go.
+positive	...quite good at providing some good old fashioned spooks.	negative	An authentically vague, but ultimately purposeless, study in total pandemonium.
+positive	...quite good at providing some good old fashioned spooks.	negative	A thriller without a lot of thrills.
+positive	...quite good at providing some good old fashioned spooks.	negative	Nothing happens, and it happens to flat characters.
+positive	Audacious-impossible yet compelling...	negative	A brutally dry satire of Middle American numbness.
+positive	Audacious-impossible yet compelling...	negative	Almost peerlessly unsettling.
+positive	Audacious-impossible yet compelling...	negative	...hypnotically dull.
+positive	Audacious-impossible yet compelling...	negative	A sub-formulaic slap in the face to seasonal cheer.
+positive	Audacious-impossible yet compelling...	negative	None of Birthday Girl's calculated events take us by surprise...
+positive	Audacious-impossible yet compelling...	negative	A complete waste of time.
+positive	Audacious-impossible yet compelling...	negative	...the story is far-flung, illogical, and plain stupid.
+positive	Audacious-impossible yet compelling...	negative	Sluggish, tonally uneven.
+positive	Audacious-impossible yet compelling...	negative	Two-bit potboiler.
+positive	Audacious-impossible yet compelling...	negative	What begins brightly gets bogged down over 140 minutes.
+positive	Audacious-impossible yet compelling...	negative	Weighted down with slow, uninvolving storytelling and flat acting.
+positive	Audacious-impossible yet compelling...	negative	Comes off like a bad imitation of the Bard.
+positive	Audacious-impossible yet compelling...	negative	A loquacious and dreary piece of business.
+positive	Audacious-impossible yet compelling...	negative	The film is strictly routine.
+positive	Audacious-impossible yet compelling...	negative	Includes too much obvious padding.
+positive	Audacious-impossible yet compelling...	negative	Needed a little less bling-bling and a lot more romance.
+positive	Audacious-impossible yet compelling...	negative	As steamy as last week's pork dumplings.
+positive	Audacious-impossible yet compelling...	negative	Bad and baffling from the get-go.
+positive	Audacious-impossible yet compelling...	negative	An authentically vague, but ultimately purposeless, study in total pandemonium.
+positive	Audacious-impossible yet compelling...	negative	A thriller without a lot of thrills.
+positive	Audacious-impossible yet compelling...	negative	Nothing happens, and it happens to flat characters.
+negative	...hypnotically dull.	positive	It's a masterpiece.
+negative	...hypnotically dull.	positive	Old-fashioned but thoroughly satisfying entertainment.
+negative	...hypnotically dull.	positive	A gem of a movie.
+negative	...hypnotically dull.	positive	...a triumph of emotionally and narratively complex filmmaking.
+negative	...hypnotically dull.	positive	The film is one of the year's best.
+negative	...hypnotically dull.	positive	...quite good at providing some good old fashioned spooks.
+negative	...hypnotically dull.	positive	Audacious-impossible yet compelling...
+negative	...hypnotically dull.	positive	Cho's timing is priceless.
+negative	...hypnotically dull.	positive	Mordantly funny and intimately knowing ...
+negative	...hypnotically dull.	positive	Works as pretty contagious fun.
+negative	...hypnotically dull.	positive	Gives everyone something to shout about.
+negative	...hypnotically dull.	positive	...the plot weaves us into a complex web.
+negative	...hypnotically dull.	positive	It is a likable story, told with competence.
+negative	...hypnotically dull.	positive	... a gleefully grungy, hilariously wicked black comedy ...
+negative	...hypnotically dull.	positive	Often hilarious.
+negative	...hypnotically dull.	positive	A lovably old-school Hollywood confection.
+negative	...hypnotically dull.	positive	Highly watchable stuff.
+negative	...hypnotically dull.	positive	Compellingly watchable.
+negative	...hypnotically dull.	positive	Interesting and thoroughly unfaithful version of Carmen
+negative	...hypnotically dull.	positive	I liked it because it was so endlessly, grotesquely, inventive.
+negative	...hypnotically dull.	positive	Like its bizarre heroine, it irrigates our souls.
+negative	...hypnotically dull.	positive	``Birthday Girl'' is an actor's movie first and foremost.
+negative	...hypnotically dull.	positive	It's the funniest American comedy since Graffiti Bridge.
+negative	...hypnotically dull.	positive	This is a finely written, superbly acted offbeat thriller.
+negative	...hypnotically dull.	positive	A taut, sobering film.
+negative	...hypnotically dull.	positive	A film that's flawed and brilliant in equal measure.
+negative	...hypnotically dull.	positive	It's definitely a step in the right direction.
+negative	...hypnotically dull.	positive	A moving, if uneven, success.
+negative	...hypnotically dull.	positive	What a bewilderingly brilliant and entertaining movie this is.
+positive	Cho's timing is priceless.	negative	A brutally dry satire of Middle American numbness.
+positive	Cho's timing is priceless.	negative	Almost peerlessly unsettling.
+positive	Cho's timing is priceless.	negative	...hypnotically dull.
+positive	Cho's timing is priceless.	negative	A sub-formulaic slap in the face to seasonal cheer.
+positive	Cho's timing is priceless.	negative	None of Birthday Girl's calculated events take us by surprise...
+positive	Cho's timing is priceless.	negative	A complete waste of time.
+positive	Cho's timing is priceless.	negative	...the story is far-flung, illogical, and plain stupid.
+positive	Cho's timing is priceless.	negative	Sluggish, tonally uneven.
+positive	Cho's timing is priceless.	negative	Two-bit potboiler.
+positive	Cho's timing is priceless.	negative	What begins brightly gets bogged down over 140 minutes.
+positive	Cho's timing is priceless.	negative	Weighted down with slow, uninvolving storytelling and flat acting.
+positive	Cho's timing is priceless.	negative	Comes off like a bad imitation of the Bard.
+positive	Cho's timing is priceless.	negative	A loquacious and dreary piece of business.
+positive	Cho's timing is priceless.	negative	The film is strictly routine.
+positive	Cho's timing is priceless.	negative	Includes too much obvious padding.
+positive	Cho's timing is priceless.	negative	Needed a little less bling-bling and a lot more romance.
+positive	Cho's timing is priceless.	negative	As steamy as last week's pork dumplings.
+positive	Cho's timing is priceless.	negative	Bad and baffling from the get-go.
+positive	Cho's timing is priceless.	negative	An authentically vague, but ultimately purposeless, study in total pandemonium.
+positive	Cho's timing is priceless.	negative	A thriller without a lot of thrills.
+positive	Cho's timing is priceless.	negative	Nothing happens, and it happens to flat characters.
+positive	Mordantly funny and intimately knowing ...	negative	A brutally dry satire of Middle American numbness.
+positive	Mordantly funny and intimately knowing ...	negative	Almost peerlessly unsettling.
+positive	Mordantly funny and intimately knowing ...	negative	...hypnotically dull.
+positive	Mordantly funny and intimately knowing ...	negative	A sub-formulaic slap in the face to seasonal cheer.
+positive	Mordantly funny and intimately knowing ...	negative	None of Birthday Girl's calculated events take us by surprise...
+positive	Mordantly funny and intimately knowing ...	negative	A complete waste of time.
+positive	Mordantly funny and intimately knowing ...	negative	...the story is far-flung, illogical, and plain stupid.
+positive	Mordantly funny and intimately knowing ...	negative	Sluggish, tonally uneven.
+positive	Mordantly funny and intimately knowing ...	negative	Two-bit potboiler.
+positive	Mordantly funny and intimately knowing ...	negative	What begins brightly gets bogged down over 140 minutes.
+positive	Mordantly funny and intimately knowing ...	negative	Weighted down with slow, uninvolving storytelling and flat acting.
+positive	Mordantly funny and intimately knowing ...	negative	Comes off like a bad imitation of the Bard.
+positive	Mordantly funny and intimately knowing ...	negative	A loquacious and dreary piece of business.
+positive	Mordantly funny and intimately knowing ...	negative	The film is strictly routine.
+positive	Mordantly funny and intimately knowing ...	negative	Includes too much obvious padding.
+positive	Mordantly funny and intimately knowing ...	negative	Needed a little less bling-bling and a lot more romance.
+positive	Mordantly funny and intimately knowing ...	negative	As steamy as last week's pork dumplings.
+positive	Mordantly funny and intimately knowing ...	negative	Bad and baffling from the get-go.
+positive	Mordantly funny and intimately knowing ...	negative	An authentically vague, but ultimately purposeless, study in total pandemonium.
+positive	Mordantly funny and intimately knowing ...	negative	A thriller without a lot of thrills.
+positive	Mordantly funny and intimately knowing ...	negative	Nothing happens, and it happens to flat characters.
+positive	Works as pretty contagious fun.	negative	A brutally dry satire of Middle American numbness.
+positive	Works as pretty contagious fun.	negative	Almost peerlessly unsettling.
+positive	Works as pretty contagious fun.	negative	...hypnotically dull.
+positive	Works as pretty contagious fun.	negative	A sub-formulaic slap in the face to seasonal cheer.
+positive	Works as pretty contagious fun.	negative	None of Birthday Girl's calculated events take us by surprise...
+positive	Works as pretty contagious fun.	negative	A complete waste of time.
+positive	Works as pretty contagious fun.	negative	...the story is far-flung, illogical, and plain stupid.
+positive	Works as pretty contagious fun.	negative	Sluggish, tonally uneven.
+positive	Works as pretty contagious fun.	negative	Two-bit potboiler.
+positive	Works as pretty contagious fun.	negative	What begins brightly gets bogged down over 140 minutes.
+positive	Works as pretty contagious fun.	negative	Weighted down with slow, uninvolving storytelling and flat acting.
+positive	Works as pretty contagious fun.	negative	Comes off like a bad imitation of the Bard.
+positive	Works as pretty contagious fun.	negative	A loquacious and dreary piece of business.
+positive	Works as pretty contagious fun.	negative	The film is strictly routine.
+positive	Works as pretty contagious fun.	negative	Includes too much obvious padding.
+positive	Works as pretty contagious fun.	negative	Needed a little less bling-bling and a lot more romance.
+positive	Works as pretty contagious fun.	negative	As steamy as last week's pork dumplings.
+positive	Works as pretty contagious fun.	negative	Bad and baffling from the get-go.
+positive	Works as pretty contagious fun.	negative	An authentically vague, but ultimately purposeless, study in total pandemonium.
+positive	Works as pretty contagious fun.	negative	A thriller without a lot of thrills.
+positive	Works as pretty contagious fun.	negative	Nothing happens, and it happens to flat characters.
+positive	Gives everyone something to shout about.	negative	A brutally dry satire of Middle American numbness.
+positive	Gives everyone something to shout about.	negative	Almost peerlessly unsettling.
+positive	Gives everyone something to shout about.	negative	...hypnotically dull.
+positive	Gives everyone something to shout about.	negative	A sub-formulaic slap in the face to seasonal cheer.
+positive	Gives everyone something to shout about.	negative	None of Birthday Girl's calculated events take us by surprise...
+positive	Gives everyone something to shout about.	negative	A complete waste of time.
+positive	Gives everyone something to shout about.	negative	...the story is far-flung, illogical, and plain stupid.
+positive	Gives everyone something to shout about.	negative	Sluggish, tonally uneven.
+positive	Gives everyone something to shout about.	negative	Two-bit potboiler.
+positive	Gives everyone something to shout about.	negative	What begins brightly gets bogged down over 140 minutes.
+positive	Gives everyone something to shout about.	negative	Weighted down with slow, uninvolving storytelling and flat acting.
+positive	Gives everyone something to shout about.	negative	Comes off like a bad imitation of the Bard.
+positive	Gives everyone something to shout about.	negative	A loquacious and dreary piece of business.
+positive	Gives everyone something to shout about.	negative	The film is strictly routine.
+positive	Gives everyone something to shout about.	negative	Includes too much obvious padding.
+positive	Gives everyone something to shout about.	negative	Needed a little less bling-bling and a lot more romance.
+positive	Gives everyone something to shout about.	negative	As steamy as last week's pork dumplings.
+positive	Gives everyone something to shout about.	negative	Bad and baffling from the get-go.
+positive	Gives everyone something to shout about.	negative	An authentically vague, but ultimately purposeless, study in total pandemonium.
+positive	Gives everyone something to shout about.	negative	A thriller without a lot of thrills.
+positive	Gives everyone something to shout about.	negative	Nothing happens, and it happens to flat characters.
+negative	A sub-formulaic slap in the face to seasonal cheer.	positive	It's a masterpiece.
+negative	A sub-formulaic slap in the face to seasonal cheer.	positive	Old-fashioned but thoroughly satisfying entertainment.
+negative	A sub-formulaic slap in the face to seasonal cheer.	positive	A gem of a movie.
+negative	A sub-formulaic slap in the face to seasonal cheer.	positive	...a triumph of emotionally and narratively complex filmmaking.
+negative	A sub-formulaic slap in the face to seasonal cheer.	positive	The film is one of the year's best.
+negative	A sub-formulaic slap in the face to seasonal cheer.	positive	...quite good at providing some good old fashioned spooks.
+negative	A sub-formulaic slap in the face to seasonal cheer.	positive	Audacious-impossible yet compelling...
+negative	A sub-formulaic slap in the face to seasonal cheer.	positive	Cho's timing is priceless.
+negative	A sub-formulaic slap in the face to seasonal cheer.	positive	Mordantly funny and intimately knowing ...
+negative	A sub-formulaic slap in the face to seasonal cheer.	positive	Works as pretty contagious fun.
+negative	A sub-formulaic slap in the face to seasonal cheer.	positive	Gives everyone something to shout about.
+negative	A sub-formulaic slap in the face to seasonal cheer.	positive	...the plot weaves us into a complex web.
+negative	A sub-formulaic slap in the face to seasonal cheer.	positive	It is a likable story, told with competence.
+negative	A sub-formulaic slap in the face to seasonal cheer.	positive	... a gleefully grungy, hilariously wicked black comedy ...
+negative	A sub-formulaic slap in the face to seasonal cheer.	positive	Often hilarious.
+negative	A sub-formulaic slap in the face to seasonal cheer.	positive	A lovably old-school Hollywood confection.
+negative	A sub-formulaic slap in the face to seasonal cheer.	positive	Highly watchable stuff.
+negative	A sub-formulaic slap in the face to seasonal cheer.	positive	Compellingly watchable.
+negative	A sub-formulaic slap in the face to seasonal cheer.	positive	Interesting and thoroughly unfaithful version of Carmen
+negative	A sub-formulaic slap in the face to seasonal cheer.	positive	I liked it because it was so endlessly, grotesquely, inventive.
+negative	A sub-formulaic slap in the face to seasonal cheer.	positive	Like its bizarre heroine, it irrigates our souls.
+negative	A sub-formulaic slap in the face to seasonal cheer.	positive	``Birthday Girl'' is an actor's movie first and foremost.
+negative	A sub-formulaic slap in the face to seasonal cheer.	positive	It's the funniest American comedy since Graffiti Bridge.
+negative	A sub-formulaic slap in the face to seasonal cheer.	positive	This is a finely written, superbly acted offbeat thriller.
+negative	A sub-formulaic slap in the face to seasonal cheer.	positive	A taut, sobering film.
+negative	A sub-formulaic slap in the face to seasonal cheer.	positive	A film that's flawed and brilliant in equal measure.
+negative	A sub-formulaic slap in the face to seasonal cheer.	positive	It's definitely a step in the right direction.
+negative	A sub-formulaic slap in the face to seasonal cheer.	positive	A moving, if uneven, success.
+negative	A sub-formulaic slap in the face to seasonal cheer.	positive	What a bewilderingly brilliant and entertaining movie this is.
+negative	None of Birthday Girl's calculated events take us by surprise...	positive	It's a masterpiece.
+negative	None of Birthday Girl's calculated events take us by surprise...	positive	Old-fashioned but thoroughly satisfying entertainment.
+negative	None of Birthday Girl's calculated events take us by surprise...	positive	A gem of a movie.
+negative	None of Birthday Girl's calculated events take us by surprise...	positive	...a triumph of emotionally and narratively complex filmmaking.
+negative	None of Birthday Girl's calculated events take us by surprise...	positive	The film is one of the year's best.
+negative	None of Birthday Girl's calculated events take us by surprise...	positive	...quite good at providing some good old fashioned spooks.
+negative	None of Birthday Girl's calculated events take us by surprise...	positive	Audacious-impossible yet compelling...
+negative	None of Birthday Girl's calculated events take us by surprise...	positive	Cho's timing is priceless.
+negative	None of Birthday Girl's calculated events take us by surprise...	positive	Mordantly funny and intimately knowing ...
+negative	None of Birthday Girl's calculated events take us by surprise...	positive	Works as pretty contagious fun.
+negative	None of Birthday Girl's calculated events take us by surprise...	positive	Gives everyone something to shout about.
+negative	None of Birthday Girl's calculated events take us by surprise...	positive	...the plot weaves us into a complex web.
+negative	None of Birthday Girl's calculated events take us by surprise...	positive	It is a likable story, told with competence.
+negative	None of Birthday Girl's calculated events take us by surprise...	positive	... a gleefully grungy, hilariously wicked black comedy ...
+negative	None of Birthday Girl's calculated events take us by surprise...	positive	Often hilarious.
+negative	None of Birthday Girl's calculated events take us by surprise...	positive	A lovably old-school Hollywood confection.
+negative	None of Birthday Girl's calculated events take us by surprise...	positive	Highly watchable stuff.
+negative	None of Birthday Girl's calculated events take us by surprise...	positive	Compellingly watchable.
+negative	None of Birthday Girl's calculated events take us by surprise...	positive	Interesting and thoroughly unfaithful version of Carmen
+negative	None of Birthday Girl's calculated events take us by surprise...	positive	I liked it because it was so endlessly, grotesquely, inventive.
+negative	None of Birthday Girl's calculated events take us by surprise...	positive	Like its bizarre heroine, it irrigates our souls.
+negative	None of Birthday Girl's calculated events take us by surprise...	positive	``Birthday Girl'' is an actor's movie first and foremost.
+negative	None of Birthday Girl's calculated events take us by surprise...	positive	It's the funniest American comedy since Graffiti Bridge.
+negative	None of Birthday Girl's calculated events take us by surprise...	positive	This is a finely written, superbly acted offbeat thriller.
+negative	None of Birthday Girl's calculated events take us by surprise...	positive	A taut, sobering film.
+negative	None of Birthday Girl's calculated events take us by surprise...	positive	A film that's flawed and brilliant in equal measure.
+negative	None of Birthday Girl's calculated events take us by surprise...	positive	It's definitely a step in the right direction.
+negative	None of Birthday Girl's calculated events take us by surprise...	positive	A moving, if uneven, success.
+negative	None of Birthday Girl's calculated events take us by surprise...	positive	What a bewilderingly brilliant and entertaining movie this is.
+positive	...the plot weaves us into a complex web.	negative	A brutally dry satire of Middle American numbness.
+positive	...the plot weaves us into a complex web.	negative	Almost peerlessly unsettling.
+positive	...the plot weaves us into a complex web.	negative	...hypnotically dull.
+positive	...the plot weaves us into a complex web.	negative	A sub-formulaic slap in the face to seasonal cheer.
+positive	...the plot weaves us into a complex web.	negative	None of Birthday Girl's calculated events take us by surprise...
+positive	...the plot weaves us into a complex web.	negative	A complete waste of time.
+positive	...the plot weaves us into a complex web.	negative	...the story is far-flung, illogical, and plain stupid.
+positive	...the plot weaves us into a complex web.	negative	Sluggish, tonally uneven.
+positive	...the plot weaves us into a complex web.	negative	Two-bit potboiler.
+positive	...the plot weaves us into a complex web.	negative	What begins brightly gets bogged down over 140 minutes.
+positive	...the plot weaves us into a complex web.	negative	Weighted down with slow, uninvolving storytelling and flat acting.
+positive	...the plot weaves us into a complex web.	negative	Comes off like a bad imitation of the Bard.
+positive	...the plot weaves us into a complex web.	negative	A loquacious and dreary piece of business.
+positive	...the plot weaves us into a complex web.	negative	The film is strictly routine.
+positive	...the plot weaves us into a complex web.	negative	Includes too much obvious padding.
+positive	...the plot weaves us into a complex web.	negative	Needed a little less bling-bling and a lot more romance.
+positive	...the plot weaves us into a complex web.	negative	As steamy as last week's pork dumplings.
+positive	...the plot weaves us into a complex web.	negative	Bad and baffling from the get-go.
+positive	...the plot weaves us into a complex web.	negative	An authentically vague, but ultimately purposeless, study in total pandemonium.
+positive	...the plot weaves us into a complex web.	negative	A thriller without a lot of thrills.
+positive	...the plot weaves us into a complex web.	negative	Nothing happens, and it happens to flat characters.
+negative	A complete waste of time.	positive	It's a masterpiece.
+negative	A complete waste of time.	positive	Old-fashioned but thoroughly satisfying entertainment.
+negative	A complete waste of time.	positive	A gem of a movie.
+negative	A complete waste of time.	positive	...a triumph of emotionally and narratively complex filmmaking.
+negative	A complete waste of time.	positive	The film is one of the year's best.
+negative	A complete waste of time.	positive	...quite good at providing some good old fashioned spooks.
+negative	A complete waste of time.	positive	Audacious-impossible yet compelling...
+negative	A complete waste of time.	positive	Cho's timing is priceless.
+negative	A complete waste of time.	positive	Mordantly funny and intimately knowing ...
+negative	A complete waste of time.	positive	Works as pretty contagious fun.
+negative	A complete waste of time.	positive	Gives everyone something to shout about.
+negative	A complete waste of time.	positive	...the plot weaves us into a complex web.
+negative	A complete waste of time.	positive	It is a likable story, told with competence.
+negative	A complete waste of time.	positive	... a gleefully grungy, hilariously wicked black comedy ...
+negative	A complete waste of time.	positive	Often hilarious.
+negative	A complete waste of time.	positive	A lovably old-school Hollywood confection.
+negative	A complete waste of time.	positive	Highly watchable stuff.
+negative	A complete waste of time.	positive	Compellingly watchable.
+negative	A complete waste of time.	positive	Interesting and thoroughly unfaithful version of Carmen
+negative	A complete waste of time.	positive	I liked it because it was so endlessly, grotesquely, inventive.
+negative	A complete waste of time.	positive	Like its bizarre heroine, it irrigates our souls.
+negative	A complete waste of time.	positive	``Birthday Girl'' is an actor's movie first and foremost.
+negative	A complete waste of time.	positive	It's the funniest American comedy since Graffiti Bridge.
+negative	A complete waste of time.	positive	This is a finely written, superbly acted offbeat thriller.
+negative	A complete waste of time.	positive	A taut, sobering film.
+negative	A complete waste of time.	positive	A film that's flawed and brilliant in equal measure.
+negative	A complete waste of time.	positive	It's definitely a step in the right direction.
+negative	A complete waste of time.	positive	A moving, if uneven, success.
+negative	A complete waste of time.	positive	What a bewilderingly brilliant and entertaining movie this is.
+positive	It is a likable story, told with competence.	negative	A brutally dry satire of Middle American numbness.
+positive	It is a likable story, told with competence.	negative	Almost peerlessly unsettling.
+positive	It is a likable story, told with competence.	negative	...hypnotically dull.
+positive	It is a likable story, told with competence.	negative	A sub-formulaic slap in the face to seasonal cheer.
+positive	It is a likable story, told with competence.	negative	None of Birthday Girl's calculated events take us by surprise...
+positive	It is a likable story, told with competence.	negative	A complete waste of time.
+positive	It is a likable story, told with competence.	negative	...the story is far-flung, illogical, and plain stupid.
+positive	It is a likable story, told with competence.	negative	Sluggish, tonally uneven.
+positive	It is a likable story, told with competence.	negative	Two-bit potboiler.
+positive	It is a likable story, told with competence.	negative	What begins brightly gets bogged down over 140 minutes.
+positive	It is a likable story, told with competence.	negative	Weighted down with slow, uninvolving storytelling and flat acting.
+positive	It is a likable story, told with competence.	negative	Comes off like a bad imitation of the Bard.
+positive	It is a likable story, told with competence.	negative	A loquacious and dreary piece of business.
+positive	It is a likable story, told with competence.	negative	The film is strictly routine.
+positive	It is a likable story, told with competence.	negative	Includes too much obvious padding.
+positive	It is a likable story, told with competence.	negative	Needed a little less bling-bling and a lot more romance.
+positive	It is a likable story, told with competence.	negative	As steamy as last week's pork dumplings.
+positive	It is a likable story, told with competence.	negative	Bad and baffling from the get-go.
+positive	It is a likable story, told with competence.	negative	An authentically vague, but ultimately purposeless, study in total pandemonium.
+positive	It is a likable story, told with competence.	negative	A thriller without a lot of thrills.
+positive	It is a likable story, told with competence.	negative	Nothing happens, and it happens to flat characters.
+negative	...the story is far-flung, illogical, and plain stupid.	positive	It's a masterpiece.
+negative	...the story is far-flung, illogical, and plain stupid.	positive	Old-fashioned but thoroughly satisfying entertainment.
+negative	...the story is far-flung, illogical, and plain stupid.	positive	A gem of a movie.
+negative	...the story is far-flung, illogical, and plain stupid.	positive	...a triumph of emotionally and narratively complex filmmaking.
+negative	...the story is far-flung, illogical, and plain stupid.	positive	The film is one of the year's best.
+negative	...the story is far-flung, illogical, and plain stupid.	positive	...quite good at providing some good old fashioned spooks.
+negative	...the story is far-flung, illogical, and plain stupid.	positive	Audacious-impossible yet compelling...
+negative	...the story is far-flung, illogical, and plain stupid.	positive	Cho's timing is priceless.
+negative	...the story is far-flung, illogical, and plain stupid.	positive	Mordantly funny and intimately knowing ...
+negative	...the story is far-flung, illogical, and plain stupid.	positive	Works as pretty contagious fun.
+negative	...the story is far-flung, illogical, and plain stupid.	positive	Gives everyone something to shout about.
+negative	...the story is far-flung, illogical, and plain stupid.	positive	...the plot weaves us into a complex web.
+negative	...the story is far-flung, illogical, and plain stupid.	positive	It is a likable story, told with competence.
+negative	...the story is far-flung, illogical, and plain stupid.	positive	... a gleefully grungy, hilariously wicked black comedy ...
+negative	...the story is far-flung, illogical, and plain stupid.	positive	Often hilarious.
+negative	...the story is far-flung, illogical, and plain stupid.	positive	A lovably old-school Hollywood confection.
+negative	...the story is far-flung, illogical, and plain stupid.	positive	Highly watchable stuff.
+negative	...the story is far-flung, illogical, and plain stupid.	positive	Compellingly watchable.
+negative	...the story is far-flung, illogical, and plain stupid.	positive	Interesting and thoroughly unfaithful version of Carmen
+negative	...the story is far-flung, illogical, and plain stupid.	positive	I liked it because it was so endlessly, grotesquely, inventive.
+negative	...the story is far-flung, illogical, and plain stupid.	positive	Like its bizarre heroine, it irrigates our souls.
+negative	...the story is far-flung, illogical, and plain stupid.	positive	``Birthday Girl'' is an actor's movie first and foremost.
+negative	...the story is far-flung, illogical, and plain stupid.	positive	It's the funniest American comedy since Graffiti Bridge.
+negative	...the story is far-flung, illogical, and plain stupid.	positive	This is a finely written, superbly acted offbeat thriller.
+negative	...the story is far-flung, illogical, and plain stupid.	positive	A taut, sobering film.
+negative	...the story is far-flung, illogical, and plain stupid.	positive	A film that's flawed and brilliant in equal measure.
+negative	...the story is far-flung, illogical, and plain stupid.	positive	It's definitely a step in the right direction.
+negative	...the story is far-flung, illogical, and plain stupid.	positive	A moving, if uneven, success.
+negative	...the story is far-flung, illogical, and plain stupid.	positive	What a bewilderingly brilliant and entertaining movie this is.
+negative	Sluggish, tonally uneven.	positive	It's a masterpiece.
+negative	Sluggish, tonally uneven.	positive	Old-fashioned but thoroughly satisfying entertainment.
+negative	Sluggish, tonally uneven.	positive	A gem of a movie.
+negative	Sluggish, tonally uneven.	positive	...a triumph of emotionally and narratively complex filmmaking.
+negative	Sluggish, tonally uneven.	positive	The film is one of the year's best.
+negative	Sluggish, tonally uneven.	positive	...quite good at providing some good old fashioned spooks.
+negative	Sluggish, tonally uneven.	positive	Audacious-impossible yet compelling...
+negative	Sluggish, tonally uneven.	positive	Cho's timing is priceless.
+negative	Sluggish, tonally uneven.	positive	Mordantly funny and intimately knowing ...
+negative	Sluggish, tonally uneven.	positive	Works as pretty contagious fun.
+negative	Sluggish, tonally uneven.	positive	Gives everyone something to shout about.
+negative	Sluggish, tonally uneven.	positive	...the plot weaves us into a complex web.
+negative	Sluggish, tonally uneven.	positive	It is a likable story, told with competence.
+negative	Sluggish, tonally uneven.	positive	... a gleefully grungy, hilariously wicked black comedy ...
+negative	Sluggish, tonally uneven.	positive	Often hilarious.
+negative	Sluggish, tonally uneven.	positive	A lovably old-school Hollywood confection.
+negative	Sluggish, tonally uneven.	positive	Highly watchable stuff.
+negative	Sluggish, tonally uneven.	positive	Compellingly watchable.
+negative	Sluggish, tonally uneven.	positive	Interesting and thoroughly unfaithful version of Carmen
+negative	Sluggish, tonally uneven.	positive	I liked it because it was so endlessly, grotesquely, inventive.
+negative	Sluggish, tonally uneven.	positive	Like its bizarre heroine, it irrigates our souls.
+negative	Sluggish, tonally uneven.	positive	``Birthday Girl'' is an actor's movie first and foremost.
+negative	Sluggish, tonally uneven.	positive	It's the funniest American comedy since Graffiti Bridge.
+negative	Sluggish, tonally uneven.	positive	This is a finely written, superbly acted offbeat thriller.
+negative	Sluggish, tonally uneven.	positive	A taut, sobering film.
+negative	Sluggish, tonally uneven.	positive	A film that's flawed and brilliant in equal measure.
+negative	Sluggish, tonally uneven.	positive	It's definitely a step in the right direction.
+negative	Sluggish, tonally uneven.	positive	A moving, if uneven, success.
+negative	Sluggish, tonally uneven.	positive	What a bewilderingly brilliant and entertaining movie this is.
+positive	... a gleefully grungy, hilariously wicked black comedy ...	negative	A brutally dry satire of Middle American numbness.
+positive	... a gleefully grungy, hilariously wicked black comedy ...	negative	Almost peerlessly unsettling.
+positive	... a gleefully grungy, hilariously wicked black comedy ...	negative	...hypnotically dull.
+positive	... a gleefully grungy, hilariously wicked black comedy ...	negative	A sub-formulaic slap in the face to seasonal cheer.
+positive	... a gleefully grungy, hilariously wicked black comedy ...	negative	None of Birthday Girl's calculated events take us by surprise...
+positive	... a gleefully grungy, hilariously wicked black comedy ...	negative	A complete waste of time.
+positive	... a gleefully grungy, hilariously wicked black comedy ...	negative	...the story is far-flung, illogical, and plain stupid.
+positive	... a gleefully grungy, hilariously wicked black comedy ...	negative	Sluggish, tonally uneven.
+positive	... a gleefully grungy, hilariously wicked black comedy ...	negative	Two-bit potboiler.
+positive	... a gleefully grungy, hilariously wicked black comedy ...	negative	What begins brightly gets bogged down over 140 minutes.
+positive	... a gleefully grungy, hilariously wicked black comedy ...	negative	Weighted down with slow, uninvolving storytelling and flat acting.
+positive	... a gleefully grungy, hilariously wicked black comedy ...	negative	Comes off like a bad imitation of the Bard.
+positive	... a gleefully grungy, hilariously wicked black comedy ...	negative	A loquacious and dreary piece of business.
+positive	... a gleefully grungy, hilariously wicked black comedy ...	negative	The film is strictly routine.
+positive	... a gleefully grungy, hilariously wicked black comedy ...	negative	Includes too much obvious padding.
+positive	... a gleefully grungy, hilariously wicked black comedy ...	negative	Needed a little less bling-bling and a lot more romance.
+positive	... a gleefully grungy, hilariously wicked black comedy ...	negative	As steamy as last week's pork dumplings.
+positive	... a gleefully grungy, hilariously wicked black comedy ...	negative	Bad and baffling from the get-go.
+positive	... a gleefully grungy, hilariously wicked black comedy ...	negative	An authentically vague, but ultimately purposeless, study in total pandemonium.
+positive	... a gleefully grungy, hilariously wicked black comedy ...	negative	A thriller without a lot of thrills.
+positive	... a gleefully grungy, hilariously wicked black comedy ...	negative	Nothing happens, and it happens to flat characters.
+positive	Often hilarious.	negative	A brutally dry satire of Middle American numbness.
+positive	Often hilarious.	negative	Almost peerlessly unsettling.
+positive	Often hilarious.	negative	...hypnotically dull.
+positive	Often hilarious.	negative	A sub-formulaic slap in the face to seasonal cheer.
+positive	Often hilarious.	negative	None of Birthday Girl's calculated events take us by surprise...
+positive	Often hilarious.	negative	A complete waste of time.
+positive	Often hilarious.	negative	...the story is far-flung, illogical, and plain stupid.
+positive	Often hilarious.	negative	Sluggish, tonally uneven.
+positive	Often hilarious.	negative	Two-bit potboiler.
+positive	Often hilarious.	negative	What begins brightly gets bogged down over 140 minutes.
+positive	Often hilarious.	negative	Weighted down with slow, uninvolving storytelling and flat acting.
+positive	Often hilarious.	negative	Comes off like a bad imitation of the Bard.
+positive	Often hilarious.	negative	A loquacious and dreary piece of business.
+positive	Often hilarious.	negative	The film is strictly routine.
+positive	Often hilarious.	negative	Includes too much obvious padding.
+positive	Often hilarious.	negative	Needed a little less bling-bling and a lot more romance.
+positive	Often hilarious.	negative	As steamy as last week's pork dumplings.
+positive	Often hilarious.	negative	Bad and baffling from the get-go.
+positive	Often hilarious.	negative	An authentically vague, but ultimately purposeless, study in total pandemonium.
+positive	Often hilarious.	negative	A thriller without a lot of thrills.
+positive	Often hilarious.	negative	Nothing happens, and it happens to flat characters.
+negative	Two-bit potboiler.	positive	It's a masterpiece.
+negative	Two-bit potboiler.	positive	Old-fashioned but thoroughly satisfying entertainment.
+negative	Two-bit potboiler.	positive	A gem of a movie.
+negative	Two-bit potboiler.	positive	...a triumph of emotionally and narratively complex filmmaking.
+negative	Two-bit potboiler.	positive	The film is one of the year's best.
+negative	Two-bit potboiler.	positive	...quite good at providing some good old fashioned spooks.
+negative	Two-bit potboiler.	positive	Audacious-impossible yet compelling...
+negative	Two-bit potboiler.	positive	Cho's timing is priceless.
+negative	Two-bit potboiler.	positive	Mordantly funny and intimately knowing ...
+negative	Two-bit potboiler.	positive	Works as pretty contagious fun.
+negative	Two-bit potboiler.	positive	Gives everyone something to shout about.
+negative	Two-bit potboiler.	positive	...the plot weaves us into a complex web.
+negative	Two-bit potboiler.	positive	It is a likable story, told with competence.
+negative	Two-bit potboiler.	positive	... a gleefully grungy, hilariously wicked black comedy ...
+negative	Two-bit potboiler.	positive	Often hilarious.
+negative	Two-bit potboiler.	positive	A lovably old-school Hollywood confection.
+negative	Two-bit potboiler.	positive	Highly watchable stuff.
+negative	Two-bit potboiler.	positive	Compellingly watchable.
+negative	Two-bit potboiler.	positive	Interesting and thoroughly unfaithful version of Carmen
+negative	Two-bit potboiler.	positive	I liked it because it was so endlessly, grotesquely, inventive.
+negative	Two-bit potboiler.	positive	Like its bizarre heroine, it irrigates our souls.
+negative	Two-bit potboiler.	positive	``Birthday Girl'' is an actor's movie first and foremost.
+negative	Two-bit potboiler.	positive	It's the funniest American comedy since Graffiti Bridge.
+negative	Two-bit potboiler.	positive	This is a finely written, superbly acted offbeat thriller.
+negative	Two-bit potboiler.	positive	A taut, sobering film.
+negative	Two-bit potboiler.	positive	A film that's flawed and brilliant in equal measure.
+negative	Two-bit potboiler.	positive	It's definitely a step in the right direction.
+negative	Two-bit potboiler.	positive	A moving, if uneven, success.
+negative	Two-bit potboiler.	positive	What a bewilderingly brilliant and entertaining movie this is.
+positive	A lovably old-school Hollywood confection.	negative	A brutally dry satire of Middle American numbness.
+positive	A lovably old-school Hollywood confection.	negative	Almost peerlessly unsettling.
+positive	A lovably old-school Hollywood confection.	negative	...hypnotically dull.
+positive	A lovably old-school Hollywood confection.	negative	A sub-formulaic slap in the face to seasonal cheer.
+positive	A lovably old-school Hollywood confection.	negative	None of Birthday Girl's calculated events take us by surprise...
+positive	A lovably old-school Hollywood confection.	negative	A complete waste of time.
+positive	A lovably old-school Hollywood confection.	negative	...the story is far-flung, illogical, and plain stupid.
+positive	A lovably old-school Hollywood confection.	negative	Sluggish, tonally uneven.
+positive	A lovably old-school Hollywood confection.	negative	Two-bit potboiler.
+positive	A lovably old-school Hollywood confection.	negative	What begins brightly gets bogged down over 140 minutes.
+positive	A lovably old-school Hollywood confection.	negative	Weighted down with slow, uninvolving storytelling and flat acting.
+positive	A lovably old-school Hollywood confection.	negative	Comes off like a bad imitation of the Bard.
+positive	A lovably old-school Hollywood confection.	negative	A loquacious and dreary piece of business.
+positive	A lovably old-school Hollywood confection.	negative	The film is strictly routine.
+positive	A lovably old-school Hollywood confection.	negative	Includes too much obvious padding.
+positive	A lovably old-school Hollywood confection.	negative	Needed a little less bling-bling and a lot more romance.
+positive	A lovably old-school Hollywood confection.	negative	As steamy as last week's pork dumplings.
+positive	A lovably old-school Hollywood confection.	negative	Bad and baffling from the get-go.
+positive	A lovably old-school Hollywood confection.	negative	An authentically vague, but ultimately purposeless, study in total pandemonium.
+positive	A lovably old-school Hollywood confection.	negative	A thriller without a lot of thrills.
+positive	A lovably old-school Hollywood confection.	negative	Nothing happens, and it happens to flat characters.
+positive	Highly watchable stuff.	negative	A brutally dry satire of Middle American numbness.
+positive	Highly watchable stuff.	negative	Almost peerlessly unsettling.
+positive	Highly watchable stuff.	negative	...hypnotically dull.
+positive	Highly watchable stuff.	negative	A sub-formulaic slap in the face to seasonal cheer.
+positive	Highly watchable stuff.	negative	None of Birthday Girl's calculated events take us by surprise...
+positive	Highly watchable stuff.	negative	A complete waste of time.
+positive	Highly watchable stuff.	negative	...the story is far-flung, illogical, and plain stupid.
+positive	Highly watchable stuff.	negative	Sluggish, tonally uneven.
+positive	Highly watchable stuff.	negative	Two-bit potboiler.
+positive	Highly watchable stuff.	negative	What begins brightly gets bogged down over 140 minutes.
+positive	Highly watchable stuff.	negative	Weighted down with slow, uninvolving storytelling and flat acting.
+positive	Highly watchable stuff.	negative	Comes off like a bad imitation of the Bard.
+positive	Highly watchable stuff.	negative	A loquacious and dreary piece of business.
+positive	Highly watchable stuff.	negative	The film is strictly routine.
+positive	Highly watchable stuff.	negative	Includes too much obvious padding.
+positive	Highly watchable stuff.	negative	Needed a little less bling-bling and a lot more romance.
+positive	Highly watchable stuff.	negative	As steamy as last week's pork dumplings.
+positive	Highly watchable stuff.	negative	Bad and baffling from the get-go.
+positive	Highly watchable stuff.	negative	An authentically vague, but ultimately purposeless, study in total pandemonium.
+positive	Highly watchable stuff.	negative	A thriller without a lot of thrills.
+positive	Highly watchable stuff.	negative	Nothing happens, and it happens to flat characters.
+negative	What begins brightly gets bogged down over 140 minutes.	positive	It's a masterpiece.
+negative	What begins brightly gets bogged down over 140 minutes.	positive	Old-fashioned but thoroughly satisfying entertainment.
+negative	What begins brightly gets bogged down over 140 minutes.	positive	A gem of a movie.
+negative	What begins brightly gets bogged down over 140 minutes.	positive	...a triumph of emotionally and narratively complex filmmaking.
+negative	What begins brightly gets bogged down over 140 minutes.	positive	The film is one of the year's best.
+negative	What begins brightly gets bogged down over 140 minutes.	positive	...quite good at providing some good old fashioned spooks.
+negative	What begins brightly gets bogged down over 140 minutes.	positive	Audacious-impossible yet compelling...
+negative	What begins brightly gets bogged down over 140 minutes.	positive	Cho's timing is priceless.
+negative	What begins brightly gets bogged down over 140 minutes.	positive	Mordantly funny and intimately knowing ...
+negative	What begins brightly gets bogged down over 140 minutes.	positive	Works as pretty contagious fun.
+negative	What begins brightly gets bogged down over 140 minutes.	positive	Gives everyone something to shout about.
+negative	What begins brightly gets bogged down over 140 minutes.	positive	...the plot weaves us into a complex web.
+negative	What begins brightly gets bogged down over 140 minutes.	positive	It is a likable story, told with competence.
+negative	What begins brightly gets bogged down over 140 minutes.	positive	... a gleefully grungy, hilariously wicked black comedy ...
+negative	What begins brightly gets bogged down over 140 minutes.	positive	Often hilarious.
+negative	What begins brightly gets bogged down over 140 minutes.	positive	A lovably old-school Hollywood confection.
+negative	What begins brightly gets bogged down over 140 minutes.	positive	Highly watchable stuff.
+negative	What begins brightly gets bogged down over 140 minutes.	positive	Compellingly watchable.
+negative	What begins brightly gets bogged down over 140 minutes.	positive	Interesting and thoroughly unfaithful version of Carmen
+negative	What begins brightly gets bogged down over 140 minutes.	positive	I liked it because it was so endlessly, grotesquely, inventive.
+negative	What begins brightly gets bogged down over 140 minutes.	positive	Like its bizarre heroine, it irrigates our souls.
+negative	What begins brightly gets bogged down over 140 minutes.	positive	``Birthday Girl'' is an actor's movie first and foremost.
+negative	What begins brightly gets bogged down over 140 minutes.	positive	It's the funniest American comedy since Graffiti Bridge.
+negative	What begins brightly gets bogged down over 140 minutes.	positive	This is a finely written, superbly acted offbeat thriller.
+negative	What begins brightly gets bogged down over 140 minutes.	positive	A taut, sobering film.
+negative	What begins brightly gets bogged down over 140 minutes.	positive	A film that's flawed and brilliant in equal measure.
+negative	What begins brightly gets bogged down over 140 minutes.	positive	It's definitely a step in the right direction.
+negative	What begins brightly gets bogged down over 140 minutes.	positive	A moving, if uneven, success.
+negative	What begins brightly gets bogged down over 140 minutes.	positive	What a bewilderingly brilliant and entertaining movie this is.
+negative	Weighted down with slow, uninvolving storytelling and flat acting.	positive	It's a masterpiece.
+negative	Weighted down with slow, uninvolving storytelling and flat acting.	positive	Old-fashioned but thoroughly satisfying entertainment.
+negative	Weighted down with slow, uninvolving storytelling and flat acting.	positive	A gem of a movie.
+negative	Weighted down with slow, uninvolving storytelling and flat acting.	positive	...a triumph of emotionally and narratively complex filmmaking.
+negative	Weighted down with slow, uninvolving storytelling and flat acting.	positive	The film is one of the year's best.
+negative	Weighted down with slow, uninvolving storytelling and flat acting.	positive	...quite good at providing some good old fashioned spooks.
+negative	Weighted down with slow, uninvolving storytelling and flat acting.	positive	Audacious-impossible yet compelling...
+negative	Weighted down with slow, uninvolving storytelling and flat acting.	positive	Cho's timing is priceless.
+negative	Weighted down with slow, uninvolving storytelling and flat acting.	positive	Mordantly funny and intimately knowing ...
+negative	Weighted down with slow, uninvolving storytelling and flat acting.	positive	Works as pretty contagious fun.
+negative	Weighted down with slow, uninvolving storytelling and flat acting.	positive	Gives everyone something to shout about.
+negative	Weighted down with slow, uninvolving storytelling and flat acting.	positive	...the plot weaves us into a complex web.
+negative	Weighted down with slow, uninvolving storytelling and flat acting.	positive	It is a likable story, told with competence.
+negative	Weighted down with slow, uninvolving storytelling and flat acting.	positive	... a gleefully grungy, hilariously wicked black comedy ...
+negative	Weighted down with slow, uninvolving storytelling and flat acting.	positive	Often hilarious.
+negative	Weighted down with slow, uninvolving storytelling and flat acting.	positive	A lovably old-school Hollywood confection.
+negative	Weighted down with slow, uninvolving storytelling and flat acting.	positive	Highly watchable stuff.
+negative	Weighted down with slow, uninvolving storytelling and flat acting.	positive	Compellingly watchable.
+negative	Weighted down with slow, uninvolving storytelling and flat acting.	positive	Interesting and thoroughly unfaithful version of Carmen
+negative	Weighted down with slow, uninvolving storytelling and flat acting.	positive	I liked it because it was so endlessly, grotesquely, inventive.
+negative	Weighted down with slow, uninvolving storytelling and flat acting.	positive	Like its bizarre heroine, it irrigates our souls.
+negative	Weighted down with slow, uninvolving storytelling and flat acting.	positive	``Birthday Girl'' is an actor's movie first and foremost.
+negative	Weighted down with slow, uninvolving storytelling and flat acting.	positive	It's the funniest American comedy since Graffiti Bridge.
+negative	Weighted down with slow, uninvolving storytelling and flat acting.	positive	This is a finely written, superbly acted offbeat thriller.
+negative	Weighted down with slow, uninvolving storytelling and flat acting.	positive	A taut, sobering film.
+negative	Weighted down with slow, uninvolving storytelling and flat acting.	positive	A film that's flawed and brilliant in equal measure.
+negative	Weighted down with slow, uninvolving storytelling and flat acting.	positive	It's definitely a step in the right direction.
+negative	Weighted down with slow, uninvolving storytelling and flat acting.	positive	A moving, if uneven, success.
+negative	Weighted down with slow, uninvolving storytelling and flat acting.	positive	What a bewilderingly brilliant and entertaining movie this is.
+positive	Compellingly watchable.	negative	A brutally dry satire of Middle American numbness.
+positive	Compellingly watchable.	negative	Almost peerlessly unsettling.
+positive	Compellingly watchable.	negative	...hypnotically dull.
+positive	Compellingly watchable.	negative	A sub-formulaic slap in the face to seasonal cheer.
+positive	Compellingly watchable.	negative	None of Birthday Girl's calculated events take us by surprise...
+positive	Compellingly watchable.	negative	A complete waste of time.
+positive	Compellingly watchable.	negative	...the story is far-flung, illogical, and plain stupid.
+positive	Compellingly watchable.	negative	Sluggish, tonally uneven.
+positive	Compellingly watchable.	negative	Two-bit potboiler.
+positive	Compellingly watchable.	negative	What begins brightly gets bogged down over 140 minutes.
+positive	Compellingly watchable.	negative	Weighted down with slow, uninvolving storytelling and flat acting.
+positive	Compellingly watchable.	negative	Comes off like a bad imitation of the Bard.
+positive	Compellingly watchable.	negative	A loquacious and dreary piece of business.
+positive	Compellingly watchable.	negative	The film is strictly routine.
+positive	Compellingly watchable.	negative	Includes too much obvious padding.
+positive	Compellingly watchable.	negative	Needed a little less bling-bling and a lot more romance.
+positive	Compellingly watchable.	negative	As steamy as last week's pork dumplings.
+positive	Compellingly watchable.	negative	Bad and baffling from the get-go.
+positive	Compellingly watchable.	negative	An authentically vague, but ultimately purposeless, study in total pandemonium.
+positive	Compellingly watchable.	negative	A thriller without a lot of thrills.
+positive	Compellingly watchable.	negative	Nothing happens, and it happens to flat characters.
+negative	Comes off like a bad imitation of the Bard.	positive	It's a masterpiece.
+negative	Comes off like a bad imitation of the Bard.	positive	Old-fashioned but thoroughly satisfying entertainment.
+negative	Comes off like a bad imitation of the Bard.	positive	A gem of a movie.
+negative	Comes off like a bad imitation of the Bard.	positive	...a triumph of emotionally and narratively complex filmmaking.
+negative	Comes off like a bad imitation of the Bard.	positive	The film is one of the year's best.
+negative	Comes off like a bad imitation of the Bard.	positive	...quite good at providing some good old fashioned spooks.
+negative	Comes off like a bad imitation of the Bard.	positive	Audacious-impossible yet compelling...
+negative	Comes off like a bad imitation of the Bard.	positive	Cho's timing is priceless.
+negative	Comes off like a bad imitation of the Bard.	positive	Mordantly funny and intimately knowing ...
+negative	Comes off like a bad imitation of the Bard.	positive	Works as pretty contagious fun.
+negative	Comes off like a bad imitation of the Bard.	positive	Gives everyone something to shout about.
+negative	Comes off like a bad imitation of the Bard.	positive	...the plot weaves us into a complex web.
+negative	Comes off like a bad imitation of the Bard.	positive	It is a likable story, told with competence.
+negative	Comes off like a bad imitation of the Bard.	positive	... a gleefully grungy, hilariously wicked black comedy ...
+negative	Comes off like a bad imitation of the Bard.	positive	Often hilarious.
+negative	Comes off like a bad imitation of the Bard.	positive	A lovably old-school Hollywood confection.
+negative	Comes off like a bad imitation of the Bard.	positive	Highly watchable stuff.
+negative	Comes off like a bad imitation of the Bard.	positive	Compellingly watchable.
+negative	Comes off like a bad imitation of the Bard.	positive	Interesting and thoroughly unfaithful version of Carmen
+negative	Comes off like a bad imitation of the Bard.	positive	I liked it because it was so endlessly, grotesquely, inventive.
+negative	Comes off like a bad imitation of the Bard.	positive	Like its bizarre heroine, it irrigates our souls.
+negative	Comes off like a bad imitation of the Bard.	positive	``Birthday Girl'' is an actor's movie first and foremost.
+negative	Comes off like a bad imitation of the Bard.	positive	It's the funniest American comedy since Graffiti Bridge.
+negative	Comes off like a bad imitation of the Bard.	positive	This is a finely written, superbly acted offbeat thriller.
+negative	Comes off like a bad imitation of the Bard.	positive	A taut, sobering film.
+negative	Comes off like a bad imitation of the Bard.	positive	A film that's flawed and brilliant in equal measure.
+negative	Comes off like a bad imitation of the Bard.	positive	It's definitely a step in the right direction.
+negative	Comes off like a bad imitation of the Bard.	positive	A moving, if uneven, success.
+negative	Comes off like a bad imitation of the Bard.	positive	What a bewilderingly brilliant and entertaining movie this is.
+negative	A loquacious and dreary piece of business.	positive	It's a masterpiece.
+negative	A loquacious and dreary piece of business.	positive	Old-fashioned but thoroughly satisfying entertainment.
+negative	A loquacious and dreary piece of business.	positive	A gem of a movie.
+negative	A loquacious and dreary piece of business.	positive	...a triumph of emotionally and narratively complex filmmaking.
+negative	A loquacious and dreary piece of business.	positive	The film is one of the year's best.
+negative	A loquacious and dreary piece of business.	positive	...quite good at providing some good old fashioned spooks.
+negative	A loquacious and dreary piece of business.	positive	Audacious-impossible yet compelling...
+negative	A loquacious and dreary piece of business.	positive	Cho's timing is priceless.
+negative	A loquacious and dreary piece of business.	positive	Mordantly funny and intimately knowing ...
+negative	A loquacious and dreary piece of business.	positive	Works as pretty contagious fun.
+negative	A loquacious and dreary piece of business.	positive	Gives everyone something to shout about.
+negative	A loquacious and dreary piece of business.	positive	...the plot weaves us into a complex web.
+negative	A loquacious and dreary piece of business.	positive	It is a likable story, told with competence.
+negative	A loquacious and dreary piece of business.	positive	... a gleefully grungy, hilariously wicked black comedy ...
+negative	A loquacious and dreary piece of business.	positive	Often hilarious.
+negative	A loquacious and dreary piece of business.	positive	A lovably old-school Hollywood confection.
+negative	A loquacious and dreary piece of business.	positive	Highly watchable stuff.
+negative	A loquacious and dreary piece of business.	positive	Compellingly watchable.
+negative	A loquacious and dreary piece of business.	positive	Interesting and thoroughly unfaithful version of Carmen
+negative	A loquacious and dreary piece of business.	positive	I liked it because it was so endlessly, grotesquely, inventive.
+negative	A loquacious and dreary piece of business.	positive	Like its bizarre heroine, it irrigates our souls.
+negative	A loquacious and dreary piece of business.	positive	``Birthday Girl'' is an actor's movie first and foremost.
+negative	A loquacious and dreary piece of business.	positive	It's the funniest American comedy since Graffiti Bridge.
+negative	A loquacious and dreary piece of business.	positive	This is a finely written, superbly acted offbeat thriller.
+negative	A loquacious and dreary piece of business.	positive	A taut, sobering film.
+negative	A loquacious and dreary piece of business.	positive	A film that's flawed and brilliant in equal measure.
+negative	A loquacious and dreary piece of business.	positive	It's definitely a step in the right direction.
+negative	A loquacious and dreary piece of business.	positive	A moving, if uneven, success.
+negative	A loquacious and dreary piece of business.	positive	What a bewilderingly brilliant and entertaining movie this is.
+positive	Interesting and thoroughly unfaithful version of Carmen	negative	A brutally dry satire of Middle American numbness.
+positive	Interesting and thoroughly unfaithful version of Carmen	negative	Almost peerlessly unsettling.
+positive	Interesting and thoroughly unfaithful version of Carmen	negative	...hypnotically dull.
+positive	Interesting and thoroughly unfaithful version of Carmen	negative	A sub-formulaic slap in the face to seasonal cheer.
+positive	Interesting and thoroughly unfaithful version of Carmen	negative	None of Birthday Girl's calculated events take us by surprise...
+positive	Interesting and thoroughly unfaithful version of Carmen	negative	A complete waste of time.
+positive	Interesting and thoroughly unfaithful version of Carmen	negative	...the story is far-flung, illogical, and plain stupid.
+positive	Interesting and thoroughly unfaithful version of Carmen	negative	Sluggish, tonally uneven.
+positive	Interesting and thoroughly unfaithful version of Carmen	negative	Two-bit potboiler.
+positive	Interesting and thoroughly unfaithful version of Carmen	negative	What begins brightly gets bogged down over 140 minutes.
+positive	Interesting and thoroughly unfaithful version of Carmen	negative	Weighted down with slow, uninvolving storytelling and flat acting.
+positive	Interesting and thoroughly unfaithful version of Carmen	negative	Comes off like a bad imitation of the Bard.
+positive	Interesting and thoroughly unfaithful version of Carmen	negative	A loquacious and dreary piece of business.
+positive	Interesting and thoroughly unfaithful version of Carmen	negative	The film is strictly routine.
+positive	Interesting and thoroughly unfaithful version of Carmen	negative	Includes too much obvious padding.
+positive	Interesting and thoroughly unfaithful version of Carmen	negative	Needed a little less bling-bling and a lot more romance.
+positive	Interesting and thoroughly unfaithful version of Carmen	negative	As steamy as last week's pork dumplings.
+positive	Interesting and thoroughly unfaithful version of Carmen	negative	Bad and baffling from the get-go.
+positive	Interesting and thoroughly unfaithful version of Carmen	negative	An authentically vague, but ultimately purposeless, study in total pandemonium.
+positive	Interesting and thoroughly unfaithful version of Carmen	negative	A thriller without a lot of thrills.
+positive	Interesting and thoroughly unfaithful version of Carmen	negative	Nothing happens, and it happens to flat characters.
+negative	The film is strictly routine.	positive	It's a masterpiece.
+negative	The film is strictly routine.	positive	Old-fashioned but thoroughly satisfying entertainment.
+negative	The film is strictly routine.	positive	A gem of a movie.
+negative	The film is strictly routine.	positive	...a triumph of emotionally and narratively complex filmmaking.
+negative	The film is strictly routine.	positive	The film is one of the year's best.
+negative	The film is strictly routine.	positive	...quite good at providing some good old fashioned spooks.
+negative	The film is strictly routine.	positive	Audacious-impossible yet compelling...
+negative	The film is strictly routine.	positive	Cho's timing is priceless.
+negative	The film is strictly routine.	positive	Mordantly funny and intimately knowing ...
+negative	The film is strictly routine.	positive	Works as pretty contagious fun.
+negative	The film is strictly routine.	positive	Gives everyone something to shout about.
+negative	The film is strictly routine.	positive	...the plot weaves us into a complex web.
+negative	The film is strictly routine.	positive	It is a likable story, told with competence.
+negative	The film is strictly routine.	positive	... a gleefully grungy, hilariously wicked black comedy ...
+negative	The film is strictly routine.	positive	Often hilarious.
+negative	The film is strictly routine.	positive	A lovably old-school Hollywood confection.
+negative	The film is strictly routine.	positive	Highly watchable stuff.
+negative	The film is strictly routine.	positive	Compellingly watchable.
+negative	The film is strictly routine.	positive	Interesting and thoroughly unfaithful version of Carmen
+negative	The film is strictly routine.	positive	I liked it because it was so endlessly, grotesquely, inventive.
+negative	The film is strictly routine.	positive	Like its bizarre heroine, it irrigates our souls.
+negative	The film is strictly routine.	positive	``Birthday Girl'' is an actor's movie first and foremost.
+negative	The film is strictly routine.	positive	It's the funniest American comedy since Graffiti Bridge.
+negative	The film is strictly routine.	positive	This is a finely written, superbly acted offbeat thriller.
+negative	The film is strictly routine.	positive	A taut, sobering film.
+negative	The film is strictly routine.	positive	A film that's flawed and brilliant in equal measure.
+negative	The film is strictly routine.	positive	It's definitely a step in the right direction.
+negative	The film is strictly routine.	positive	A moving, if uneven, success.
+negative	The film is strictly routine.	positive	What a bewilderingly brilliant and entertaining movie this is.
+positive	I liked it because it was so endlessly, grotesquely, inventive.	negative	A brutally dry satire of Middle American numbness.
+positive	I liked it because it was so endlessly, grotesquely, inventive.	negative	Almost peerlessly unsettling.
+positive	I liked it because it was so endlessly, grotesquely, inventive.	negative	...hypnotically dull.
+positive	I liked it because it was so endlessly, grotesquely, inventive.	negative	A sub-formulaic slap in the face to seasonal cheer.
+positive	I liked it because it was so endlessly, grotesquely, inventive.	negative	None of Birthday Girl's calculated events take us by surprise...
+positive	I liked it because it was so endlessly, grotesquely, inventive.	negative	A complete waste of time.
+positive	I liked it because it was so endlessly, grotesquely, inventive.	negative	...the story is far-flung, illogical, and plain stupid.
+positive	I liked it because it was so endlessly, grotesquely, inventive.	negative	Sluggish, tonally uneven.
+positive	I liked it because it was so endlessly, grotesquely, inventive.	negative	Two-bit potboiler.
+positive	I liked it because it was so endlessly, grotesquely, inventive.	negative	What begins brightly gets bogged down over 140 minutes.
+positive	I liked it because it was so endlessly, grotesquely, inventive.	negative	Weighted down with slow, uninvolving storytelling and flat acting.
+positive	I liked it because it was so endlessly, grotesquely, inventive.	negative	Comes off like a bad imitation of the Bard.
+positive	I liked it because it was so endlessly, grotesquely, inventive.	negative	A loquacious and dreary piece of business.
+positive	I liked it because it was so endlessly, grotesquely, inventive.	negative	The film is strictly routine.
+positive	I liked it because it was so endlessly, grotesquely, inventive.	negative	Includes too much obvious padding.
+positive	I liked it because it was so endlessly, grotesquely, inventive.	negative	Needed a little less bling-bling and a lot more romance.
+positive	I liked it because it was so endlessly, grotesquely, inventive.	negative	As steamy as last week's pork dumplings.
+positive	I liked it because it was so endlessly, grotesquely, inventive.	negative	Bad and baffling from the get-go.
+positive	I liked it because it was so endlessly, grotesquely, inventive.	negative	An authentically vague, but ultimately purposeless, study in total pandemonium.
+positive	I liked it because it was so endlessly, grotesquely, inventive.	negative	A thriller without a lot of thrills.
+positive	I liked it because it was so endlessly, grotesquely, inventive.	negative	Nothing happens, and it happens to flat characters.
+negative	Includes too much obvious padding.	positive	It's a masterpiece.
+negative	Includes too much obvious padding.	positive	Old-fashioned but thoroughly satisfying entertainment.
+negative	Includes too much obvious padding.	positive	A gem of a movie.
+negative	Includes too much obvious padding.	positive	...a triumph of emotionally and narratively complex filmmaking.
+negative	Includes too much obvious padding.	positive	The film is one of the year's best.
+negative	Includes too much obvious padding.	positive	...quite good at providing some good old fashioned spooks.
+negative	Includes too much obvious padding.	positive	Audacious-impossible yet compelling...
+negative	Includes too much obvious padding.	positive	Cho's timing is priceless.
+negative	Includes too much obvious padding.	positive	Mordantly funny and intimately knowing ...
+negative	Includes too much obvious padding.	positive	Works as pretty contagious fun.
+negative	Includes too much obvious padding.	positive	Gives everyone something to shout about.
+negative	Includes too much obvious padding.	positive	...the plot weaves us into a complex web.
+negative	Includes too much obvious padding.	positive	It is a likable story, told with competence.
+negative	Includes too much obvious padding.	positive	... a gleefully grungy, hilariously wicked black comedy ...
+negative	Includes too much obvious padding.	positive	Often hilarious.
+negative	Includes too much obvious padding.	positive	A lovably old-school Hollywood confection.
+negative	Includes too much obvious padding.	positive	Highly watchable stuff.
+negative	Includes too much obvious padding.	positive	Compellingly watchable.
+negative	Includes too much obvious padding.	positive	Interesting and thoroughly unfaithful version of Carmen
+negative	Includes too much obvious padding.	positive	I liked it because it was so endlessly, grotesquely, inventive.
+negative	Includes too much obvious padding.	positive	Like its bizarre heroine, it irrigates our souls.
+negative	Includes too much obvious padding.	positive	``Birthday Girl'' is an actor's movie first and foremost.
+negative	Includes too much obvious padding.	positive	It's the funniest American comedy since Graffiti Bridge.
+negative	Includes too much obvious padding.	positive	This is a finely written, superbly acted offbeat thriller.
+negative	Includes too much obvious padding.	positive	A taut, sobering film.
+negative	Includes too much obvious padding.	positive	A film that's flawed and brilliant in equal measure.
+negative	Includes too much obvious padding.	positive	It's definitely a step in the right direction.
+negative	Includes too much obvious padding.	positive	A moving, if uneven, success.
+negative	Includes too much obvious padding.	positive	What a bewilderingly brilliant and entertaining movie this is.
+negative	Needed a little less bling-bling and a lot more romance.	positive	It's a masterpiece.
+negative	Needed a little less bling-bling and a lot more romance.	positive	Old-fashioned but thoroughly satisfying entertainment.
+negative	Needed a little less bling-bling and a lot more romance.	positive	A gem of a movie.
+negative	Needed a little less bling-bling and a lot more romance.	positive	...a triumph of emotionally and narratively complex filmmaking.
+negative	Needed a little less bling-bling and a lot more romance.	positive	The film is one of the year's best.
+negative	Needed a little less bling-bling and a lot more romance.	positive	...quite good at providing some good old fashioned spooks.
+negative	Needed a little less bling-bling and a lot more romance.	positive	Audacious-impossible yet compelling...
+negative	Needed a little less bling-bling and a lot more romance.	positive	Cho's timing is priceless.
+negative	Needed a little less bling-bling and a lot more romance.	positive	Mordantly funny and intimately knowing ...
+negative	Needed a little less bling-bling and a lot more romance.	positive	Works as pretty contagious fun.
+negative	Needed a little less bling-bling and a lot more romance.	positive	Gives everyone something to shout about.
+negative	Needed a little less bling-bling and a lot more romance.	positive	...the plot weaves us into a complex web.
+negative	Needed a little less bling-bling and a lot more romance.	positive	It is a likable story, told with competence.
+negative	Needed a little less bling-bling and a lot more romance.	positive	... a gleefully grungy, hilariously wicked black comedy ...
+negative	Needed a little less bling-bling and a lot more romance.	positive	Often hilarious.
+negative	Needed a little less bling-bling and a lot more romance.	positive	A lovably old-school Hollywood confection.
+negative	Needed a little less bling-bling and a lot more romance.	positive	Highly watchable stuff.
+negative	Needed a little less bling-bling and a lot more romance.	positive	Compellingly watchable.
+negative	Needed a little less bling-bling and a lot more romance.	positive	Interesting and thoroughly unfaithful version of Carmen
+negative	Needed a little less bling-bling and a lot more romance.	positive	I liked it because it was so endlessly, grotesquely, inventive.
+negative	Needed a little less bling-bling and a lot more romance.	positive	Like its bizarre heroine, it irrigates our souls.
+negative	Needed a little less bling-bling and a lot more romance.	positive	``Birthday Girl'' is an actor's movie first and foremost.
+negative	Needed a little less bling-bling and a lot more romance.	positive	It's the funniest American comedy since Graffiti Bridge.
+negative	Needed a little less bling-bling and a lot more romance.	positive	This is a finely written, superbly acted offbeat thriller.
+negative	Needed a little less bling-bling and a lot more romance.	positive	A taut, sobering film.
+negative	Needed a little less bling-bling and a lot more romance.	positive	A film that's flawed and brilliant in equal measure.
+negative	Needed a little less bling-bling and a lot more romance.	positive	It's definitely a step in the right direction.
+negative	Needed a little less bling-bling and a lot more romance.	positive	A moving, if uneven, success.
+negative	Needed a little less bling-bling and a lot more romance.	positive	What a bewilderingly brilliant and entertaining movie this is.
+positive	Like its bizarre heroine, it irrigates our souls.	negative	A brutally dry satire of Middle American numbness.
+positive	Like its bizarre heroine, it irrigates our souls.	negative	Almost peerlessly unsettling.
+positive	Like its bizarre heroine, it irrigates our souls.	negative	...hypnotically dull.
+positive	Like its bizarre heroine, it irrigates our souls.	negative	A sub-formulaic slap in the face to seasonal cheer.
+positive	Like its bizarre heroine, it irrigates our souls.	negative	None of Birthday Girl's calculated events take us by surprise...
+positive	Like its bizarre heroine, it irrigates our souls.	negative	A complete waste of time.
+positive	Like its bizarre heroine, it irrigates our souls.	negative	...the story is far-flung, illogical, and plain stupid.
+positive	Like its bizarre heroine, it irrigates our souls.	negative	Sluggish, tonally uneven.
+positive	Like its bizarre heroine, it irrigates our souls.	negative	Two-bit potboiler.
+positive	Like its bizarre heroine, it irrigates our souls.	negative	What begins brightly gets bogged down over 140 minutes.
+positive	Like its bizarre heroine, it irrigates our souls.	negative	Weighted down with slow, uninvolving storytelling and flat acting.
+positive	Like its bizarre heroine, it irrigates our souls.	negative	Comes off like a bad imitation of the Bard.
+positive	Like its bizarre heroine, it irrigates our souls.	negative	A loquacious and dreary piece of business.
+positive	Like its bizarre heroine, it irrigates our souls.	negative	The film is strictly routine.
+positive	Like its bizarre heroine, it irrigates our souls.	negative	Includes too much obvious padding.
+positive	Like its bizarre heroine, it irrigates our souls.	negative	Needed a little less bling-bling and a lot more romance.
+positive	Like its bizarre heroine, it irrigates our souls.	negative	As steamy as last week's pork dumplings.
+positive	Like its bizarre heroine, it irrigates our souls.	negative	Bad and baffling from the get-go.
+positive	Like its bizarre heroine, it irrigates our souls.	negative	An authentically vague, but ultimately purposeless, study in total pandemonium.
+positive	Like its bizarre heroine, it irrigates our souls.	negative	A thriller without a lot of thrills.
+positive	Like its bizarre heroine, it irrigates our souls.	negative	Nothing happens, and it happens to flat characters.
+positive	``Birthday Girl'' is an actor's movie first and foremost.	negative	A brutally dry satire of Middle American numbness.
+positive	``Birthday Girl'' is an actor's movie first and foremost.	negative	Almost peerlessly unsettling.
+positive	``Birthday Girl'' is an actor's movie first and foremost.	negative	...hypnotically dull.
+positive	``Birthday Girl'' is an actor's movie first and foremost.	negative	A sub-formulaic slap in the face to seasonal cheer.
+positive	``Birthday Girl'' is an actor's movie first and foremost.	negative	None of Birthday Girl's calculated events take us by surprise...
+positive	``Birthday Girl'' is an actor's movie first and foremost.	negative	A complete waste of time.
+positive	``Birthday Girl'' is an actor's movie first and foremost.	negative	...the story is far-flung, illogical, and plain stupid.
+positive	``Birthday Girl'' is an actor's movie first and foremost.	negative	Sluggish, tonally uneven.
+positive	``Birthday Girl'' is an actor's movie first and foremost.	negative	Two-bit potboiler.
+positive	``Birthday Girl'' is an actor's movie first and foremost.	negative	What begins brightly gets bogged down over 140 minutes.
+positive	``Birthday Girl'' is an actor's movie first and foremost.	negative	Weighted down with slow, uninvolving storytelling and flat acting.
+positive	``Birthday Girl'' is an actor's movie first and foremost.	negative	Comes off like a bad imitation of the Bard.
+positive	``Birthday Girl'' is an actor's movie first and foremost.	negative	A loquacious and dreary piece of business.
+positive	``Birthday Girl'' is an actor's movie first and foremost.	negative	The film is strictly routine.
+positive	``Birthday Girl'' is an actor's movie first and foremost.	negative	Includes too much obvious padding.
+positive	``Birthday Girl'' is an actor's movie first and foremost.	negative	Needed a little less bling-bling and a lot more romance.
+positive	``Birthday Girl'' is an actor's movie first and foremost.	negative	As steamy as last week's pork dumplings.
+positive	``Birthday Girl'' is an actor's movie first and foremost.	negative	Bad and baffling from the get-go.
+positive	``Birthday Girl'' is an actor's movie first and foremost.	negative	An authentically vague, but ultimately purposeless, study in total pandemonium.
+positive	``Birthday Girl'' is an actor's movie first and foremost.	negative	A thriller without a lot of thrills.
+positive	``Birthday Girl'' is an actor's movie first and foremost.	negative	Nothing happens, and it happens to flat characters.
+negative	As steamy as last week's pork dumplings.	positive	It's a masterpiece.
+negative	As steamy as last week's pork dumplings.	positive	Old-fashioned but thoroughly satisfying entertainment.
+negative	As steamy as last week's pork dumplings.	positive	A gem of a movie.
+negative	As steamy as last week's pork dumplings.	positive	...a triumph of emotionally and narratively complex filmmaking.
+negative	As steamy as last week's pork dumplings.	positive	The film is one of the year's best.
+negative	As steamy as last week's pork dumplings.	positive	...quite good at providing some good old fashioned spooks.
+negative	As steamy as last week's pork dumplings.	positive	Audacious-impossible yet compelling...
+negative	As steamy as last week's pork dumplings.	positive	Cho's timing is priceless.
+negative	As steamy as last week's pork dumplings.	positive	Mordantly funny and intimately knowing ...
+negative	As steamy as last week's pork dumplings.	positive	Works as pretty contagious fun.
+negative	As steamy as last week's pork dumplings.	positive	Gives everyone something to shout about.
+negative	As steamy as last week's pork dumplings.	positive	...the plot weaves us into a complex web.
+negative	As steamy as last week's pork dumplings.	positive	It is a likable story, told with competence.
+negative	As steamy as last week's pork dumplings.	positive	... a gleefully grungy, hilariously wicked black comedy ...
+negative	As steamy as last week's pork dumplings.	positive	Often hilarious.
+negative	As steamy as last week's pork dumplings.	positive	A lovably old-school Hollywood confection.
+negative	As steamy as last week's pork dumplings.	positive	Highly watchable stuff.
+negative	As steamy as last week's pork dumplings.	positive	Compellingly watchable.
+negative	As steamy as last week's pork dumplings.	positive	Interesting and thoroughly unfaithful version of Carmen
+negative	As steamy as last week's pork dumplings.	positive	I liked it because it was so endlessly, grotesquely, inventive.
+negative	As steamy as last week's pork dumplings.	positive	Like its bizarre heroine, it irrigates our souls.
+negative	As steamy as last week's pork dumplings.	positive	``Birthday Girl'' is an actor's movie first and foremost.
+negative	As steamy as last week's pork dumplings.	positive	It's the funniest American comedy since Graffiti Bridge.
+negative	As steamy as last week's pork dumplings.	positive	This is a finely written, superbly acted offbeat thriller.
+negative	As steamy as last week's pork dumplings.	positive	A taut, sobering film.
+negative	As steamy as last week's pork dumplings.	positive	A film that's flawed and brilliant in equal measure.
+negative	As steamy as last week's pork dumplings.	positive	It's definitely a step in the right direction.
+negative	As steamy as last week's pork dumplings.	positive	A moving, if uneven, success.
+negative	As steamy as last week's pork dumplings.	positive	What a bewilderingly brilliant and entertaining movie this is.
+negative	Bad and baffling from the get-go.	positive	It's a masterpiece.
+negative	Bad and baffling from the get-go.	positive	Old-fashioned but thoroughly satisfying entertainment.
+negative	Bad and baffling from the get-go.	positive	A gem of a movie.
+negative	Bad and baffling from the get-go.	positive	...a triumph of emotionally and narratively complex filmmaking.
+negative	Bad and baffling from the get-go.	positive	The film is one of the year's best.
+negative	Bad and baffling from the get-go.	positive	...quite good at providing some good old fashioned spooks.
+negative	Bad and baffling from the get-go.	positive	Audacious-impossible yet compelling...
+negative	Bad and baffling from the get-go.	positive	Cho's timing is priceless.
+negative	Bad and baffling from the get-go.	positive	Mordantly funny and intimately knowing ...
+negative	Bad and baffling from the get-go.	positive	Works as pretty contagious fun.
+negative	Bad and baffling from the get-go.	positive	Gives everyone something to shout about.
+negative	Bad and baffling from the get-go.	positive	...the plot weaves us into a complex web.
+negative	Bad and baffling from the get-go.	positive	It is a likable story, told with competence.
+negative	Bad and baffling from the get-go.	positive	... a gleefully grungy, hilariously wicked black comedy ...
+negative	Bad and baffling from the get-go.	positive	Often hilarious.
+negative	Bad and baffling from the get-go.	positive	A lovably old-school Hollywood confection.
+negative	Bad and baffling from the get-go.	positive	Highly watchable stuff.
+negative	Bad and baffling from the get-go.	positive	Compellingly watchable.
+negative	Bad and baffling from the get-go.	positive	Interesting and thoroughly unfaithful version of Carmen
+negative	Bad and baffling from the get-go.	positive	I liked it because it was so endlessly, grotesquely, inventive.
+negative	Bad and baffling from the get-go.	positive	Like its bizarre heroine, it irrigates our souls.
+negative	Bad and baffling from the get-go.	positive	``Birthday Girl'' is an actor's movie first and foremost.
+negative	Bad and baffling from the get-go.	positive	It's the funniest American comedy since Graffiti Bridge.
+negative	Bad and baffling from the get-go.	positive	This is a finely written, superbly acted offbeat thriller.
+negative	Bad and baffling from the get-go.	positive	A taut, sobering film.
+negative	Bad and baffling from the get-go.	positive	A film that's flawed and brilliant in equal measure.
+negative	Bad and baffling from the get-go.	positive	It's definitely a step in the right direction.
+negative	Bad and baffling from the get-go.	positive	A moving, if uneven, success.
+negative	Bad and baffling from the get-go.	positive	What a bewilderingly brilliant and entertaining movie this is.
+positive	It's the funniest American comedy since Graffiti Bridge.	negative	A brutally dry satire of Middle American numbness.
+positive	It's the funniest American comedy since Graffiti Bridge.	negative	Almost peerlessly unsettling.
+positive	It's the funniest American comedy since Graffiti Bridge.	negative	...hypnotically dull.
+positive	It's the funniest American comedy since Graffiti Bridge.	negative	A sub-formulaic slap in the face to seasonal cheer.
+positive	It's the funniest American comedy since Graffiti Bridge.	negative	None of Birthday Girl's calculated events take us by surprise...
+positive	It's the funniest American comedy since Graffiti Bridge.	negative	A complete waste of time.
+positive	It's the funniest American comedy since Graffiti Bridge.	negative	...the story is far-flung, illogical, and plain stupid.
+positive	It's the funniest American comedy since Graffiti Bridge.	negative	Sluggish, tonally uneven.
+positive	It's the funniest American comedy since Graffiti Bridge.	negative	Two-bit potboiler.
+positive	It's the funniest American comedy since Graffiti Bridge.	negative	What begins brightly gets bogged down over 140 minutes.
+positive	It's the funniest American comedy since Graffiti Bridge.	negative	Weighted down with slow, uninvolving storytelling and flat acting.
+positive	It's the funniest American comedy since Graffiti Bridge.	negative	Comes off like a bad imitation of the Bard.
+positive	It's the funniest American comedy since Graffiti Bridge.	negative	A loquacious and dreary piece of business.
+positive	It's the funniest American comedy since Graffiti Bridge.	negative	The film is strictly routine.
+positive	It's the funniest American comedy since Graffiti Bridge.	negative	Includes too much obvious padding.
+positive	It's the funniest American comedy since Graffiti Bridge.	negative	Needed a little less bling-bling and a lot more romance.
+positive	It's the funniest American comedy since Graffiti Bridge.	negative	As steamy as last week's pork dumplings.
+positive	It's the funniest American comedy since Graffiti Bridge.	negative	Bad and baffling from the get-go.
+positive	It's the funniest American comedy since Graffiti Bridge.	negative	An authentically vague, but ultimately purposeless, study in total pandemonium.
+positive	It's the funniest American comedy since Graffiti Bridge.	negative	A thriller without a lot of thrills.
+positive	It's the funniest American comedy since Graffiti Bridge.	negative	Nothing happens, and it happens to flat characters.
+positive	This is a finely written, superbly acted offbeat thriller.	negative	A brutally dry satire of Middle American numbness.
+positive	This is a finely written, superbly acted offbeat thriller.	negative	Almost peerlessly unsettling.
+positive	This is a finely written, superbly acted offbeat thriller.	negative	...hypnotically dull.
+positive	This is a finely written, superbly acted offbeat thriller.	negative	A sub-formulaic slap in the face to seasonal cheer.
+positive	This is a finely written, superbly acted offbeat thriller.	negative	None of Birthday Girl's calculated events take us by surprise...
+positive	This is a finely written, superbly acted offbeat thriller.	negative	A complete waste of time.
+positive	This is a finely written, superbly acted offbeat thriller.	negative	...the story is far-flung, illogical, and plain stupid.
+positive	This is a finely written, superbly acted offbeat thriller.	negative	Sluggish, tonally uneven.
+positive	This is a finely written, superbly acted offbeat thriller.	negative	Two-bit potboiler.
+positive	This is a finely written, superbly acted offbeat thriller.	negative	What begins brightly gets bogged down over 140 minutes.
+positive	This is a finely written, superbly acted offbeat thriller.	negative	Weighted down with slow, uninvolving storytelling and flat acting.
+positive	This is a finely written, superbly acted offbeat thriller.	negative	Comes off like a bad imitation of the Bard.
+positive	This is a finely written, superbly acted offbeat thriller.	negative	A loquacious and dreary piece of business.
+positive	This is a finely written, superbly acted offbeat thriller.	negative	The film is strictly routine.
+positive	This is a finely written, superbly acted offbeat thriller.	negative	Includes too much obvious padding.
+positive	This is a finely written, superbly acted offbeat thriller.	negative	Needed a little less bling-bling and a lot more romance.
+positive	This is a finely written, superbly acted offbeat thriller.	negative	As steamy as last week's pork dumplings.
+positive	This is a finely written, superbly acted offbeat thriller.	negative	Bad and baffling from the get-go.
+positive	This is a finely written, superbly acted offbeat thriller.	negative	An authentically vague, but ultimately purposeless, study in total pandemonium.
+positive	This is a finely written, superbly acted offbeat thriller.	negative	A thriller without a lot of thrills.
+positive	This is a finely written, superbly acted offbeat thriller.	negative	Nothing happens, and it happens to flat characters.
+positive	A taut, sobering film.	negative	A brutally dry satire of Middle American numbness.
+positive	A taut, sobering film.	negative	Almost peerlessly unsettling.
+positive	A taut, sobering film.	negative	...hypnotically dull.
+positive	A taut, sobering film.	negative	A sub-formulaic slap in the face to seasonal cheer.
+positive	A taut, sobering film.	negative	None of Birthday Girl's calculated events take us by surprise...
+positive	A taut, sobering film.	negative	A complete waste of time.
+positive	A taut, sobering film.	negative	...the story is far-flung, illogical, and plain stupid.
+positive	A taut, sobering film.	negative	Sluggish, tonally uneven.
+positive	A taut, sobering film.	negative	Two-bit potboiler.
+positive	A taut, sobering film.	negative	What begins brightly gets bogged down over 140 minutes.
+positive	A taut, sobering film.	negative	Weighted down with slow, uninvolving storytelling and flat acting.
+positive	A taut, sobering film.	negative	Comes off like a bad imitation of the Bard.
+positive	A taut, sobering film.	negative	A loquacious and dreary piece of business.
+positive	A taut, sobering film.	negative	The film is strictly routine.
+positive	A taut, sobering film.	negative	Includes too much obvious padding.
+positive	A taut, sobering film.	negative	Needed a little less bling-bling and a lot more romance.
+positive	A taut, sobering film.	negative	As steamy as last week's pork dumplings.
+positive	A taut, sobering film.	negative	Bad and baffling from the get-go.
+positive	A taut, sobering film.	negative	An authentically vague, but ultimately purposeless, study in total pandemonium.
+positive	A taut, sobering film.	negative	A thriller without a lot of thrills.
+positive	A taut, sobering film.	negative	Nothing happens, and it happens to flat characters.
+positive	A film that's flawed and brilliant in equal measure.	negative	A brutally dry satire of Middle American numbness.
+positive	A film that's flawed and brilliant in equal measure.	negative	Almost peerlessly unsettling.
+positive	A film that's flawed and brilliant in equal measure.	negative	...hypnotically dull.
+positive	A film that's flawed and brilliant in equal measure.	negative	A sub-formulaic slap in the face to seasonal cheer.
+positive	A film that's flawed and brilliant in equal measure.	negative	None of Birthday Girl's calculated events take us by surprise...
+positive	A film that's flawed and brilliant in equal measure.	negative	A complete waste of time.
+positive	A film that's flawed and brilliant in equal measure.	negative	...the story is far-flung, illogical, and plain stupid.
+positive	A film that's flawed and brilliant in equal measure.	negative	Sluggish, tonally uneven.
+positive	A film that's flawed and brilliant in equal measure.	negative	Two-bit potboiler.
+positive	A film that's flawed and brilliant in equal measure.	negative	What begins brightly gets bogged down over 140 minutes.
+positive	A film that's flawed and brilliant in equal measure.	negative	Weighted down with slow, uninvolving storytelling and flat acting.
+positive	A film that's flawed and brilliant in equal measure.	negative	Comes off like a bad imitation of the Bard.
+positive	A film that's flawed and brilliant in equal measure.	negative	A loquacious and dreary piece of business.
+positive	A film that's flawed and brilliant in equal measure.	negative	The film is strictly routine.
+positive	A film that's flawed and brilliant in equal measure.	negative	Includes too much obvious padding.
+positive	A film that's flawed and brilliant in equal measure.	negative	Needed a little less bling-bling and a lot more romance.
+positive	A film that's flawed and brilliant in equal measure.	negative	As steamy as last week's pork dumplings.
+positive	A film that's flawed and brilliant in equal measure.	negative	Bad and baffling from the get-go.
+positive	A film that's flawed and brilliant in equal measure.	negative	An authentically vague, but ultimately purposeless, study in total pandemonium.
+positive	A film that's flawed and brilliant in equal measure.	negative	A thriller without a lot of thrills.
+positive	A film that's flawed and brilliant in equal measure.	negative	Nothing happens, and it happens to flat characters.
+negative	An authentically vague, but ultimately purposeless, study in total pandemonium.	positive	It's a masterpiece.
+negative	An authentically vague, but ultimately purposeless, study in total pandemonium.	positive	Old-fashioned but thoroughly satisfying entertainment.
+negative	An authentically vague, but ultimately purposeless, study in total pandemonium.	positive	A gem of a movie.
+negative	An authentically vague, but ultimately purposeless, study in total pandemonium.	positive	...a triumph of emotionally and narratively complex filmmaking.
+negative	An authentically vague, but ultimately purposeless, study in total pandemonium.	positive	The film is one of the year's best.
+negative	An authentically vague, but ultimately purposeless, study in total pandemonium.	positive	...quite good at providing some good old fashioned spooks.
+negative	An authentically vague, but ultimately purposeless, study in total pandemonium.	positive	Audacious-impossible yet compelling...
+negative	An authentically vague, but ultimately purposeless, study in total pandemonium.	positive	Cho's timing is priceless.
+negative	An authentically vague, but ultimately purposeless, study in total pandemonium.	positive	Mordantly funny and intimately knowing ...
+negative	An authentically vague, but ultimately purposeless, study in total pandemonium.	positive	Works as pretty contagious fun.
+negative	An authentically vague, but ultimately purposeless, study in total pandemonium.	positive	Gives everyone something to shout about.
+negative	An authentically vague, but ultimately purposeless, study in total pandemonium.	positive	...the plot weaves us into a complex web.
+negative	An authentically vague, but ultimately purposeless, study in total pandemonium.	positive	It is a likable story, told with competence.
+negative	An authentically vague, but ultimately purposeless, study in total pandemonium.	positive	... a gleefully grungy, hilariously wicked black comedy ...
+negative	An authentically vague, but ultimately purposeless, study in total pandemonium.	positive	Often hilarious.
+negative	An authentically vague, but ultimately purposeless, study in total pandemonium.	positive	A lovably old-school Hollywood confection.
+negative	An authentically vague, but ultimately purposeless, study in total pandemonium.	positive	Highly watchable stuff.
+negative	An authentically vague, but ultimately purposeless, study in total pandemonium.	positive	Compellingly watchable.
+negative	An authentically vague, but ultimately purposeless, study in total pandemonium.	positive	Interesting and thoroughly unfaithful version of Carmen
+negative	An authentically vague, but ultimately purposeless, study in total pandemonium.	positive	I liked it because it was so endlessly, grotesquely, inventive.
+negative	An authentically vague, but ultimately purposeless, study in total pandemonium.	positive	Like its bizarre heroine, it irrigates our souls.
+negative	An authentically vague, but ultimately purposeless, study in total pandemonium.	positive	``Birthday Girl'' is an actor's movie first and foremost.
+negative	An authentically vague, but ultimately purposeless, study in total pandemonium.	positive	It's the funniest American comedy since Graffiti Bridge.
+negative	An authentically vague, but ultimately purposeless, study in total pandemonium.	positive	This is a finely written, superbly acted offbeat thriller.
+negative	An authentically vague, but ultimately purposeless, study in total pandemonium.	positive	A taut, sobering film.
+negative	An authentically vague, but ultimately purposeless, study in total pandemonium.	positive	A film that's flawed and brilliant in equal measure.
+negative	An authentically vague, but ultimately purposeless, study in total pandemonium.	positive	It's definitely a step in the right direction.
+negative	An authentically vague, but ultimately purposeless, study in total pandemonium.	positive	A moving, if uneven, success.
+negative	An authentically vague, but ultimately purposeless, study in total pandemonium.	positive	What a bewilderingly brilliant and entertaining movie this is.
+positive	It's definitely a step in the right direction.	negative	A brutally dry satire of Middle American numbness.
+positive	It's definitely a step in the right direction.	negative	Almost peerlessly unsettling.
+positive	It's definitely a step in the right direction.	negative	...hypnotically dull.
+positive	It's definitely a step in the right direction.	negative	A sub-formulaic slap in the face to seasonal cheer.
+positive	It's definitely a step in the right direction.	negative	None of Birthday Girl's calculated events take us by surprise...
+positive	It's definitely a step in the right direction.	negative	A complete waste of time.
+positive	It's definitely a step in the right direction.	negative	...the story is far-flung, illogical, and plain stupid.
+positive	It's definitely a step in the right direction.	negative	Sluggish, tonally uneven.
+positive	It's definitely a step in the right direction.	negative	Two-bit potboiler.
+positive	It's definitely a step in the right direction.	negative	What begins brightly gets bogged down over 140 minutes.
+positive	It's definitely a step in the right direction.	negative	Weighted down with slow, uninvolving storytelling and flat acting.
+positive	It's definitely a step in the right direction.	negative	Comes off like a bad imitation of the Bard.
+positive	It's definitely a step in the right direction.	negative	A loquacious and dreary piece of business.
+positive	It's definitely a step in the right direction.	negative	The film is strictly routine.
+positive	It's definitely a step in the right direction.	negative	Includes too much obvious padding.
+positive	It's definitely a step in the right direction.	negative	Needed a little less bling-bling and a lot more romance.
+positive	It's definitely a step in the right direction.	negative	As steamy as last week's pork dumplings.
+positive	It's definitely a step in the right direction.	negative	Bad and baffling from the get-go.
+positive	It's definitely a step in the right direction.	negative	An authentically vague, but ultimately purposeless, study in total pandemonium.
+positive	It's definitely a step in the right direction.	negative	A thriller without a lot of thrills.
+positive	It's definitely a step in the right direction.	negative	Nothing happens, and it happens to flat characters.
+negative	A thriller without a lot of thrills.	positive	It's a masterpiece.
+negative	A thriller without a lot of thrills.	positive	Old-fashioned but thoroughly satisfying entertainment.
+negative	A thriller without a lot of thrills.	positive	A gem of a movie.
+negative	A thriller without a lot of thrills.	positive	...a triumph of emotionally and narratively complex filmmaking.
+negative	A thriller without a lot of thrills.	positive	The film is one of the year's best.
+negative	A thriller without a lot of thrills.	positive	...quite good at providing some good old fashioned spooks.
+negative	A thriller without a lot of thrills.	positive	Audacious-impossible yet compelling...
+negative	A thriller without a lot of thrills.	positive	Cho's timing is priceless.
+negative	A thriller without a lot of thrills.	positive	Mordantly funny and intimately knowing ...
+negative	A thriller without a lot of thrills.	positive	Works as pretty contagious fun.
+negative	A thriller without a lot of thrills.	positive	Gives everyone something to shout about.
+negative	A thriller without a lot of thrills.	positive	...the plot weaves us into a complex web.
+negative	A thriller without a lot of thrills.	positive	It is a likable story, told with competence.
+negative	A thriller without a lot of thrills.	positive	... a gleefully grungy, hilariously wicked black comedy ...
+negative	A thriller without a lot of thrills.	positive	Often hilarious.
+negative	A thriller without a lot of thrills.	positive	A lovably old-school Hollywood confection.
+negative	A thriller without a lot of thrills.	positive	Highly watchable stuff.
+negative	A thriller without a lot of thrills.	positive	Compellingly watchable.
+negative	A thriller without a lot of thrills.	positive	Interesting and thoroughly unfaithful version of Carmen
+negative	A thriller without a lot of thrills.	positive	I liked it because it was so endlessly, grotesquely, inventive.
+negative	A thriller without a lot of thrills.	positive	Like its bizarre heroine, it irrigates our souls.
+negative	A thriller without a lot of thrills.	positive	``Birthday Girl'' is an actor's movie first and foremost.
+negative	A thriller without a lot of thrills.	positive	It's the funniest American comedy since Graffiti Bridge.
+negative	A thriller without a lot of thrills.	positive	This is a finely written, superbly acted offbeat thriller.
+negative	A thriller without a lot of thrills.	positive	A taut, sobering film.
+negative	A thriller without a lot of thrills.	positive	A film that's flawed and brilliant in equal measure.
+negative	A thriller without a lot of thrills.	positive	It's definitely a step in the right direction.
+negative	A thriller without a lot of thrills.	positive	A moving, if uneven, success.
+negative	A thriller without a lot of thrills.	positive	What a bewilderingly brilliant and entertaining movie this is.
+positive	A moving, if uneven, success.	negative	A brutally dry satire of Middle American numbness.
+positive	A moving, if uneven, success.	negative	Almost peerlessly unsettling.
+positive	A moving, if uneven, success.	negative	...hypnotically dull.
+positive	A moving, if uneven, success.	negative	A sub-formulaic slap in the face to seasonal cheer.
+positive	A moving, if uneven, success.	negative	None of Birthday Girl's calculated events take us by surprise...
+positive	A moving, if uneven, success.	negative	A complete waste of time.
+positive	A moving, if uneven, success.	negative	...the story is far-flung, illogical, and plain stupid.
+positive	A moving, if uneven, success.	negative	Sluggish, tonally uneven.
+positive	A moving, if uneven, success.	negative	Two-bit potboiler.
+positive	A moving, if uneven, success.	negative	What begins brightly gets bogged down over 140 minutes.
+positive	A moving, if uneven, success.	negative	Weighted down with slow, uninvolving storytelling and flat acting.
+positive	A moving, if uneven, success.	negative	Comes off like a bad imitation of the Bard.
+positive	A moving, if uneven, success.	negative	A loquacious and dreary piece of business.
+positive	A moving, if uneven, success.	negative	The film is strictly routine.
+positive	A moving, if uneven, success.	negative	Includes too much obvious padding.
+positive	A moving, if uneven, success.	negative	Needed a little less bling-bling and a lot more romance.
+positive	A moving, if uneven, success.	negative	As steamy as last week's pork dumplings.
+positive	A moving, if uneven, success.	negative	Bad and baffling from the get-go.
+positive	A moving, if uneven, success.	negative	An authentically vague, but ultimately purposeless, study in total pandemonium.
+positive	A moving, if uneven, success.	negative	A thriller without a lot of thrills.
+positive	A moving, if uneven, success.	negative	Nothing happens, and it happens to flat characters.
+negative	Nothing happens, and it happens to flat characters.	positive	It's a masterpiece.
+negative	Nothing happens, and it happens to flat characters.	positive	Old-fashioned but thoroughly satisfying entertainment.
+negative	Nothing happens, and it happens to flat characters.	positive	A gem of a movie.
+negative	Nothing happens, and it happens to flat characters.	positive	...a triumph of emotionally and narratively complex filmmaking.
+negative	Nothing happens, and it happens to flat characters.	positive	The film is one of the year's best.
+negative	Nothing happens, and it happens to flat characters.	positive	...quite good at providing some good old fashioned spooks.
+negative	Nothing happens, and it happens to flat characters.	positive	Audacious-impossible yet compelling...
+negative	Nothing happens, and it happens to flat characters.	positive	Cho's timing is priceless.
+negative	Nothing happens, and it happens to flat characters.	positive	Mordantly funny and intimately knowing ...
+negative	Nothing happens, and it happens to flat characters.	positive	Works as pretty contagious fun.
+negative	Nothing happens, and it happens to flat characters.	positive	Gives everyone something to shout about.
+negative	Nothing happens, and it happens to flat characters.	positive	...the plot weaves us into a complex web.
+negative	Nothing happens, and it happens to flat characters.	positive	It is a likable story, told with competence.
+negative	Nothing happens, and it happens to flat characters.	positive	... a gleefully grungy, hilariously wicked black comedy ...
+negative	Nothing happens, and it happens to flat characters.	positive	Often hilarious.
+negative	Nothing happens, and it happens to flat characters.	positive	A lovably old-school Hollywood confection.
+negative	Nothing happens, and it happens to flat characters.	positive	Highly watchable stuff.
+negative	Nothing happens, and it happens to flat characters.	positive	Compellingly watchable.
+negative	Nothing happens, and it happens to flat characters.	positive	Interesting and thoroughly unfaithful version of Carmen
+negative	Nothing happens, and it happens to flat characters.	positive	I liked it because it was so endlessly, grotesquely, inventive.
+negative	Nothing happens, and it happens to flat characters.	positive	Like its bizarre heroine, it irrigates our souls.
+negative	Nothing happens, and it happens to flat characters.	positive	``Birthday Girl'' is an actor's movie first and foremost.
+negative	Nothing happens, and it happens to flat characters.	positive	It's the funniest American comedy since Graffiti Bridge.
+negative	Nothing happens, and it happens to flat characters.	positive	This is a finely written, superbly acted offbeat thriller.
+negative	Nothing happens, and it happens to flat characters.	positive	A taut, sobering film.
+negative	Nothing happens, and it happens to flat characters.	positive	A film that's flawed and brilliant in equal measure.
+negative	Nothing happens, and it happens to flat characters.	positive	It's definitely a step in the right direction.
+negative	Nothing happens, and it happens to flat characters.	positive	A moving, if uneven, success.
+negative	Nothing happens, and it happens to flat characters.	positive	What a bewilderingly brilliant and entertaining movie this is.
+positive	What a bewilderingly brilliant and entertaining movie this is.	negative	A brutally dry satire of Middle American numbness.
+positive	What a bewilderingly brilliant and entertaining movie this is.	negative	Almost peerlessly unsettling.
+positive	What a bewilderingly brilliant and entertaining movie this is.	negative	...hypnotically dull.
+positive	What a bewilderingly brilliant and entertaining movie this is.	negative	A sub-formulaic slap in the face to seasonal cheer.
+positive	What a bewilderingly brilliant and entertaining movie this is.	negative	None of Birthday Girl's calculated events take us by surprise...
+positive	What a bewilderingly brilliant and entertaining movie this is.	negative	A complete waste of time.
+positive	What a bewilderingly brilliant and entertaining movie this is.	negative	...the story is far-flung, illogical, and plain stupid.
+positive	What a bewilderingly brilliant and entertaining movie this is.	negative	Sluggish, tonally uneven.
+positive	What a bewilderingly brilliant and entertaining movie this is.	negative	Two-bit potboiler.
+positive	What a bewilderingly brilliant and entertaining movie this is.	negative	What begins brightly gets bogged down over 140 minutes.
+positive	What a bewilderingly brilliant and entertaining movie this is.	negative	Weighted down with slow, uninvolving storytelling and flat acting.
+positive	What a bewilderingly brilliant and entertaining movie this is.	negative	Comes off like a bad imitation of the Bard.
+positive	What a bewilderingly brilliant and entertaining movie this is.	negative	A loquacious and dreary piece of business.
+positive	What a bewilderingly brilliant and entertaining movie this is.	negative	The film is strictly routine.
+positive	What a bewilderingly brilliant and entertaining movie this is.	negative	Includes too much obvious padding.
+positive	What a bewilderingly brilliant and entertaining movie this is.	negative	Needed a little less bling-bling and a lot more romance.
+positive	What a bewilderingly brilliant and entertaining movie this is.	negative	As steamy as last week's pork dumplings.
+positive	What a bewilderingly brilliant and entertaining movie this is.	negative	Bad and baffling from the get-go.
+positive	What a bewilderingly brilliant and entertaining movie this is.	negative	An authentically vague, but ultimately purposeless, study in total pandemonium.
+positive	What a bewilderingly brilliant and entertaining movie this is.	negative	A thriller without a lot of thrills.
+positive	What a bewilderingly brilliant and entertaining movie this is.	negative	Nothing happens, and it happens to flat characters.

@@ -1,0 +1,2427 @@
+: country-currency
+Timor-Leste	US Dollar (USD)	Bahamas	Bahamian Dollar
+Timor-Leste	US Dollar (USD)	Nauru	Australian Dollar (AUD)
+Timor-Leste	US Dollar (USD)	Czech Republic	Czech Koruna (CZK)
+Timor-Leste	US Dollar (USD)	Tonga	Pa'anga (TOP)
+Timor-Leste	US Dollar (USD)	Egypt	Egyptian Pound (EGP)
+Timor-Leste	US Dollar (USD)	Mauritania	Ouguiya (MRO)
+Timor-Leste	US Dollar (USD)	Democratic Republic of the Congo	Congolese Franc (CDF)
+Timor-Leste	US Dollar (USD)	Moldova	Moldovan Leu (MDL)
+Timor-Leste	US Dollar (USD)	Slovenia	Euro (EUR)
+Timor-Leste	US Dollar (USD)	India	Indian Rupee
+Timor-Leste	US Dollar (USD)	Saudi Arabia	Saudi Riyal
+Timor-Leste	US Dollar (USD)	Bolivia	Bolivian Boliviano (BOB)
+Timor-Leste	US Dollar (USD)	Myanmar	Kyat
+Timor-Leste	US Dollar (USD)	Bosnia and Herzegovina	Convertible Mark (KM or BAM)
+Timor-Leste	US Dollar (USD)	Montenegro	Euro (EUR)
+Timor-Leste	US Dollar (USD)	Solomon Islands	Solomon Islands Dollar (SBD)
+Timor-Leste	US Dollar (USD)	Sudan	Sudanese Pound (SDG)
+Timor-Leste	US Dollar (USD)	Australia	Australian Dollar (AUD)
+Timor-Leste	US Dollar (USD)	Jamaica	Jamaican Dollar (JMD)
+Timor-Leste	US Dollar (USD)	Equatorial Guinea	Central African CFA franc
+Timor-Leste	US Dollar (USD)	South Korea	South Korean Won (KRW)
+Timor-Leste	US Dollar (USD)	Brunei	Brunei Dollar (BND)
+Timor-Leste	US Dollar (USD)	Germany	Euro (EUR)
+Timor-Leste	US Dollar (USD)	Guyana	Guyanese Dollar
+Timor-Leste	US Dollar (USD)	United Arab Emirates	UAE Dirham
+Timor-Leste	US Dollar (USD)	Jordan	Jordanian Dinar (JOD)
+Timor-Leste	US Dollar (USD)	Laos	Lao Kip (LAK)
+Timor-Leste	US Dollar (USD)	Indonesia	Indonesian Rupiah
+Timor-Leste	US Dollar (USD)	Brazil	Brazilian Real (BRL)
+Timor-Leste	US Dollar (USD)	Colombia	Colombian Peso
+Timor-Leste	US Dollar (USD)	Russia	Russian Ruble
+Timor-Leste	US Dollar (USD)	Saint Kitts and Nevis	East Caribbean Dollar (XCD)
+Timor-Leste	US Dollar (USD)	Peru	Sol (PEN)
+Timor-Leste	US Dollar (USD)	Qatar	Qatari Riyal
+Timor-Leste	US Dollar (USD)	Spain	Euro (EUR)
+Timor-Leste	US Dollar (USD)	Vanuatu	Vatu (VUV)
+Timor-Leste	US Dollar (USD)	Cabo Verde	Escudo (CVE)
+Timor-Leste	US Dollar (USD)	Belgium	Euro (EUR)
+Timor-Leste	US Dollar (USD)	Latvia	Latvian Lats (LVL)
+Timor-Leste	US Dollar (USD)	Singapore	Singapore Dollar (SGD)
+Timor-Leste	US Dollar (USD)	Congo	Congolese Franc (CDF)
+Timor-Leste	US Dollar (USD)	Uruguay	Uruguayan Peso
+Timor-Leste	US Dollar (USD)	Armenia	Dram (AMD)
+Timor-Leste	US Dollar (USD)	Panama	Balboa (PAB)
+Timor-Leste	US Dollar (USD)	Samoa	Tala
+Timor-Leste	US Dollar (USD)	Haiti	Gourde
+Timor-Leste	US Dollar (USD)	Sweden	Swedish Krona (SEK)
+Timor-Leste	US Dollar (USD)	Burkina Faso	West African CFA franc
+Timor-Leste	US Dollar (USD)	Nigeria	Naira
+Bahamas	Bahamian Dollar	Timor-Leste	US Dollar (USD)
+Bahamas	Bahamian Dollar	Nauru	Australian Dollar (AUD)
+Bahamas	Bahamian Dollar	Czech Republic	Czech Koruna (CZK)
+Bahamas	Bahamian Dollar	Tonga	Pa'anga (TOP)
+Bahamas	Bahamian Dollar	Egypt	Egyptian Pound (EGP)
+Bahamas	Bahamian Dollar	Mauritania	Ouguiya (MRO)
+Bahamas	Bahamian Dollar	Democratic Republic of the Congo	Congolese Franc (CDF)
+Bahamas	Bahamian Dollar	Moldova	Moldovan Leu (MDL)
+Bahamas	Bahamian Dollar	Slovenia	Euro (EUR)
+Bahamas	Bahamian Dollar	India	Indian Rupee
+Bahamas	Bahamian Dollar	Saudi Arabia	Saudi Riyal
+Bahamas	Bahamian Dollar	Bolivia	Bolivian Boliviano (BOB)
+Bahamas	Bahamian Dollar	Myanmar	Kyat
+Bahamas	Bahamian Dollar	Bosnia and Herzegovina	Convertible Mark (KM or BAM)
+Bahamas	Bahamian Dollar	Montenegro	Euro (EUR)
+Bahamas	Bahamian Dollar	Solomon Islands	Solomon Islands Dollar (SBD)
+Bahamas	Bahamian Dollar	Sudan	Sudanese Pound (SDG)
+Bahamas	Bahamian Dollar	Australia	Australian Dollar (AUD)
+Bahamas	Bahamian Dollar	Jamaica	Jamaican Dollar (JMD)
+Bahamas	Bahamian Dollar	Equatorial Guinea	Central African CFA franc
+Bahamas	Bahamian Dollar	South Korea	South Korean Won (KRW)
+Bahamas	Bahamian Dollar	Brunei	Brunei Dollar (BND)
+Bahamas	Bahamian Dollar	Germany	Euro (EUR)
+Bahamas	Bahamian Dollar	Guyana	Guyanese Dollar
+Bahamas	Bahamian Dollar	United Arab Emirates	UAE Dirham
+Bahamas	Bahamian Dollar	Jordan	Jordanian Dinar (JOD)
+Bahamas	Bahamian Dollar	Laos	Lao Kip (LAK)
+Bahamas	Bahamian Dollar	Indonesia	Indonesian Rupiah
+Bahamas	Bahamian Dollar	Brazil	Brazilian Real (BRL)
+Bahamas	Bahamian Dollar	Colombia	Colombian Peso
+Bahamas	Bahamian Dollar	Russia	Russian Ruble
+Bahamas	Bahamian Dollar	Saint Kitts and Nevis	East Caribbean Dollar (XCD)
+Bahamas	Bahamian Dollar	Peru	Sol (PEN)
+Bahamas	Bahamian Dollar	Qatar	Qatari Riyal
+Bahamas	Bahamian Dollar	Spain	Euro (EUR)
+Bahamas	Bahamian Dollar	Vanuatu	Vatu (VUV)
+Bahamas	Bahamian Dollar	Cabo Verde	Escudo (CVE)
+Bahamas	Bahamian Dollar	Belgium	Euro (EUR)
+Bahamas	Bahamian Dollar	Latvia	Latvian Lats (LVL)
+Bahamas	Bahamian Dollar	Singapore	Singapore Dollar (SGD)
+Bahamas	Bahamian Dollar	Congo	Congolese Franc (CDF)
+Bahamas	Bahamian Dollar	Uruguay	Uruguayan Peso
+Bahamas	Bahamian Dollar	Armenia	Dram (AMD)
+Bahamas	Bahamian Dollar	Panama	Balboa (PAB)
+Bahamas	Bahamian Dollar	Samoa	Tala
+Bahamas	Bahamian Dollar	Haiti	Gourde
+Bahamas	Bahamian Dollar	Sweden	Swedish Krona (SEK)
+Bahamas	Bahamian Dollar	Burkina Faso	West African CFA franc
+Bahamas	Bahamian Dollar	Nigeria	Naira
+Nauru	Australian Dollar (AUD)	Timor-Leste	US Dollar (USD)
+Nauru	Australian Dollar (AUD)	Bahamas	Bahamian Dollar
+Nauru	Australian Dollar (AUD)	Czech Republic	Czech Koruna (CZK)
+Nauru	Australian Dollar (AUD)	Tonga	Pa'anga (TOP)
+Nauru	Australian Dollar (AUD)	Egypt	Egyptian Pound (EGP)
+Nauru	Australian Dollar (AUD)	Mauritania	Ouguiya (MRO)
+Nauru	Australian Dollar (AUD)	Democratic Republic of the Congo	Congolese Franc (CDF)
+Nauru	Australian Dollar (AUD)	Moldova	Moldovan Leu (MDL)
+Nauru	Australian Dollar (AUD)	Slovenia	Euro (EUR)
+Nauru	Australian Dollar (AUD)	India	Indian Rupee
+Nauru	Australian Dollar (AUD)	Saudi Arabia	Saudi Riyal
+Nauru	Australian Dollar (AUD)	Bolivia	Bolivian Boliviano (BOB)
+Nauru	Australian Dollar (AUD)	Myanmar	Kyat
+Nauru	Australian Dollar (AUD)	Bosnia and Herzegovina	Convertible Mark (KM or BAM)
+Nauru	Australian Dollar (AUD)	Montenegro	Euro (EUR)
+Nauru	Australian Dollar (AUD)	Solomon Islands	Solomon Islands Dollar (SBD)
+Nauru	Australian Dollar (AUD)	Sudan	Sudanese Pound (SDG)
+Nauru	Australian Dollar (AUD)	Jamaica	Jamaican Dollar (JMD)
+Nauru	Australian Dollar (AUD)	Equatorial Guinea	Central African CFA franc
+Nauru	Australian Dollar (AUD)	South Korea	South Korean Won (KRW)
+Nauru	Australian Dollar (AUD)	Brunei	Brunei Dollar (BND)
+Nauru	Australian Dollar (AUD)	Germany	Euro (EUR)
+Nauru	Australian Dollar (AUD)	Guyana	Guyanese Dollar
+Nauru	Australian Dollar (AUD)	United Arab Emirates	UAE Dirham
+Nauru	Australian Dollar (AUD)	Jordan	Jordanian Dinar (JOD)
+Nauru	Australian Dollar (AUD)	Laos	Lao Kip (LAK)
+Nauru	Australian Dollar (AUD)	Indonesia	Indonesian Rupiah
+Nauru	Australian Dollar (AUD)	Brazil	Brazilian Real (BRL)
+Nauru	Australian Dollar (AUD)	Colombia	Colombian Peso
+Nauru	Australian Dollar (AUD)	Russia	Russian Ruble
+Nauru	Australian Dollar (AUD)	Saint Kitts and Nevis	East Caribbean Dollar (XCD)
+Nauru	Australian Dollar (AUD)	Peru	Sol (PEN)
+Nauru	Australian Dollar (AUD)	Qatar	Qatari Riyal
+Nauru	Australian Dollar (AUD)	Spain	Euro (EUR)
+Nauru	Australian Dollar (AUD)	Vanuatu	Vatu (VUV)
+Nauru	Australian Dollar (AUD)	Cabo Verde	Escudo (CVE)
+Nauru	Australian Dollar (AUD)	Belgium	Euro (EUR)
+Nauru	Australian Dollar (AUD)	Latvia	Latvian Lats (LVL)
+Nauru	Australian Dollar (AUD)	Singapore	Singapore Dollar (SGD)
+Nauru	Australian Dollar (AUD)	Congo	Congolese Franc (CDF)
+Nauru	Australian Dollar (AUD)	Uruguay	Uruguayan Peso
+Nauru	Australian Dollar (AUD)	Armenia	Dram (AMD)
+Nauru	Australian Dollar (AUD)	Panama	Balboa (PAB)
+Nauru	Australian Dollar (AUD)	Samoa	Tala
+Nauru	Australian Dollar (AUD)	Haiti	Gourde
+Nauru	Australian Dollar (AUD)	Sweden	Swedish Krona (SEK)
+Nauru	Australian Dollar (AUD)	Burkina Faso	West African CFA franc
+Nauru	Australian Dollar (AUD)	Nigeria	Naira
+Czech Republic	Czech Koruna (CZK)	Timor-Leste	US Dollar (USD)
+Czech Republic	Czech Koruna (CZK)	Bahamas	Bahamian Dollar
+Czech Republic	Czech Koruna (CZK)	Nauru	Australian Dollar (AUD)
+Czech Republic	Czech Koruna (CZK)	Tonga	Pa'anga (TOP)
+Czech Republic	Czech Koruna (CZK)	Egypt	Egyptian Pound (EGP)
+Czech Republic	Czech Koruna (CZK)	Mauritania	Ouguiya (MRO)
+Czech Republic	Czech Koruna (CZK)	Democratic Republic of the Congo	Congolese Franc (CDF)
+Czech Republic	Czech Koruna (CZK)	Moldova	Moldovan Leu (MDL)
+Czech Republic	Czech Koruna (CZK)	Slovenia	Euro (EUR)
+Czech Republic	Czech Koruna (CZK)	India	Indian Rupee
+Czech Republic	Czech Koruna (CZK)	Saudi Arabia	Saudi Riyal
+Czech Republic	Czech Koruna (CZK)	Bolivia	Bolivian Boliviano (BOB)
+Czech Republic	Czech Koruna (CZK)	Myanmar	Kyat
+Czech Republic	Czech Koruna (CZK)	Bosnia and Herzegovina	Convertible Mark (KM or BAM)
+Czech Republic	Czech Koruna (CZK)	Montenegro	Euro (EUR)
+Czech Republic	Czech Koruna (CZK)	Solomon Islands	Solomon Islands Dollar (SBD)
+Czech Republic	Czech Koruna (CZK)	Sudan	Sudanese Pound (SDG)
+Czech Republic	Czech Koruna (CZK)	Australia	Australian Dollar (AUD)
+Czech Republic	Czech Koruna (CZK)	Jamaica	Jamaican Dollar (JMD)
+Czech Republic	Czech Koruna (CZK)	Equatorial Guinea	Central African CFA franc
+Czech Republic	Czech Koruna (CZK)	South Korea	South Korean Won (KRW)
+Czech Republic	Czech Koruna (CZK)	Brunei	Brunei Dollar (BND)
+Czech Republic	Czech Koruna (CZK)	Germany	Euro (EUR)
+Czech Republic	Czech Koruna (CZK)	Guyana	Guyanese Dollar
+Czech Republic	Czech Koruna (CZK)	United Arab Emirates	UAE Dirham
+Czech Republic	Czech Koruna (CZK)	Jordan	Jordanian Dinar (JOD)
+Czech Republic	Czech Koruna (CZK)	Laos	Lao Kip (LAK)
+Czech Republic	Czech Koruna (CZK)	Indonesia	Indonesian Rupiah
+Czech Republic	Czech Koruna (CZK)	Brazil	Brazilian Real (BRL)
+Czech Republic	Czech Koruna (CZK)	Colombia	Colombian Peso
+Czech Republic	Czech Koruna (CZK)	Russia	Russian Ruble
+Czech Republic	Czech Koruna (CZK)	Saint Kitts and Nevis	East Caribbean Dollar (XCD)
+Czech Republic	Czech Koruna (CZK)	Peru	Sol (PEN)
+Czech Republic	Czech Koruna (CZK)	Qatar	Qatari Riyal
+Czech Republic	Czech Koruna (CZK)	Spain	Euro (EUR)
+Czech Republic	Czech Koruna (CZK)	Vanuatu	Vatu (VUV)
+Czech Republic	Czech Koruna (CZK)	Cabo Verde	Escudo (CVE)
+Czech Republic	Czech Koruna (CZK)	Belgium	Euro (EUR)
+Czech Republic	Czech Koruna (CZK)	Latvia	Latvian Lats (LVL)
+Czech Republic	Czech Koruna (CZK)	Singapore	Singapore Dollar (SGD)
+Czech Republic	Czech Koruna (CZK)	Congo	Congolese Franc (CDF)
+Czech Republic	Czech Koruna (CZK)	Uruguay	Uruguayan Peso
+Czech Republic	Czech Koruna (CZK)	Armenia	Dram (AMD)
+Czech Republic	Czech Koruna (CZK)	Panama	Balboa (PAB)
+Czech Republic	Czech Koruna (CZK)	Samoa	Tala
+Czech Republic	Czech Koruna (CZK)	Haiti	Gourde
+Czech Republic	Czech Koruna (CZK)	Sweden	Swedish Krona (SEK)
+Czech Republic	Czech Koruna (CZK)	Burkina Faso	West African CFA franc
+Czech Republic	Czech Koruna (CZK)	Nigeria	Naira
+Tonga	Pa'anga (TOP)	Timor-Leste	US Dollar (USD)
+Tonga	Pa'anga (TOP)	Bahamas	Bahamian Dollar
+Tonga	Pa'anga (TOP)	Nauru	Australian Dollar (AUD)
+Tonga	Pa'anga (TOP)	Czech Republic	Czech Koruna (CZK)
+Tonga	Pa'anga (TOP)	Egypt	Egyptian Pound (EGP)
+Tonga	Pa'anga (TOP)	Mauritania	Ouguiya (MRO)
+Tonga	Pa'anga (TOP)	Democratic Republic of the Congo	Congolese Franc (CDF)
+Tonga	Pa'anga (TOP)	Moldova	Moldovan Leu (MDL)
+Tonga	Pa'anga (TOP)	Slovenia	Euro (EUR)
+Tonga	Pa'anga (TOP)	India	Indian Rupee
+Tonga	Pa'anga (TOP)	Saudi Arabia	Saudi Riyal
+Tonga	Pa'anga (TOP)	Bolivia	Bolivian Boliviano (BOB)
+Tonga	Pa'anga (TOP)	Myanmar	Kyat
+Tonga	Pa'anga (TOP)	Bosnia and Herzegovina	Convertible Mark (KM or BAM)
+Tonga	Pa'anga (TOP)	Montenegro	Euro (EUR)
+Tonga	Pa'anga (TOP)	Solomon Islands	Solomon Islands Dollar (SBD)
+Tonga	Pa'anga (TOP)	Sudan	Sudanese Pound (SDG)
+Tonga	Pa'anga (TOP)	Australia	Australian Dollar (AUD)
+Tonga	Pa'anga (TOP)	Jamaica	Jamaican Dollar (JMD)
+Tonga	Pa'anga (TOP)	Equatorial Guinea	Central African CFA franc
+Tonga	Pa'anga (TOP)	South Korea	South Korean Won (KRW)
+Tonga	Pa'anga (TOP)	Brunei	Brunei Dollar (BND)
+Tonga	Pa'anga (TOP)	Germany	Euro (EUR)
+Tonga	Pa'anga (TOP)	Guyana	Guyanese Dollar
+Tonga	Pa'anga (TOP)	United Arab Emirates	UAE Dirham
+Tonga	Pa'anga (TOP)	Jordan	Jordanian Dinar (JOD)
+Tonga	Pa'anga (TOP)	Laos	Lao Kip (LAK)
+Tonga	Pa'anga (TOP)	Indonesia	Indonesian Rupiah
+Tonga	Pa'anga (TOP)	Brazil	Brazilian Real (BRL)
+Tonga	Pa'anga (TOP)	Colombia	Colombian Peso
+Tonga	Pa'anga (TOP)	Russia	Russian Ruble
+Tonga	Pa'anga (TOP)	Saint Kitts and Nevis	East Caribbean Dollar (XCD)
+Tonga	Pa'anga (TOP)	Peru	Sol (PEN)
+Tonga	Pa'anga (TOP)	Qatar	Qatari Riyal
+Tonga	Pa'anga (TOP)	Spain	Euro (EUR)
+Tonga	Pa'anga (TOP)	Vanuatu	Vatu (VUV)
+Tonga	Pa'anga (TOP)	Cabo Verde	Escudo (CVE)
+Tonga	Pa'anga (TOP)	Belgium	Euro (EUR)
+Tonga	Pa'anga (TOP)	Latvia	Latvian Lats (LVL)
+Tonga	Pa'anga (TOP)	Singapore	Singapore Dollar (SGD)
+Tonga	Pa'anga (TOP)	Congo	Congolese Franc (CDF)
+Tonga	Pa'anga (TOP)	Uruguay	Uruguayan Peso
+Tonga	Pa'anga (TOP)	Armenia	Dram (AMD)
+Tonga	Pa'anga (TOP)	Panama	Balboa (PAB)
+Tonga	Pa'anga (TOP)	Samoa	Tala
+Tonga	Pa'anga (TOP)	Haiti	Gourde
+Tonga	Pa'anga (TOP)	Sweden	Swedish Krona (SEK)
+Tonga	Pa'anga (TOP)	Burkina Faso	West African CFA franc
+Tonga	Pa'anga (TOP)	Nigeria	Naira
+Egypt	Egyptian Pound (EGP)	Timor-Leste	US Dollar (USD)
+Egypt	Egyptian Pound (EGP)	Bahamas	Bahamian Dollar
+Egypt	Egyptian Pound (EGP)	Nauru	Australian Dollar (AUD)
+Egypt	Egyptian Pound (EGP)	Czech Republic	Czech Koruna (CZK)
+Egypt	Egyptian Pound (EGP)	Tonga	Pa'anga (TOP)
+Egypt	Egyptian Pound (EGP)	Mauritania	Ouguiya (MRO)
+Egypt	Egyptian Pound (EGP)	Democratic Republic of the Congo	Congolese Franc (CDF)
+Egypt	Egyptian Pound (EGP)	Moldova	Moldovan Leu (MDL)
+Egypt	Egyptian Pound (EGP)	Slovenia	Euro (EUR)
+Egypt	Egyptian Pound (EGP)	India	Indian Rupee
+Egypt	Egyptian Pound (EGP)	Saudi Arabia	Saudi Riyal
+Egypt	Egyptian Pound (EGP)	Bolivia	Bolivian Boliviano (BOB)
+Egypt	Egyptian Pound (EGP)	Myanmar	Kyat
+Egypt	Egyptian Pound (EGP)	Bosnia and Herzegovina	Convertible Mark (KM or BAM)
+Egypt	Egyptian Pound (EGP)	Montenegro	Euro (EUR)
+Egypt	Egyptian Pound (EGP)	Solomon Islands	Solomon Islands Dollar (SBD)
+Egypt	Egyptian Pound (EGP)	Sudan	Sudanese Pound (SDG)
+Egypt	Egyptian Pound (EGP)	Australia	Australian Dollar (AUD)
+Egypt	Egyptian Pound (EGP)	Jamaica	Jamaican Dollar (JMD)
+Egypt	Egyptian Pound (EGP)	Equatorial Guinea	Central African CFA franc
+Egypt	Egyptian Pound (EGP)	South Korea	South Korean Won (KRW)
+Egypt	Egyptian Pound (EGP)	Brunei	Brunei Dollar (BND)
+Egypt	Egyptian Pound (EGP)	Germany	Euro (EUR)
+Egypt	Egyptian Pound (EGP)	Guyana	Guyanese Dollar
+Egypt	Egyptian Pound (EGP)	United Arab Emirates	UAE Dirham
+Egypt	Egyptian Pound (EGP)	Jordan	Jordanian Dinar (JOD)
+Egypt	Egyptian Pound (EGP)	Laos	Lao Kip (LAK)
+Egypt	Egyptian Pound (EGP)	Indonesia	Indonesian Rupiah
+Egypt	Egyptian Pound (EGP)	Brazil	Brazilian Real (BRL)
+Egypt	Egyptian Pound (EGP)	Colombia	Colombian Peso
+Egypt	Egyptian Pound (EGP)	Russia	Russian Ruble
+Egypt	Egyptian Pound (EGP)	Saint Kitts and Nevis	East Caribbean Dollar (XCD)
+Egypt	Egyptian Pound (EGP)	Peru	Sol (PEN)
+Egypt	Egyptian Pound (EGP)	Qatar	Qatari Riyal
+Egypt	Egyptian Pound (EGP)	Spain	Euro (EUR)
+Egypt	Egyptian Pound (EGP)	Vanuatu	Vatu (VUV)
+Egypt	Egyptian Pound (EGP)	Cabo Verde	Escudo (CVE)
+Egypt	Egyptian Pound (EGP)	Belgium	Euro (EUR)
+Egypt	Egyptian Pound (EGP)	Latvia	Latvian Lats (LVL)
+Egypt	Egyptian Pound (EGP)	Singapore	Singapore Dollar (SGD)
+Egypt	Egyptian Pound (EGP)	Congo	Congolese Franc (CDF)
+Egypt	Egyptian Pound (EGP)	Uruguay	Uruguayan Peso
+Egypt	Egyptian Pound (EGP)	Armenia	Dram (AMD)
+Egypt	Egyptian Pound (EGP)	Panama	Balboa (PAB)
+Egypt	Egyptian Pound (EGP)	Samoa	Tala
+Egypt	Egyptian Pound (EGP)	Haiti	Gourde
+Egypt	Egyptian Pound (EGP)	Sweden	Swedish Krona (SEK)
+Egypt	Egyptian Pound (EGP)	Burkina Faso	West African CFA franc
+Egypt	Egyptian Pound (EGP)	Nigeria	Naira
+Mauritania	Ouguiya (MRO)	Timor-Leste	US Dollar (USD)
+Mauritania	Ouguiya (MRO)	Bahamas	Bahamian Dollar
+Mauritania	Ouguiya (MRO)	Nauru	Australian Dollar (AUD)
+Mauritania	Ouguiya (MRO)	Czech Republic	Czech Koruna (CZK)
+Mauritania	Ouguiya (MRO)	Tonga	Pa'anga (TOP)
+Mauritania	Ouguiya (MRO)	Egypt	Egyptian Pound (EGP)
+Mauritania	Ouguiya (MRO)	Democratic Republic of the Congo	Congolese Franc (CDF)
+Mauritania	Ouguiya (MRO)	Moldova	Moldovan Leu (MDL)
+Mauritania	Ouguiya (MRO)	Slovenia	Euro (EUR)
+Mauritania	Ouguiya (MRO)	India	Indian Rupee
+Mauritania	Ouguiya (MRO)	Saudi Arabia	Saudi Riyal
+Mauritania	Ouguiya (MRO)	Bolivia	Bolivian Boliviano (BOB)
+Mauritania	Ouguiya (MRO)	Myanmar	Kyat
+Mauritania	Ouguiya (MRO)	Bosnia and Herzegovina	Convertible Mark (KM or BAM)
+Mauritania	Ouguiya (MRO)	Montenegro	Euro (EUR)
+Mauritania	Ouguiya (MRO)	Solomon Islands	Solomon Islands Dollar (SBD)
+Mauritania	Ouguiya (MRO)	Sudan	Sudanese Pound (SDG)
+Mauritania	Ouguiya (MRO)	Australia	Australian Dollar (AUD)
+Mauritania	Ouguiya (MRO)	Jamaica	Jamaican Dollar (JMD)
+Mauritania	Ouguiya (MRO)	Equatorial Guinea	Central African CFA franc
+Mauritania	Ouguiya (MRO)	South Korea	South Korean Won (KRW)
+Mauritania	Ouguiya (MRO)	Brunei	Brunei Dollar (BND)
+Mauritania	Ouguiya (MRO)	Germany	Euro (EUR)
+Mauritania	Ouguiya (MRO)	Guyana	Guyanese Dollar
+Mauritania	Ouguiya (MRO)	United Arab Emirates	UAE Dirham
+Mauritania	Ouguiya (MRO)	Jordan	Jordanian Dinar (JOD)
+Mauritania	Ouguiya (MRO)	Laos	Lao Kip (LAK)
+Mauritania	Ouguiya (MRO)	Indonesia	Indonesian Rupiah
+Mauritania	Ouguiya (MRO)	Brazil	Brazilian Real (BRL)
+Mauritania	Ouguiya (MRO)	Colombia	Colombian Peso
+Mauritania	Ouguiya (MRO)	Russia	Russian Ruble
+Mauritania	Ouguiya (MRO)	Saint Kitts and Nevis	East Caribbean Dollar (XCD)
+Mauritania	Ouguiya (MRO)	Peru	Sol (PEN)
+Mauritania	Ouguiya (MRO)	Qatar	Qatari Riyal
+Mauritania	Ouguiya (MRO)	Spain	Euro (EUR)
+Mauritania	Ouguiya (MRO)	Vanuatu	Vatu (VUV)
+Mauritania	Ouguiya (MRO)	Cabo Verde	Escudo (CVE)
+Mauritania	Ouguiya (MRO)	Belgium	Euro (EUR)
+Mauritania	Ouguiya (MRO)	Latvia	Latvian Lats (LVL)
+Mauritania	Ouguiya (MRO)	Singapore	Singapore Dollar (SGD)
+Mauritania	Ouguiya (MRO)	Congo	Congolese Franc (CDF)
+Mauritania	Ouguiya (MRO)	Uruguay	Uruguayan Peso
+Mauritania	Ouguiya (MRO)	Armenia	Dram (AMD)
+Mauritania	Ouguiya (MRO)	Panama	Balboa (PAB)
+Mauritania	Ouguiya (MRO)	Samoa	Tala
+Mauritania	Ouguiya (MRO)	Haiti	Gourde
+Mauritania	Ouguiya (MRO)	Sweden	Swedish Krona (SEK)
+Mauritania	Ouguiya (MRO)	Burkina Faso	West African CFA franc
+Mauritania	Ouguiya (MRO)	Nigeria	Naira
+Democratic Republic of the Congo	Congolese Franc (CDF)	Timor-Leste	US Dollar (USD)
+Democratic Republic of the Congo	Congolese Franc (CDF)	Bahamas	Bahamian Dollar
+Democratic Republic of the Congo	Congolese Franc (CDF)	Nauru	Australian Dollar (AUD)
+Democratic Republic of the Congo	Congolese Franc (CDF)	Czech Republic	Czech Koruna (CZK)
+Democratic Republic of the Congo	Congolese Franc (CDF)	Tonga	Pa'anga (TOP)
+Democratic Republic of the Congo	Congolese Franc (CDF)	Egypt	Egyptian Pound (EGP)
+Democratic Republic of the Congo	Congolese Franc (CDF)	Mauritania	Ouguiya (MRO)
+Democratic Republic of the Congo	Congolese Franc (CDF)	Moldova	Moldovan Leu (MDL)
+Democratic Republic of the Congo	Congolese Franc (CDF)	Slovenia	Euro (EUR)
+Democratic Republic of the Congo	Congolese Franc (CDF)	India	Indian Rupee
+Democratic Republic of the Congo	Congolese Franc (CDF)	Saudi Arabia	Saudi Riyal
+Democratic Republic of the Congo	Congolese Franc (CDF)	Bolivia	Bolivian Boliviano (BOB)
+Democratic Republic of the Congo	Congolese Franc (CDF)	Myanmar	Kyat
+Democratic Republic of the Congo	Congolese Franc (CDF)	Bosnia and Herzegovina	Convertible Mark (KM or BAM)
+Democratic Republic of the Congo	Congolese Franc (CDF)	Montenegro	Euro (EUR)
+Democratic Republic of the Congo	Congolese Franc (CDF)	Solomon Islands	Solomon Islands Dollar (SBD)
+Democratic Republic of the Congo	Congolese Franc (CDF)	Sudan	Sudanese Pound (SDG)
+Democratic Republic of the Congo	Congolese Franc (CDF)	Australia	Australian Dollar (AUD)
+Democratic Republic of the Congo	Congolese Franc (CDF)	Jamaica	Jamaican Dollar (JMD)
+Democratic Republic of the Congo	Congolese Franc (CDF)	Equatorial Guinea	Central African CFA franc
+Democratic Republic of the Congo	Congolese Franc (CDF)	South Korea	South Korean Won (KRW)
+Democratic Republic of the Congo	Congolese Franc (CDF)	Brunei	Brunei Dollar (BND)
+Democratic Republic of the Congo	Congolese Franc (CDF)	Germany	Euro (EUR)
+Democratic Republic of the Congo	Congolese Franc (CDF)	Guyana	Guyanese Dollar
+Democratic Republic of the Congo	Congolese Franc (CDF)	United Arab Emirates	UAE Dirham
+Democratic Republic of the Congo	Congolese Franc (CDF)	Jordan	Jordanian Dinar (JOD)
+Democratic Republic of the Congo	Congolese Franc (CDF)	Laos	Lao Kip (LAK)
+Democratic Republic of the Congo	Congolese Franc (CDF)	Indonesia	Indonesian Rupiah
+Democratic Republic of the Congo	Congolese Franc (CDF)	Brazil	Brazilian Real (BRL)
+Democratic Republic of the Congo	Congolese Franc (CDF)	Colombia	Colombian Peso
+Democratic Republic of the Congo	Congolese Franc (CDF)	Russia	Russian Ruble
+Democratic Republic of the Congo	Congolese Franc (CDF)	Saint Kitts and Nevis	East Caribbean Dollar (XCD)
+Democratic Republic of the Congo	Congolese Franc (CDF)	Peru	Sol (PEN)
+Democratic Republic of the Congo	Congolese Franc (CDF)	Qatar	Qatari Riyal
+Democratic Republic of the Congo	Congolese Franc (CDF)	Spain	Euro (EUR)
+Democratic Republic of the Congo	Congolese Franc (CDF)	Vanuatu	Vatu (VUV)
+Democratic Republic of the Congo	Congolese Franc (CDF)	Cabo Verde	Escudo (CVE)
+Democratic Republic of the Congo	Congolese Franc (CDF)	Belgium	Euro (EUR)
+Democratic Republic of the Congo	Congolese Franc (CDF)	Latvia	Latvian Lats (LVL)
+Democratic Republic of the Congo	Congolese Franc (CDF)	Singapore	Singapore Dollar (SGD)
+Democratic Republic of the Congo	Congolese Franc (CDF)	Uruguay	Uruguayan Peso
+Democratic Republic of the Congo	Congolese Franc (CDF)	Armenia	Dram (AMD)
+Democratic Republic of the Congo	Congolese Franc (CDF)	Panama	Balboa (PAB)
+Democratic Republic of the Congo	Congolese Franc (CDF)	Samoa	Tala
+Democratic Republic of the Congo	Congolese Franc (CDF)	Haiti	Gourde
+Democratic Republic of the Congo	Congolese Franc (CDF)	Sweden	Swedish Krona (SEK)
+Democratic Republic of the Congo	Congolese Franc (CDF)	Burkina Faso	West African CFA franc
+Democratic Republic of the Congo	Congolese Franc (CDF)	Nigeria	Naira
+Moldova	Moldovan Leu (MDL)	Timor-Leste	US Dollar (USD)
+Moldova	Moldovan Leu (MDL)	Bahamas	Bahamian Dollar
+Moldova	Moldovan Leu (MDL)	Nauru	Australian Dollar (AUD)
+Moldova	Moldovan Leu (MDL)	Czech Republic	Czech Koruna (CZK)
+Moldova	Moldovan Leu (MDL)	Tonga	Pa'anga (TOP)
+Moldova	Moldovan Leu (MDL)	Egypt	Egyptian Pound (EGP)
+Moldova	Moldovan Leu (MDL)	Mauritania	Ouguiya (MRO)
+Moldova	Moldovan Leu (MDL)	Democratic Republic of the Congo	Congolese Franc (CDF)
+Moldova	Moldovan Leu (MDL)	Slovenia	Euro (EUR)
+Moldova	Moldovan Leu (MDL)	India	Indian Rupee
+Moldova	Moldovan Leu (MDL)	Saudi Arabia	Saudi Riyal
+Moldova	Moldovan Leu (MDL)	Bolivia	Bolivian Boliviano (BOB)
+Moldova	Moldovan Leu (MDL)	Myanmar	Kyat
+Moldova	Moldovan Leu (MDL)	Bosnia and Herzegovina	Convertible Mark (KM or BAM)
+Moldova	Moldovan Leu (MDL)	Montenegro	Euro (EUR)
+Moldova	Moldovan Leu (MDL)	Solomon Islands	Solomon Islands Dollar (SBD)
+Moldova	Moldovan Leu (MDL)	Sudan	Sudanese Pound (SDG)
+Moldova	Moldovan Leu (MDL)	Australia	Australian Dollar (AUD)
+Moldova	Moldovan Leu (MDL)	Jamaica	Jamaican Dollar (JMD)
+Moldova	Moldovan Leu (MDL)	Equatorial Guinea	Central African CFA franc
+Moldova	Moldovan Leu (MDL)	South Korea	South Korean Won (KRW)
+Moldova	Moldovan Leu (MDL)	Brunei	Brunei Dollar (BND)
+Moldova	Moldovan Leu (MDL)	Germany	Euro (EUR)
+Moldova	Moldovan Leu (MDL)	Guyana	Guyanese Dollar
+Moldova	Moldovan Leu (MDL)	United Arab Emirates	UAE Dirham
+Moldova	Moldovan Leu (MDL)	Jordan	Jordanian Dinar (JOD)
+Moldova	Moldovan Leu (MDL)	Laos	Lao Kip (LAK)
+Moldova	Moldovan Leu (MDL)	Indonesia	Indonesian Rupiah
+Moldova	Moldovan Leu (MDL)	Brazil	Brazilian Real (BRL)
+Moldova	Moldovan Leu (MDL)	Colombia	Colombian Peso
+Moldova	Moldovan Leu (MDL)	Russia	Russian Ruble
+Moldova	Moldovan Leu (MDL)	Saint Kitts and Nevis	East Caribbean Dollar (XCD)
+Moldova	Moldovan Leu (MDL)	Peru	Sol (PEN)
+Moldova	Moldovan Leu (MDL)	Qatar	Qatari Riyal
+Moldova	Moldovan Leu (MDL)	Spain	Euro (EUR)
+Moldova	Moldovan Leu (MDL)	Vanuatu	Vatu (VUV)
+Moldova	Moldovan Leu (MDL)	Cabo Verde	Escudo (CVE)
+Moldova	Moldovan Leu (MDL)	Belgium	Euro (EUR)
+Moldova	Moldovan Leu (MDL)	Latvia	Latvian Lats (LVL)
+Moldova	Moldovan Leu (MDL)	Singapore	Singapore Dollar (SGD)
+Moldova	Moldovan Leu (MDL)	Congo	Congolese Franc (CDF)
+Moldova	Moldovan Leu (MDL)	Uruguay	Uruguayan Peso
+Moldova	Moldovan Leu (MDL)	Armenia	Dram (AMD)
+Moldova	Moldovan Leu (MDL)	Panama	Balboa (PAB)
+Moldova	Moldovan Leu (MDL)	Samoa	Tala
+Moldova	Moldovan Leu (MDL)	Haiti	Gourde
+Moldova	Moldovan Leu (MDL)	Sweden	Swedish Krona (SEK)
+Moldova	Moldovan Leu (MDL)	Burkina Faso	West African CFA franc
+Moldova	Moldovan Leu (MDL)	Nigeria	Naira
+Slovenia	Euro (EUR)	Timor-Leste	US Dollar (USD)
+Slovenia	Euro (EUR)	Bahamas	Bahamian Dollar
+Slovenia	Euro (EUR)	Nauru	Australian Dollar (AUD)
+Slovenia	Euro (EUR)	Czech Republic	Czech Koruna (CZK)
+Slovenia	Euro (EUR)	Tonga	Pa'anga (TOP)
+Slovenia	Euro (EUR)	Egypt	Egyptian Pound (EGP)
+Slovenia	Euro (EUR)	Mauritania	Ouguiya (MRO)
+Slovenia	Euro (EUR)	Democratic Republic of the Congo	Congolese Franc (CDF)
+Slovenia	Euro (EUR)	Moldova	Moldovan Leu (MDL)
+Slovenia	Euro (EUR)	India	Indian Rupee
+Slovenia	Euro (EUR)	Saudi Arabia	Saudi Riyal
+Slovenia	Euro (EUR)	Bolivia	Bolivian Boliviano (BOB)
+Slovenia	Euro (EUR)	Myanmar	Kyat
+Slovenia	Euro (EUR)	Bosnia and Herzegovina	Convertible Mark (KM or BAM)
+Slovenia	Euro (EUR)	Solomon Islands	Solomon Islands Dollar (SBD)
+Slovenia	Euro (EUR)	Sudan	Sudanese Pound (SDG)
+Slovenia	Euro (EUR)	Australia	Australian Dollar (AUD)
+Slovenia	Euro (EUR)	Jamaica	Jamaican Dollar (JMD)
+Slovenia	Euro (EUR)	Equatorial Guinea	Central African CFA franc
+Slovenia	Euro (EUR)	South Korea	South Korean Won (KRW)
+Slovenia	Euro (EUR)	Brunei	Brunei Dollar (BND)
+Slovenia	Euro (EUR)	Guyana	Guyanese Dollar
+Slovenia	Euro (EUR)	United Arab Emirates	UAE Dirham
+Slovenia	Euro (EUR)	Jordan	Jordanian Dinar (JOD)
+Slovenia	Euro (EUR)	Laos	Lao Kip (LAK)
+Slovenia	Euro (EUR)	Indonesia	Indonesian Rupiah
+Slovenia	Euro (EUR)	Brazil	Brazilian Real (BRL)
+Slovenia	Euro (EUR)	Colombia	Colombian Peso
+Slovenia	Euro (EUR)	Russia	Russian Ruble
+Slovenia	Euro (EUR)	Saint Kitts and Nevis	East Caribbean Dollar (XCD)
+Slovenia	Euro (EUR)	Peru	Sol (PEN)
+Slovenia	Euro (EUR)	Qatar	Qatari Riyal
+Slovenia	Euro (EUR)	Vanuatu	Vatu (VUV)
+Slovenia	Euro (EUR)	Cabo Verde	Escudo (CVE)
+Slovenia	Euro (EUR)	Latvia	Latvian Lats (LVL)
+Slovenia	Euro (EUR)	Singapore	Singapore Dollar (SGD)
+Slovenia	Euro (EUR)	Congo	Congolese Franc (CDF)
+Slovenia	Euro (EUR)	Uruguay	Uruguayan Peso
+Slovenia	Euro (EUR)	Armenia	Dram (AMD)
+Slovenia	Euro (EUR)	Panama	Balboa (PAB)
+Slovenia	Euro (EUR)	Samoa	Tala
+Slovenia	Euro (EUR)	Haiti	Gourde
+Slovenia	Euro (EUR)	Sweden	Swedish Krona (SEK)
+Slovenia	Euro (EUR)	Burkina Faso	West African CFA franc
+Slovenia	Euro (EUR)	Nigeria	Naira
+India	Indian Rupee	Timor-Leste	US Dollar (USD)
+India	Indian Rupee	Bahamas	Bahamian Dollar
+India	Indian Rupee	Nauru	Australian Dollar (AUD)
+India	Indian Rupee	Czech Republic	Czech Koruna (CZK)
+India	Indian Rupee	Tonga	Pa'anga (TOP)
+India	Indian Rupee	Egypt	Egyptian Pound (EGP)
+India	Indian Rupee	Mauritania	Ouguiya (MRO)
+India	Indian Rupee	Democratic Republic of the Congo	Congolese Franc (CDF)
+India	Indian Rupee	Moldova	Moldovan Leu (MDL)
+India	Indian Rupee	Slovenia	Euro (EUR)
+India	Indian Rupee	Saudi Arabia	Saudi Riyal
+India	Indian Rupee	Bolivia	Bolivian Boliviano (BOB)
+India	Indian Rupee	Myanmar	Kyat
+India	Indian Rupee	Bosnia and Herzegovina	Convertible Mark (KM or BAM)
+India	Indian Rupee	Montenegro	Euro (EUR)
+India	Indian Rupee	Solomon Islands	Solomon Islands Dollar (SBD)
+India	Indian Rupee	Sudan	Sudanese Pound (SDG)
+India	Indian Rupee	Australia	Australian Dollar (AUD)
+India	Indian Rupee	Jamaica	Jamaican Dollar (JMD)
+India	Indian Rupee	Equatorial Guinea	Central African CFA franc
+India	Indian Rupee	South Korea	South Korean Won (KRW)
+India	Indian Rupee	Brunei	Brunei Dollar (BND)
+India	Indian Rupee	Germany	Euro (EUR)
+India	Indian Rupee	Guyana	Guyanese Dollar
+India	Indian Rupee	United Arab Emirates	UAE Dirham
+India	Indian Rupee	Jordan	Jordanian Dinar (JOD)
+India	Indian Rupee	Laos	Lao Kip (LAK)
+India	Indian Rupee	Indonesia	Indonesian Rupiah
+India	Indian Rupee	Brazil	Brazilian Real (BRL)
+India	Indian Rupee	Colombia	Colombian Peso
+India	Indian Rupee	Russia	Russian Ruble
+India	Indian Rupee	Saint Kitts and Nevis	East Caribbean Dollar (XCD)
+India	Indian Rupee	Peru	Sol (PEN)
+India	Indian Rupee	Qatar	Qatari Riyal
+India	Indian Rupee	Spain	Euro (EUR)
+India	Indian Rupee	Vanuatu	Vatu (VUV)
+India	Indian Rupee	Cabo Verde	Escudo (CVE)
+India	Indian Rupee	Belgium	Euro (EUR)
+India	Indian Rupee	Latvia	Latvian Lats (LVL)
+India	Indian Rupee	Singapore	Singapore Dollar (SGD)
+India	Indian Rupee	Congo	Congolese Franc (CDF)
+India	Indian Rupee	Uruguay	Uruguayan Peso
+India	Indian Rupee	Armenia	Dram (AMD)
+India	Indian Rupee	Panama	Balboa (PAB)
+India	Indian Rupee	Samoa	Tala
+India	Indian Rupee	Haiti	Gourde
+India	Indian Rupee	Sweden	Swedish Krona (SEK)
+India	Indian Rupee	Burkina Faso	West African CFA franc
+India	Indian Rupee	Nigeria	Naira
+Saudi Arabia	Saudi Riyal	Timor-Leste	US Dollar (USD)
+Saudi Arabia	Saudi Riyal	Bahamas	Bahamian Dollar
+Saudi Arabia	Saudi Riyal	Nauru	Australian Dollar (AUD)
+Saudi Arabia	Saudi Riyal	Czech Republic	Czech Koruna (CZK)
+Saudi Arabia	Saudi Riyal	Tonga	Pa'anga (TOP)
+Saudi Arabia	Saudi Riyal	Egypt	Egyptian Pound (EGP)
+Saudi Arabia	Saudi Riyal	Mauritania	Ouguiya (MRO)
+Saudi Arabia	Saudi Riyal	Democratic Republic of the Congo	Congolese Franc (CDF)
+Saudi Arabia	Saudi Riyal	Moldova	Moldovan Leu (MDL)
+Saudi Arabia	Saudi Riyal	Slovenia	Euro (EUR)
+Saudi Arabia	Saudi Riyal	India	Indian Rupee
+Saudi Arabia	Saudi Riyal	Bolivia	Bolivian Boliviano (BOB)
+Saudi Arabia	Saudi Riyal	Myanmar	Kyat
+Saudi Arabia	Saudi Riyal	Bosnia and Herzegovina	Convertible Mark (KM or BAM)
+Saudi Arabia	Saudi Riyal	Montenegro	Euro (EUR)
+Saudi Arabia	Saudi Riyal	Solomon Islands	Solomon Islands Dollar (SBD)
+Saudi Arabia	Saudi Riyal	Sudan	Sudanese Pound (SDG)
+Saudi Arabia	Saudi Riyal	Australia	Australian Dollar (AUD)
+Saudi Arabia	Saudi Riyal	Jamaica	Jamaican Dollar (JMD)
+Saudi Arabia	Saudi Riyal	Equatorial Guinea	Central African CFA franc
+Saudi Arabia	Saudi Riyal	South Korea	South Korean Won (KRW)
+Saudi Arabia	Saudi Riyal	Brunei	Brunei Dollar (BND)
+Saudi Arabia	Saudi Riyal	Germany	Euro (EUR)
+Saudi Arabia	Saudi Riyal	Guyana	Guyanese Dollar
+Saudi Arabia	Saudi Riyal	United Arab Emirates	UAE Dirham
+Saudi Arabia	Saudi Riyal	Jordan	Jordanian Dinar (JOD)
+Saudi Arabia	Saudi Riyal	Laos	Lao Kip (LAK)
+Saudi Arabia	Saudi Riyal	Indonesia	Indonesian Rupiah
+Saudi Arabia	Saudi Riyal	Brazil	Brazilian Real (BRL)
+Saudi Arabia	Saudi Riyal	Colombia	Colombian Peso
+Saudi Arabia	Saudi Riyal	Russia	Russian Ruble
+Saudi Arabia	Saudi Riyal	Saint Kitts and Nevis	East Caribbean Dollar (XCD)
+Saudi Arabia	Saudi Riyal	Peru	Sol (PEN)
+Saudi Arabia	Saudi Riyal	Qatar	Qatari Riyal
+Saudi Arabia	Saudi Riyal	Spain	Euro (EUR)
+Saudi Arabia	Saudi Riyal	Vanuatu	Vatu (VUV)
+Saudi Arabia	Saudi Riyal	Cabo Verde	Escudo (CVE)
+Saudi Arabia	Saudi Riyal	Belgium	Euro (EUR)
+Saudi Arabia	Saudi Riyal	Latvia	Latvian Lats (LVL)
+Saudi Arabia	Saudi Riyal	Singapore	Singapore Dollar (SGD)
+Saudi Arabia	Saudi Riyal	Congo	Congolese Franc (CDF)
+Saudi Arabia	Saudi Riyal	Uruguay	Uruguayan Peso
+Saudi Arabia	Saudi Riyal	Armenia	Dram (AMD)
+Saudi Arabia	Saudi Riyal	Panama	Balboa (PAB)
+Saudi Arabia	Saudi Riyal	Samoa	Tala
+Saudi Arabia	Saudi Riyal	Haiti	Gourde
+Saudi Arabia	Saudi Riyal	Sweden	Swedish Krona (SEK)
+Saudi Arabia	Saudi Riyal	Burkina Faso	West African CFA franc
+Saudi Arabia	Saudi Riyal	Nigeria	Naira
+Bolivia	Bolivian Boliviano (BOB)	Timor-Leste	US Dollar (USD)
+Bolivia	Bolivian Boliviano (BOB)	Bahamas	Bahamian Dollar
+Bolivia	Bolivian Boliviano (BOB)	Nauru	Australian Dollar (AUD)
+Bolivia	Bolivian Boliviano (BOB)	Czech Republic	Czech Koruna (CZK)
+Bolivia	Bolivian Boliviano (BOB)	Tonga	Pa'anga (TOP)
+Bolivia	Bolivian Boliviano (BOB)	Egypt	Egyptian Pound (EGP)
+Bolivia	Bolivian Boliviano (BOB)	Mauritania	Ouguiya (MRO)
+Bolivia	Bolivian Boliviano (BOB)	Democratic Republic of the Congo	Congolese Franc (CDF)
+Bolivia	Bolivian Boliviano (BOB)	Moldova	Moldovan Leu (MDL)
+Bolivia	Bolivian Boliviano (BOB)	Slovenia	Euro (EUR)
+Bolivia	Bolivian Boliviano (BOB)	India	Indian Rupee
+Bolivia	Bolivian Boliviano (BOB)	Saudi Arabia	Saudi Riyal
+Bolivia	Bolivian Boliviano (BOB)	Myanmar	Kyat
+Bolivia	Bolivian Boliviano (BOB)	Bosnia and Herzegovina	Convertible Mark (KM or BAM)
+Bolivia	Bolivian Boliviano (BOB)	Montenegro	Euro (EUR)
+Bolivia	Bolivian Boliviano (BOB)	Solomon Islands	Solomon Islands Dollar (SBD)
+Bolivia	Bolivian Boliviano (BOB)	Sudan	Sudanese Pound (SDG)
+Bolivia	Bolivian Boliviano (BOB)	Australia	Australian Dollar (AUD)
+Bolivia	Bolivian Boliviano (BOB)	Jamaica	Jamaican Dollar (JMD)
+Bolivia	Bolivian Boliviano (BOB)	Equatorial Guinea	Central African CFA franc
+Bolivia	Bolivian Boliviano (BOB)	South Korea	South Korean Won (KRW)
+Bolivia	Bolivian Boliviano (BOB)	Brunei	Brunei Dollar (BND)
+Bolivia	Bolivian Boliviano (BOB)	Germany	Euro (EUR)
+Bolivia	Bolivian Boliviano (BOB)	Guyana	Guyanese Dollar
+Bolivia	Bolivian Boliviano (BOB)	United Arab Emirates	UAE Dirham
+Bolivia	Bolivian Boliviano (BOB)	Jordan	Jordanian Dinar (JOD)
+Bolivia	Bolivian Boliviano (BOB)	Laos	Lao Kip (LAK)
+Bolivia	Bolivian Boliviano (BOB)	Indonesia	Indonesian Rupiah
+Bolivia	Bolivian Boliviano (BOB)	Brazil	Brazilian Real (BRL)
+Bolivia	Bolivian Boliviano (BOB)	Colombia	Colombian Peso
+Bolivia	Bolivian Boliviano (BOB)	Russia	Russian Ruble
+Bolivia	Bolivian Boliviano (BOB)	Saint Kitts and Nevis	East Caribbean Dollar (XCD)
+Bolivia	Bolivian Boliviano (BOB)	Peru	Sol (PEN)
+Bolivia	Bolivian Boliviano (BOB)	Qatar	Qatari Riyal
+Bolivia	Bolivian Boliviano (BOB)	Spain	Euro (EUR)
+Bolivia	Bolivian Boliviano (BOB)	Vanuatu	Vatu (VUV)
+Bolivia	Bolivian Boliviano (BOB)	Cabo Verde	Escudo (CVE)
+Bolivia	Bolivian Boliviano (BOB)	Belgium	Euro (EUR)
+Bolivia	Bolivian Boliviano (BOB)	Latvia	Latvian Lats (LVL)
+Bolivia	Bolivian Boliviano (BOB)	Singapore	Singapore Dollar (SGD)
+Bolivia	Bolivian Boliviano (BOB)	Congo	Congolese Franc (CDF)
+Bolivia	Bolivian Boliviano (BOB)	Uruguay	Uruguayan Peso
+Bolivia	Bolivian Boliviano (BOB)	Armenia	Dram (AMD)
+Bolivia	Bolivian Boliviano (BOB)	Panama	Balboa (PAB)
+Bolivia	Bolivian Boliviano (BOB)	Samoa	Tala
+Bolivia	Bolivian Boliviano (BOB)	Haiti	Gourde
+Bolivia	Bolivian Boliviano (BOB)	Sweden	Swedish Krona (SEK)
+Bolivia	Bolivian Boliviano (BOB)	Burkina Faso	West African CFA franc
+Bolivia	Bolivian Boliviano (BOB)	Nigeria	Naira
+Myanmar	Kyat	Timor-Leste	US Dollar (USD)
+Myanmar	Kyat	Bahamas	Bahamian Dollar
+Myanmar	Kyat	Nauru	Australian Dollar (AUD)
+Myanmar	Kyat	Czech Republic	Czech Koruna (CZK)
+Myanmar	Kyat	Tonga	Pa'anga (TOP)
+Myanmar	Kyat	Egypt	Egyptian Pound (EGP)
+Myanmar	Kyat	Mauritania	Ouguiya (MRO)
+Myanmar	Kyat	Democratic Republic of the Congo	Congolese Franc (CDF)
+Myanmar	Kyat	Moldova	Moldovan Leu (MDL)
+Myanmar	Kyat	Slovenia	Euro (EUR)
+Myanmar	Kyat	India	Indian Rupee
+Myanmar	Kyat	Saudi Arabia	Saudi Riyal
+Myanmar	Kyat	Bolivia	Bolivian Boliviano (BOB)
+Myanmar	Kyat	Bosnia and Herzegovina	Convertible Mark (KM or BAM)
+Myanmar	Kyat	Montenegro	Euro (EUR)
+Myanmar	Kyat	Solomon Islands	Solomon Islands Dollar (SBD)
+Myanmar	Kyat	Sudan	Sudanese Pound (SDG)
+Myanmar	Kyat	Australia	Australian Dollar (AUD)
+Myanmar	Kyat	Jamaica	Jamaican Dollar (JMD)
+Myanmar	Kyat	Equatorial Guinea	Central African CFA franc
+Myanmar	Kyat	South Korea	South Korean Won (KRW)
+Myanmar	Kyat	Brunei	Brunei Dollar (BND)
+Myanmar	Kyat	Germany	Euro (EUR)
+Myanmar	Kyat	Guyana	Guyanese Dollar
+Myanmar	Kyat	United Arab Emirates	UAE Dirham
+Myanmar	Kyat	Jordan	Jordanian Dinar (JOD)
+Myanmar	Kyat	Laos	Lao Kip (LAK)
+Myanmar	Kyat	Indonesia	Indonesian Rupiah
+Myanmar	Kyat	Brazil	Brazilian Real (BRL)
+Myanmar	Kyat	Colombia	Colombian Peso
+Myanmar	Kyat	Russia	Russian Ruble
+Myanmar	Kyat	Saint Kitts and Nevis	East Caribbean Dollar (XCD)
+Myanmar	Kyat	Peru	Sol (PEN)
+Myanmar	Kyat	Qatar	Qatari Riyal
+Myanmar	Kyat	Spain	Euro (EUR)
+Myanmar	Kyat	Vanuatu	Vatu (VUV)
+Myanmar	Kyat	Cabo Verde	Escudo (CVE)
+Myanmar	Kyat	Belgium	Euro (EUR)
+Myanmar	Kyat	Latvia	Latvian Lats (LVL)
+Myanmar	Kyat	Singapore	Singapore Dollar (SGD)
+Myanmar	Kyat	Congo	Congolese Franc (CDF)
+Myanmar	Kyat	Uruguay	Uruguayan Peso
+Myanmar	Kyat	Armenia	Dram (AMD)
+Myanmar	Kyat	Panama	Balboa (PAB)
+Myanmar	Kyat	Samoa	Tala
+Myanmar	Kyat	Haiti	Gourde
+Myanmar	Kyat	Sweden	Swedish Krona (SEK)
+Myanmar	Kyat	Burkina Faso	West African CFA franc
+Myanmar	Kyat	Nigeria	Naira
+Bosnia and Herzegovina	Convertible Mark (KM or BAM)	Timor-Leste	US Dollar (USD)
+Bosnia and Herzegovina	Convertible Mark (KM or BAM)	Bahamas	Bahamian Dollar
+Bosnia and Herzegovina	Convertible Mark (KM or BAM)	Nauru	Australian Dollar (AUD)
+Bosnia and Herzegovina	Convertible Mark (KM or BAM)	Czech Republic	Czech Koruna (CZK)
+Bosnia and Herzegovina	Convertible Mark (KM or BAM)	Tonga	Pa'anga (TOP)
+Bosnia and Herzegovina	Convertible Mark (KM or BAM)	Egypt	Egyptian Pound (EGP)
+Bosnia and Herzegovina	Convertible Mark (KM or BAM)	Mauritania	Ouguiya (MRO)
+Bosnia and Herzegovina	Convertible Mark (KM or BAM)	Democratic Republic of the Congo	Congolese Franc (CDF)
+Bosnia and Herzegovina	Convertible Mark (KM or BAM)	Moldova	Moldovan Leu (MDL)
+Bosnia and Herzegovina	Convertible Mark (KM or BAM)	Slovenia	Euro (EUR)
+Bosnia and Herzegovina	Convertible Mark (KM or BAM)	India	Indian Rupee
+Bosnia and Herzegovina	Convertible Mark (KM or BAM)	Saudi Arabia	Saudi Riyal
+Bosnia and Herzegovina	Convertible Mark (KM or BAM)	Bolivia	Bolivian Boliviano (BOB)
+Bosnia and Herzegovina	Convertible Mark (KM or BAM)	Myanmar	Kyat
+Bosnia and Herzegovina	Convertible Mark (KM or BAM)	Montenegro	Euro (EUR)
+Bosnia and Herzegovina	Convertible Mark (KM or BAM)	Solomon Islands	Solomon Islands Dollar (SBD)
+Bosnia and Herzegovina	Convertible Mark (KM or BAM)	Sudan	Sudanese Pound (SDG)
+Bosnia and Herzegovina	Convertible Mark (KM or BAM)	Australia	Australian Dollar (AUD)
+Bosnia and Herzegovina	Convertible Mark (KM or BAM)	Jamaica	Jamaican Dollar (JMD)
+Bosnia and Herzegovina	Convertible Mark (KM or BAM)	Equatorial Guinea	Central African CFA franc
+Bosnia and Herzegovina	Convertible Mark (KM or BAM)	South Korea	South Korean Won (KRW)
+Bosnia and Herzegovina	Convertible Mark (KM or BAM)	Brunei	Brunei Dollar (BND)
+Bosnia and Herzegovina	Convertible Mark (KM or BAM)	Germany	Euro (EUR)
+Bosnia and Herzegovina	Convertible Mark (KM or BAM)	Guyana	Guyanese Dollar
+Bosnia and Herzegovina	Convertible Mark (KM or BAM)	United Arab Emirates	UAE Dirham
+Bosnia and Herzegovina	Convertible Mark (KM or BAM)	Jordan	Jordanian Dinar (JOD)
+Bosnia and Herzegovina	Convertible Mark (KM or BAM)	Laos	Lao Kip (LAK)
+Bosnia and Herzegovina	Convertible Mark (KM or BAM)	Indonesia	Indonesian Rupiah
+Bosnia and Herzegovina	Convertible Mark (KM or BAM)	Brazil	Brazilian Real (BRL)
+Bosnia and Herzegovina	Convertible Mark (KM or BAM)	Colombia	Colombian Peso
+Bosnia and Herzegovina	Convertible Mark (KM or BAM)	Russia	Russian Ruble
+Bosnia and Herzegovina	Convertible Mark (KM or BAM)	Saint Kitts and Nevis	East Caribbean Dollar (XCD)
+Bosnia and Herzegovina	Convertible Mark (KM or BAM)	Peru	Sol (PEN)
+Bosnia and Herzegovina	Convertible Mark (KM or BAM)	Qatar	Qatari Riyal
+Bosnia and Herzegovina	Convertible Mark (KM or BAM)	Spain	Euro (EUR)
+Bosnia and Herzegovina	Convertible Mark (KM or BAM)	Vanuatu	Vatu (VUV)
+Bosnia and Herzegovina	Convertible Mark (KM or BAM)	Cabo Verde	Escudo (CVE)
+Bosnia and Herzegovina	Convertible Mark (KM or BAM)	Belgium	Euro (EUR)
+Bosnia and Herzegovina	Convertible Mark (KM or BAM)	Latvia	Latvian Lats (LVL)
+Bosnia and Herzegovina	Convertible Mark (KM or BAM)	Singapore	Singapore Dollar (SGD)
+Bosnia and Herzegovina	Convertible Mark (KM or BAM)	Congo	Congolese Franc (CDF)
+Bosnia and Herzegovina	Convertible Mark (KM or BAM)	Uruguay	Uruguayan Peso
+Bosnia and Herzegovina	Convertible Mark (KM or BAM)	Armenia	Dram (AMD)
+Bosnia and Herzegovina	Convertible Mark (KM or BAM)	Panama	Balboa (PAB)
+Bosnia and Herzegovina	Convertible Mark (KM or BAM)	Samoa	Tala
+Bosnia and Herzegovina	Convertible Mark (KM or BAM)	Haiti	Gourde
+Bosnia and Herzegovina	Convertible Mark (KM or BAM)	Sweden	Swedish Krona (SEK)
+Bosnia and Herzegovina	Convertible Mark (KM or BAM)	Burkina Faso	West African CFA franc
+Bosnia and Herzegovina	Convertible Mark (KM or BAM)	Nigeria	Naira
+Montenegro	Euro (EUR)	Timor-Leste	US Dollar (USD)
+Montenegro	Euro (EUR)	Bahamas	Bahamian Dollar
+Montenegro	Euro (EUR)	Nauru	Australian Dollar (AUD)
+Montenegro	Euro (EUR)	Czech Republic	Czech Koruna (CZK)
+Montenegro	Euro (EUR)	Tonga	Pa'anga (TOP)
+Montenegro	Euro (EUR)	Egypt	Egyptian Pound (EGP)
+Montenegro	Euro (EUR)	Mauritania	Ouguiya (MRO)
+Montenegro	Euro (EUR)	Democratic Republic of the Congo	Congolese Franc (CDF)
+Montenegro	Euro (EUR)	Moldova	Moldovan Leu (MDL)
+Montenegro	Euro (EUR)	India	Indian Rupee
+Montenegro	Euro (EUR)	Saudi Arabia	Saudi Riyal
+Montenegro	Euro (EUR)	Bolivia	Bolivian Boliviano (BOB)
+Montenegro	Euro (EUR)	Myanmar	Kyat
+Montenegro	Euro (EUR)	Bosnia and Herzegovina	Convertible Mark (KM or BAM)
+Montenegro	Euro (EUR)	Solomon Islands	Solomon Islands Dollar (SBD)
+Montenegro	Euro (EUR)	Sudan	Sudanese Pound (SDG)
+Montenegro	Euro (EUR)	Australia	Australian Dollar (AUD)
+Montenegro	Euro (EUR)	Jamaica	Jamaican Dollar (JMD)
+Montenegro	Euro (EUR)	Equatorial Guinea	Central African CFA franc
+Montenegro	Euro (EUR)	South Korea	South Korean Won (KRW)
+Montenegro	Euro (EUR)	Brunei	Brunei Dollar (BND)
+Montenegro	Euro (EUR)	Guyana	Guyanese Dollar
+Montenegro	Euro (EUR)	United Arab Emirates	UAE Dirham
+Montenegro	Euro (EUR)	Jordan	Jordanian Dinar (JOD)
+Montenegro	Euro (EUR)	Laos	Lao Kip (LAK)
+Montenegro	Euro (EUR)	Indonesia	Indonesian Rupiah
+Montenegro	Euro (EUR)	Brazil	Brazilian Real (BRL)
+Montenegro	Euro (EUR)	Colombia	Colombian Peso
+Montenegro	Euro (EUR)	Russia	Russian Ruble
+Montenegro	Euro (EUR)	Saint Kitts and Nevis	East Caribbean Dollar (XCD)
+Montenegro	Euro (EUR)	Peru	Sol (PEN)
+Montenegro	Euro (EUR)	Qatar	Qatari Riyal
+Montenegro	Euro (EUR)	Vanuatu	Vatu (VUV)
+Montenegro	Euro (EUR)	Cabo Verde	Escudo (CVE)
+Montenegro	Euro (EUR)	Latvia	Latvian Lats (LVL)
+Montenegro	Euro (EUR)	Singapore	Singapore Dollar (SGD)
+Montenegro	Euro (EUR)	Congo	Congolese Franc (CDF)
+Montenegro	Euro (EUR)	Uruguay	Uruguayan Peso
+Montenegro	Euro (EUR)	Armenia	Dram (AMD)
+Montenegro	Euro (EUR)	Panama	Balboa (PAB)
+Montenegro	Euro (EUR)	Samoa	Tala
+Montenegro	Euro (EUR)	Haiti	Gourde
+Montenegro	Euro (EUR)	Sweden	Swedish Krona (SEK)
+Montenegro	Euro (EUR)	Burkina Faso	West African CFA franc
+Montenegro	Euro (EUR)	Nigeria	Naira
+Solomon Islands	Solomon Islands Dollar (SBD)	Timor-Leste	US Dollar (USD)
+Solomon Islands	Solomon Islands Dollar (SBD)	Bahamas	Bahamian Dollar
+Solomon Islands	Solomon Islands Dollar (SBD)	Nauru	Australian Dollar (AUD)
+Solomon Islands	Solomon Islands Dollar (SBD)	Czech Republic	Czech Koruna (CZK)
+Solomon Islands	Solomon Islands Dollar (SBD)	Tonga	Pa'anga (TOP)
+Solomon Islands	Solomon Islands Dollar (SBD)	Egypt	Egyptian Pound (EGP)
+Solomon Islands	Solomon Islands Dollar (SBD)	Mauritania	Ouguiya (MRO)
+Solomon Islands	Solomon Islands Dollar (SBD)	Democratic Republic of the Congo	Congolese Franc (CDF)
+Solomon Islands	Solomon Islands Dollar (SBD)	Moldova	Moldovan Leu (MDL)
+Solomon Islands	Solomon Islands Dollar (SBD)	Slovenia	Euro (EUR)
+Solomon Islands	Solomon Islands Dollar (SBD)	India	Indian Rupee
+Solomon Islands	Solomon Islands Dollar (SBD)	Saudi Arabia	Saudi Riyal
+Solomon Islands	Solomon Islands Dollar (SBD)	Bolivia	Bolivian Boliviano (BOB)
+Solomon Islands	Solomon Islands Dollar (SBD)	Myanmar	Kyat
+Solomon Islands	Solomon Islands Dollar (SBD)	Bosnia and Herzegovina	Convertible Mark (KM or BAM)
+Solomon Islands	Solomon Islands Dollar (SBD)	Montenegro	Euro (EUR)
+Solomon Islands	Solomon Islands Dollar (SBD)	Sudan	Sudanese Pound (SDG)
+Solomon Islands	Solomon Islands Dollar (SBD)	Australia	Australian Dollar (AUD)
+Solomon Islands	Solomon Islands Dollar (SBD)	Jamaica	Jamaican Dollar (JMD)
+Solomon Islands	Solomon Islands Dollar (SBD)	Equatorial Guinea	Central African CFA franc
+Solomon Islands	Solomon Islands Dollar (SBD)	South Korea	South Korean Won (KRW)
+Solomon Islands	Solomon Islands Dollar (SBD)	Brunei	Brunei Dollar (BND)
+Solomon Islands	Solomon Islands Dollar (SBD)	Germany	Euro (EUR)
+Solomon Islands	Solomon Islands Dollar (SBD)	Guyana	Guyanese Dollar
+Solomon Islands	Solomon Islands Dollar (SBD)	United Arab Emirates	UAE Dirham
+Solomon Islands	Solomon Islands Dollar (SBD)	Jordan	Jordanian Dinar (JOD)
+Solomon Islands	Solomon Islands Dollar (SBD)	Laos	Lao Kip (LAK)
+Solomon Islands	Solomon Islands Dollar (SBD)	Indonesia	Indonesian Rupiah
+Solomon Islands	Solomon Islands Dollar (SBD)	Brazil	Brazilian Real (BRL)
+Solomon Islands	Solomon Islands Dollar (SBD)	Colombia	Colombian Peso
+Solomon Islands	Solomon Islands Dollar (SBD)	Russia	Russian Ruble
+Solomon Islands	Solomon Islands Dollar (SBD)	Saint Kitts and Nevis	East Caribbean Dollar (XCD)
+Solomon Islands	Solomon Islands Dollar (SBD)	Peru	Sol (PEN)
+Solomon Islands	Solomon Islands Dollar (SBD)	Qatar	Qatari Riyal
+Solomon Islands	Solomon Islands Dollar (SBD)	Spain	Euro (EUR)
+Solomon Islands	Solomon Islands Dollar (SBD)	Vanuatu	Vatu (VUV)
+Solomon Islands	Solomon Islands Dollar (SBD)	Cabo Verde	Escudo (CVE)
+Solomon Islands	Solomon Islands Dollar (SBD)	Belgium	Euro (EUR)
+Solomon Islands	Solomon Islands Dollar (SBD)	Latvia	Latvian Lats (LVL)
+Solomon Islands	Solomon Islands Dollar (SBD)	Singapore	Singapore Dollar (SGD)
+Solomon Islands	Solomon Islands Dollar (SBD)	Congo	Congolese Franc (CDF)
+Solomon Islands	Solomon Islands Dollar (SBD)	Uruguay	Uruguayan Peso
+Solomon Islands	Solomon Islands Dollar (SBD)	Armenia	Dram (AMD)
+Solomon Islands	Solomon Islands Dollar (SBD)	Panama	Balboa (PAB)
+Solomon Islands	Solomon Islands Dollar (SBD)	Samoa	Tala
+Solomon Islands	Solomon Islands Dollar (SBD)	Haiti	Gourde
+Solomon Islands	Solomon Islands Dollar (SBD)	Sweden	Swedish Krona (SEK)
+Solomon Islands	Solomon Islands Dollar (SBD)	Burkina Faso	West African CFA franc
+Solomon Islands	Solomon Islands Dollar (SBD)	Nigeria	Naira
+Sudan	Sudanese Pound (SDG)	Timor-Leste	US Dollar (USD)
+Sudan	Sudanese Pound (SDG)	Bahamas	Bahamian Dollar
+Sudan	Sudanese Pound (SDG)	Nauru	Australian Dollar (AUD)
+Sudan	Sudanese Pound (SDG)	Czech Republic	Czech Koruna (CZK)
+Sudan	Sudanese Pound (SDG)	Tonga	Pa'anga (TOP)
+Sudan	Sudanese Pound (SDG)	Egypt	Egyptian Pound (EGP)
+Sudan	Sudanese Pound (SDG)	Mauritania	Ouguiya (MRO)
+Sudan	Sudanese Pound (SDG)	Democratic Republic of the Congo	Congolese Franc (CDF)
+Sudan	Sudanese Pound (SDG)	Moldova	Moldovan Leu (MDL)
+Sudan	Sudanese Pound (SDG)	Slovenia	Euro (EUR)
+Sudan	Sudanese Pound (SDG)	India	Indian Rupee
+Sudan	Sudanese Pound (SDG)	Saudi Arabia	Saudi Riyal
+Sudan	Sudanese Pound (SDG)	Bolivia	Bolivian Boliviano (BOB)
+Sudan	Sudanese Pound (SDG)	Myanmar	Kyat
+Sudan	Sudanese Pound (SDG)	Bosnia and Herzegovina	Convertible Mark (KM or BAM)
+Sudan	Sudanese Pound (SDG)	Montenegro	Euro (EUR)
+Sudan	Sudanese Pound (SDG)	Solomon Islands	Solomon Islands Dollar (SBD)
+Sudan	Sudanese Pound (SDG)	Australia	Australian Dollar (AUD)
+Sudan	Sudanese Pound (SDG)	Jamaica	Jamaican Dollar (JMD)
+Sudan	Sudanese Pound (SDG)	Equatorial Guinea	Central African CFA franc
+Sudan	Sudanese Pound (SDG)	South Korea	South Korean Won (KRW)
+Sudan	Sudanese Pound (SDG)	Brunei	Brunei Dollar (BND)
+Sudan	Sudanese Pound (SDG)	Germany	Euro (EUR)
+Sudan	Sudanese Pound (SDG)	Guyana	Guyanese Dollar
+Sudan	Sudanese Pound (SDG)	United Arab Emirates	UAE Dirham
+Sudan	Sudanese Pound (SDG)	Jordan	Jordanian Dinar (JOD)
+Sudan	Sudanese Pound (SDG)	Laos	Lao Kip (LAK)
+Sudan	Sudanese Pound (SDG)	Indonesia	Indonesian Rupiah
+Sudan	Sudanese Pound (SDG)	Brazil	Brazilian Real (BRL)
+Sudan	Sudanese Pound (SDG)	Colombia	Colombian Peso
+Sudan	Sudanese Pound (SDG)	Russia	Russian Ruble
+Sudan	Sudanese Pound (SDG)	Saint Kitts and Nevis	East Caribbean Dollar (XCD)
+Sudan	Sudanese Pound (SDG)	Peru	Sol (PEN)
+Sudan	Sudanese Pound (SDG)	Qatar	Qatari Riyal
+Sudan	Sudanese Pound (SDG)	Spain	Euro (EUR)
+Sudan	Sudanese Pound (SDG)	Vanuatu	Vatu (VUV)
+Sudan	Sudanese Pound (SDG)	Cabo Verde	Escudo (CVE)
+Sudan	Sudanese Pound (SDG)	Belgium	Euro (EUR)
+Sudan	Sudanese Pound (SDG)	Latvia	Latvian Lats (LVL)
+Sudan	Sudanese Pound (SDG)	Singapore	Singapore Dollar (SGD)
+Sudan	Sudanese Pound (SDG)	Congo	Congolese Franc (CDF)
+Sudan	Sudanese Pound (SDG)	Uruguay	Uruguayan Peso
+Sudan	Sudanese Pound (SDG)	Armenia	Dram (AMD)
+Sudan	Sudanese Pound (SDG)	Panama	Balboa (PAB)
+Sudan	Sudanese Pound (SDG)	Samoa	Tala
+Sudan	Sudanese Pound (SDG)	Haiti	Gourde
+Sudan	Sudanese Pound (SDG)	Sweden	Swedish Krona (SEK)
+Sudan	Sudanese Pound (SDG)	Burkina Faso	West African CFA franc
+Sudan	Sudanese Pound (SDG)	Nigeria	Naira
+Australia	Australian Dollar (AUD)	Timor-Leste	US Dollar (USD)
+Australia	Australian Dollar (AUD)	Bahamas	Bahamian Dollar
+Australia	Australian Dollar (AUD)	Czech Republic	Czech Koruna (CZK)
+Australia	Australian Dollar (AUD)	Tonga	Pa'anga (TOP)
+Australia	Australian Dollar (AUD)	Egypt	Egyptian Pound (EGP)
+Australia	Australian Dollar (AUD)	Mauritania	Ouguiya (MRO)
+Australia	Australian Dollar (AUD)	Democratic Republic of the Congo	Congolese Franc (CDF)
+Australia	Australian Dollar (AUD)	Moldova	Moldovan Leu (MDL)
+Australia	Australian Dollar (AUD)	Slovenia	Euro (EUR)
+Australia	Australian Dollar (AUD)	India	Indian Rupee
+Australia	Australian Dollar (AUD)	Saudi Arabia	Saudi Riyal
+Australia	Australian Dollar (AUD)	Bolivia	Bolivian Boliviano (BOB)
+Australia	Australian Dollar (AUD)	Myanmar	Kyat
+Australia	Australian Dollar (AUD)	Bosnia and Herzegovina	Convertible Mark (KM or BAM)
+Australia	Australian Dollar (AUD)	Montenegro	Euro (EUR)
+Australia	Australian Dollar (AUD)	Solomon Islands	Solomon Islands Dollar (SBD)
+Australia	Australian Dollar (AUD)	Sudan	Sudanese Pound (SDG)
+Australia	Australian Dollar (AUD)	Jamaica	Jamaican Dollar (JMD)
+Australia	Australian Dollar (AUD)	Equatorial Guinea	Central African CFA franc
+Australia	Australian Dollar (AUD)	South Korea	South Korean Won (KRW)
+Australia	Australian Dollar (AUD)	Brunei	Brunei Dollar (BND)
+Australia	Australian Dollar (AUD)	Germany	Euro (EUR)
+Australia	Australian Dollar (AUD)	Guyana	Guyanese Dollar
+Australia	Australian Dollar (AUD)	United Arab Emirates	UAE Dirham
+Australia	Australian Dollar (AUD)	Jordan	Jordanian Dinar (JOD)
+Australia	Australian Dollar (AUD)	Laos	Lao Kip (LAK)
+Australia	Australian Dollar (AUD)	Indonesia	Indonesian Rupiah
+Australia	Australian Dollar (AUD)	Brazil	Brazilian Real (BRL)
+Australia	Australian Dollar (AUD)	Colombia	Colombian Peso
+Australia	Australian Dollar (AUD)	Russia	Russian Ruble
+Australia	Australian Dollar (AUD)	Saint Kitts and Nevis	East Caribbean Dollar (XCD)
+Australia	Australian Dollar (AUD)	Peru	Sol (PEN)
+Australia	Australian Dollar (AUD)	Qatar	Qatari Riyal
+Australia	Australian Dollar (AUD)	Spain	Euro (EUR)
+Australia	Australian Dollar (AUD)	Vanuatu	Vatu (VUV)
+Australia	Australian Dollar (AUD)	Cabo Verde	Escudo (CVE)
+Australia	Australian Dollar (AUD)	Belgium	Euro (EUR)
+Australia	Australian Dollar (AUD)	Latvia	Latvian Lats (LVL)
+Australia	Australian Dollar (AUD)	Singapore	Singapore Dollar (SGD)
+Australia	Australian Dollar (AUD)	Congo	Congolese Franc (CDF)
+Australia	Australian Dollar (AUD)	Uruguay	Uruguayan Peso
+Australia	Australian Dollar (AUD)	Armenia	Dram (AMD)
+Australia	Australian Dollar (AUD)	Panama	Balboa (PAB)
+Australia	Australian Dollar (AUD)	Samoa	Tala
+Australia	Australian Dollar (AUD)	Haiti	Gourde
+Australia	Australian Dollar (AUD)	Sweden	Swedish Krona (SEK)
+Australia	Australian Dollar (AUD)	Burkina Faso	West African CFA franc
+Australia	Australian Dollar (AUD)	Nigeria	Naira
+Jamaica	Jamaican Dollar (JMD)	Timor-Leste	US Dollar (USD)
+Jamaica	Jamaican Dollar (JMD)	Bahamas	Bahamian Dollar
+Jamaica	Jamaican Dollar (JMD)	Nauru	Australian Dollar (AUD)
+Jamaica	Jamaican Dollar (JMD)	Czech Republic	Czech Koruna (CZK)
+Jamaica	Jamaican Dollar (JMD)	Tonga	Pa'anga (TOP)
+Jamaica	Jamaican Dollar (JMD)	Egypt	Egyptian Pound (EGP)
+Jamaica	Jamaican Dollar (JMD)	Mauritania	Ouguiya (MRO)
+Jamaica	Jamaican Dollar (JMD)	Democratic Republic of the Congo	Congolese Franc (CDF)
+Jamaica	Jamaican Dollar (JMD)	Moldova	Moldovan Leu (MDL)
+Jamaica	Jamaican Dollar (JMD)	Slovenia	Euro (EUR)
+Jamaica	Jamaican Dollar (JMD)	India	Indian Rupee
+Jamaica	Jamaican Dollar (JMD)	Saudi Arabia	Saudi Riyal
+Jamaica	Jamaican Dollar (JMD)	Bolivia	Bolivian Boliviano (BOB)
+Jamaica	Jamaican Dollar (JMD)	Myanmar	Kyat
+Jamaica	Jamaican Dollar (JMD)	Bosnia and Herzegovina	Convertible Mark (KM or BAM)
+Jamaica	Jamaican Dollar (JMD)	Montenegro	Euro (EUR)
+Jamaica	Jamaican Dollar (JMD)	Solomon Islands	Solomon Islands Dollar (SBD)
+Jamaica	Jamaican Dollar (JMD)	Sudan	Sudanese Pound (SDG)
+Jamaica	Jamaican Dollar (JMD)	Australia	Australian Dollar (AUD)
+Jamaica	Jamaican Dollar (JMD)	Equatorial Guinea	Central African CFA franc
+Jamaica	Jamaican Dollar (JMD)	South Korea	South Korean Won (KRW)
+Jamaica	Jamaican Dollar (JMD)	Brunei	Brunei Dollar (BND)
+Jamaica	Jamaican Dollar (JMD)	Germany	Euro (EUR)
+Jamaica	Jamaican Dollar (JMD)	Guyana	Guyanese Dollar
+Jamaica	Jamaican Dollar (JMD)	United Arab Emirates	UAE Dirham
+Jamaica	Jamaican Dollar (JMD)	Jordan	Jordanian Dinar (JOD)
+Jamaica	Jamaican Dollar (JMD)	Laos	Lao Kip (LAK)
+Jamaica	Jamaican Dollar (JMD)	Indonesia	Indonesian Rupiah
+Jamaica	Jamaican Dollar (JMD)	Brazil	Brazilian Real (BRL)
+Jamaica	Jamaican Dollar (JMD)	Colombia	Colombian Peso
+Jamaica	Jamaican Dollar (JMD)	Russia	Russian Ruble
+Jamaica	Jamaican Dollar (JMD)	Saint Kitts and Nevis	East Caribbean Dollar (XCD)
+Jamaica	Jamaican Dollar (JMD)	Peru	Sol (PEN)
+Jamaica	Jamaican Dollar (JMD)	Qatar	Qatari Riyal
+Jamaica	Jamaican Dollar (JMD)	Spain	Euro (EUR)
+Jamaica	Jamaican Dollar (JMD)	Vanuatu	Vatu (VUV)
+Jamaica	Jamaican Dollar (JMD)	Cabo Verde	Escudo (CVE)
+Jamaica	Jamaican Dollar (JMD)	Belgium	Euro (EUR)
+Jamaica	Jamaican Dollar (JMD)	Latvia	Latvian Lats (LVL)
+Jamaica	Jamaican Dollar (JMD)	Singapore	Singapore Dollar (SGD)
+Jamaica	Jamaican Dollar (JMD)	Congo	Congolese Franc (CDF)
+Jamaica	Jamaican Dollar (JMD)	Uruguay	Uruguayan Peso
+Jamaica	Jamaican Dollar (JMD)	Armenia	Dram (AMD)
+Jamaica	Jamaican Dollar (JMD)	Panama	Balboa (PAB)
+Jamaica	Jamaican Dollar (JMD)	Samoa	Tala
+Jamaica	Jamaican Dollar (JMD)	Haiti	Gourde
+Jamaica	Jamaican Dollar (JMD)	Sweden	Swedish Krona (SEK)
+Jamaica	Jamaican Dollar (JMD)	Burkina Faso	West African CFA franc
+Jamaica	Jamaican Dollar (JMD)	Nigeria	Naira
+Equatorial Guinea	Central African CFA franc	Timor-Leste	US Dollar (USD)
+Equatorial Guinea	Central African CFA franc	Bahamas	Bahamian Dollar
+Equatorial Guinea	Central African CFA franc	Nauru	Australian Dollar (AUD)
+Equatorial Guinea	Central African CFA franc	Czech Republic	Czech Koruna (CZK)
+Equatorial Guinea	Central African CFA franc	Tonga	Pa'anga (TOP)
+Equatorial Guinea	Central African CFA franc	Egypt	Egyptian Pound (EGP)
+Equatorial Guinea	Central African CFA franc	Mauritania	Ouguiya (MRO)
+Equatorial Guinea	Central African CFA franc	Democratic Republic of the Congo	Congolese Franc (CDF)
+Equatorial Guinea	Central African CFA franc	Moldova	Moldovan Leu (MDL)
+Equatorial Guinea	Central African CFA franc	Slovenia	Euro (EUR)
+Equatorial Guinea	Central African CFA franc	India	Indian Rupee
+Equatorial Guinea	Central African CFA franc	Saudi Arabia	Saudi Riyal
+Equatorial Guinea	Central African CFA franc	Bolivia	Bolivian Boliviano (BOB)
+Equatorial Guinea	Central African CFA franc	Myanmar	Kyat
+Equatorial Guinea	Central African CFA franc	Bosnia and Herzegovina	Convertible Mark (KM or BAM)
+Equatorial Guinea	Central African CFA franc	Montenegro	Euro (EUR)
+Equatorial Guinea	Central African CFA franc	Solomon Islands	Solomon Islands Dollar (SBD)
+Equatorial Guinea	Central African CFA franc	Sudan	Sudanese Pound (SDG)
+Equatorial Guinea	Central African CFA franc	Australia	Australian Dollar (AUD)
+Equatorial Guinea	Central African CFA franc	Jamaica	Jamaican Dollar (JMD)
+Equatorial Guinea	Central African CFA franc	South Korea	South Korean Won (KRW)
+Equatorial Guinea	Central African CFA franc	Brunei	Brunei Dollar (BND)
+Equatorial Guinea	Central African CFA franc	Germany	Euro (EUR)
+Equatorial Guinea	Central African CFA franc	Guyana	Guyanese Dollar
+Equatorial Guinea	Central African CFA franc	United Arab Emirates	UAE Dirham
+Equatorial Guinea	Central African CFA franc	Jordan	Jordanian Dinar (JOD)
+Equatorial Guinea	Central African CFA franc	Laos	Lao Kip (LAK)
+Equatorial Guinea	Central African CFA franc	Indonesia	Indonesian Rupiah
+Equatorial Guinea	Central African CFA franc	Brazil	Brazilian Real (BRL)
+Equatorial Guinea	Central African CFA franc	Colombia	Colombian Peso
+Equatorial Guinea	Central African CFA franc	Russia	Russian Ruble
+Equatorial Guinea	Central African CFA franc	Saint Kitts and Nevis	East Caribbean Dollar (XCD)
+Equatorial Guinea	Central African CFA franc	Peru	Sol (PEN)
+Equatorial Guinea	Central African CFA franc	Qatar	Qatari Riyal
+Equatorial Guinea	Central African CFA franc	Spain	Euro (EUR)
+Equatorial Guinea	Central African CFA franc	Vanuatu	Vatu (VUV)
+Equatorial Guinea	Central African CFA franc	Cabo Verde	Escudo (CVE)
+Equatorial Guinea	Central African CFA franc	Belgium	Euro (EUR)
+Equatorial Guinea	Central African CFA franc	Latvia	Latvian Lats (LVL)
+Equatorial Guinea	Central African CFA franc	Singapore	Singapore Dollar (SGD)
+Equatorial Guinea	Central African CFA franc	Congo	Congolese Franc (CDF)
+Equatorial Guinea	Central African CFA franc	Uruguay	Uruguayan Peso
+Equatorial Guinea	Central African CFA franc	Armenia	Dram (AMD)
+Equatorial Guinea	Central African CFA franc	Panama	Balboa (PAB)
+Equatorial Guinea	Central African CFA franc	Samoa	Tala
+Equatorial Guinea	Central African CFA franc	Haiti	Gourde
+Equatorial Guinea	Central African CFA franc	Sweden	Swedish Krona (SEK)
+Equatorial Guinea	Central African CFA franc	Burkina Faso	West African CFA franc
+Equatorial Guinea	Central African CFA franc	Nigeria	Naira
+South Korea	South Korean Won (KRW)	Timor-Leste	US Dollar (USD)
+South Korea	South Korean Won (KRW)	Bahamas	Bahamian Dollar
+South Korea	South Korean Won (KRW)	Nauru	Australian Dollar (AUD)
+South Korea	South Korean Won (KRW)	Czech Republic	Czech Koruna (CZK)
+South Korea	South Korean Won (KRW)	Tonga	Pa'anga (TOP)
+South Korea	South Korean Won (KRW)	Egypt	Egyptian Pound (EGP)
+South Korea	South Korean Won (KRW)	Mauritania	Ouguiya (MRO)
+South Korea	South Korean Won (KRW)	Democratic Republic of the Congo	Congolese Franc (CDF)
+South Korea	South Korean Won (KRW)	Moldova	Moldovan Leu (MDL)
+South Korea	South Korean Won (KRW)	Slovenia	Euro (EUR)
+South Korea	South Korean Won (KRW)	India	Indian Rupee
+South Korea	South Korean Won (KRW)	Saudi Arabia	Saudi Riyal
+South Korea	South Korean Won (KRW)	Bolivia	Bolivian Boliviano (BOB)
+South Korea	South Korean Won (KRW)	Myanmar	Kyat
+South Korea	South Korean Won (KRW)	Bosnia and Herzegovina	Convertible Mark (KM or BAM)
+South Korea	South Korean Won (KRW)	Montenegro	Euro (EUR)
+South Korea	South Korean Won (KRW)	Solomon Islands	Solomon Islands Dollar (SBD)
+South Korea	South Korean Won (KRW)	Sudan	Sudanese Pound (SDG)
+South Korea	South Korean Won (KRW)	Australia	Australian Dollar (AUD)
+South Korea	South Korean Won (KRW)	Jamaica	Jamaican Dollar (JMD)
+South Korea	South Korean Won (KRW)	Equatorial Guinea	Central African CFA franc
+South Korea	South Korean Won (KRW)	Brunei	Brunei Dollar (BND)
+South Korea	South Korean Won (KRW)	Germany	Euro (EUR)
+South Korea	South Korean Won (KRW)	Guyana	Guyanese Dollar
+South Korea	South Korean Won (KRW)	United Arab Emirates	UAE Dirham
+South Korea	South Korean Won (KRW)	Jordan	Jordanian Dinar (JOD)
+South Korea	South Korean Won (KRW)	Laos	Lao Kip (LAK)
+South Korea	South Korean Won (KRW)	Indonesia	Indonesian Rupiah
+South Korea	South Korean Won (KRW)	Brazil	Brazilian Real (BRL)
+South Korea	South Korean Won (KRW)	Colombia	Colombian Peso
+South Korea	South Korean Won (KRW)	Russia	Russian Ruble
+South Korea	South Korean Won (KRW)	Saint Kitts and Nevis	East Caribbean Dollar (XCD)
+South Korea	South Korean Won (KRW)	Peru	Sol (PEN)
+South Korea	South Korean Won (KRW)	Qatar	Qatari Riyal
+South Korea	South Korean Won (KRW)	Spain	Euro (EUR)
+South Korea	South Korean Won (KRW)	Vanuatu	Vatu (VUV)
+South Korea	South Korean Won (KRW)	Cabo Verde	Escudo (CVE)
+South Korea	South Korean Won (KRW)	Belgium	Euro (EUR)
+South Korea	South Korean Won (KRW)	Latvia	Latvian Lats (LVL)
+South Korea	South Korean Won (KRW)	Singapore	Singapore Dollar (SGD)
+South Korea	South Korean Won (KRW)	Congo	Congolese Franc (CDF)
+South Korea	South Korean Won (KRW)	Uruguay	Uruguayan Peso
+South Korea	South Korean Won (KRW)	Armenia	Dram (AMD)
+South Korea	South Korean Won (KRW)	Panama	Balboa (PAB)
+South Korea	South Korean Won (KRW)	Samoa	Tala
+South Korea	South Korean Won (KRW)	Haiti	Gourde
+South Korea	South Korean Won (KRW)	Sweden	Swedish Krona (SEK)
+South Korea	South Korean Won (KRW)	Burkina Faso	West African CFA franc
+South Korea	South Korean Won (KRW)	Nigeria	Naira
+Brunei	Brunei Dollar (BND)	Timor-Leste	US Dollar (USD)
+Brunei	Brunei Dollar (BND)	Bahamas	Bahamian Dollar
+Brunei	Brunei Dollar (BND)	Nauru	Australian Dollar (AUD)
+Brunei	Brunei Dollar (BND)	Czech Republic	Czech Koruna (CZK)
+Brunei	Brunei Dollar (BND)	Tonga	Pa'anga (TOP)
+Brunei	Brunei Dollar (BND)	Egypt	Egyptian Pound (EGP)
+Brunei	Brunei Dollar (BND)	Mauritania	Ouguiya (MRO)
+Brunei	Brunei Dollar (BND)	Democratic Republic of the Congo	Congolese Franc (CDF)
+Brunei	Brunei Dollar (BND)	Moldova	Moldovan Leu (MDL)
+Brunei	Brunei Dollar (BND)	Slovenia	Euro (EUR)
+Brunei	Brunei Dollar (BND)	India	Indian Rupee
+Brunei	Brunei Dollar (BND)	Saudi Arabia	Saudi Riyal
+Brunei	Brunei Dollar (BND)	Bolivia	Bolivian Boliviano (BOB)
+Brunei	Brunei Dollar (BND)	Myanmar	Kyat
+Brunei	Brunei Dollar (BND)	Bosnia and Herzegovina	Convertible Mark (KM or BAM)
+Brunei	Brunei Dollar (BND)	Montenegro	Euro (EUR)
+Brunei	Brunei Dollar (BND)	Solomon Islands	Solomon Islands Dollar (SBD)
+Brunei	Brunei Dollar (BND)	Sudan	Sudanese Pound (SDG)
+Brunei	Brunei Dollar (BND)	Australia	Australian Dollar (AUD)
+Brunei	Brunei Dollar (BND)	Jamaica	Jamaican Dollar (JMD)
+Brunei	Brunei Dollar (BND)	Equatorial Guinea	Central African CFA franc
+Brunei	Brunei Dollar (BND)	South Korea	South Korean Won (KRW)
+Brunei	Brunei Dollar (BND)	Germany	Euro (EUR)
+Brunei	Brunei Dollar (BND)	Guyana	Guyanese Dollar
+Brunei	Brunei Dollar (BND)	United Arab Emirates	UAE Dirham
+Brunei	Brunei Dollar (BND)	Jordan	Jordanian Dinar (JOD)
+Brunei	Brunei Dollar (BND)	Laos	Lao Kip (LAK)
+Brunei	Brunei Dollar (BND)	Indonesia	Indonesian Rupiah
+Brunei	Brunei Dollar (BND)	Brazil	Brazilian Real (BRL)
+Brunei	Brunei Dollar (BND)	Colombia	Colombian Peso
+Brunei	Brunei Dollar (BND)	Russia	Russian Ruble
+Brunei	Brunei Dollar (BND)	Saint Kitts and Nevis	East Caribbean Dollar (XCD)
+Brunei	Brunei Dollar (BND)	Peru	Sol (PEN)
+Brunei	Brunei Dollar (BND)	Qatar	Qatari Riyal
+Brunei	Brunei Dollar (BND)	Spain	Euro (EUR)
+Brunei	Brunei Dollar (BND)	Vanuatu	Vatu (VUV)
+Brunei	Brunei Dollar (BND)	Cabo Verde	Escudo (CVE)
+Brunei	Brunei Dollar (BND)	Belgium	Euro (EUR)
+Brunei	Brunei Dollar (BND)	Latvia	Latvian Lats (LVL)
+Brunei	Brunei Dollar (BND)	Singapore	Singapore Dollar (SGD)
+Brunei	Brunei Dollar (BND)	Congo	Congolese Franc (CDF)
+Brunei	Brunei Dollar (BND)	Uruguay	Uruguayan Peso
+Brunei	Brunei Dollar (BND)	Armenia	Dram (AMD)
+Brunei	Brunei Dollar (BND)	Panama	Balboa (PAB)
+Brunei	Brunei Dollar (BND)	Samoa	Tala
+Brunei	Brunei Dollar (BND)	Haiti	Gourde
+Brunei	Brunei Dollar (BND)	Sweden	Swedish Krona (SEK)
+Brunei	Brunei Dollar (BND)	Burkina Faso	West African CFA franc
+Brunei	Brunei Dollar (BND)	Nigeria	Naira
+Germany	Euro (EUR)	Timor-Leste	US Dollar (USD)
+Germany	Euro (EUR)	Bahamas	Bahamian Dollar
+Germany	Euro (EUR)	Nauru	Australian Dollar (AUD)
+Germany	Euro (EUR)	Czech Republic	Czech Koruna (CZK)
+Germany	Euro (EUR)	Tonga	Pa'anga (TOP)
+Germany	Euro (EUR)	Egypt	Egyptian Pound (EGP)
+Germany	Euro (EUR)	Mauritania	Ouguiya (MRO)
+Germany	Euro (EUR)	Democratic Republic of the Congo	Congolese Franc (CDF)
+Germany	Euro (EUR)	Moldova	Moldovan Leu (MDL)
+Germany	Euro (EUR)	India	Indian Rupee
+Germany	Euro (EUR)	Saudi Arabia	Saudi Riyal
+Germany	Euro (EUR)	Bolivia	Bolivian Boliviano (BOB)
+Germany	Euro (EUR)	Myanmar	Kyat
+Germany	Euro (EUR)	Bosnia and Herzegovina	Convertible Mark (KM or BAM)
+Germany	Euro (EUR)	Solomon Islands	Solomon Islands Dollar (SBD)
+Germany	Euro (EUR)	Sudan	Sudanese Pound (SDG)
+Germany	Euro (EUR)	Australia	Australian Dollar (AUD)
+Germany	Euro (EUR)	Jamaica	Jamaican Dollar (JMD)
+Germany	Euro (EUR)	Equatorial Guinea	Central African CFA franc
+Germany	Euro (EUR)	South Korea	South Korean Won (KRW)
+Germany	Euro (EUR)	Brunei	Brunei Dollar (BND)
+Germany	Euro (EUR)	Guyana	Guyanese Dollar
+Germany	Euro (EUR)	United Arab Emirates	UAE Dirham
+Germany	Euro (EUR)	Jordan	Jordanian Dinar (JOD)
+Germany	Euro (EUR)	Laos	Lao Kip (LAK)
+Germany	Euro (EUR)	Indonesia	Indonesian Rupiah
+Germany	Euro (EUR)	Brazil	Brazilian Real (BRL)
+Germany	Euro (EUR)	Colombia	Colombian Peso
+Germany	Euro (EUR)	Russia	Russian Ruble
+Germany	Euro (EUR)	Saint Kitts and Nevis	East Caribbean Dollar (XCD)
+Germany	Euro (EUR)	Peru	Sol (PEN)
+Germany	Euro (EUR)	Qatar	Qatari Riyal
+Germany	Euro (EUR)	Vanuatu	Vatu (VUV)
+Germany	Euro (EUR)	Cabo Verde	Escudo (CVE)
+Germany	Euro (EUR)	Latvia	Latvian Lats (LVL)
+Germany	Euro (EUR)	Singapore	Singapore Dollar (SGD)
+Germany	Euro (EUR)	Congo	Congolese Franc (CDF)
+Germany	Euro (EUR)	Uruguay	Uruguayan Peso
+Germany	Euro (EUR)	Armenia	Dram (AMD)
+Germany	Euro (EUR)	Panama	Balboa (PAB)
+Germany	Euro (EUR)	Samoa	Tala
+Germany	Euro (EUR)	Haiti	Gourde
+Germany	Euro (EUR)	Sweden	Swedish Krona (SEK)
+Germany	Euro (EUR)	Burkina Faso	West African CFA franc
+Germany	Euro (EUR)	Nigeria	Naira
+Guyana	Guyanese Dollar	Timor-Leste	US Dollar (USD)
+Guyana	Guyanese Dollar	Bahamas	Bahamian Dollar
+Guyana	Guyanese Dollar	Nauru	Australian Dollar (AUD)
+Guyana	Guyanese Dollar	Czech Republic	Czech Koruna (CZK)
+Guyana	Guyanese Dollar	Tonga	Pa'anga (TOP)
+Guyana	Guyanese Dollar	Egypt	Egyptian Pound (EGP)
+Guyana	Guyanese Dollar	Mauritania	Ouguiya (MRO)
+Guyana	Guyanese Dollar	Democratic Republic of the Congo	Congolese Franc (CDF)
+Guyana	Guyanese Dollar	Moldova	Moldovan Leu (MDL)
+Guyana	Guyanese Dollar	Slovenia	Euro (EUR)
+Guyana	Guyanese Dollar	India	Indian Rupee
+Guyana	Guyanese Dollar	Saudi Arabia	Saudi Riyal
+Guyana	Guyanese Dollar	Bolivia	Bolivian Boliviano (BOB)
+Guyana	Guyanese Dollar	Myanmar	Kyat
+Guyana	Guyanese Dollar	Bosnia and Herzegovina	Convertible Mark (KM or BAM)
+Guyana	Guyanese Dollar	Montenegro	Euro (EUR)
+Guyana	Guyanese Dollar	Solomon Islands	Solomon Islands Dollar (SBD)
+Guyana	Guyanese Dollar	Sudan	Sudanese Pound (SDG)
+Guyana	Guyanese Dollar	Australia	Australian Dollar (AUD)
+Guyana	Guyanese Dollar	Jamaica	Jamaican Dollar (JMD)
+Guyana	Guyanese Dollar	Equatorial Guinea	Central African CFA franc
+Guyana	Guyanese Dollar	South Korea	South Korean Won (KRW)
+Guyana	Guyanese Dollar	Brunei	Brunei Dollar (BND)
+Guyana	Guyanese Dollar	Germany	Euro (EUR)
+Guyana	Guyanese Dollar	United Arab Emirates	UAE Dirham
+Guyana	Guyanese Dollar	Jordan	Jordanian Dinar (JOD)
+Guyana	Guyanese Dollar	Laos	Lao Kip (LAK)
+Guyana	Guyanese Dollar	Indonesia	Indonesian Rupiah
+Guyana	Guyanese Dollar	Brazil	Brazilian Real (BRL)
+Guyana	Guyanese Dollar	Colombia	Colombian Peso
+Guyana	Guyanese Dollar	Russia	Russian Ruble
+Guyana	Guyanese Dollar	Saint Kitts and Nevis	East Caribbean Dollar (XCD)
+Guyana	Guyanese Dollar	Peru	Sol (PEN)
+Guyana	Guyanese Dollar	Qatar	Qatari Riyal
+Guyana	Guyanese Dollar	Spain	Euro (EUR)
+Guyana	Guyanese Dollar	Vanuatu	Vatu (VUV)
+Guyana	Guyanese Dollar	Cabo Verde	Escudo (CVE)
+Guyana	Guyanese Dollar	Belgium	Euro (EUR)
+Guyana	Guyanese Dollar	Latvia	Latvian Lats (LVL)
+Guyana	Guyanese Dollar	Singapore	Singapore Dollar (SGD)
+Guyana	Guyanese Dollar	Congo	Congolese Franc (CDF)
+Guyana	Guyanese Dollar	Uruguay	Uruguayan Peso
+Guyana	Guyanese Dollar	Armenia	Dram (AMD)
+Guyana	Guyanese Dollar	Panama	Balboa (PAB)
+Guyana	Guyanese Dollar	Samoa	Tala
+Guyana	Guyanese Dollar	Haiti	Gourde
+Guyana	Guyanese Dollar	Sweden	Swedish Krona (SEK)
+Guyana	Guyanese Dollar	Burkina Faso	West African CFA franc
+Guyana	Guyanese Dollar	Nigeria	Naira
+United Arab Emirates	UAE Dirham	Timor-Leste	US Dollar (USD)
+United Arab Emirates	UAE Dirham	Bahamas	Bahamian Dollar
+United Arab Emirates	UAE Dirham	Nauru	Australian Dollar (AUD)
+United Arab Emirates	UAE Dirham	Czech Republic	Czech Koruna (CZK)
+United Arab Emirates	UAE Dirham	Tonga	Pa'anga (TOP)
+United Arab Emirates	UAE Dirham	Egypt	Egyptian Pound (EGP)
+United Arab Emirates	UAE Dirham	Mauritania	Ouguiya (MRO)
+United Arab Emirates	UAE Dirham	Democratic Republic of the Congo	Congolese Franc (CDF)
+United Arab Emirates	UAE Dirham	Moldova	Moldovan Leu (MDL)
+United Arab Emirates	UAE Dirham	Slovenia	Euro (EUR)
+United Arab Emirates	UAE Dirham	India	Indian Rupee
+United Arab Emirates	UAE Dirham	Saudi Arabia	Saudi Riyal
+United Arab Emirates	UAE Dirham	Bolivia	Bolivian Boliviano (BOB)
+United Arab Emirates	UAE Dirham	Myanmar	Kyat
+United Arab Emirates	UAE Dirham	Bosnia and Herzegovina	Convertible Mark (KM or BAM)
+United Arab Emirates	UAE Dirham	Montenegro	Euro (EUR)
+United Arab Emirates	UAE Dirham	Solomon Islands	Solomon Islands Dollar (SBD)
+United Arab Emirates	UAE Dirham	Sudan	Sudanese Pound (SDG)
+United Arab Emirates	UAE Dirham	Australia	Australian Dollar (AUD)
+United Arab Emirates	UAE Dirham	Jamaica	Jamaican Dollar (JMD)
+United Arab Emirates	UAE Dirham	Equatorial Guinea	Central African CFA franc
+United Arab Emirates	UAE Dirham	South Korea	South Korean Won (KRW)
+United Arab Emirates	UAE Dirham	Brunei	Brunei Dollar (BND)
+United Arab Emirates	UAE Dirham	Germany	Euro (EUR)
+United Arab Emirates	UAE Dirham	Guyana	Guyanese Dollar
+United Arab Emirates	UAE Dirham	Jordan	Jordanian Dinar (JOD)
+United Arab Emirates	UAE Dirham	Laos	Lao Kip (LAK)
+United Arab Emirates	UAE Dirham	Indonesia	Indonesian Rupiah
+United Arab Emirates	UAE Dirham	Brazil	Brazilian Real (BRL)
+United Arab Emirates	UAE Dirham	Colombia	Colombian Peso
+United Arab Emirates	UAE Dirham	Russia	Russian Ruble
+United Arab Emirates	UAE Dirham	Saint Kitts and Nevis	East Caribbean Dollar (XCD)
+United Arab Emirates	UAE Dirham	Peru	Sol (PEN)
+United Arab Emirates	UAE Dirham	Qatar	Qatari Riyal
+United Arab Emirates	UAE Dirham	Spain	Euro (EUR)
+United Arab Emirates	UAE Dirham	Vanuatu	Vatu (VUV)
+United Arab Emirates	UAE Dirham	Cabo Verde	Escudo (CVE)
+United Arab Emirates	UAE Dirham	Belgium	Euro (EUR)
+United Arab Emirates	UAE Dirham	Latvia	Latvian Lats (LVL)
+United Arab Emirates	UAE Dirham	Singapore	Singapore Dollar (SGD)
+United Arab Emirates	UAE Dirham	Congo	Congolese Franc (CDF)
+United Arab Emirates	UAE Dirham	Uruguay	Uruguayan Peso
+United Arab Emirates	UAE Dirham	Armenia	Dram (AMD)
+United Arab Emirates	UAE Dirham	Panama	Balboa (PAB)
+United Arab Emirates	UAE Dirham	Samoa	Tala
+United Arab Emirates	UAE Dirham	Haiti	Gourde
+United Arab Emirates	UAE Dirham	Sweden	Swedish Krona (SEK)
+United Arab Emirates	UAE Dirham	Burkina Faso	West African CFA franc
+United Arab Emirates	UAE Dirham	Nigeria	Naira
+Jordan	Jordanian Dinar (JOD)	Timor-Leste	US Dollar (USD)
+Jordan	Jordanian Dinar (JOD)	Bahamas	Bahamian Dollar
+Jordan	Jordanian Dinar (JOD)	Nauru	Australian Dollar (AUD)
+Jordan	Jordanian Dinar (JOD)	Czech Republic	Czech Koruna (CZK)
+Jordan	Jordanian Dinar (JOD)	Tonga	Pa'anga (TOP)
+Jordan	Jordanian Dinar (JOD)	Egypt	Egyptian Pound (EGP)
+Jordan	Jordanian Dinar (JOD)	Mauritania	Ouguiya (MRO)
+Jordan	Jordanian Dinar (JOD)	Democratic Republic of the Congo	Congolese Franc (CDF)
+Jordan	Jordanian Dinar (JOD)	Moldova	Moldovan Leu (MDL)
+Jordan	Jordanian Dinar (JOD)	Slovenia	Euro (EUR)
+Jordan	Jordanian Dinar (JOD)	India	Indian Rupee
+Jordan	Jordanian Dinar (JOD)	Saudi Arabia	Saudi Riyal
+Jordan	Jordanian Dinar (JOD)	Bolivia	Bolivian Boliviano (BOB)
+Jordan	Jordanian Dinar (JOD)	Myanmar	Kyat
+Jordan	Jordanian Dinar (JOD)	Bosnia and Herzegovina	Convertible Mark (KM or BAM)
+Jordan	Jordanian Dinar (JOD)	Montenegro	Euro (EUR)
+Jordan	Jordanian Dinar (JOD)	Solomon Islands	Solomon Islands Dollar (SBD)
+Jordan	Jordanian Dinar (JOD)	Sudan	Sudanese Pound (SDG)
+Jordan	Jordanian Dinar (JOD)	Australia	Australian Dollar (AUD)
+Jordan	Jordanian Dinar (JOD)	Jamaica	Jamaican Dollar (JMD)
+Jordan	Jordanian Dinar (JOD)	Equatorial Guinea	Central African CFA franc
+Jordan	Jordanian Dinar (JOD)	South Korea	South Korean Won (KRW)
+Jordan	Jordanian Dinar (JOD)	Brunei	Brunei Dollar (BND)
+Jordan	Jordanian Dinar (JOD)	Germany	Euro (EUR)
+Jordan	Jordanian Dinar (JOD)	Guyana	Guyanese Dollar
+Jordan	Jordanian Dinar (JOD)	United Arab Emirates	UAE Dirham
+Jordan	Jordanian Dinar (JOD)	Laos	Lao Kip (LAK)
+Jordan	Jordanian Dinar (JOD)	Indonesia	Indonesian Rupiah
+Jordan	Jordanian Dinar (JOD)	Brazil	Brazilian Real (BRL)
+Jordan	Jordanian Dinar (JOD)	Colombia	Colombian Peso
+Jordan	Jordanian Dinar (JOD)	Russia	Russian Ruble
+Jordan	Jordanian Dinar (JOD)	Saint Kitts and Nevis	East Caribbean Dollar (XCD)
+Jordan	Jordanian Dinar (JOD)	Peru	Sol (PEN)
+Jordan	Jordanian Dinar (JOD)	Qatar	Qatari Riyal
+Jordan	Jordanian Dinar (JOD)	Spain	Euro (EUR)
+Jordan	Jordanian Dinar (JOD)	Vanuatu	Vatu (VUV)
+Jordan	Jordanian Dinar (JOD)	Cabo Verde	Escudo (CVE)
+Jordan	Jordanian Dinar (JOD)	Belgium	Euro (EUR)
+Jordan	Jordanian Dinar (JOD)	Latvia	Latvian Lats (LVL)
+Jordan	Jordanian Dinar (JOD)	Singapore	Singapore Dollar (SGD)
+Jordan	Jordanian Dinar (JOD)	Congo	Congolese Franc (CDF)
+Jordan	Jordanian Dinar (JOD)	Uruguay	Uruguayan Peso
+Jordan	Jordanian Dinar (JOD)	Armenia	Dram (AMD)
+Jordan	Jordanian Dinar (JOD)	Panama	Balboa (PAB)
+Jordan	Jordanian Dinar (JOD)	Samoa	Tala
+Jordan	Jordanian Dinar (JOD)	Haiti	Gourde
+Jordan	Jordanian Dinar (JOD)	Sweden	Swedish Krona (SEK)
+Jordan	Jordanian Dinar (JOD)	Burkina Faso	West African CFA franc
+Jordan	Jordanian Dinar (JOD)	Nigeria	Naira
+Laos	Lao Kip (LAK)	Timor-Leste	US Dollar (USD)
+Laos	Lao Kip (LAK)	Bahamas	Bahamian Dollar
+Laos	Lao Kip (LAK)	Nauru	Australian Dollar (AUD)
+Laos	Lao Kip (LAK)	Czech Republic	Czech Koruna (CZK)
+Laos	Lao Kip (LAK)	Tonga	Pa'anga (TOP)
+Laos	Lao Kip (LAK)	Egypt	Egyptian Pound (EGP)
+Laos	Lao Kip (LAK)	Mauritania	Ouguiya (MRO)
+Laos	Lao Kip (LAK)	Democratic Republic of the Congo	Congolese Franc (CDF)
+Laos	Lao Kip (LAK)	Moldova	Moldovan Leu (MDL)
+Laos	Lao Kip (LAK)	Slovenia	Euro (EUR)
+Laos	Lao Kip (LAK)	India	Indian Rupee
+Laos	Lao Kip (LAK)	Saudi Arabia	Saudi Riyal
+Laos	Lao Kip (LAK)	Bolivia	Bolivian Boliviano (BOB)
+Laos	Lao Kip (LAK)	Myanmar	Kyat
+Laos	Lao Kip (LAK)	Bosnia and Herzegovina	Convertible Mark (KM or BAM)
+Laos	Lao Kip (LAK)	Montenegro	Euro (EUR)
+Laos	Lao Kip (LAK)	Solomon Islands	Solomon Islands Dollar (SBD)
+Laos	Lao Kip (LAK)	Sudan	Sudanese Pound (SDG)
+Laos	Lao Kip (LAK)	Australia	Australian Dollar (AUD)
+Laos	Lao Kip (LAK)	Jamaica	Jamaican Dollar (JMD)
+Laos	Lao Kip (LAK)	Equatorial Guinea	Central African CFA franc
+Laos	Lao Kip (LAK)	South Korea	South Korean Won (KRW)
+Laos	Lao Kip (LAK)	Brunei	Brunei Dollar (BND)
+Laos	Lao Kip (LAK)	Germany	Euro (EUR)
+Laos	Lao Kip (LAK)	Guyana	Guyanese Dollar
+Laos	Lao Kip (LAK)	United Arab Emirates	UAE Dirham
+Laos	Lao Kip (LAK)	Jordan	Jordanian Dinar (JOD)
+Laos	Lao Kip (LAK)	Indonesia	Indonesian Rupiah
+Laos	Lao Kip (LAK)	Brazil	Brazilian Real (BRL)
+Laos	Lao Kip (LAK)	Colombia	Colombian Peso
+Laos	Lao Kip (LAK)	Russia	Russian Ruble
+Laos	Lao Kip (LAK)	Saint Kitts and Nevis	East Caribbean Dollar (XCD)
+Laos	Lao Kip (LAK)	Peru	Sol (PEN)
+Laos	Lao Kip (LAK)	Qatar	Qatari Riyal
+Laos	Lao Kip (LAK)	Spain	Euro (EUR)
+Laos	Lao Kip (LAK)	Vanuatu	Vatu (VUV)
+Laos	Lao Kip (LAK)	Cabo Verde	Escudo (CVE)
+Laos	Lao Kip (LAK)	Belgium	Euro (EUR)
+Laos	Lao Kip (LAK)	Latvia	Latvian Lats (LVL)
+Laos	Lao Kip (LAK)	Singapore	Singapore Dollar (SGD)
+Laos	Lao Kip (LAK)	Congo	Congolese Franc (CDF)
+Laos	Lao Kip (LAK)	Uruguay	Uruguayan Peso
+Laos	Lao Kip (LAK)	Armenia	Dram (AMD)
+Laos	Lao Kip (LAK)	Panama	Balboa (PAB)
+Laos	Lao Kip (LAK)	Samoa	Tala
+Laos	Lao Kip (LAK)	Haiti	Gourde
+Laos	Lao Kip (LAK)	Sweden	Swedish Krona (SEK)
+Laos	Lao Kip (LAK)	Burkina Faso	West African CFA franc
+Laos	Lao Kip (LAK)	Nigeria	Naira
+Indonesia	Indonesian Rupiah	Timor-Leste	US Dollar (USD)
+Indonesia	Indonesian Rupiah	Bahamas	Bahamian Dollar
+Indonesia	Indonesian Rupiah	Nauru	Australian Dollar (AUD)
+Indonesia	Indonesian Rupiah	Czech Republic	Czech Koruna (CZK)
+Indonesia	Indonesian Rupiah	Tonga	Pa'anga (TOP)
+Indonesia	Indonesian Rupiah	Egypt	Egyptian Pound (EGP)
+Indonesia	Indonesian Rupiah	Mauritania	Ouguiya (MRO)
+Indonesia	Indonesian Rupiah	Democratic Republic of the Congo	Congolese Franc (CDF)
+Indonesia	Indonesian Rupiah	Moldova	Moldovan Leu (MDL)
+Indonesia	Indonesian Rupiah	Slovenia	Euro (EUR)
+Indonesia	Indonesian Rupiah	India	Indian Rupee
+Indonesia	Indonesian Rupiah	Saudi Arabia	Saudi Riyal
+Indonesia	Indonesian Rupiah	Bolivia	Bolivian Boliviano (BOB)
+Indonesia	Indonesian Rupiah	Myanmar	Kyat
+Indonesia	Indonesian Rupiah	Bosnia and Herzegovina	Convertible Mark (KM or BAM)
+Indonesia	Indonesian Rupiah	Montenegro	Euro (EUR)
+Indonesia	Indonesian Rupiah	Solomon Islands	Solomon Islands Dollar (SBD)
+Indonesia	Indonesian Rupiah	Sudan	Sudanese Pound (SDG)
+Indonesia	Indonesian Rupiah	Australia	Australian Dollar (AUD)
+Indonesia	Indonesian Rupiah	Jamaica	Jamaican Dollar (JMD)
+Indonesia	Indonesian Rupiah	Equatorial Guinea	Central African CFA franc
+Indonesia	Indonesian Rupiah	South Korea	South Korean Won (KRW)
+Indonesia	Indonesian Rupiah	Brunei	Brunei Dollar (BND)
+Indonesia	Indonesian Rupiah	Germany	Euro (EUR)
+Indonesia	Indonesian Rupiah	Guyana	Guyanese Dollar
+Indonesia	Indonesian Rupiah	United Arab Emirates	UAE Dirham
+Indonesia	Indonesian Rupiah	Jordan	Jordanian Dinar (JOD)
+Indonesia	Indonesian Rupiah	Laos	Lao Kip (LAK)
+Indonesia	Indonesian Rupiah	Brazil	Brazilian Real (BRL)
+Indonesia	Indonesian Rupiah	Colombia	Colombian Peso
+Indonesia	Indonesian Rupiah	Russia	Russian Ruble
+Indonesia	Indonesian Rupiah	Saint Kitts and Nevis	East Caribbean Dollar (XCD)
+Indonesia	Indonesian Rupiah	Peru	Sol (PEN)
+Indonesia	Indonesian Rupiah	Qatar	Qatari Riyal
+Indonesia	Indonesian Rupiah	Spain	Euro (EUR)
+Indonesia	Indonesian Rupiah	Vanuatu	Vatu (VUV)
+Indonesia	Indonesian Rupiah	Cabo Verde	Escudo (CVE)
+Indonesia	Indonesian Rupiah	Belgium	Euro (EUR)
+Indonesia	Indonesian Rupiah	Latvia	Latvian Lats (LVL)
+Indonesia	Indonesian Rupiah	Singapore	Singapore Dollar (SGD)
+Indonesia	Indonesian Rupiah	Congo	Congolese Franc (CDF)
+Indonesia	Indonesian Rupiah	Uruguay	Uruguayan Peso
+Indonesia	Indonesian Rupiah	Armenia	Dram (AMD)
+Indonesia	Indonesian Rupiah	Panama	Balboa (PAB)
+Indonesia	Indonesian Rupiah	Samoa	Tala
+Indonesia	Indonesian Rupiah	Haiti	Gourde
+Indonesia	Indonesian Rupiah	Sweden	Swedish Krona (SEK)
+Indonesia	Indonesian Rupiah	Burkina Faso	West African CFA franc
+Indonesia	Indonesian Rupiah	Nigeria	Naira
+Brazil	Brazilian Real (BRL)	Timor-Leste	US Dollar (USD)
+Brazil	Brazilian Real (BRL)	Bahamas	Bahamian Dollar
+Brazil	Brazilian Real (BRL)	Nauru	Australian Dollar (AUD)
+Brazil	Brazilian Real (BRL)	Czech Republic	Czech Koruna (CZK)
+Brazil	Brazilian Real (BRL)	Tonga	Pa'anga (TOP)
+Brazil	Brazilian Real (BRL)	Egypt	Egyptian Pound (EGP)
+Brazil	Brazilian Real (BRL)	Mauritania	Ouguiya (MRO)
+Brazil	Brazilian Real (BRL)	Democratic Republic of the Congo	Congolese Franc (CDF)
+Brazil	Brazilian Real (BRL)	Moldova	Moldovan Leu (MDL)
+Brazil	Brazilian Real (BRL)	Slovenia	Euro (EUR)
+Brazil	Brazilian Real (BRL)	India	Indian Rupee
+Brazil	Brazilian Real (BRL)	Saudi Arabia	Saudi Riyal
+Brazil	Brazilian Real (BRL)	Bolivia	Bolivian Boliviano (BOB)
+Brazil	Brazilian Real (BRL)	Myanmar	Kyat
+Brazil	Brazilian Real (BRL)	Bosnia and Herzegovina	Convertible Mark (KM or BAM)
+Brazil	Brazilian Real (BRL)	Montenegro	Euro (EUR)
+Brazil	Brazilian Real (BRL)	Solomon Islands	Solomon Islands Dollar (SBD)
+Brazil	Brazilian Real (BRL)	Sudan	Sudanese Pound (SDG)
+Brazil	Brazilian Real (BRL)	Australia	Australian Dollar (AUD)
+Brazil	Brazilian Real (BRL)	Jamaica	Jamaican Dollar (JMD)
+Brazil	Brazilian Real (BRL)	Equatorial Guinea	Central African CFA franc
+Brazil	Brazilian Real (BRL)	South Korea	South Korean Won (KRW)
+Brazil	Brazilian Real (BRL)	Brunei	Brunei Dollar (BND)
+Brazil	Brazilian Real (BRL)	Germany	Euro (EUR)
+Brazil	Brazilian Real (BRL)	Guyana	Guyanese Dollar
+Brazil	Brazilian Real (BRL)	United Arab Emirates	UAE Dirham
+Brazil	Brazilian Real (BRL)	Jordan	Jordanian Dinar (JOD)
+Brazil	Brazilian Real (BRL)	Laos	Lao Kip (LAK)
+Brazil	Brazilian Real (BRL)	Indonesia	Indonesian Rupiah
+Brazil	Brazilian Real (BRL)	Colombia	Colombian Peso
+Brazil	Brazilian Real (BRL)	Russia	Russian Ruble
+Brazil	Brazilian Real (BRL)	Saint Kitts and Nevis	East Caribbean Dollar (XCD)
+Brazil	Brazilian Real (BRL)	Peru	Sol (PEN)
+Brazil	Brazilian Real (BRL)	Qatar	Qatari Riyal
+Brazil	Brazilian Real (BRL)	Spain	Euro (EUR)
+Brazil	Brazilian Real (BRL)	Vanuatu	Vatu (VUV)
+Brazil	Brazilian Real (BRL)	Cabo Verde	Escudo (CVE)
+Brazil	Brazilian Real (BRL)	Belgium	Euro (EUR)
+Brazil	Brazilian Real (BRL)	Latvia	Latvian Lats (LVL)
+Brazil	Brazilian Real (BRL)	Singapore	Singapore Dollar (SGD)
+Brazil	Brazilian Real (BRL)	Congo	Congolese Franc (CDF)
+Brazil	Brazilian Real (BRL)	Uruguay	Uruguayan Peso
+Brazil	Brazilian Real (BRL)	Armenia	Dram (AMD)
+Brazil	Brazilian Real (BRL)	Panama	Balboa (PAB)
+Brazil	Brazilian Real (BRL)	Samoa	Tala
+Brazil	Brazilian Real (BRL)	Haiti	Gourde
+Brazil	Brazilian Real (BRL)	Sweden	Swedish Krona (SEK)
+Brazil	Brazilian Real (BRL)	Burkina Faso	West African CFA franc
+Brazil	Brazilian Real (BRL)	Nigeria	Naira
+Colombia	Colombian Peso	Timor-Leste	US Dollar (USD)
+Colombia	Colombian Peso	Bahamas	Bahamian Dollar
+Colombia	Colombian Peso	Nauru	Australian Dollar (AUD)
+Colombia	Colombian Peso	Czech Republic	Czech Koruna (CZK)
+Colombia	Colombian Peso	Tonga	Pa'anga (TOP)
+Colombia	Colombian Peso	Egypt	Egyptian Pound (EGP)
+Colombia	Colombian Peso	Mauritania	Ouguiya (MRO)
+Colombia	Colombian Peso	Democratic Republic of the Congo	Congolese Franc (CDF)
+Colombia	Colombian Peso	Moldova	Moldovan Leu (MDL)
+Colombia	Colombian Peso	Slovenia	Euro (EUR)
+Colombia	Colombian Peso	India	Indian Rupee
+Colombia	Colombian Peso	Saudi Arabia	Saudi Riyal
+Colombia	Colombian Peso	Bolivia	Bolivian Boliviano (BOB)
+Colombia	Colombian Peso	Myanmar	Kyat
+Colombia	Colombian Peso	Bosnia and Herzegovina	Convertible Mark (KM or BAM)
+Colombia	Colombian Peso	Montenegro	Euro (EUR)
+Colombia	Colombian Peso	Solomon Islands	Solomon Islands Dollar (SBD)
+Colombia	Colombian Peso	Sudan	Sudanese Pound (SDG)
+Colombia	Colombian Peso	Australia	Australian Dollar (AUD)
+Colombia	Colombian Peso	Jamaica	Jamaican Dollar (JMD)
+Colombia	Colombian Peso	Equatorial Guinea	Central African CFA franc
+Colombia	Colombian Peso	South Korea	South Korean Won (KRW)
+Colombia	Colombian Peso	Brunei	Brunei Dollar (BND)
+Colombia	Colombian Peso	Germany	Euro (EUR)
+Colombia	Colombian Peso	Guyana	Guyanese Dollar
+Colombia	Colombian Peso	United Arab Emirates	UAE Dirham
+Colombia	Colombian Peso	Jordan	Jordanian Dinar (JOD)
+Colombia	Colombian Peso	Laos	Lao Kip (LAK)
+Colombia	Colombian Peso	Indonesia	Indonesian Rupiah
+Colombia	Colombian Peso	Brazil	Brazilian Real (BRL)
+Colombia	Colombian Peso	Russia	Russian Ruble
+Colombia	Colombian Peso	Saint Kitts and Nevis	East Caribbean Dollar (XCD)
+Colombia	Colombian Peso	Peru	Sol (PEN)
+Colombia	Colombian Peso	Qatar	Qatari Riyal
+Colombia	Colombian Peso	Spain	Euro (EUR)
+Colombia	Colombian Peso	Vanuatu	Vatu (VUV)
+Colombia	Colombian Peso	Cabo Verde	Escudo (CVE)
+Colombia	Colombian Peso	Belgium	Euro (EUR)
+Colombia	Colombian Peso	Latvia	Latvian Lats (LVL)
+Colombia	Colombian Peso	Singapore	Singapore Dollar (SGD)
+Colombia	Colombian Peso	Congo	Congolese Franc (CDF)
+Colombia	Colombian Peso	Uruguay	Uruguayan Peso
+Colombia	Colombian Peso	Armenia	Dram (AMD)
+Colombia	Colombian Peso	Panama	Balboa (PAB)
+Colombia	Colombian Peso	Samoa	Tala
+Colombia	Colombian Peso	Haiti	Gourde
+Colombia	Colombian Peso	Sweden	Swedish Krona (SEK)
+Colombia	Colombian Peso	Burkina Faso	West African CFA franc
+Colombia	Colombian Peso	Nigeria	Naira
+Russia	Russian Ruble	Timor-Leste	US Dollar (USD)
+Russia	Russian Ruble	Bahamas	Bahamian Dollar
+Russia	Russian Ruble	Nauru	Australian Dollar (AUD)
+Russia	Russian Ruble	Czech Republic	Czech Koruna (CZK)
+Russia	Russian Ruble	Tonga	Pa'anga (TOP)
+Russia	Russian Ruble	Egypt	Egyptian Pound (EGP)
+Russia	Russian Ruble	Mauritania	Ouguiya (MRO)
+Russia	Russian Ruble	Democratic Republic of the Congo	Congolese Franc (CDF)
+Russia	Russian Ruble	Moldova	Moldovan Leu (MDL)
+Russia	Russian Ruble	Slovenia	Euro (EUR)
+Russia	Russian Ruble	India	Indian Rupee
+Russia	Russian Ruble	Saudi Arabia	Saudi Riyal
+Russia	Russian Ruble	Bolivia	Bolivian Boliviano (BOB)
+Russia	Russian Ruble	Myanmar	Kyat
+Russia	Russian Ruble	Bosnia and Herzegovina	Convertible Mark (KM or BAM)
+Russia	Russian Ruble	Montenegro	Euro (EUR)
+Russia	Russian Ruble	Solomon Islands	Solomon Islands Dollar (SBD)
+Russia	Russian Ruble	Sudan	Sudanese Pound (SDG)
+Russia	Russian Ruble	Australia	Australian Dollar (AUD)
+Russia	Russian Ruble	Jamaica	Jamaican Dollar (JMD)
+Russia	Russian Ruble	Equatorial Guinea	Central African CFA franc
+Russia	Russian Ruble	South Korea	South Korean Won (KRW)
+Russia	Russian Ruble	Brunei	Brunei Dollar (BND)
+Russia	Russian Ruble	Germany	Euro (EUR)
+Russia	Russian Ruble	Guyana	Guyanese Dollar
+Russia	Russian Ruble	United Arab Emirates	UAE Dirham
+Russia	Russian Ruble	Jordan	Jordanian Dinar (JOD)
+Russia	Russian Ruble	Laos	Lao Kip (LAK)
+Russia	Russian Ruble	Indonesia	Indonesian Rupiah
+Russia	Russian Ruble	Brazil	Brazilian Real (BRL)
+Russia	Russian Ruble	Colombia	Colombian Peso
+Russia	Russian Ruble	Saint Kitts and Nevis	East Caribbean Dollar (XCD)
+Russia	Russian Ruble	Peru	Sol (PEN)
+Russia	Russian Ruble	Qatar	Qatari Riyal
+Russia	Russian Ruble	Spain	Euro (EUR)
+Russia	Russian Ruble	Vanuatu	Vatu (VUV)
+Russia	Russian Ruble	Cabo Verde	Escudo (CVE)
+Russia	Russian Ruble	Belgium	Euro (EUR)
+Russia	Russian Ruble	Latvia	Latvian Lats (LVL)
+Russia	Russian Ruble	Singapore	Singapore Dollar (SGD)
+Russia	Russian Ruble	Congo	Congolese Franc (CDF)
+Russia	Russian Ruble	Uruguay	Uruguayan Peso
+Russia	Russian Ruble	Armenia	Dram (AMD)
+Russia	Russian Ruble	Panama	Balboa (PAB)
+Russia	Russian Ruble	Samoa	Tala
+Russia	Russian Ruble	Haiti	Gourde
+Russia	Russian Ruble	Sweden	Swedish Krona (SEK)
+Russia	Russian Ruble	Burkina Faso	West African CFA franc
+Russia	Russian Ruble	Nigeria	Naira
+Saint Kitts and Nevis	East Caribbean Dollar (XCD)	Timor-Leste	US Dollar (USD)
+Saint Kitts and Nevis	East Caribbean Dollar (XCD)	Bahamas	Bahamian Dollar
+Saint Kitts and Nevis	East Caribbean Dollar (XCD)	Nauru	Australian Dollar (AUD)
+Saint Kitts and Nevis	East Caribbean Dollar (XCD)	Czech Republic	Czech Koruna (CZK)
+Saint Kitts and Nevis	East Caribbean Dollar (XCD)	Tonga	Pa'anga (TOP)
+Saint Kitts and Nevis	East Caribbean Dollar (XCD)	Egypt	Egyptian Pound (EGP)
+Saint Kitts and Nevis	East Caribbean Dollar (XCD)	Mauritania	Ouguiya (MRO)
+Saint Kitts and Nevis	East Caribbean Dollar (XCD)	Democratic Republic of the Congo	Congolese Franc (CDF)
+Saint Kitts and Nevis	East Caribbean Dollar (XCD)	Moldova	Moldovan Leu (MDL)
+Saint Kitts and Nevis	East Caribbean Dollar (XCD)	Slovenia	Euro (EUR)
+Saint Kitts and Nevis	East Caribbean Dollar (XCD)	India	Indian Rupee
+Saint Kitts and Nevis	East Caribbean Dollar (XCD)	Saudi Arabia	Saudi Riyal
+Saint Kitts and Nevis	East Caribbean Dollar (XCD)	Bolivia	Bolivian Boliviano (BOB)
+Saint Kitts and Nevis	East Caribbean Dollar (XCD)	Myanmar	Kyat
+Saint Kitts and Nevis	East Caribbean Dollar (XCD)	Bosnia and Herzegovina	Convertible Mark (KM or BAM)
+Saint Kitts and Nevis	East Caribbean Dollar (XCD)	Montenegro	Euro (EUR)
+Saint Kitts and Nevis	East Caribbean Dollar (XCD)	Solomon Islands	Solomon Islands Dollar (SBD)
+Saint Kitts and Nevis	East Caribbean Dollar (XCD)	Sudan	Sudanese Pound (SDG)
+Saint Kitts and Nevis	East Caribbean Dollar (XCD)	Australia	Australian Dollar (AUD)
+Saint Kitts and Nevis	East Caribbean Dollar (XCD)	Jamaica	Jamaican Dollar (JMD)
+Saint Kitts and Nevis	East Caribbean Dollar (XCD)	Equatorial Guinea	Central African CFA franc
+Saint Kitts and Nevis	East Caribbean Dollar (XCD)	South Korea	South Korean Won (KRW)
+Saint Kitts and Nevis	East Caribbean Dollar (XCD)	Brunei	Brunei Dollar (BND)
+Saint Kitts and Nevis	East Caribbean Dollar (XCD)	Germany	Euro (EUR)
+Saint Kitts and Nevis	East Caribbean Dollar (XCD)	Guyana	Guyanese Dollar
+Saint Kitts and Nevis	East Caribbean Dollar (XCD)	United Arab Emirates	UAE Dirham
+Saint Kitts and Nevis	East Caribbean Dollar (XCD)	Jordan	Jordanian Dinar (JOD)
+Saint Kitts and Nevis	East Caribbean Dollar (XCD)	Laos	Lao Kip (LAK)
+Saint Kitts and Nevis	East Caribbean Dollar (XCD)	Indonesia	Indonesian Rupiah
+Saint Kitts and Nevis	East Caribbean Dollar (XCD)	Brazil	Brazilian Real (BRL)
+Saint Kitts and Nevis	East Caribbean Dollar (XCD)	Colombia	Colombian Peso
+Saint Kitts and Nevis	East Caribbean Dollar (XCD)	Russia	Russian Ruble
+Saint Kitts and Nevis	East Caribbean Dollar (XCD)	Peru	Sol (PEN)
+Saint Kitts and Nevis	East Caribbean Dollar (XCD)	Qatar	Qatari Riyal
+Saint Kitts and Nevis	East Caribbean Dollar (XCD)	Spain	Euro (EUR)
+Saint Kitts and Nevis	East Caribbean Dollar (XCD)	Vanuatu	Vatu (VUV)
+Saint Kitts and Nevis	East Caribbean Dollar (XCD)	Cabo Verde	Escudo (CVE)
+Saint Kitts and Nevis	East Caribbean Dollar (XCD)	Belgium	Euro (EUR)
+Saint Kitts and Nevis	East Caribbean Dollar (XCD)	Latvia	Latvian Lats (LVL)
+Saint Kitts and Nevis	East Caribbean Dollar (XCD)	Singapore	Singapore Dollar (SGD)
+Saint Kitts and Nevis	East Caribbean Dollar (XCD)	Congo	Congolese Franc (CDF)
+Saint Kitts and Nevis	East Caribbean Dollar (XCD)	Uruguay	Uruguayan Peso
+Saint Kitts and Nevis	East Caribbean Dollar (XCD)	Armenia	Dram (AMD)
+Saint Kitts and Nevis	East Caribbean Dollar (XCD)	Panama	Balboa (PAB)
+Saint Kitts and Nevis	East Caribbean Dollar (XCD)	Samoa	Tala
+Saint Kitts and Nevis	East Caribbean Dollar (XCD)	Haiti	Gourde
+Saint Kitts and Nevis	East Caribbean Dollar (XCD)	Sweden	Swedish Krona (SEK)
+Saint Kitts and Nevis	East Caribbean Dollar (XCD)	Burkina Faso	West African CFA franc
+Saint Kitts and Nevis	East Caribbean Dollar (XCD)	Nigeria	Naira
+Peru	Sol (PEN)	Timor-Leste	US Dollar (USD)
+Peru	Sol (PEN)	Bahamas	Bahamian Dollar
+Peru	Sol (PEN)	Nauru	Australian Dollar (AUD)
+Peru	Sol (PEN)	Czech Republic	Czech Koruna (CZK)
+Peru	Sol (PEN)	Tonga	Pa'anga (TOP)
+Peru	Sol (PEN)	Egypt	Egyptian Pound (EGP)
+Peru	Sol (PEN)	Mauritania	Ouguiya (MRO)
+Peru	Sol (PEN)	Democratic Republic of the Congo	Congolese Franc (CDF)
+Peru	Sol (PEN)	Moldova	Moldovan Leu (MDL)
+Peru	Sol (PEN)	Slovenia	Euro (EUR)
+Peru	Sol (PEN)	India	Indian Rupee
+Peru	Sol (PEN)	Saudi Arabia	Saudi Riyal
+Peru	Sol (PEN)	Bolivia	Bolivian Boliviano (BOB)
+Peru	Sol (PEN)	Myanmar	Kyat
+Peru	Sol (PEN)	Bosnia and Herzegovina	Convertible Mark (KM or BAM)
+Peru	Sol (PEN)	Montenegro	Euro (EUR)
+Peru	Sol (PEN)	Solomon Islands	Solomon Islands Dollar (SBD)
+Peru	Sol (PEN)	Sudan	Sudanese Pound (SDG)
+Peru	Sol (PEN)	Australia	Australian Dollar (AUD)
+Peru	Sol (PEN)	Jamaica	Jamaican Dollar (JMD)
+Peru	Sol (PEN)	Equatorial Guinea	Central African CFA franc
+Peru	Sol (PEN)	South Korea	South Korean Won (KRW)
+Peru	Sol (PEN)	Brunei	Brunei Dollar (BND)
+Peru	Sol (PEN)	Germany	Euro (EUR)
+Peru	Sol (PEN)	Guyana	Guyanese Dollar
+Peru	Sol (PEN)	United Arab Emirates	UAE Dirham
+Peru	Sol (PEN)	Jordan	Jordanian Dinar (JOD)
+Peru	Sol (PEN)	Laos	Lao Kip (LAK)
+Peru	Sol (PEN)	Indonesia	Indonesian Rupiah
+Peru	Sol (PEN)	Brazil	Brazilian Real (BRL)
+Peru	Sol (PEN)	Colombia	Colombian Peso
+Peru	Sol (PEN)	Russia	Russian Ruble
+Peru	Sol (PEN)	Saint Kitts and Nevis	East Caribbean Dollar (XCD)
+Peru	Sol (PEN)	Qatar	Qatari Riyal
+Peru	Sol (PEN)	Spain	Euro (EUR)
+Peru	Sol (PEN)	Vanuatu	Vatu (VUV)
+Peru	Sol (PEN)	Cabo Verde	Escudo (CVE)
+Peru	Sol (PEN)	Belgium	Euro (EUR)
+Peru	Sol (PEN)	Latvia	Latvian Lats (LVL)
+Peru	Sol (PEN)	Singapore	Singapore Dollar (SGD)
+Peru	Sol (PEN)	Congo	Congolese Franc (CDF)
+Peru	Sol (PEN)	Uruguay	Uruguayan Peso
+Peru	Sol (PEN)	Armenia	Dram (AMD)
+Peru	Sol (PEN)	Panama	Balboa (PAB)
+Peru	Sol (PEN)	Samoa	Tala
+Peru	Sol (PEN)	Haiti	Gourde
+Peru	Sol (PEN)	Sweden	Swedish Krona (SEK)
+Peru	Sol (PEN)	Burkina Faso	West African CFA franc
+Peru	Sol (PEN)	Nigeria	Naira
+Qatar	Qatari Riyal	Timor-Leste	US Dollar (USD)
+Qatar	Qatari Riyal	Bahamas	Bahamian Dollar
+Qatar	Qatari Riyal	Nauru	Australian Dollar (AUD)
+Qatar	Qatari Riyal	Czech Republic	Czech Koruna (CZK)
+Qatar	Qatari Riyal	Tonga	Pa'anga (TOP)
+Qatar	Qatari Riyal	Egypt	Egyptian Pound (EGP)
+Qatar	Qatari Riyal	Mauritania	Ouguiya (MRO)
+Qatar	Qatari Riyal	Democratic Republic of the Congo	Congolese Franc (CDF)
+Qatar	Qatari Riyal	Moldova	Moldovan Leu (MDL)
+Qatar	Qatari Riyal	Slovenia	Euro (EUR)
+Qatar	Qatari Riyal	India	Indian Rupee
+Qatar	Qatari Riyal	Saudi Arabia	Saudi Riyal
+Qatar	Qatari Riyal	Bolivia	Bolivian Boliviano (BOB)
+Qatar	Qatari Riyal	Myanmar	Kyat
+Qatar	Qatari Riyal	Bosnia and Herzegovina	Convertible Mark (KM or BAM)
+Qatar	Qatari Riyal	Montenegro	Euro (EUR)
+Qatar	Qatari Riyal	Solomon Islands	Solomon Islands Dollar (SBD)
+Qatar	Qatari Riyal	Sudan	Sudanese Pound (SDG)
+Qatar	Qatari Riyal	Australia	Australian Dollar (AUD)
+Qatar	Qatari Riyal	Jamaica	Jamaican Dollar (JMD)
+Qatar	Qatari Riyal	Equatorial Guinea	Central African CFA franc
+Qatar	Qatari Riyal	South Korea	South Korean Won (KRW)
+Qatar	Qatari Riyal	Brunei	Brunei Dollar (BND)
+Qatar	Qatari Riyal	Germany	Euro (EUR)
+Qatar	Qatari Riyal	Guyana	Guyanese Dollar
+Qatar	Qatari Riyal	United Arab Emirates	UAE Dirham
+Qatar	Qatari Riyal	Jordan	Jordanian Dinar (JOD)
+Qatar	Qatari Riyal	Laos	Lao Kip (LAK)
+Qatar	Qatari Riyal	Indonesia	Indonesian Rupiah
+Qatar	Qatari Riyal	Brazil	Brazilian Real (BRL)
+Qatar	Qatari Riyal	Colombia	Colombian Peso
+Qatar	Qatari Riyal	Russia	Russian Ruble
+Qatar	Qatari Riyal	Saint Kitts and Nevis	East Caribbean Dollar (XCD)
+Qatar	Qatari Riyal	Peru	Sol (PEN)
+Qatar	Qatari Riyal	Spain	Euro (EUR)
+Qatar	Qatari Riyal	Vanuatu	Vatu (VUV)
+Qatar	Qatari Riyal	Cabo Verde	Escudo (CVE)
+Qatar	Qatari Riyal	Belgium	Euro (EUR)
+Qatar	Qatari Riyal	Latvia	Latvian Lats (LVL)
+Qatar	Qatari Riyal	Singapore	Singapore Dollar (SGD)
+Qatar	Qatari Riyal	Congo	Congolese Franc (CDF)
+Qatar	Qatari Riyal	Uruguay	Uruguayan Peso
+Qatar	Qatari Riyal	Armenia	Dram (AMD)
+Qatar	Qatari Riyal	Panama	Balboa (PAB)
+Qatar	Qatari Riyal	Samoa	Tala
+Qatar	Qatari Riyal	Haiti	Gourde
+Qatar	Qatari Riyal	Sweden	Swedish Krona (SEK)
+Qatar	Qatari Riyal	Burkina Faso	West African CFA franc
+Qatar	Qatari Riyal	Nigeria	Naira
+Spain	Euro (EUR)	Timor-Leste	US Dollar (USD)
+Spain	Euro (EUR)	Bahamas	Bahamian Dollar
+Spain	Euro (EUR)	Nauru	Australian Dollar (AUD)
+Spain	Euro (EUR)	Czech Republic	Czech Koruna (CZK)
+Spain	Euro (EUR)	Tonga	Pa'anga (TOP)
+Spain	Euro (EUR)	Egypt	Egyptian Pound (EGP)
+Spain	Euro (EUR)	Mauritania	Ouguiya (MRO)
+Spain	Euro (EUR)	Democratic Republic of the Congo	Congolese Franc (CDF)
+Spain	Euro (EUR)	Moldova	Moldovan Leu (MDL)
+Spain	Euro (EUR)	India	Indian Rupee
+Spain	Euro (EUR)	Saudi Arabia	Saudi Riyal
+Spain	Euro (EUR)	Bolivia	Bolivian Boliviano (BOB)
+Spain	Euro (EUR)	Myanmar	Kyat
+Spain	Euro (EUR)	Bosnia and Herzegovina	Convertible Mark (KM or BAM)
+Spain	Euro (EUR)	Solomon Islands	Solomon Islands Dollar (SBD)
+Spain	Euro (EUR)	Sudan	Sudanese Pound (SDG)
+Spain	Euro (EUR)	Australia	Australian Dollar (AUD)
+Spain	Euro (EUR)	Jamaica	Jamaican Dollar (JMD)
+Spain	Euro (EUR)	Equatorial Guinea	Central African CFA franc
+Spain	Euro (EUR)	South Korea	South Korean Won (KRW)
+Spain	Euro (EUR)	Brunei	Brunei Dollar (BND)
+Spain	Euro (EUR)	Guyana	Guyanese Dollar
+Spain	Euro (EUR)	United Arab Emirates	UAE Dirham
+Spain	Euro (EUR)	Jordan	Jordanian Dinar (JOD)
+Spain	Euro (EUR)	Laos	Lao Kip (LAK)
+Spain	Euro (EUR)	Indonesia	Indonesian Rupiah
+Spain	Euro (EUR)	Brazil	Brazilian Real (BRL)
+Spain	Euro (EUR)	Colombia	Colombian Peso
+Spain	Euro (EUR)	Russia	Russian Ruble
+Spain	Euro (EUR)	Saint Kitts and Nevis	East Caribbean Dollar (XCD)
+Spain	Euro (EUR)	Peru	Sol (PEN)
+Spain	Euro (EUR)	Qatar	Qatari Riyal
+Spain	Euro (EUR)	Vanuatu	Vatu (VUV)
+Spain	Euro (EUR)	Cabo Verde	Escudo (CVE)
+Spain	Euro (EUR)	Latvia	Latvian Lats (LVL)
+Spain	Euro (EUR)	Singapore	Singapore Dollar (SGD)
+Spain	Euro (EUR)	Congo	Congolese Franc (CDF)
+Spain	Euro (EUR)	Uruguay	Uruguayan Peso
+Spain	Euro (EUR)	Armenia	Dram (AMD)
+Spain	Euro (EUR)	Panama	Balboa (PAB)
+Spain	Euro (EUR)	Samoa	Tala
+Spain	Euro (EUR)	Haiti	Gourde
+Spain	Euro (EUR)	Sweden	Swedish Krona (SEK)
+Spain	Euro (EUR)	Burkina Faso	West African CFA franc
+Spain	Euro (EUR)	Nigeria	Naira
+Vanuatu	Vatu (VUV)	Timor-Leste	US Dollar (USD)
+Vanuatu	Vatu (VUV)	Bahamas	Bahamian Dollar
+Vanuatu	Vatu (VUV)	Nauru	Australian Dollar (AUD)
+Vanuatu	Vatu (VUV)	Czech Republic	Czech Koruna (CZK)
+Vanuatu	Vatu (VUV)	Tonga	Pa'anga (TOP)
+Vanuatu	Vatu (VUV)	Egypt	Egyptian Pound (EGP)
+Vanuatu	Vatu (VUV)	Mauritania	Ouguiya (MRO)
+Vanuatu	Vatu (VUV)	Democratic Republic of the Congo	Congolese Franc (CDF)
+Vanuatu	Vatu (VUV)	Moldova	Moldovan Leu (MDL)
+Vanuatu	Vatu (VUV)	Slovenia	Euro (EUR)
+Vanuatu	Vatu (VUV)	India	Indian Rupee
+Vanuatu	Vatu (VUV)	Saudi Arabia	Saudi Riyal
+Vanuatu	Vatu (VUV)	Bolivia	Bolivian Boliviano (BOB)
+Vanuatu	Vatu (VUV)	Myanmar	Kyat
+Vanuatu	Vatu (VUV)	Bosnia and Herzegovina	Convertible Mark (KM or BAM)
+Vanuatu	Vatu (VUV)	Montenegro	Euro (EUR)
+Vanuatu	Vatu (VUV)	Solomon Islands	Solomon Islands Dollar (SBD)
+Vanuatu	Vatu (VUV)	Sudan	Sudanese Pound (SDG)
+Vanuatu	Vatu (VUV)	Australia	Australian Dollar (AUD)
+Vanuatu	Vatu (VUV)	Jamaica	Jamaican Dollar (JMD)
+Vanuatu	Vatu (VUV)	Equatorial Guinea	Central African CFA franc
+Vanuatu	Vatu (VUV)	South Korea	South Korean Won (KRW)
+Vanuatu	Vatu (VUV)	Brunei	Brunei Dollar (BND)
+Vanuatu	Vatu (VUV)	Germany	Euro (EUR)
+Vanuatu	Vatu (VUV)	Guyana	Guyanese Dollar
+Vanuatu	Vatu (VUV)	United Arab Emirates	UAE Dirham
+Vanuatu	Vatu (VUV)	Jordan	Jordanian Dinar (JOD)
+Vanuatu	Vatu (VUV)	Laos	Lao Kip (LAK)
+Vanuatu	Vatu (VUV)	Indonesia	Indonesian Rupiah
+Vanuatu	Vatu (VUV)	Brazil	Brazilian Real (BRL)
+Vanuatu	Vatu (VUV)	Colombia	Colombian Peso
+Vanuatu	Vatu (VUV)	Russia	Russian Ruble
+Vanuatu	Vatu (VUV)	Saint Kitts and Nevis	East Caribbean Dollar (XCD)
+Vanuatu	Vatu (VUV)	Peru	Sol (PEN)
+Vanuatu	Vatu (VUV)	Qatar	Qatari Riyal
+Vanuatu	Vatu (VUV)	Spain	Euro (EUR)
+Vanuatu	Vatu (VUV)	Cabo Verde	Escudo (CVE)
+Vanuatu	Vatu (VUV)	Belgium	Euro (EUR)
+Vanuatu	Vatu (VUV)	Latvia	Latvian Lats (LVL)
+Vanuatu	Vatu (VUV)	Singapore	Singapore Dollar (SGD)
+Vanuatu	Vatu (VUV)	Congo	Congolese Franc (CDF)
+Vanuatu	Vatu (VUV)	Uruguay	Uruguayan Peso
+Vanuatu	Vatu (VUV)	Armenia	Dram (AMD)
+Vanuatu	Vatu (VUV)	Panama	Balboa (PAB)
+Vanuatu	Vatu (VUV)	Samoa	Tala
+Vanuatu	Vatu (VUV)	Haiti	Gourde
+Vanuatu	Vatu (VUV)	Sweden	Swedish Krona (SEK)
+Vanuatu	Vatu (VUV)	Burkina Faso	West African CFA franc
+Vanuatu	Vatu (VUV)	Nigeria	Naira
+Cabo Verde	Escudo (CVE)	Timor-Leste	US Dollar (USD)
+Cabo Verde	Escudo (CVE)	Bahamas	Bahamian Dollar
+Cabo Verde	Escudo (CVE)	Nauru	Australian Dollar (AUD)
+Cabo Verde	Escudo (CVE)	Czech Republic	Czech Koruna (CZK)
+Cabo Verde	Escudo (CVE)	Tonga	Pa'anga (TOP)
+Cabo Verde	Escudo (CVE)	Egypt	Egyptian Pound (EGP)
+Cabo Verde	Escudo (CVE)	Mauritania	Ouguiya (MRO)
+Cabo Verde	Escudo (CVE)	Democratic Republic of the Congo	Congolese Franc (CDF)
+Cabo Verde	Escudo (CVE)	Moldova	Moldovan Leu (MDL)
+Cabo Verde	Escudo (CVE)	Slovenia	Euro (EUR)
+Cabo Verde	Escudo (CVE)	India	Indian Rupee
+Cabo Verde	Escudo (CVE)	Saudi Arabia	Saudi Riyal
+Cabo Verde	Escudo (CVE)	Bolivia	Bolivian Boliviano (BOB)
+Cabo Verde	Escudo (CVE)	Myanmar	Kyat
+Cabo Verde	Escudo (CVE)	Bosnia and Herzegovina	Convertible Mark (KM or BAM)
+Cabo Verde	Escudo (CVE)	Montenegro	Euro (EUR)
+Cabo Verde	Escudo (CVE)	Solomon Islands	Solomon Islands Dollar (SBD)
+Cabo Verde	Escudo (CVE)	Sudan	Sudanese Pound (SDG)
+Cabo Verde	Escudo (CVE)	Australia	Australian Dollar (AUD)
+Cabo Verde	Escudo (CVE)	Jamaica	Jamaican Dollar (JMD)
+Cabo Verde	Escudo (CVE)	Equatorial Guinea	Central African CFA franc
+Cabo Verde	Escudo (CVE)	South Korea	South Korean Won (KRW)
+Cabo Verde	Escudo (CVE)	Brunei	Brunei Dollar (BND)
+Cabo Verde	Escudo (CVE)	Germany	Euro (EUR)
+Cabo Verde	Escudo (CVE)	Guyana	Guyanese Dollar
+Cabo Verde	Escudo (CVE)	United Arab Emirates	UAE Dirham
+Cabo Verde	Escudo (CVE)	Jordan	Jordanian Dinar (JOD)
+Cabo Verde	Escudo (CVE)	Laos	Lao Kip (LAK)
+Cabo Verde	Escudo (CVE)	Indonesia	Indonesian Rupiah
+Cabo Verde	Escudo (CVE)	Brazil	Brazilian Real (BRL)
+Cabo Verde	Escudo (CVE)	Colombia	Colombian Peso
+Cabo Verde	Escudo (CVE)	Russia	Russian Ruble
+Cabo Verde	Escudo (CVE)	Saint Kitts and Nevis	East Caribbean Dollar (XCD)
+Cabo Verde	Escudo (CVE)	Peru	Sol (PEN)
+Cabo Verde	Escudo (CVE)	Qatar	Qatari Riyal
+Cabo Verde	Escudo (CVE)	Spain	Euro (EUR)
+Cabo Verde	Escudo (CVE)	Vanuatu	Vatu (VUV)
+Cabo Verde	Escudo (CVE)	Belgium	Euro (EUR)
+Cabo Verde	Escudo (CVE)	Latvia	Latvian Lats (LVL)
+Cabo Verde	Escudo (CVE)	Singapore	Singapore Dollar (SGD)
+Cabo Verde	Escudo (CVE)	Congo	Congolese Franc (CDF)
+Cabo Verde	Escudo (CVE)	Uruguay	Uruguayan Peso
+Cabo Verde	Escudo (CVE)	Armenia	Dram (AMD)
+Cabo Verde	Escudo (CVE)	Panama	Balboa (PAB)
+Cabo Verde	Escudo (CVE)	Samoa	Tala
+Cabo Verde	Escudo (CVE)	Haiti	Gourde
+Cabo Verde	Escudo (CVE)	Sweden	Swedish Krona (SEK)
+Cabo Verde	Escudo (CVE)	Burkina Faso	West African CFA franc
+Cabo Verde	Escudo (CVE)	Nigeria	Naira
+Belgium	Euro (EUR)	Timor-Leste	US Dollar (USD)
+Belgium	Euro (EUR)	Bahamas	Bahamian Dollar
+Belgium	Euro (EUR)	Nauru	Australian Dollar (AUD)
+Belgium	Euro (EUR)	Czech Republic	Czech Koruna (CZK)
+Belgium	Euro (EUR)	Tonga	Pa'anga (TOP)
+Belgium	Euro (EUR)	Egypt	Egyptian Pound (EGP)
+Belgium	Euro (EUR)	Mauritania	Ouguiya (MRO)
+Belgium	Euro (EUR)	Democratic Republic of the Congo	Congolese Franc (CDF)
+Belgium	Euro (EUR)	Moldova	Moldovan Leu (MDL)
+Belgium	Euro (EUR)	India	Indian Rupee
+Belgium	Euro (EUR)	Saudi Arabia	Saudi Riyal
+Belgium	Euro (EUR)	Bolivia	Bolivian Boliviano (BOB)
+Belgium	Euro (EUR)	Myanmar	Kyat
+Belgium	Euro (EUR)	Bosnia and Herzegovina	Convertible Mark (KM or BAM)
+Belgium	Euro (EUR)	Solomon Islands	Solomon Islands Dollar (SBD)
+Belgium	Euro (EUR)	Sudan	Sudanese Pound (SDG)
+Belgium	Euro (EUR)	Australia	Australian Dollar (AUD)
+Belgium	Euro (EUR)	Jamaica	Jamaican Dollar (JMD)
+Belgium	Euro (EUR)	Equatorial Guinea	Central African CFA franc
+Belgium	Euro (EUR)	South Korea	South Korean Won (KRW)
+Belgium	Euro (EUR)	Brunei	Brunei Dollar (BND)
+Belgium	Euro (EUR)	Guyana	Guyanese Dollar
+Belgium	Euro (EUR)	United Arab Emirates	UAE Dirham
+Belgium	Euro (EUR)	Jordan	Jordanian Dinar (JOD)
+Belgium	Euro (EUR)	Laos	Lao Kip (LAK)
+Belgium	Euro (EUR)	Indonesia	Indonesian Rupiah
+Belgium	Euro (EUR)	Brazil	Brazilian Real (BRL)
+Belgium	Euro (EUR)	Colombia	Colombian Peso
+Belgium	Euro (EUR)	Russia	Russian Ruble
+Belgium	Euro (EUR)	Saint Kitts and Nevis	East Caribbean Dollar (XCD)
+Belgium	Euro (EUR)	Peru	Sol (PEN)
+Belgium	Euro (EUR)	Qatar	Qatari Riyal
+Belgium	Euro (EUR)	Vanuatu	Vatu (VUV)
+Belgium	Euro (EUR)	Cabo Verde	Escudo (CVE)
+Belgium	Euro (EUR)	Latvia	Latvian Lats (LVL)
+Belgium	Euro (EUR)	Singapore	Singapore Dollar (SGD)
+Belgium	Euro (EUR)	Congo	Congolese Franc (CDF)
+Belgium	Euro (EUR)	Uruguay	Uruguayan Peso
+Belgium	Euro (EUR)	Armenia	Dram (AMD)
+Belgium	Euro (EUR)	Panama	Balboa (PAB)
+Belgium	Euro (EUR)	Samoa	Tala
+Belgium	Euro (EUR)	Haiti	Gourde
+Belgium	Euro (EUR)	Sweden	Swedish Krona (SEK)
+Belgium	Euro (EUR)	Burkina Faso	West African CFA franc
+Belgium	Euro (EUR)	Nigeria	Naira
+Latvia	Latvian Lats (LVL)	Timor-Leste	US Dollar (USD)
+Latvia	Latvian Lats (LVL)	Bahamas	Bahamian Dollar
+Latvia	Latvian Lats (LVL)	Nauru	Australian Dollar (AUD)
+Latvia	Latvian Lats (LVL)	Czech Republic	Czech Koruna (CZK)
+Latvia	Latvian Lats (LVL)	Tonga	Pa'anga (TOP)
+Latvia	Latvian Lats (LVL)	Egypt	Egyptian Pound (EGP)
+Latvia	Latvian Lats (LVL)	Mauritania	Ouguiya (MRO)
+Latvia	Latvian Lats (LVL)	Democratic Republic of the Congo	Congolese Franc (CDF)
+Latvia	Latvian Lats (LVL)	Moldova	Moldovan Leu (MDL)
+Latvia	Latvian Lats (LVL)	Slovenia	Euro (EUR)
+Latvia	Latvian Lats (LVL)	India	Indian Rupee
+Latvia	Latvian Lats (LVL)	Saudi Arabia	Saudi Riyal
+Latvia	Latvian Lats (LVL)	Bolivia	Bolivian Boliviano (BOB)
+Latvia	Latvian Lats (LVL)	Myanmar	Kyat
+Latvia	Latvian Lats (LVL)	Bosnia and Herzegovina	Convertible Mark (KM or BAM)
+Latvia	Latvian Lats (LVL)	Montenegro	Euro (EUR)
+Latvia	Latvian Lats (LVL)	Solomon Islands	Solomon Islands Dollar (SBD)
+Latvia	Latvian Lats (LVL)	Sudan	Sudanese Pound (SDG)
+Latvia	Latvian Lats (LVL)	Australia	Australian Dollar (AUD)
+Latvia	Latvian Lats (LVL)	Jamaica	Jamaican Dollar (JMD)
+Latvia	Latvian Lats (LVL)	Equatorial Guinea	Central African CFA franc
+Latvia	Latvian Lats (LVL)	South Korea	South Korean Won (KRW)
+Latvia	Latvian Lats (LVL)	Brunei	Brunei Dollar (BND)
+Latvia	Latvian Lats (LVL)	Germany	Euro (EUR)
+Latvia	Latvian Lats (LVL)	Guyana	Guyanese Dollar
+Latvia	Latvian Lats (LVL)	United Arab Emirates	UAE Dirham
+Latvia	Latvian Lats (LVL)	Jordan	Jordanian Dinar (JOD)
+Latvia	Latvian Lats (LVL)	Laos	Lao Kip (LAK)
+Latvia	Latvian Lats (LVL)	Indonesia	Indonesian Rupiah
+Latvia	Latvian Lats (LVL)	Brazil	Brazilian Real (BRL)
+Latvia	Latvian Lats (LVL)	Colombia	Colombian Peso
+Latvia	Latvian Lats (LVL)	Russia	Russian Ruble
+Latvia	Latvian Lats (LVL)	Saint Kitts and Nevis	East Caribbean Dollar (XCD)
+Latvia	Latvian Lats (LVL)	Peru	Sol (PEN)
+Latvia	Latvian Lats (LVL)	Qatar	Qatari Riyal
+Latvia	Latvian Lats (LVL)	Spain	Euro (EUR)
+Latvia	Latvian Lats (LVL)	Vanuatu	Vatu (VUV)
+Latvia	Latvian Lats (LVL)	Cabo Verde	Escudo (CVE)
+Latvia	Latvian Lats (LVL)	Belgium	Euro (EUR)
+Latvia	Latvian Lats (LVL)	Singapore	Singapore Dollar (SGD)
+Latvia	Latvian Lats (LVL)	Congo	Congolese Franc (CDF)
+Latvia	Latvian Lats (LVL)	Uruguay	Uruguayan Peso
+Latvia	Latvian Lats (LVL)	Armenia	Dram (AMD)
+Latvia	Latvian Lats (LVL)	Panama	Balboa (PAB)
+Latvia	Latvian Lats (LVL)	Samoa	Tala
+Latvia	Latvian Lats (LVL)	Haiti	Gourde
+Latvia	Latvian Lats (LVL)	Sweden	Swedish Krona (SEK)
+Latvia	Latvian Lats (LVL)	Burkina Faso	West African CFA franc
+Latvia	Latvian Lats (LVL)	Nigeria	Naira
+Singapore	Singapore Dollar (SGD)	Timor-Leste	US Dollar (USD)
+Singapore	Singapore Dollar (SGD)	Bahamas	Bahamian Dollar
+Singapore	Singapore Dollar (SGD)	Nauru	Australian Dollar (AUD)
+Singapore	Singapore Dollar (SGD)	Czech Republic	Czech Koruna (CZK)
+Singapore	Singapore Dollar (SGD)	Tonga	Pa'anga (TOP)
+Singapore	Singapore Dollar (SGD)	Egypt	Egyptian Pound (EGP)
+Singapore	Singapore Dollar (SGD)	Mauritania	Ouguiya (MRO)
+Singapore	Singapore Dollar (SGD)	Democratic Republic of the Congo	Congolese Franc (CDF)
+Singapore	Singapore Dollar (SGD)	Moldova	Moldovan Leu (MDL)
+Singapore	Singapore Dollar (SGD)	Slovenia	Euro (EUR)
+Singapore	Singapore Dollar (SGD)	India	Indian Rupee
+Singapore	Singapore Dollar (SGD)	Saudi Arabia	Saudi Riyal
+Singapore	Singapore Dollar (SGD)	Bolivia	Bolivian Boliviano (BOB)
+Singapore	Singapore Dollar (SGD)	Myanmar	Kyat
+Singapore	Singapore Dollar (SGD)	Bosnia and Herzegovina	Convertible Mark (KM or BAM)
+Singapore	Singapore Dollar (SGD)	Montenegro	Euro (EUR)
+Singapore	Singapore Dollar (SGD)	Solomon Islands	Solomon Islands Dollar (SBD)
+Singapore	Singapore Dollar (SGD)	Sudan	Sudanese Pound (SDG)
+Singapore	Singapore Dollar (SGD)	Australia	Australian Dollar (AUD)
+Singapore	Singapore Dollar (SGD)	Jamaica	Jamaican Dollar (JMD)
+Singapore	Singapore Dollar (SGD)	Equatorial Guinea	Central African CFA franc
+Singapore	Singapore Dollar (SGD)	South Korea	South Korean Won (KRW)
+Singapore	Singapore Dollar (SGD)	Brunei	Brunei Dollar (BND)
+Singapore	Singapore Dollar (SGD)	Germany	Euro (EUR)
+Singapore	Singapore Dollar (SGD)	Guyana	Guyanese Dollar
+Singapore	Singapore Dollar (SGD)	United Arab Emirates	UAE Dirham
+Singapore	Singapore Dollar (SGD)	Jordan	Jordanian Dinar (JOD)
+Singapore	Singapore Dollar (SGD)	Laos	Lao Kip (LAK)
+Singapore	Singapore Dollar (SGD)	Indonesia	Indonesian Rupiah
+Singapore	Singapore Dollar (SGD)	Brazil	Brazilian Real (BRL)
+Singapore	Singapore Dollar (SGD)	Colombia	Colombian Peso
+Singapore	Singapore Dollar (SGD)	Russia	Russian Ruble
+Singapore	Singapore Dollar (SGD)	Saint Kitts and Nevis	East Caribbean Dollar (XCD)
+Singapore	Singapore Dollar (SGD)	Peru	Sol (PEN)
+Singapore	Singapore Dollar (SGD)	Qatar	Qatari Riyal
+Singapore	Singapore Dollar (SGD)	Spain	Euro (EUR)
+Singapore	Singapore Dollar (SGD)	Vanuatu	Vatu (VUV)
+Singapore	Singapore Dollar (SGD)	Cabo Verde	Escudo (CVE)
+Singapore	Singapore Dollar (SGD)	Belgium	Euro (EUR)
+Singapore	Singapore Dollar (SGD)	Latvia	Latvian Lats (LVL)
+Singapore	Singapore Dollar (SGD)	Congo	Congolese Franc (CDF)
+Singapore	Singapore Dollar (SGD)	Uruguay	Uruguayan Peso
+Singapore	Singapore Dollar (SGD)	Armenia	Dram (AMD)
+Singapore	Singapore Dollar (SGD)	Panama	Balboa (PAB)
+Singapore	Singapore Dollar (SGD)	Samoa	Tala
+Singapore	Singapore Dollar (SGD)	Haiti	Gourde
+Singapore	Singapore Dollar (SGD)	Sweden	Swedish Krona (SEK)
+Singapore	Singapore Dollar (SGD)	Burkina Faso	West African CFA franc
+Singapore	Singapore Dollar (SGD)	Nigeria	Naira
+Congo	Congolese Franc (CDF)	Timor-Leste	US Dollar (USD)
+Congo	Congolese Franc (CDF)	Bahamas	Bahamian Dollar
+Congo	Congolese Franc (CDF)	Nauru	Australian Dollar (AUD)
+Congo	Congolese Franc (CDF)	Czech Republic	Czech Koruna (CZK)
+Congo	Congolese Franc (CDF)	Tonga	Pa'anga (TOP)
+Congo	Congolese Franc (CDF)	Egypt	Egyptian Pound (EGP)
+Congo	Congolese Franc (CDF)	Mauritania	Ouguiya (MRO)
+Congo	Congolese Franc (CDF)	Moldova	Moldovan Leu (MDL)
+Congo	Congolese Franc (CDF)	Slovenia	Euro (EUR)
+Congo	Congolese Franc (CDF)	India	Indian Rupee
+Congo	Congolese Franc (CDF)	Saudi Arabia	Saudi Riyal
+Congo	Congolese Franc (CDF)	Bolivia	Bolivian Boliviano (BOB)
+Congo	Congolese Franc (CDF)	Myanmar	Kyat
+Congo	Congolese Franc (CDF)	Bosnia and Herzegovina	Convertible Mark (KM or BAM)
+Congo	Congolese Franc (CDF)	Montenegro	Euro (EUR)
+Congo	Congolese Franc (CDF)	Solomon Islands	Solomon Islands Dollar (SBD)
+Congo	Congolese Franc (CDF)	Sudan	Sudanese Pound (SDG)
+Congo	Congolese Franc (CDF)	Australia	Australian Dollar (AUD)
+Congo	Congolese Franc (CDF)	Jamaica	Jamaican Dollar (JMD)
+Congo	Congolese Franc (CDF)	Equatorial Guinea	Central African CFA franc
+Congo	Congolese Franc (CDF)	South Korea	South Korean Won (KRW)
+Congo	Congolese Franc (CDF)	Brunei	Brunei Dollar (BND)
+Congo	Congolese Franc (CDF)	Germany	Euro (EUR)
+Congo	Congolese Franc (CDF)	Guyana	Guyanese Dollar
+Congo	Congolese Franc (CDF)	United Arab Emirates	UAE Dirham
+Congo	Congolese Franc (CDF)	Jordan	Jordanian Dinar (JOD)
+Congo	Congolese Franc (CDF)	Laos	Lao Kip (LAK)
+Congo	Congolese Franc (CDF)	Indonesia	Indonesian Rupiah
+Congo	Congolese Franc (CDF)	Brazil	Brazilian Real (BRL)
+Congo	Congolese Franc (CDF)	Colombia	Colombian Peso
+Congo	Congolese Franc (CDF)	Russia	Russian Ruble
+Congo	Congolese Franc (CDF)	Saint Kitts and Nevis	East Caribbean Dollar (XCD)
+Congo	Congolese Franc (CDF)	Peru	Sol (PEN)
+Congo	Congolese Franc (CDF)	Qatar	Qatari Riyal
+Congo	Congolese Franc (CDF)	Spain	Euro (EUR)
+Congo	Congolese Franc (CDF)	Vanuatu	Vatu (VUV)
+Congo	Congolese Franc (CDF)	Cabo Verde	Escudo (CVE)
+Congo	Congolese Franc (CDF)	Belgium	Euro (EUR)
+Congo	Congolese Franc (CDF)	Latvia	Latvian Lats (LVL)
+Congo	Congolese Franc (CDF)	Singapore	Singapore Dollar (SGD)
+Congo	Congolese Franc (CDF)	Uruguay	Uruguayan Peso
+Congo	Congolese Franc (CDF)	Armenia	Dram (AMD)
+Congo	Congolese Franc (CDF)	Panama	Balboa (PAB)
+Congo	Congolese Franc (CDF)	Samoa	Tala
+Congo	Congolese Franc (CDF)	Haiti	Gourde
+Congo	Congolese Franc (CDF)	Sweden	Swedish Krona (SEK)
+Congo	Congolese Franc (CDF)	Burkina Faso	West African CFA franc
+Congo	Congolese Franc (CDF)	Nigeria	Naira
+Uruguay	Uruguayan Peso	Timor-Leste	US Dollar (USD)
+Uruguay	Uruguayan Peso	Bahamas	Bahamian Dollar
+Uruguay	Uruguayan Peso	Nauru	Australian Dollar (AUD)
+Uruguay	Uruguayan Peso	Czech Republic	Czech Koruna (CZK)
+Uruguay	Uruguayan Peso	Tonga	Pa'anga (TOP)
+Uruguay	Uruguayan Peso	Egypt	Egyptian Pound (EGP)
+Uruguay	Uruguayan Peso	Mauritania	Ouguiya (MRO)
+Uruguay	Uruguayan Peso	Democratic Republic of the Congo	Congolese Franc (CDF)
+Uruguay	Uruguayan Peso	Moldova	Moldovan Leu (MDL)
+Uruguay	Uruguayan Peso	Slovenia	Euro (EUR)
+Uruguay	Uruguayan Peso	India	Indian Rupee
+Uruguay	Uruguayan Peso	Saudi Arabia	Saudi Riyal
+Uruguay	Uruguayan Peso	Bolivia	Bolivian Boliviano (BOB)
+Uruguay	Uruguayan Peso	Myanmar	Kyat
+Uruguay	Uruguayan Peso	Bosnia and Herzegovina	Convertible Mark (KM or BAM)
+Uruguay	Uruguayan Peso	Montenegro	Euro (EUR)
+Uruguay	Uruguayan Peso	Solomon Islands	Solomon Islands Dollar (SBD)
+Uruguay	Uruguayan Peso	Sudan	Sudanese Pound (SDG)
+Uruguay	Uruguayan Peso	Australia	Australian Dollar (AUD)
+Uruguay	Uruguayan Peso	Jamaica	Jamaican Dollar (JMD)
+Uruguay	Uruguayan Peso	Equatorial Guinea	Central African CFA franc
+Uruguay	Uruguayan Peso	South Korea	South Korean Won (KRW)
+Uruguay	Uruguayan Peso	Brunei	Brunei Dollar (BND)
+Uruguay	Uruguayan Peso	Germany	Euro (EUR)
+Uruguay	Uruguayan Peso	Guyana	Guyanese Dollar
+Uruguay	Uruguayan Peso	United Arab Emirates	UAE Dirham
+Uruguay	Uruguayan Peso	Jordan	Jordanian Dinar (JOD)
+Uruguay	Uruguayan Peso	Laos	Lao Kip (LAK)
+Uruguay	Uruguayan Peso	Indonesia	Indonesian Rupiah
+Uruguay	Uruguayan Peso	Brazil	Brazilian Real (BRL)
+Uruguay	Uruguayan Peso	Colombia	Colombian Peso
+Uruguay	Uruguayan Peso	Russia	Russian Ruble
+Uruguay	Uruguayan Peso	Saint Kitts and Nevis	East Caribbean Dollar (XCD)
+Uruguay	Uruguayan Peso	Peru	Sol (PEN)
+Uruguay	Uruguayan Peso	Qatar	Qatari Riyal
+Uruguay	Uruguayan Peso	Spain	Euro (EUR)
+Uruguay	Uruguayan Peso	Vanuatu	Vatu (VUV)
+Uruguay	Uruguayan Peso	Cabo Verde	Escudo (CVE)
+Uruguay	Uruguayan Peso	Belgium	Euro (EUR)
+Uruguay	Uruguayan Peso	Latvia	Latvian Lats (LVL)
+Uruguay	Uruguayan Peso	Singapore	Singapore Dollar (SGD)
+Uruguay	Uruguayan Peso	Congo	Congolese Franc (CDF)
+Uruguay	Uruguayan Peso	Armenia	Dram (AMD)
+Uruguay	Uruguayan Peso	Panama	Balboa (PAB)
+Uruguay	Uruguayan Peso	Samoa	Tala
+Uruguay	Uruguayan Peso	Haiti	Gourde
+Uruguay	Uruguayan Peso	Sweden	Swedish Krona (SEK)
+Uruguay	Uruguayan Peso	Burkina Faso	West African CFA franc
+Uruguay	Uruguayan Peso	Nigeria	Naira
+Armenia	Dram (AMD)	Timor-Leste	US Dollar (USD)
+Armenia	Dram (AMD)	Bahamas	Bahamian Dollar
+Armenia	Dram (AMD)	Nauru	Australian Dollar (AUD)
+Armenia	Dram (AMD)	Czech Republic	Czech Koruna (CZK)
+Armenia	Dram (AMD)	Tonga	Pa'anga (TOP)
+Armenia	Dram (AMD)	Egypt	Egyptian Pound (EGP)
+Armenia	Dram (AMD)	Mauritania	Ouguiya (MRO)
+Armenia	Dram (AMD)	Democratic Republic of the Congo	Congolese Franc (CDF)
+Armenia	Dram (AMD)	Moldova	Moldovan Leu (MDL)
+Armenia	Dram (AMD)	Slovenia	Euro (EUR)
+Armenia	Dram (AMD)	India	Indian Rupee
+Armenia	Dram (AMD)	Saudi Arabia	Saudi Riyal
+Armenia	Dram (AMD)	Bolivia	Bolivian Boliviano (BOB)
+Armenia	Dram (AMD)	Myanmar	Kyat
+Armenia	Dram (AMD)	Bosnia and Herzegovina	Convertible Mark (KM or BAM)
+Armenia	Dram (AMD)	Montenegro	Euro (EUR)
+Armenia	Dram (AMD)	Solomon Islands	Solomon Islands Dollar (SBD)
+Armenia	Dram (AMD)	Sudan	Sudanese Pound (SDG)
+Armenia	Dram (AMD)	Australia	Australian Dollar (AUD)
+Armenia	Dram (AMD)	Jamaica	Jamaican Dollar (JMD)
+Armenia	Dram (AMD)	Equatorial Guinea	Central African CFA franc
+Armenia	Dram (AMD)	South Korea	South Korean Won (KRW)
+Armenia	Dram (AMD)	Brunei	Brunei Dollar (BND)
+Armenia	Dram (AMD)	Germany	Euro (EUR)
+Armenia	Dram (AMD)	Guyana	Guyanese Dollar
+Armenia	Dram (AMD)	United Arab Emirates	UAE Dirham
+Armenia	Dram (AMD)	Jordan	Jordanian Dinar (JOD)
+Armenia	Dram (AMD)	Laos	Lao Kip (LAK)
+Armenia	Dram (AMD)	Indonesia	Indonesian Rupiah
+Armenia	Dram (AMD)	Brazil	Brazilian Real (BRL)
+Armenia	Dram (AMD)	Colombia	Colombian Peso
+Armenia	Dram (AMD)	Russia	Russian Ruble
+Armenia	Dram (AMD)	Saint Kitts and Nevis	East Caribbean Dollar (XCD)
+Armenia	Dram (AMD)	Peru	Sol (PEN)
+Armenia	Dram (AMD)	Qatar	Qatari Riyal
+Armenia	Dram (AMD)	Spain	Euro (EUR)
+Armenia	Dram (AMD)	Vanuatu	Vatu (VUV)
+Armenia	Dram (AMD)	Cabo Verde	Escudo (CVE)
+Armenia	Dram (AMD)	Belgium	Euro (EUR)
+Armenia	Dram (AMD)	Latvia	Latvian Lats (LVL)
+Armenia	Dram (AMD)	Singapore	Singapore Dollar (SGD)
+Armenia	Dram (AMD)	Congo	Congolese Franc (CDF)
+Armenia	Dram (AMD)	Uruguay	Uruguayan Peso
+Armenia	Dram (AMD)	Panama	Balboa (PAB)
+Armenia	Dram (AMD)	Samoa	Tala
+Armenia	Dram (AMD)	Haiti	Gourde
+Armenia	Dram (AMD)	Sweden	Swedish Krona (SEK)
+Armenia	Dram (AMD)	Burkina Faso	West African CFA franc
+Armenia	Dram (AMD)	Nigeria	Naira
+Panama	Balboa (PAB)	Timor-Leste	US Dollar (USD)
+Panama	Balboa (PAB)	Bahamas	Bahamian Dollar
+Panama	Balboa (PAB)	Nauru	Australian Dollar (AUD)
+Panama	Balboa (PAB)	Czech Republic	Czech Koruna (CZK)
+Panama	Balboa (PAB)	Tonga	Pa'anga (TOP)
+Panama	Balboa (PAB)	Egypt	Egyptian Pound (EGP)
+Panama	Balboa (PAB)	Mauritania	Ouguiya (MRO)
+Panama	Balboa (PAB)	Democratic Republic of the Congo	Congolese Franc (CDF)
+Panama	Balboa (PAB)	Moldova	Moldovan Leu (MDL)
+Panama	Balboa (PAB)	Slovenia	Euro (EUR)
+Panama	Balboa (PAB)	India	Indian Rupee
+Panama	Balboa (PAB)	Saudi Arabia	Saudi Riyal
+Panama	Balboa (PAB)	Bolivia	Bolivian Boliviano (BOB)
+Panama	Balboa (PAB)	Myanmar	Kyat
+Panama	Balboa (PAB)	Bosnia and Herzegovina	Convertible Mark (KM or BAM)
+Panama	Balboa (PAB)	Montenegro	Euro (EUR)
+Panama	Balboa (PAB)	Solomon Islands	Solomon Islands Dollar (SBD)
+Panama	Balboa (PAB)	Sudan	Sudanese Pound (SDG)
+Panama	Balboa (PAB)	Australia	Australian Dollar (AUD)
+Panama	Balboa (PAB)	Jamaica	Jamaican Dollar (JMD)
+Panama	Balboa (PAB)	Equatorial Guinea	Central African CFA franc
+Panama	Balboa (PAB)	South Korea	South Korean Won (KRW)
+Panama	Balboa (PAB)	Brunei	Brunei Dollar (BND)
+Panama	Balboa (PAB)	Germany	Euro (EUR)
+Panama	Balboa (PAB)	Guyana	Guyanese Dollar
+Panama	Balboa (PAB)	United Arab Emirates	UAE Dirham
+Panama	Balboa (PAB)	Jordan	Jordanian Dinar (JOD)
+Panama	Balboa (PAB)	Laos	Lao Kip (LAK)
+Panama	Balboa (PAB)	Indonesia	Indonesian Rupiah
+Panama	Balboa (PAB)	Brazil	Brazilian Real (BRL)
+Panama	Balboa (PAB)	Colombia	Colombian Peso
+Panama	Balboa (PAB)	Russia	Russian Ruble
+Panama	Balboa (PAB)	Saint Kitts and Nevis	East Caribbean Dollar (XCD)
+Panama	Balboa (PAB)	Peru	Sol (PEN)
+Panama	Balboa (PAB)	Qatar	Qatari Riyal
+Panama	Balboa (PAB)	Spain	Euro (EUR)
+Panama	Balboa (PAB)	Vanuatu	Vatu (VUV)
+Panama	Balboa (PAB)	Cabo Verde	Escudo (CVE)
+Panama	Balboa (PAB)	Belgium	Euro (EUR)
+Panama	Balboa (PAB)	Latvia	Latvian Lats (LVL)
+Panama	Balboa (PAB)	Singapore	Singapore Dollar (SGD)
+Panama	Balboa (PAB)	Congo	Congolese Franc (CDF)
+Panama	Balboa (PAB)	Uruguay	Uruguayan Peso
+Panama	Balboa (PAB)	Armenia	Dram (AMD)
+Panama	Balboa (PAB)	Samoa	Tala
+Panama	Balboa (PAB)	Haiti	Gourde
+Panama	Balboa (PAB)	Sweden	Swedish Krona (SEK)
+Panama	Balboa (PAB)	Burkina Faso	West African CFA franc
+Panama	Balboa (PAB)	Nigeria	Naira
+Samoa	Tala	Timor-Leste	US Dollar (USD)
+Samoa	Tala	Bahamas	Bahamian Dollar
+Samoa	Tala	Nauru	Australian Dollar (AUD)
+Samoa	Tala	Czech Republic	Czech Koruna (CZK)
+Samoa	Tala	Tonga	Pa'anga (TOP)
+Samoa	Tala	Egypt	Egyptian Pound (EGP)
+Samoa	Tala	Mauritania	Ouguiya (MRO)
+Samoa	Tala	Democratic Republic of the Congo	Congolese Franc (CDF)
+Samoa	Tala	Moldova	Moldovan Leu (MDL)
+Samoa	Tala	Slovenia	Euro (EUR)
+Samoa	Tala	India	Indian Rupee
+Samoa	Tala	Saudi Arabia	Saudi Riyal
+Samoa	Tala	Bolivia	Bolivian Boliviano (BOB)
+Samoa	Tala	Myanmar	Kyat
+Samoa	Tala	Bosnia and Herzegovina	Convertible Mark (KM or BAM)
+Samoa	Tala	Montenegro	Euro (EUR)
+Samoa	Tala	Solomon Islands	Solomon Islands Dollar (SBD)
+Samoa	Tala	Sudan	Sudanese Pound (SDG)
+Samoa	Tala	Australia	Australian Dollar (AUD)
+Samoa	Tala	Jamaica	Jamaican Dollar (JMD)
+Samoa	Tala	Equatorial Guinea	Central African CFA franc
+Samoa	Tala	South Korea	South Korean Won (KRW)
+Samoa	Tala	Brunei	Brunei Dollar (BND)
+Samoa	Tala	Germany	Euro (EUR)
+Samoa	Tala	Guyana	Guyanese Dollar
+Samoa	Tala	United Arab Emirates	UAE Dirham
+Samoa	Tala	Jordan	Jordanian Dinar (JOD)
+Samoa	Tala	Laos	Lao Kip (LAK)
+Samoa	Tala	Indonesia	Indonesian Rupiah
+Samoa	Tala	Brazil	Brazilian Real (BRL)
+Samoa	Tala	Colombia	Colombian Peso
+Samoa	Tala	Russia	Russian Ruble
+Samoa	Tala	Saint Kitts and Nevis	East Caribbean Dollar (XCD)
+Samoa	Tala	Peru	Sol (PEN)
+Samoa	Tala	Qatar	Qatari Riyal
+Samoa	Tala	Spain	Euro (EUR)
+Samoa	Tala	Vanuatu	Vatu (VUV)
+Samoa	Tala	Cabo Verde	Escudo (CVE)
+Samoa	Tala	Belgium	Euro (EUR)
+Samoa	Tala	Latvia	Latvian Lats (LVL)
+Samoa	Tala	Singapore	Singapore Dollar (SGD)
+Samoa	Tala	Congo	Congolese Franc (CDF)
+Samoa	Tala	Uruguay	Uruguayan Peso
+Samoa	Tala	Armenia	Dram (AMD)
+Samoa	Tala	Panama	Balboa (PAB)
+Samoa	Tala	Haiti	Gourde
+Samoa	Tala	Sweden	Swedish Krona (SEK)
+Samoa	Tala	Burkina Faso	West African CFA franc
+Samoa	Tala	Nigeria	Naira
+Haiti	Gourde	Timor-Leste	US Dollar (USD)
+Haiti	Gourde	Bahamas	Bahamian Dollar
+Haiti	Gourde	Nauru	Australian Dollar (AUD)
+Haiti	Gourde	Czech Republic	Czech Koruna (CZK)
+Haiti	Gourde	Tonga	Pa'anga (TOP)
+Haiti	Gourde	Egypt	Egyptian Pound (EGP)
+Haiti	Gourde	Mauritania	Ouguiya (MRO)
+Haiti	Gourde	Democratic Republic of the Congo	Congolese Franc (CDF)
+Haiti	Gourde	Moldova	Moldovan Leu (MDL)
+Haiti	Gourde	Slovenia	Euro (EUR)
+Haiti	Gourde	India	Indian Rupee
+Haiti	Gourde	Saudi Arabia	Saudi Riyal
+Haiti	Gourde	Bolivia	Bolivian Boliviano (BOB)
+Haiti	Gourde	Myanmar	Kyat
+Haiti	Gourde	Bosnia and Herzegovina	Convertible Mark (KM or BAM)
+Haiti	Gourde	Montenegro	Euro (EUR)
+Haiti	Gourde	Solomon Islands	Solomon Islands Dollar (SBD)
+Haiti	Gourde	Sudan	Sudanese Pound (SDG)
+Haiti	Gourde	Australia	Australian Dollar (AUD)
+Haiti	Gourde	Jamaica	Jamaican Dollar (JMD)
+Haiti	Gourde	Equatorial Guinea	Central African CFA franc
+Haiti	Gourde	South Korea	South Korean Won (KRW)
+Haiti	Gourde	Brunei	Brunei Dollar (BND)
+Haiti	Gourde	Germany	Euro (EUR)
+Haiti	Gourde	Guyana	Guyanese Dollar
+Haiti	Gourde	United Arab Emirates	UAE Dirham
+Haiti	Gourde	Jordan	Jordanian Dinar (JOD)
+Haiti	Gourde	Laos	Lao Kip (LAK)
+Haiti	Gourde	Indonesia	Indonesian Rupiah
+Haiti	Gourde	Brazil	Brazilian Real (BRL)
+Haiti	Gourde	Colombia	Colombian Peso
+Haiti	Gourde	Russia	Russian Ruble
+Haiti	Gourde	Saint Kitts and Nevis	East Caribbean Dollar (XCD)
+Haiti	Gourde	Peru	Sol (PEN)
+Haiti	Gourde	Qatar	Qatari Riyal
+Haiti	Gourde	Spain	Euro (EUR)
+Haiti	Gourde	Vanuatu	Vatu (VUV)
+Haiti	Gourde	Cabo Verde	Escudo (CVE)
+Haiti	Gourde	Belgium	Euro (EUR)
+Haiti	Gourde	Latvia	Latvian Lats (LVL)
+Haiti	Gourde	Singapore	Singapore Dollar (SGD)
+Haiti	Gourde	Congo	Congolese Franc (CDF)
+Haiti	Gourde	Uruguay	Uruguayan Peso
+Haiti	Gourde	Armenia	Dram (AMD)
+Haiti	Gourde	Panama	Balboa (PAB)
+Haiti	Gourde	Samoa	Tala
+Haiti	Gourde	Sweden	Swedish Krona (SEK)
+Haiti	Gourde	Burkina Faso	West African CFA franc
+Haiti	Gourde	Nigeria	Naira
+Sweden	Swedish Krona (SEK)	Timor-Leste	US Dollar (USD)
+Sweden	Swedish Krona (SEK)	Bahamas	Bahamian Dollar
+Sweden	Swedish Krona (SEK)	Nauru	Australian Dollar (AUD)
+Sweden	Swedish Krona (SEK)	Czech Republic	Czech Koruna (CZK)
+Sweden	Swedish Krona (SEK)	Tonga	Pa'anga (TOP)
+Sweden	Swedish Krona (SEK)	Egypt	Egyptian Pound (EGP)
+Sweden	Swedish Krona (SEK)	Mauritania	Ouguiya (MRO)
+Sweden	Swedish Krona (SEK)	Democratic Republic of the Congo	Congolese Franc (CDF)
+Sweden	Swedish Krona (SEK)	Moldova	Moldovan Leu (MDL)
+Sweden	Swedish Krona (SEK)	Slovenia	Euro (EUR)
+Sweden	Swedish Krona (SEK)	India	Indian Rupee
+Sweden	Swedish Krona (SEK)	Saudi Arabia	Saudi Riyal
+Sweden	Swedish Krona (SEK)	Bolivia	Bolivian Boliviano (BOB)
+Sweden	Swedish Krona (SEK)	Myanmar	Kyat
+Sweden	Swedish Krona (SEK)	Bosnia and Herzegovina	Convertible Mark (KM or BAM)
+Sweden	Swedish Krona (SEK)	Montenegro	Euro (EUR)
+Sweden	Swedish Krona (SEK)	Solomon Islands	Solomon Islands Dollar (SBD)
+Sweden	Swedish Krona (SEK)	Sudan	Sudanese Pound (SDG)
+Sweden	Swedish Krona (SEK)	Australia	Australian Dollar (AUD)
+Sweden	Swedish Krona (SEK)	Jamaica	Jamaican Dollar (JMD)
+Sweden	Swedish Krona (SEK)	Equatorial Guinea	Central African CFA franc
+Sweden	Swedish Krona (SEK)	South Korea	South Korean Won (KRW)
+Sweden	Swedish Krona (SEK)	Brunei	Brunei Dollar (BND)
+Sweden	Swedish Krona (SEK)	Germany	Euro (EUR)
+Sweden	Swedish Krona (SEK)	Guyana	Guyanese Dollar
+Sweden	Swedish Krona (SEK)	United Arab Emirates	UAE Dirham
+Sweden	Swedish Krona (SEK)	Jordan	Jordanian Dinar (JOD)
+Sweden	Swedish Krona (SEK)	Laos	Lao Kip (LAK)
+Sweden	Swedish Krona (SEK)	Indonesia	Indonesian Rupiah
+Sweden	Swedish Krona (SEK)	Brazil	Brazilian Real (BRL)
+Sweden	Swedish Krona (SEK)	Colombia	Colombian Peso
+Sweden	Swedish Krona (SEK)	Russia	Russian Ruble
+Sweden	Swedish Krona (SEK)	Saint Kitts and Nevis	East Caribbean Dollar (XCD)
+Sweden	Swedish Krona (SEK)	Peru	Sol (PEN)
+Sweden	Swedish Krona (SEK)	Qatar	Qatari Riyal
+Sweden	Swedish Krona (SEK)	Spain	Euro (EUR)
+Sweden	Swedish Krona (SEK)	Vanuatu	Vatu (VUV)
+Sweden	Swedish Krona (SEK)	Cabo Verde	Escudo (CVE)
+Sweden	Swedish Krona (SEK)	Belgium	Euro (EUR)
+Sweden	Swedish Krona (SEK)	Latvia	Latvian Lats (LVL)
+Sweden	Swedish Krona (SEK)	Singapore	Singapore Dollar (SGD)
+Sweden	Swedish Krona (SEK)	Congo	Congolese Franc (CDF)
+Sweden	Swedish Krona (SEK)	Uruguay	Uruguayan Peso
+Sweden	Swedish Krona (SEK)	Armenia	Dram (AMD)
+Sweden	Swedish Krona (SEK)	Panama	Balboa (PAB)
+Sweden	Swedish Krona (SEK)	Samoa	Tala
+Sweden	Swedish Krona (SEK)	Haiti	Gourde
+Sweden	Swedish Krona (SEK)	Burkina Faso	West African CFA franc
+Sweden	Swedish Krona (SEK)	Nigeria	Naira
+Burkina Faso	West African CFA franc	Timor-Leste	US Dollar (USD)
+Burkina Faso	West African CFA franc	Bahamas	Bahamian Dollar
+Burkina Faso	West African CFA franc	Nauru	Australian Dollar (AUD)
+Burkina Faso	West African CFA franc	Czech Republic	Czech Koruna (CZK)
+Burkina Faso	West African CFA franc	Tonga	Pa'anga (TOP)
+Burkina Faso	West African CFA franc	Egypt	Egyptian Pound (EGP)
+Burkina Faso	West African CFA franc	Mauritania	Ouguiya (MRO)
+Burkina Faso	West African CFA franc	Democratic Republic of the Congo	Congolese Franc (CDF)
+Burkina Faso	West African CFA franc	Moldova	Moldovan Leu (MDL)
+Burkina Faso	West African CFA franc	Slovenia	Euro (EUR)
+Burkina Faso	West African CFA franc	India	Indian Rupee
+Burkina Faso	West African CFA franc	Saudi Arabia	Saudi Riyal
+Burkina Faso	West African CFA franc	Bolivia	Bolivian Boliviano (BOB)
+Burkina Faso	West African CFA franc	Myanmar	Kyat
+Burkina Faso	West African CFA franc	Bosnia and Herzegovina	Convertible Mark (KM or BAM)
+Burkina Faso	West African CFA franc	Montenegro	Euro (EUR)
+Burkina Faso	West African CFA franc	Solomon Islands	Solomon Islands Dollar (SBD)
+Burkina Faso	West African CFA franc	Sudan	Sudanese Pound (SDG)
+Burkina Faso	West African CFA franc	Australia	Australian Dollar (AUD)
+Burkina Faso	West African CFA franc	Jamaica	Jamaican Dollar (JMD)
+Burkina Faso	West African CFA franc	Equatorial Guinea	Central African CFA franc
+Burkina Faso	West African CFA franc	South Korea	South Korean Won (KRW)
+Burkina Faso	West African CFA franc	Brunei	Brunei Dollar (BND)
+Burkina Faso	West African CFA franc	Germany	Euro (EUR)
+Burkina Faso	West African CFA franc	Guyana	Guyanese Dollar
+Burkina Faso	West African CFA franc	United Arab Emirates	UAE Dirham
+Burkina Faso	West African CFA franc	Jordan	Jordanian Dinar (JOD)
+Burkina Faso	West African CFA franc	Laos	Lao Kip (LAK)
+Burkina Faso	West African CFA franc	Indonesia	Indonesian Rupiah
+Burkina Faso	West African CFA franc	Brazil	Brazilian Real (BRL)
+Burkina Faso	West African CFA franc	Colombia	Colombian Peso
+Burkina Faso	West African CFA franc	Russia	Russian Ruble
+Burkina Faso	West African CFA franc	Saint Kitts and Nevis	East Caribbean Dollar (XCD)
+Burkina Faso	West African CFA franc	Peru	Sol (PEN)
+Burkina Faso	West African CFA franc	Qatar	Qatari Riyal
+Burkina Faso	West African CFA franc	Spain	Euro (EUR)
+Burkina Faso	West African CFA franc	Vanuatu	Vatu (VUV)
+Burkina Faso	West African CFA franc	Cabo Verde	Escudo (CVE)
+Burkina Faso	West African CFA franc	Belgium	Euro (EUR)
+Burkina Faso	West African CFA franc	Latvia	Latvian Lats (LVL)
+Burkina Faso	West African CFA franc	Singapore	Singapore Dollar (SGD)
+Burkina Faso	West African CFA franc	Congo	Congolese Franc (CDF)
+Burkina Faso	West African CFA franc	Uruguay	Uruguayan Peso
+Burkina Faso	West African CFA franc	Armenia	Dram (AMD)
+Burkina Faso	West African CFA franc	Panama	Balboa (PAB)
+Burkina Faso	West African CFA franc	Samoa	Tala
+Burkina Faso	West African CFA franc	Haiti	Gourde
+Burkina Faso	West African CFA franc	Sweden	Swedish Krona (SEK)
+Burkina Faso	West African CFA franc	Nigeria	Naira
+Nigeria	Naira	Timor-Leste	US Dollar (USD)
+Nigeria	Naira	Bahamas	Bahamian Dollar
+Nigeria	Naira	Nauru	Australian Dollar (AUD)
+Nigeria	Naira	Czech Republic	Czech Koruna (CZK)
+Nigeria	Naira	Tonga	Pa'anga (TOP)
+Nigeria	Naira	Egypt	Egyptian Pound (EGP)
+Nigeria	Naira	Mauritania	Ouguiya (MRO)
+Nigeria	Naira	Democratic Republic of the Congo	Congolese Franc (CDF)
+Nigeria	Naira	Moldova	Moldovan Leu (MDL)
+Nigeria	Naira	Slovenia	Euro (EUR)
+Nigeria	Naira	India	Indian Rupee
+Nigeria	Naira	Saudi Arabia	Saudi Riyal
+Nigeria	Naira	Bolivia	Bolivian Boliviano (BOB)
+Nigeria	Naira	Myanmar	Kyat
+Nigeria	Naira	Bosnia and Herzegovina	Convertible Mark (KM or BAM)
+Nigeria	Naira	Montenegro	Euro (EUR)
+Nigeria	Naira	Solomon Islands	Solomon Islands Dollar (SBD)
+Nigeria	Naira	Sudan	Sudanese Pound (SDG)
+Nigeria	Naira	Australia	Australian Dollar (AUD)
+Nigeria	Naira	Jamaica	Jamaican Dollar (JMD)
+Nigeria	Naira	Equatorial Guinea	Central African CFA franc
+Nigeria	Naira	South Korea	South Korean Won (KRW)
+Nigeria	Naira	Brunei	Brunei Dollar (BND)
+Nigeria	Naira	Germany	Euro (EUR)
+Nigeria	Naira	Guyana	Guyanese Dollar
+Nigeria	Naira	United Arab Emirates	UAE Dirham
+Nigeria	Naira	Jordan	Jordanian Dinar (JOD)
+Nigeria	Naira	Laos	Lao Kip (LAK)
+Nigeria	Naira	Indonesia	Indonesian Rupiah
+Nigeria	Naira	Brazil	Brazilian Real (BRL)
+Nigeria	Naira	Colombia	Colombian Peso
+Nigeria	Naira	Russia	Russian Ruble
+Nigeria	Naira	Saint Kitts and Nevis	East Caribbean Dollar (XCD)
+Nigeria	Naira	Peru	Sol (PEN)
+Nigeria	Naira	Qatar	Qatari Riyal
+Nigeria	Naira	Spain	Euro (EUR)
+Nigeria	Naira	Vanuatu	Vatu (VUV)
+Nigeria	Naira	Cabo Verde	Escudo (CVE)
+Nigeria	Naira	Belgium	Euro (EUR)
+Nigeria	Naira	Latvia	Latvian Lats (LVL)
+Nigeria	Naira	Singapore	Singapore Dollar (SGD)
+Nigeria	Naira	Congo	Congolese Franc (CDF)
+Nigeria	Naira	Uruguay	Uruguayan Peso
+Nigeria	Naira	Armenia	Dram (AMD)
+Nigeria	Naira	Panama	Balboa (PAB)
+Nigeria	Naira	Samoa	Tala
+Nigeria	Naira	Haiti	Gourde
+Nigeria	Naira	Sweden	Swedish Krona (SEK)
+Nigeria	Naira	Burkina Faso	West African CFA franc

@@ -1,0 +1,2187 @@
+: product-company
+Intel	Xeon	Apple	iPhone 5
+Intel	Xeon	Honda	Acura ILX
+Intel	Xeon	IBM	Statistical Package for the Social Sciences
+Intel	Xeon	Square	Final Fantasy Legend III
+Intel	Xeon	Boeing	B-47 Stratojet
+Intel	Xeon	Chrysler	Jeep Grand Cherokee
+Intel	Xeon	Apple	iOS 8
+Intel	Xeon	Google	Schema.org
+Intel	Xeon	Sega	Heavyweight Champ
+Intel	Xeon	Renault	Alpine A106
+Intel	Xeon	Apple	Mac OS X 10.2
+Intel	Xeon	Apple	Mac OS X Tiger
+Intel	Xeon	Iran	Hwasong-5
+Intel	Xeon	Fiat	Alfa Romeo Montreal
+Intel	Xeon	Sony	PlayStation Eye
+Intel	Xeon	Apple	Mac OS 9
+Intel	Xeon	Microsoft	Windows Live Messenger
+Intel	Xeon	Square	Final Fantasy V
+Intel	Xeon	Nintendo	Game & Watch
+Intel	Xeon	Apple	iOS
+Intel	Xeon	Microsoft	Windows RT
+Intel	Xeon	Microsoft	Windows Mobile
+Intel	Xeon	Apple	MessagePad
+Intel	Xeon	Chevrolet	Pontiac Firebird
+Intel	Xeon	Fiat	Lancia Flavia
+Intel	Xeon	Microsoft	Windows Phone 8
+Intel	Xeon	Yahoo	Apache Traffic Server
+Intel	Xeon	Sega	The Ocean Hunter
+Intel	Xeon	Apple	Mac OS
+Intel	Xeon	Apple	Squeak
+Intel	Xeon	Sony	SNES-CD
+Intel	Xeon	Iran	Nasr-1
+Intel	Xeon	Fiat	SEAT 133
+Intel	Xeon	Apple	Newsstand
+Intel	Xeon	Sega	Zaxxon
+Intel	Xeon	Douglas	DC-3
+Intel	Xeon	Apple	Soundtrack Pro
+Intel	Xeon	Microsoft	Windows Media Video
+Intel	Xeon	Microsoft	Windows Media Encoder
+Intel	Xeon	Iran	Zelzal-2
+Intel	Xeon	Apple	iBooks Author
+Intel	Xeon	Apple	TextEdit
+Intel	Xeon	IBM	Advanced Function Presentation
+Intel	Xeon	Sony	Super Audio CD
+Intel	Xeon	Sony	Clang
+Intel	Xeon	Microsoft	Applesoft BASIC
+Intel	Xeon	Apple	MacBook Air
+Apple	iPhone 5	Intel	Xeon
+Apple	iPhone 5	Honda	Acura ILX
+Apple	iPhone 5	IBM	Statistical Package for the Social Sciences
+Apple	iPhone 5	Square	Final Fantasy Legend III
+Apple	iPhone 5	Boeing	B-47 Stratojet
+Apple	iPhone 5	Chrysler	Jeep Grand Cherokee
+Apple	iPhone 5	Google	Schema.org
+Apple	iPhone 5	Sega	Heavyweight Champ
+Apple	iPhone 5	Renault	Alpine A106
+Apple	iPhone 5	Iran	Hwasong-5
+Apple	iPhone 5	Fiat	Alfa Romeo Montreal
+Apple	iPhone 5	Sony	PlayStation Eye
+Apple	iPhone 5	Microsoft	Windows Live Messenger
+Apple	iPhone 5	Square	Final Fantasy V
+Apple	iPhone 5	Nintendo	Game & Watch
+Apple	iPhone 5	Microsoft	Windows RT
+Apple	iPhone 5	Microsoft	Windows Mobile
+Apple	iPhone 5	Chevrolet	Pontiac Firebird
+Apple	iPhone 5	Fiat	Lancia Flavia
+Apple	iPhone 5	Microsoft	Windows Phone 8
+Apple	iPhone 5	Yahoo	Apache Traffic Server
+Apple	iPhone 5	Sega	The Ocean Hunter
+Apple	iPhone 5	Sony	SNES-CD
+Apple	iPhone 5	Iran	Nasr-1
+Apple	iPhone 5	Fiat	SEAT 133
+Apple	iPhone 5	Intel	Silvermont
+Apple	iPhone 5	Sega	Zaxxon
+Apple	iPhone 5	Douglas	DC-3
+Apple	iPhone 5	Microsoft	Windows Media Video
+Apple	iPhone 5	Microsoft	Windows Media Encoder
+Apple	iPhone 5	Intel	Itanium
+Apple	iPhone 5	Iran	Zelzal-2
+Apple	iPhone 5	IBM	Advanced Function Presentation
+Apple	iPhone 5	Sony	Super Audio CD
+Apple	iPhone 5	Sony	Clang
+Apple	iPhone 5	Microsoft	Applesoft BASIC
+Honda	Acura ILX	Intel	Xeon
+Honda	Acura ILX	Apple	iPhone 5
+Honda	Acura ILX	IBM	Statistical Package for the Social Sciences
+Honda	Acura ILX	Square	Final Fantasy Legend III
+Honda	Acura ILX	Boeing	B-47 Stratojet
+Honda	Acura ILX	Chrysler	Jeep Grand Cherokee
+Honda	Acura ILX	Apple	iOS 8
+Honda	Acura ILX	Google	Schema.org
+Honda	Acura ILX	Sega	Heavyweight Champ
+Honda	Acura ILX	Renault	Alpine A106
+Honda	Acura ILX	Apple	Mac OS X 10.2
+Honda	Acura ILX	Apple	Mac OS X Tiger
+Honda	Acura ILX	Iran	Hwasong-5
+Honda	Acura ILX	Fiat	Alfa Romeo Montreal
+Honda	Acura ILX	Sony	PlayStation Eye
+Honda	Acura ILX	Apple	Mac OS 9
+Honda	Acura ILX	Microsoft	Windows Live Messenger
+Honda	Acura ILX	Square	Final Fantasy V
+Honda	Acura ILX	Nintendo	Game & Watch
+Honda	Acura ILX	Apple	iOS
+Honda	Acura ILX	Microsoft	Windows RT
+Honda	Acura ILX	Microsoft	Windows Mobile
+Honda	Acura ILX	Apple	MessagePad
+Honda	Acura ILX	Chevrolet	Pontiac Firebird
+Honda	Acura ILX	Fiat	Lancia Flavia
+Honda	Acura ILX	Microsoft	Windows Phone 8
+Honda	Acura ILX	Yahoo	Apache Traffic Server
+Honda	Acura ILX	Sega	The Ocean Hunter
+Honda	Acura ILX	Apple	Mac OS
+Honda	Acura ILX	Apple	Squeak
+Honda	Acura ILX	Sony	SNES-CD
+Honda	Acura ILX	Iran	Nasr-1
+Honda	Acura ILX	Fiat	SEAT 133
+Honda	Acura ILX	Apple	Newsstand
+Honda	Acura ILX	Intel	Silvermont
+Honda	Acura ILX	Sega	Zaxxon
+Honda	Acura ILX	Douglas	DC-3
+Honda	Acura ILX	Apple	Soundtrack Pro
+Honda	Acura ILX	Microsoft	Windows Media Video
+Honda	Acura ILX	Microsoft	Windows Media Encoder
+Honda	Acura ILX	Intel	Itanium
+Honda	Acura ILX	Iran	Zelzal-2
+Honda	Acura ILX	Apple	iBooks Author
+Honda	Acura ILX	Apple	TextEdit
+Honda	Acura ILX	IBM	Advanced Function Presentation
+Honda	Acura ILX	Sony	Super Audio CD
+Honda	Acura ILX	Sony	Clang
+Honda	Acura ILX	Microsoft	Applesoft BASIC
+Honda	Acura ILX	Apple	MacBook Air
+IBM	Statistical Package for the Social Sciences	Intel	Xeon
+IBM	Statistical Package for the Social Sciences	Apple	iPhone 5
+IBM	Statistical Package for the Social Sciences	Honda	Acura ILX
+IBM	Statistical Package for the Social Sciences	Square	Final Fantasy Legend III
+IBM	Statistical Package for the Social Sciences	Boeing	B-47 Stratojet
+IBM	Statistical Package for the Social Sciences	Chrysler	Jeep Grand Cherokee
+IBM	Statistical Package for the Social Sciences	Apple	iOS 8
+IBM	Statistical Package for the Social Sciences	Google	Schema.org
+IBM	Statistical Package for the Social Sciences	Sega	Heavyweight Champ
+IBM	Statistical Package for the Social Sciences	Renault	Alpine A106
+IBM	Statistical Package for the Social Sciences	Apple	Mac OS X 10.2
+IBM	Statistical Package for the Social Sciences	Apple	Mac OS X Tiger
+IBM	Statistical Package for the Social Sciences	Iran	Hwasong-5
+IBM	Statistical Package for the Social Sciences	Fiat	Alfa Romeo Montreal
+IBM	Statistical Package for the Social Sciences	Sony	PlayStation Eye
+IBM	Statistical Package for the Social Sciences	Apple	Mac OS 9
+IBM	Statistical Package for the Social Sciences	Microsoft	Windows Live Messenger
+IBM	Statistical Package for the Social Sciences	Square	Final Fantasy V
+IBM	Statistical Package for the Social Sciences	Nintendo	Game & Watch
+IBM	Statistical Package for the Social Sciences	Apple	iOS
+IBM	Statistical Package for the Social Sciences	Microsoft	Windows RT
+IBM	Statistical Package for the Social Sciences	Microsoft	Windows Mobile
+IBM	Statistical Package for the Social Sciences	Apple	MessagePad
+IBM	Statistical Package for the Social Sciences	Chevrolet	Pontiac Firebird
+IBM	Statistical Package for the Social Sciences	Fiat	Lancia Flavia
+IBM	Statistical Package for the Social Sciences	Microsoft	Windows Phone 8
+IBM	Statistical Package for the Social Sciences	Yahoo	Apache Traffic Server
+IBM	Statistical Package for the Social Sciences	Sega	The Ocean Hunter
+IBM	Statistical Package for the Social Sciences	Apple	Mac OS
+IBM	Statistical Package for the Social Sciences	Apple	Squeak
+IBM	Statistical Package for the Social Sciences	Sony	SNES-CD
+IBM	Statistical Package for the Social Sciences	Iran	Nasr-1
+IBM	Statistical Package for the Social Sciences	Fiat	SEAT 133
+IBM	Statistical Package for the Social Sciences	Apple	Newsstand
+IBM	Statistical Package for the Social Sciences	Intel	Silvermont
+IBM	Statistical Package for the Social Sciences	Sega	Zaxxon
+IBM	Statistical Package for the Social Sciences	Douglas	DC-3
+IBM	Statistical Package for the Social Sciences	Apple	Soundtrack Pro
+IBM	Statistical Package for the Social Sciences	Microsoft	Windows Media Video
+IBM	Statistical Package for the Social Sciences	Microsoft	Windows Media Encoder
+IBM	Statistical Package for the Social Sciences	Intel	Itanium
+IBM	Statistical Package for the Social Sciences	Iran	Zelzal-2
+IBM	Statistical Package for the Social Sciences	Apple	iBooks Author
+IBM	Statistical Package for the Social Sciences	Apple	TextEdit
+IBM	Statistical Package for the Social Sciences	Sony	Super Audio CD
+IBM	Statistical Package for the Social Sciences	Sony	Clang
+IBM	Statistical Package for the Social Sciences	Microsoft	Applesoft BASIC
+IBM	Statistical Package for the Social Sciences	Apple	MacBook Air
+Square	Final Fantasy Legend III	Intel	Xeon
+Square	Final Fantasy Legend III	Apple	iPhone 5
+Square	Final Fantasy Legend III	Honda	Acura ILX
+Square	Final Fantasy Legend III	IBM	Statistical Package for the Social Sciences
+Square	Final Fantasy Legend III	Boeing	B-47 Stratojet
+Square	Final Fantasy Legend III	Chrysler	Jeep Grand Cherokee
+Square	Final Fantasy Legend III	Apple	iOS 8
+Square	Final Fantasy Legend III	Google	Schema.org
+Square	Final Fantasy Legend III	Sega	Heavyweight Champ
+Square	Final Fantasy Legend III	Renault	Alpine A106
+Square	Final Fantasy Legend III	Apple	Mac OS X 10.2
+Square	Final Fantasy Legend III	Apple	Mac OS X Tiger
+Square	Final Fantasy Legend III	Iran	Hwasong-5
+Square	Final Fantasy Legend III	Fiat	Alfa Romeo Montreal
+Square	Final Fantasy Legend III	Sony	PlayStation Eye
+Square	Final Fantasy Legend III	Apple	Mac OS 9
+Square	Final Fantasy Legend III	Microsoft	Windows Live Messenger
+Square	Final Fantasy Legend III	Nintendo	Game & Watch
+Square	Final Fantasy Legend III	Apple	iOS
+Square	Final Fantasy Legend III	Microsoft	Windows RT
+Square	Final Fantasy Legend III	Microsoft	Windows Mobile
+Square	Final Fantasy Legend III	Apple	MessagePad
+Square	Final Fantasy Legend III	Chevrolet	Pontiac Firebird
+Square	Final Fantasy Legend III	Fiat	Lancia Flavia
+Square	Final Fantasy Legend III	Microsoft	Windows Phone 8
+Square	Final Fantasy Legend III	Yahoo	Apache Traffic Server
+Square	Final Fantasy Legend III	Sega	The Ocean Hunter
+Square	Final Fantasy Legend III	Apple	Mac OS
+Square	Final Fantasy Legend III	Apple	Squeak
+Square	Final Fantasy Legend III	Sony	SNES-CD
+Square	Final Fantasy Legend III	Iran	Nasr-1
+Square	Final Fantasy Legend III	Fiat	SEAT 133
+Square	Final Fantasy Legend III	Apple	Newsstand
+Square	Final Fantasy Legend III	Intel	Silvermont
+Square	Final Fantasy Legend III	Sega	Zaxxon
+Square	Final Fantasy Legend III	Douglas	DC-3
+Square	Final Fantasy Legend III	Apple	Soundtrack Pro
+Square	Final Fantasy Legend III	Microsoft	Windows Media Video
+Square	Final Fantasy Legend III	Microsoft	Windows Media Encoder
+Square	Final Fantasy Legend III	Intel	Itanium
+Square	Final Fantasy Legend III	Iran	Zelzal-2
+Square	Final Fantasy Legend III	Apple	iBooks Author
+Square	Final Fantasy Legend III	Apple	TextEdit
+Square	Final Fantasy Legend III	IBM	Advanced Function Presentation
+Square	Final Fantasy Legend III	Sony	Super Audio CD
+Square	Final Fantasy Legend III	Sony	Clang
+Square	Final Fantasy Legend III	Microsoft	Applesoft BASIC
+Square	Final Fantasy Legend III	Apple	MacBook Air
+Boeing	B-47 Stratojet	Intel	Xeon
+Boeing	B-47 Stratojet	Apple	iPhone 5
+Boeing	B-47 Stratojet	Honda	Acura ILX
+Boeing	B-47 Stratojet	IBM	Statistical Package for the Social Sciences
+Boeing	B-47 Stratojet	Square	Final Fantasy Legend III
+Boeing	B-47 Stratojet	Chrysler	Jeep Grand Cherokee
+Boeing	B-47 Stratojet	Apple	iOS 8
+Boeing	B-47 Stratojet	Google	Schema.org
+Boeing	B-47 Stratojet	Sega	Heavyweight Champ
+Boeing	B-47 Stratojet	Renault	Alpine A106
+Boeing	B-47 Stratojet	Apple	Mac OS X 10.2
+Boeing	B-47 Stratojet	Apple	Mac OS X Tiger
+Boeing	B-47 Stratojet	Iran	Hwasong-5
+Boeing	B-47 Stratojet	Fiat	Alfa Romeo Montreal
+Boeing	B-47 Stratojet	Sony	PlayStation Eye
+Boeing	B-47 Stratojet	Apple	Mac OS 9
+Boeing	B-47 Stratojet	Microsoft	Windows Live Messenger
+Boeing	B-47 Stratojet	Square	Final Fantasy V
+Boeing	B-47 Stratojet	Nintendo	Game & Watch
+Boeing	B-47 Stratojet	Apple	iOS
+Boeing	B-47 Stratojet	Microsoft	Windows RT
+Boeing	B-47 Stratojet	Microsoft	Windows Mobile
+Boeing	B-47 Stratojet	Apple	MessagePad
+Boeing	B-47 Stratojet	Chevrolet	Pontiac Firebird
+Boeing	B-47 Stratojet	Fiat	Lancia Flavia
+Boeing	B-47 Stratojet	Microsoft	Windows Phone 8
+Boeing	B-47 Stratojet	Yahoo	Apache Traffic Server
+Boeing	B-47 Stratojet	Sega	The Ocean Hunter
+Boeing	B-47 Stratojet	Apple	Mac OS
+Boeing	B-47 Stratojet	Apple	Squeak
+Boeing	B-47 Stratojet	Sony	SNES-CD
+Boeing	B-47 Stratojet	Iran	Nasr-1
+Boeing	B-47 Stratojet	Fiat	SEAT 133
+Boeing	B-47 Stratojet	Apple	Newsstand
+Boeing	B-47 Stratojet	Intel	Silvermont
+Boeing	B-47 Stratojet	Sega	Zaxxon
+Boeing	B-47 Stratojet	Douglas	DC-3
+Boeing	B-47 Stratojet	Apple	Soundtrack Pro
+Boeing	B-47 Stratojet	Microsoft	Windows Media Video
+Boeing	B-47 Stratojet	Microsoft	Windows Media Encoder
+Boeing	B-47 Stratojet	Intel	Itanium
+Boeing	B-47 Stratojet	Iran	Zelzal-2
+Boeing	B-47 Stratojet	Apple	iBooks Author
+Boeing	B-47 Stratojet	Apple	TextEdit
+Boeing	B-47 Stratojet	IBM	Advanced Function Presentation
+Boeing	B-47 Stratojet	Sony	Super Audio CD
+Boeing	B-47 Stratojet	Sony	Clang
+Boeing	B-47 Stratojet	Microsoft	Applesoft BASIC
+Boeing	B-47 Stratojet	Apple	MacBook Air
+Chrysler	Jeep Grand Cherokee	Intel	Xeon
+Chrysler	Jeep Grand Cherokee	Apple	iPhone 5
+Chrysler	Jeep Grand Cherokee	Honda	Acura ILX
+Chrysler	Jeep Grand Cherokee	IBM	Statistical Package for the Social Sciences
+Chrysler	Jeep Grand Cherokee	Square	Final Fantasy Legend III
+Chrysler	Jeep Grand Cherokee	Boeing	B-47 Stratojet
+Chrysler	Jeep Grand Cherokee	Apple	iOS 8
+Chrysler	Jeep Grand Cherokee	Google	Schema.org
+Chrysler	Jeep Grand Cherokee	Sega	Heavyweight Champ
+Chrysler	Jeep Grand Cherokee	Renault	Alpine A106
+Chrysler	Jeep Grand Cherokee	Apple	Mac OS X 10.2
+Chrysler	Jeep Grand Cherokee	Apple	Mac OS X Tiger
+Chrysler	Jeep Grand Cherokee	Iran	Hwasong-5
+Chrysler	Jeep Grand Cherokee	Fiat	Alfa Romeo Montreal
+Chrysler	Jeep Grand Cherokee	Sony	PlayStation Eye
+Chrysler	Jeep Grand Cherokee	Apple	Mac OS 9
+Chrysler	Jeep Grand Cherokee	Microsoft	Windows Live Messenger
+Chrysler	Jeep Grand Cherokee	Square	Final Fantasy V
+Chrysler	Jeep Grand Cherokee	Nintendo	Game & Watch
+Chrysler	Jeep Grand Cherokee	Apple	iOS
+Chrysler	Jeep Grand Cherokee	Microsoft	Windows RT
+Chrysler	Jeep Grand Cherokee	Microsoft	Windows Mobile
+Chrysler	Jeep Grand Cherokee	Apple	MessagePad
+Chrysler	Jeep Grand Cherokee	Chevrolet	Pontiac Firebird
+Chrysler	Jeep Grand Cherokee	Fiat	Lancia Flavia
+Chrysler	Jeep Grand Cherokee	Microsoft	Windows Phone 8
+Chrysler	Jeep Grand Cherokee	Yahoo	Apache Traffic Server
+Chrysler	Jeep Grand Cherokee	Sega	The Ocean Hunter
+Chrysler	Jeep Grand Cherokee	Apple	Mac OS
+Chrysler	Jeep Grand Cherokee	Apple	Squeak
+Chrysler	Jeep Grand Cherokee	Sony	SNES-CD
+Chrysler	Jeep Grand Cherokee	Iran	Nasr-1
+Chrysler	Jeep Grand Cherokee	Fiat	SEAT 133
+Chrysler	Jeep Grand Cherokee	Apple	Newsstand
+Chrysler	Jeep Grand Cherokee	Intel	Silvermont
+Chrysler	Jeep Grand Cherokee	Sega	Zaxxon
+Chrysler	Jeep Grand Cherokee	Douglas	DC-3
+Chrysler	Jeep Grand Cherokee	Apple	Soundtrack Pro
+Chrysler	Jeep Grand Cherokee	Microsoft	Windows Media Video
+Chrysler	Jeep Grand Cherokee	Microsoft	Windows Media Encoder
+Chrysler	Jeep Grand Cherokee	Intel	Itanium
+Chrysler	Jeep Grand Cherokee	Iran	Zelzal-2
+Chrysler	Jeep Grand Cherokee	Apple	iBooks Author
+Chrysler	Jeep Grand Cherokee	Apple	TextEdit
+Chrysler	Jeep Grand Cherokee	IBM	Advanced Function Presentation
+Chrysler	Jeep Grand Cherokee	Sony	Super Audio CD
+Chrysler	Jeep Grand Cherokee	Sony	Clang
+Chrysler	Jeep Grand Cherokee	Microsoft	Applesoft BASIC
+Chrysler	Jeep Grand Cherokee	Apple	MacBook Air
+Apple	iOS 8	Intel	Xeon
+Apple	iOS 8	Honda	Acura ILX
+Apple	iOS 8	IBM	Statistical Package for the Social Sciences
+Apple	iOS 8	Square	Final Fantasy Legend III
+Apple	iOS 8	Boeing	B-47 Stratojet
+Apple	iOS 8	Chrysler	Jeep Grand Cherokee
+Apple	iOS 8	Google	Schema.org
+Apple	iOS 8	Sega	Heavyweight Champ
+Apple	iOS 8	Renault	Alpine A106
+Apple	iOS 8	Iran	Hwasong-5
+Apple	iOS 8	Fiat	Alfa Romeo Montreal
+Apple	iOS 8	Sony	PlayStation Eye
+Apple	iOS 8	Microsoft	Windows Live Messenger
+Apple	iOS 8	Square	Final Fantasy V
+Apple	iOS 8	Nintendo	Game & Watch
+Apple	iOS 8	Microsoft	Windows RT
+Apple	iOS 8	Microsoft	Windows Mobile
+Apple	iOS 8	Chevrolet	Pontiac Firebird
+Apple	iOS 8	Fiat	Lancia Flavia
+Apple	iOS 8	Microsoft	Windows Phone 8
+Apple	iOS 8	Yahoo	Apache Traffic Server
+Apple	iOS 8	Sega	The Ocean Hunter
+Apple	iOS 8	Sony	SNES-CD
+Apple	iOS 8	Iran	Nasr-1
+Apple	iOS 8	Fiat	SEAT 133
+Apple	iOS 8	Intel	Silvermont
+Apple	iOS 8	Sega	Zaxxon
+Apple	iOS 8	Douglas	DC-3
+Apple	iOS 8	Microsoft	Windows Media Video
+Apple	iOS 8	Microsoft	Windows Media Encoder
+Apple	iOS 8	Intel	Itanium
+Apple	iOS 8	Iran	Zelzal-2
+Apple	iOS 8	IBM	Advanced Function Presentation
+Apple	iOS 8	Sony	Super Audio CD
+Apple	iOS 8	Sony	Clang
+Apple	iOS 8	Microsoft	Applesoft BASIC
+Google	Schema.org	Intel	Xeon
+Google	Schema.org	Apple	iPhone 5
+Google	Schema.org	Honda	Acura ILX
+Google	Schema.org	IBM	Statistical Package for the Social Sciences
+Google	Schema.org	Square	Final Fantasy Legend III
+Google	Schema.org	Boeing	B-47 Stratojet
+Google	Schema.org	Chrysler	Jeep Grand Cherokee
+Google	Schema.org	Apple	iOS 8
+Google	Schema.org	Sega	Heavyweight Champ
+Google	Schema.org	Renault	Alpine A106
+Google	Schema.org	Apple	Mac OS X 10.2
+Google	Schema.org	Apple	Mac OS X Tiger
+Google	Schema.org	Iran	Hwasong-5
+Google	Schema.org	Fiat	Alfa Romeo Montreal
+Google	Schema.org	Sony	PlayStation Eye
+Google	Schema.org	Apple	Mac OS 9
+Google	Schema.org	Microsoft	Windows Live Messenger
+Google	Schema.org	Square	Final Fantasy V
+Google	Schema.org	Nintendo	Game & Watch
+Google	Schema.org	Apple	iOS
+Google	Schema.org	Microsoft	Windows RT
+Google	Schema.org	Microsoft	Windows Mobile
+Google	Schema.org	Apple	MessagePad
+Google	Schema.org	Chevrolet	Pontiac Firebird
+Google	Schema.org	Fiat	Lancia Flavia
+Google	Schema.org	Microsoft	Windows Phone 8
+Google	Schema.org	Yahoo	Apache Traffic Server
+Google	Schema.org	Sega	The Ocean Hunter
+Google	Schema.org	Apple	Mac OS
+Google	Schema.org	Apple	Squeak
+Google	Schema.org	Sony	SNES-CD
+Google	Schema.org	Iran	Nasr-1
+Google	Schema.org	Fiat	SEAT 133
+Google	Schema.org	Apple	Newsstand
+Google	Schema.org	Intel	Silvermont
+Google	Schema.org	Sega	Zaxxon
+Google	Schema.org	Douglas	DC-3
+Google	Schema.org	Apple	Soundtrack Pro
+Google	Schema.org	Microsoft	Windows Media Video
+Google	Schema.org	Microsoft	Windows Media Encoder
+Google	Schema.org	Intel	Itanium
+Google	Schema.org	Iran	Zelzal-2
+Google	Schema.org	Apple	iBooks Author
+Google	Schema.org	Apple	TextEdit
+Google	Schema.org	IBM	Advanced Function Presentation
+Google	Schema.org	Sony	Super Audio CD
+Google	Schema.org	Sony	Clang
+Google	Schema.org	Microsoft	Applesoft BASIC
+Google	Schema.org	Apple	MacBook Air
+Sega	Heavyweight Champ	Intel	Xeon
+Sega	Heavyweight Champ	Apple	iPhone 5
+Sega	Heavyweight Champ	Honda	Acura ILX
+Sega	Heavyweight Champ	IBM	Statistical Package for the Social Sciences
+Sega	Heavyweight Champ	Square	Final Fantasy Legend III
+Sega	Heavyweight Champ	Boeing	B-47 Stratojet
+Sega	Heavyweight Champ	Chrysler	Jeep Grand Cherokee
+Sega	Heavyweight Champ	Apple	iOS 8
+Sega	Heavyweight Champ	Google	Schema.org
+Sega	Heavyweight Champ	Renault	Alpine A106
+Sega	Heavyweight Champ	Apple	Mac OS X 10.2
+Sega	Heavyweight Champ	Apple	Mac OS X Tiger
+Sega	Heavyweight Champ	Iran	Hwasong-5
+Sega	Heavyweight Champ	Fiat	Alfa Romeo Montreal
+Sega	Heavyweight Champ	Sony	PlayStation Eye
+Sega	Heavyweight Champ	Apple	Mac OS 9
+Sega	Heavyweight Champ	Microsoft	Windows Live Messenger
+Sega	Heavyweight Champ	Square	Final Fantasy V
+Sega	Heavyweight Champ	Nintendo	Game & Watch
+Sega	Heavyweight Champ	Apple	iOS
+Sega	Heavyweight Champ	Microsoft	Windows RT
+Sega	Heavyweight Champ	Microsoft	Windows Mobile
+Sega	Heavyweight Champ	Apple	MessagePad
+Sega	Heavyweight Champ	Chevrolet	Pontiac Firebird
+Sega	Heavyweight Champ	Fiat	Lancia Flavia
+Sega	Heavyweight Champ	Microsoft	Windows Phone 8
+Sega	Heavyweight Champ	Yahoo	Apache Traffic Server
+Sega	Heavyweight Champ	Apple	Mac OS
+Sega	Heavyweight Champ	Apple	Squeak
+Sega	Heavyweight Champ	Sony	SNES-CD
+Sega	Heavyweight Champ	Iran	Nasr-1
+Sega	Heavyweight Champ	Fiat	SEAT 133
+Sega	Heavyweight Champ	Apple	Newsstand
+Sega	Heavyweight Champ	Intel	Silvermont
+Sega	Heavyweight Champ	Douglas	DC-3
+Sega	Heavyweight Champ	Apple	Soundtrack Pro
+Sega	Heavyweight Champ	Microsoft	Windows Media Video
+Sega	Heavyweight Champ	Microsoft	Windows Media Encoder
+Sega	Heavyweight Champ	Intel	Itanium
+Sega	Heavyweight Champ	Iran	Zelzal-2
+Sega	Heavyweight Champ	Apple	iBooks Author
+Sega	Heavyweight Champ	Apple	TextEdit
+Sega	Heavyweight Champ	IBM	Advanced Function Presentation
+Sega	Heavyweight Champ	Sony	Super Audio CD
+Sega	Heavyweight Champ	Sony	Clang
+Sega	Heavyweight Champ	Microsoft	Applesoft BASIC
+Sega	Heavyweight Champ	Apple	MacBook Air
+Renault	Alpine A106	Intel	Xeon
+Renault	Alpine A106	Apple	iPhone 5
+Renault	Alpine A106	Honda	Acura ILX
+Renault	Alpine A106	IBM	Statistical Package for the Social Sciences
+Renault	Alpine A106	Square	Final Fantasy Legend III
+Renault	Alpine A106	Boeing	B-47 Stratojet
+Renault	Alpine A106	Chrysler	Jeep Grand Cherokee
+Renault	Alpine A106	Apple	iOS 8
+Renault	Alpine A106	Google	Schema.org
+Renault	Alpine A106	Sega	Heavyweight Champ
+Renault	Alpine A106	Apple	Mac OS X 10.2
+Renault	Alpine A106	Apple	Mac OS X Tiger
+Renault	Alpine A106	Iran	Hwasong-5
+Renault	Alpine A106	Fiat	Alfa Romeo Montreal
+Renault	Alpine A106	Sony	PlayStation Eye
+Renault	Alpine A106	Apple	Mac OS 9
+Renault	Alpine A106	Microsoft	Windows Live Messenger
+Renault	Alpine A106	Square	Final Fantasy V
+Renault	Alpine A106	Nintendo	Game & Watch
+Renault	Alpine A106	Apple	iOS
+Renault	Alpine A106	Microsoft	Windows RT
+Renault	Alpine A106	Microsoft	Windows Mobile
+Renault	Alpine A106	Apple	MessagePad
+Renault	Alpine A106	Chevrolet	Pontiac Firebird
+Renault	Alpine A106	Fiat	Lancia Flavia
+Renault	Alpine A106	Microsoft	Windows Phone 8
+Renault	Alpine A106	Yahoo	Apache Traffic Server
+Renault	Alpine A106	Sega	The Ocean Hunter
+Renault	Alpine A106	Apple	Mac OS
+Renault	Alpine A106	Apple	Squeak
+Renault	Alpine A106	Sony	SNES-CD
+Renault	Alpine A106	Iran	Nasr-1
+Renault	Alpine A106	Fiat	SEAT 133
+Renault	Alpine A106	Apple	Newsstand
+Renault	Alpine A106	Intel	Silvermont
+Renault	Alpine A106	Sega	Zaxxon
+Renault	Alpine A106	Douglas	DC-3
+Renault	Alpine A106	Apple	Soundtrack Pro
+Renault	Alpine A106	Microsoft	Windows Media Video
+Renault	Alpine A106	Microsoft	Windows Media Encoder
+Renault	Alpine A106	Intel	Itanium
+Renault	Alpine A106	Iran	Zelzal-2
+Renault	Alpine A106	Apple	iBooks Author
+Renault	Alpine A106	Apple	TextEdit
+Renault	Alpine A106	IBM	Advanced Function Presentation
+Renault	Alpine A106	Sony	Super Audio CD
+Renault	Alpine A106	Sony	Clang
+Renault	Alpine A106	Microsoft	Applesoft BASIC
+Renault	Alpine A106	Apple	MacBook Air
+Apple	Mac OS X 10.2	Intel	Xeon
+Apple	Mac OS X 10.2	Honda	Acura ILX
+Apple	Mac OS X 10.2	IBM	Statistical Package for the Social Sciences
+Apple	Mac OS X 10.2	Square	Final Fantasy Legend III
+Apple	Mac OS X 10.2	Boeing	B-47 Stratojet
+Apple	Mac OS X 10.2	Chrysler	Jeep Grand Cherokee
+Apple	Mac OS X 10.2	Google	Schema.org
+Apple	Mac OS X 10.2	Sega	Heavyweight Champ
+Apple	Mac OS X 10.2	Renault	Alpine A106
+Apple	Mac OS X 10.2	Iran	Hwasong-5
+Apple	Mac OS X 10.2	Fiat	Alfa Romeo Montreal
+Apple	Mac OS X 10.2	Sony	PlayStation Eye
+Apple	Mac OS X 10.2	Microsoft	Windows Live Messenger
+Apple	Mac OS X 10.2	Square	Final Fantasy V
+Apple	Mac OS X 10.2	Nintendo	Game & Watch
+Apple	Mac OS X 10.2	Microsoft	Windows RT
+Apple	Mac OS X 10.2	Microsoft	Windows Mobile
+Apple	Mac OS X 10.2	Chevrolet	Pontiac Firebird
+Apple	Mac OS X 10.2	Fiat	Lancia Flavia
+Apple	Mac OS X 10.2	Microsoft	Windows Phone 8
+Apple	Mac OS X 10.2	Yahoo	Apache Traffic Server
+Apple	Mac OS X 10.2	Sega	The Ocean Hunter
+Apple	Mac OS X 10.2	Sony	SNES-CD
+Apple	Mac OS X 10.2	Iran	Nasr-1
+Apple	Mac OS X 10.2	Fiat	SEAT 133
+Apple	Mac OS X 10.2	Intel	Silvermont
+Apple	Mac OS X 10.2	Sega	Zaxxon
+Apple	Mac OS X 10.2	Douglas	DC-3
+Apple	Mac OS X 10.2	Microsoft	Windows Media Video
+Apple	Mac OS X 10.2	Microsoft	Windows Media Encoder
+Apple	Mac OS X 10.2	Intel	Itanium
+Apple	Mac OS X 10.2	Iran	Zelzal-2
+Apple	Mac OS X 10.2	IBM	Advanced Function Presentation
+Apple	Mac OS X 10.2	Sony	Super Audio CD
+Apple	Mac OS X 10.2	Sony	Clang
+Apple	Mac OS X 10.2	Microsoft	Applesoft BASIC
+Apple	Mac OS X Tiger	Intel	Xeon
+Apple	Mac OS X Tiger	Honda	Acura ILX
+Apple	Mac OS X Tiger	IBM	Statistical Package for the Social Sciences
+Apple	Mac OS X Tiger	Square	Final Fantasy Legend III
+Apple	Mac OS X Tiger	Boeing	B-47 Stratojet
+Apple	Mac OS X Tiger	Chrysler	Jeep Grand Cherokee
+Apple	Mac OS X Tiger	Google	Schema.org
+Apple	Mac OS X Tiger	Sega	Heavyweight Champ
+Apple	Mac OS X Tiger	Renault	Alpine A106
+Apple	Mac OS X Tiger	Iran	Hwasong-5
+Apple	Mac OS X Tiger	Fiat	Alfa Romeo Montreal
+Apple	Mac OS X Tiger	Sony	PlayStation Eye
+Apple	Mac OS X Tiger	Microsoft	Windows Live Messenger
+Apple	Mac OS X Tiger	Square	Final Fantasy V
+Apple	Mac OS X Tiger	Nintendo	Game & Watch
+Apple	Mac OS X Tiger	Microsoft	Windows RT
+Apple	Mac OS X Tiger	Microsoft	Windows Mobile
+Apple	Mac OS X Tiger	Chevrolet	Pontiac Firebird
+Apple	Mac OS X Tiger	Fiat	Lancia Flavia
+Apple	Mac OS X Tiger	Microsoft	Windows Phone 8
+Apple	Mac OS X Tiger	Yahoo	Apache Traffic Server
+Apple	Mac OS X Tiger	Sega	The Ocean Hunter
+Apple	Mac OS X Tiger	Sony	SNES-CD
+Apple	Mac OS X Tiger	Iran	Nasr-1
+Apple	Mac OS X Tiger	Fiat	SEAT 133
+Apple	Mac OS X Tiger	Intel	Silvermont
+Apple	Mac OS X Tiger	Sega	Zaxxon
+Apple	Mac OS X Tiger	Douglas	DC-3
+Apple	Mac OS X Tiger	Microsoft	Windows Media Video
+Apple	Mac OS X Tiger	Microsoft	Windows Media Encoder
+Apple	Mac OS X Tiger	Intel	Itanium
+Apple	Mac OS X Tiger	Iran	Zelzal-2
+Apple	Mac OS X Tiger	IBM	Advanced Function Presentation
+Apple	Mac OS X Tiger	Sony	Super Audio CD
+Apple	Mac OS X Tiger	Sony	Clang
+Apple	Mac OS X Tiger	Microsoft	Applesoft BASIC
+Iran	Hwasong-5	Intel	Xeon
+Iran	Hwasong-5	Apple	iPhone 5
+Iran	Hwasong-5	Honda	Acura ILX
+Iran	Hwasong-5	IBM	Statistical Package for the Social Sciences
+Iran	Hwasong-5	Square	Final Fantasy Legend III
+Iran	Hwasong-5	Boeing	B-47 Stratojet
+Iran	Hwasong-5	Chrysler	Jeep Grand Cherokee
+Iran	Hwasong-5	Apple	iOS 8
+Iran	Hwasong-5	Google	Schema.org
+Iran	Hwasong-5	Sega	Heavyweight Champ
+Iran	Hwasong-5	Renault	Alpine A106
+Iran	Hwasong-5	Apple	Mac OS X 10.2
+Iran	Hwasong-5	Apple	Mac OS X Tiger
+Iran	Hwasong-5	Fiat	Alfa Romeo Montreal
+Iran	Hwasong-5	Sony	PlayStation Eye
+Iran	Hwasong-5	Apple	Mac OS 9
+Iran	Hwasong-5	Microsoft	Windows Live Messenger
+Iran	Hwasong-5	Square	Final Fantasy V
+Iran	Hwasong-5	Nintendo	Game & Watch
+Iran	Hwasong-5	Apple	iOS
+Iran	Hwasong-5	Microsoft	Windows RT
+Iran	Hwasong-5	Microsoft	Windows Mobile
+Iran	Hwasong-5	Apple	MessagePad
+Iran	Hwasong-5	Chevrolet	Pontiac Firebird
+Iran	Hwasong-5	Fiat	Lancia Flavia
+Iran	Hwasong-5	Microsoft	Windows Phone 8
+Iran	Hwasong-5	Yahoo	Apache Traffic Server
+Iran	Hwasong-5	Sega	The Ocean Hunter
+Iran	Hwasong-5	Apple	Mac OS
+Iran	Hwasong-5	Apple	Squeak
+Iran	Hwasong-5	Sony	SNES-CD
+Iran	Hwasong-5	Fiat	SEAT 133
+Iran	Hwasong-5	Apple	Newsstand
+Iran	Hwasong-5	Intel	Silvermont
+Iran	Hwasong-5	Sega	Zaxxon
+Iran	Hwasong-5	Douglas	DC-3
+Iran	Hwasong-5	Apple	Soundtrack Pro
+Iran	Hwasong-5	Microsoft	Windows Media Video
+Iran	Hwasong-5	Microsoft	Windows Media Encoder
+Iran	Hwasong-5	Intel	Itanium
+Iran	Hwasong-5	Apple	iBooks Author
+Iran	Hwasong-5	Apple	TextEdit
+Iran	Hwasong-5	IBM	Advanced Function Presentation
+Iran	Hwasong-5	Sony	Super Audio CD
+Iran	Hwasong-5	Sony	Clang
+Iran	Hwasong-5	Microsoft	Applesoft BASIC
+Iran	Hwasong-5	Apple	MacBook Air
+Fiat	Alfa Romeo Montreal	Intel	Xeon
+Fiat	Alfa Romeo Montreal	Apple	iPhone 5
+Fiat	Alfa Romeo Montreal	Honda	Acura ILX
+Fiat	Alfa Romeo Montreal	IBM	Statistical Package for the Social Sciences
+Fiat	Alfa Romeo Montreal	Square	Final Fantasy Legend III
+Fiat	Alfa Romeo Montreal	Boeing	B-47 Stratojet
+Fiat	Alfa Romeo Montreal	Chrysler	Jeep Grand Cherokee
+Fiat	Alfa Romeo Montreal	Apple	iOS 8
+Fiat	Alfa Romeo Montreal	Google	Schema.org
+Fiat	Alfa Romeo Montreal	Sega	Heavyweight Champ
+Fiat	Alfa Romeo Montreal	Renault	Alpine A106
+Fiat	Alfa Romeo Montreal	Apple	Mac OS X 10.2
+Fiat	Alfa Romeo Montreal	Apple	Mac OS X Tiger
+Fiat	Alfa Romeo Montreal	Iran	Hwasong-5
+Fiat	Alfa Romeo Montreal	Sony	PlayStation Eye
+Fiat	Alfa Romeo Montreal	Apple	Mac OS 9
+Fiat	Alfa Romeo Montreal	Microsoft	Windows Live Messenger
+Fiat	Alfa Romeo Montreal	Square	Final Fantasy V
+Fiat	Alfa Romeo Montreal	Nintendo	Game & Watch
+Fiat	Alfa Romeo Montreal	Apple	iOS
+Fiat	Alfa Romeo Montreal	Microsoft	Windows RT
+Fiat	Alfa Romeo Montreal	Microsoft	Windows Mobile
+Fiat	Alfa Romeo Montreal	Apple	MessagePad
+Fiat	Alfa Romeo Montreal	Chevrolet	Pontiac Firebird
+Fiat	Alfa Romeo Montreal	Microsoft	Windows Phone 8
+Fiat	Alfa Romeo Montreal	Yahoo	Apache Traffic Server
+Fiat	Alfa Romeo Montreal	Sega	The Ocean Hunter
+Fiat	Alfa Romeo Montreal	Apple	Mac OS
+Fiat	Alfa Romeo Montreal	Apple	Squeak
+Fiat	Alfa Romeo Montreal	Sony	SNES-CD
+Fiat	Alfa Romeo Montreal	Iran	Nasr-1
+Fiat	Alfa Romeo Montreal	Apple	Newsstand
+Fiat	Alfa Romeo Montreal	Intel	Silvermont
+Fiat	Alfa Romeo Montreal	Sega	Zaxxon
+Fiat	Alfa Romeo Montreal	Douglas	DC-3
+Fiat	Alfa Romeo Montreal	Apple	Soundtrack Pro
+Fiat	Alfa Romeo Montreal	Microsoft	Windows Media Video
+Fiat	Alfa Romeo Montreal	Microsoft	Windows Media Encoder
+Fiat	Alfa Romeo Montreal	Intel	Itanium
+Fiat	Alfa Romeo Montreal	Iran	Zelzal-2
+Fiat	Alfa Romeo Montreal	Apple	iBooks Author
+Fiat	Alfa Romeo Montreal	Apple	TextEdit
+Fiat	Alfa Romeo Montreal	IBM	Advanced Function Presentation
+Fiat	Alfa Romeo Montreal	Sony	Super Audio CD
+Fiat	Alfa Romeo Montreal	Sony	Clang
+Fiat	Alfa Romeo Montreal	Microsoft	Applesoft BASIC
+Fiat	Alfa Romeo Montreal	Apple	MacBook Air
+Sony	PlayStation Eye	Intel	Xeon
+Sony	PlayStation Eye	Apple	iPhone 5
+Sony	PlayStation Eye	Honda	Acura ILX
+Sony	PlayStation Eye	IBM	Statistical Package for the Social Sciences
+Sony	PlayStation Eye	Square	Final Fantasy Legend III
+Sony	PlayStation Eye	Boeing	B-47 Stratojet
+Sony	PlayStation Eye	Chrysler	Jeep Grand Cherokee
+Sony	PlayStation Eye	Apple	iOS 8
+Sony	PlayStation Eye	Google	Schema.org
+Sony	PlayStation Eye	Sega	Heavyweight Champ
+Sony	PlayStation Eye	Renault	Alpine A106
+Sony	PlayStation Eye	Apple	Mac OS X 10.2
+Sony	PlayStation Eye	Apple	Mac OS X Tiger
+Sony	PlayStation Eye	Iran	Hwasong-5
+Sony	PlayStation Eye	Fiat	Alfa Romeo Montreal
+Sony	PlayStation Eye	Apple	Mac OS 9
+Sony	PlayStation Eye	Microsoft	Windows Live Messenger
+Sony	PlayStation Eye	Square	Final Fantasy V
+Sony	PlayStation Eye	Nintendo	Game & Watch
+Sony	PlayStation Eye	Apple	iOS
+Sony	PlayStation Eye	Microsoft	Windows RT
+Sony	PlayStation Eye	Microsoft	Windows Mobile
+Sony	PlayStation Eye	Apple	MessagePad
+Sony	PlayStation Eye	Chevrolet	Pontiac Firebird
+Sony	PlayStation Eye	Fiat	Lancia Flavia
+Sony	PlayStation Eye	Microsoft	Windows Phone 8
+Sony	PlayStation Eye	Yahoo	Apache Traffic Server
+Sony	PlayStation Eye	Sega	The Ocean Hunter
+Sony	PlayStation Eye	Apple	Mac OS
+Sony	PlayStation Eye	Apple	Squeak
+Sony	PlayStation Eye	Iran	Nasr-1
+Sony	PlayStation Eye	Fiat	SEAT 133
+Sony	PlayStation Eye	Apple	Newsstand
+Sony	PlayStation Eye	Intel	Silvermont
+Sony	PlayStation Eye	Sega	Zaxxon
+Sony	PlayStation Eye	Douglas	DC-3
+Sony	PlayStation Eye	Apple	Soundtrack Pro
+Sony	PlayStation Eye	Microsoft	Windows Media Video
+Sony	PlayStation Eye	Microsoft	Windows Media Encoder
+Sony	PlayStation Eye	Intel	Itanium
+Sony	PlayStation Eye	Iran	Zelzal-2
+Sony	PlayStation Eye	Apple	iBooks Author
+Sony	PlayStation Eye	Apple	TextEdit
+Sony	PlayStation Eye	IBM	Advanced Function Presentation
+Sony	PlayStation Eye	Microsoft	Applesoft BASIC
+Sony	PlayStation Eye	Apple	MacBook Air
+Apple	Mac OS 9	Intel	Xeon
+Apple	Mac OS 9	Honda	Acura ILX
+Apple	Mac OS 9	IBM	Statistical Package for the Social Sciences
+Apple	Mac OS 9	Square	Final Fantasy Legend III
+Apple	Mac OS 9	Boeing	B-47 Stratojet
+Apple	Mac OS 9	Chrysler	Jeep Grand Cherokee
+Apple	Mac OS 9	Google	Schema.org
+Apple	Mac OS 9	Sega	Heavyweight Champ
+Apple	Mac OS 9	Renault	Alpine A106
+Apple	Mac OS 9	Iran	Hwasong-5
+Apple	Mac OS 9	Fiat	Alfa Romeo Montreal
+Apple	Mac OS 9	Sony	PlayStation Eye
+Apple	Mac OS 9	Microsoft	Windows Live Messenger
+Apple	Mac OS 9	Square	Final Fantasy V
+Apple	Mac OS 9	Nintendo	Game & Watch
+Apple	Mac OS 9	Microsoft	Windows RT
+Apple	Mac OS 9	Microsoft	Windows Mobile
+Apple	Mac OS 9	Chevrolet	Pontiac Firebird
+Apple	Mac OS 9	Fiat	Lancia Flavia
+Apple	Mac OS 9	Microsoft	Windows Phone 8
+Apple	Mac OS 9	Yahoo	Apache Traffic Server
+Apple	Mac OS 9	Sega	The Ocean Hunter
+Apple	Mac OS 9	Sony	SNES-CD
+Apple	Mac OS 9	Iran	Nasr-1
+Apple	Mac OS 9	Fiat	SEAT 133
+Apple	Mac OS 9	Intel	Silvermont
+Apple	Mac OS 9	Sega	Zaxxon
+Apple	Mac OS 9	Douglas	DC-3
+Apple	Mac OS 9	Microsoft	Windows Media Video
+Apple	Mac OS 9	Microsoft	Windows Media Encoder
+Apple	Mac OS 9	Intel	Itanium
+Apple	Mac OS 9	Iran	Zelzal-2
+Apple	Mac OS 9	IBM	Advanced Function Presentation
+Apple	Mac OS 9	Sony	Super Audio CD
+Apple	Mac OS 9	Sony	Clang
+Apple	Mac OS 9	Microsoft	Applesoft BASIC
+Microsoft	Windows Live Messenger	Intel	Xeon
+Microsoft	Windows Live Messenger	Apple	iPhone 5
+Microsoft	Windows Live Messenger	Honda	Acura ILX
+Microsoft	Windows Live Messenger	IBM	Statistical Package for the Social Sciences
+Microsoft	Windows Live Messenger	Square	Final Fantasy Legend III
+Microsoft	Windows Live Messenger	Boeing	B-47 Stratojet
+Microsoft	Windows Live Messenger	Chrysler	Jeep Grand Cherokee
+Microsoft	Windows Live Messenger	Apple	iOS 8
+Microsoft	Windows Live Messenger	Google	Schema.org
+Microsoft	Windows Live Messenger	Sega	Heavyweight Champ
+Microsoft	Windows Live Messenger	Renault	Alpine A106
+Microsoft	Windows Live Messenger	Apple	Mac OS X 10.2
+Microsoft	Windows Live Messenger	Apple	Mac OS X Tiger
+Microsoft	Windows Live Messenger	Iran	Hwasong-5
+Microsoft	Windows Live Messenger	Fiat	Alfa Romeo Montreal
+Microsoft	Windows Live Messenger	Sony	PlayStation Eye
+Microsoft	Windows Live Messenger	Apple	Mac OS 9
+Microsoft	Windows Live Messenger	Square	Final Fantasy V
+Microsoft	Windows Live Messenger	Nintendo	Game & Watch
+Microsoft	Windows Live Messenger	Apple	iOS
+Microsoft	Windows Live Messenger	Apple	MessagePad
+Microsoft	Windows Live Messenger	Chevrolet	Pontiac Firebird
+Microsoft	Windows Live Messenger	Fiat	Lancia Flavia
+Microsoft	Windows Live Messenger	Yahoo	Apache Traffic Server
+Microsoft	Windows Live Messenger	Sega	The Ocean Hunter
+Microsoft	Windows Live Messenger	Apple	Mac OS
+Microsoft	Windows Live Messenger	Apple	Squeak
+Microsoft	Windows Live Messenger	Sony	SNES-CD
+Microsoft	Windows Live Messenger	Iran	Nasr-1
+Microsoft	Windows Live Messenger	Fiat	SEAT 133
+Microsoft	Windows Live Messenger	Apple	Newsstand
+Microsoft	Windows Live Messenger	Intel	Silvermont
+Microsoft	Windows Live Messenger	Sega	Zaxxon
+Microsoft	Windows Live Messenger	Douglas	DC-3
+Microsoft	Windows Live Messenger	Apple	Soundtrack Pro
+Microsoft	Windows Live Messenger	Intel	Itanium
+Microsoft	Windows Live Messenger	Iran	Zelzal-2
+Microsoft	Windows Live Messenger	Apple	iBooks Author
+Microsoft	Windows Live Messenger	Apple	TextEdit
+Microsoft	Windows Live Messenger	IBM	Advanced Function Presentation
+Microsoft	Windows Live Messenger	Sony	Super Audio CD
+Microsoft	Windows Live Messenger	Sony	Clang
+Microsoft	Windows Live Messenger	Apple	MacBook Air
+Square	Final Fantasy V	Intel	Xeon
+Square	Final Fantasy V	Apple	iPhone 5
+Square	Final Fantasy V	Honda	Acura ILX
+Square	Final Fantasy V	IBM	Statistical Package for the Social Sciences
+Square	Final Fantasy V	Boeing	B-47 Stratojet
+Square	Final Fantasy V	Chrysler	Jeep Grand Cherokee
+Square	Final Fantasy V	Apple	iOS 8
+Square	Final Fantasy V	Google	Schema.org
+Square	Final Fantasy V	Sega	Heavyweight Champ
+Square	Final Fantasy V	Renault	Alpine A106
+Square	Final Fantasy V	Apple	Mac OS X 10.2
+Square	Final Fantasy V	Apple	Mac OS X Tiger
+Square	Final Fantasy V	Iran	Hwasong-5
+Square	Final Fantasy V	Fiat	Alfa Romeo Montreal
+Square	Final Fantasy V	Sony	PlayStation Eye
+Square	Final Fantasy V	Apple	Mac OS 9
+Square	Final Fantasy V	Microsoft	Windows Live Messenger
+Square	Final Fantasy V	Nintendo	Game & Watch
+Square	Final Fantasy V	Apple	iOS
+Square	Final Fantasy V	Microsoft	Windows RT
+Square	Final Fantasy V	Microsoft	Windows Mobile
+Square	Final Fantasy V	Apple	MessagePad
+Square	Final Fantasy V	Chevrolet	Pontiac Firebird
+Square	Final Fantasy V	Fiat	Lancia Flavia
+Square	Final Fantasy V	Microsoft	Windows Phone 8
+Square	Final Fantasy V	Yahoo	Apache Traffic Server
+Square	Final Fantasy V	Sega	The Ocean Hunter
+Square	Final Fantasy V	Apple	Mac OS
+Square	Final Fantasy V	Apple	Squeak
+Square	Final Fantasy V	Sony	SNES-CD
+Square	Final Fantasy V	Iran	Nasr-1
+Square	Final Fantasy V	Fiat	SEAT 133
+Square	Final Fantasy V	Apple	Newsstand
+Square	Final Fantasy V	Intel	Silvermont
+Square	Final Fantasy V	Sega	Zaxxon
+Square	Final Fantasy V	Douglas	DC-3
+Square	Final Fantasy V	Apple	Soundtrack Pro
+Square	Final Fantasy V	Microsoft	Windows Media Video
+Square	Final Fantasy V	Microsoft	Windows Media Encoder
+Square	Final Fantasy V	Intel	Itanium
+Square	Final Fantasy V	Iran	Zelzal-2
+Square	Final Fantasy V	Apple	iBooks Author
+Square	Final Fantasy V	Apple	TextEdit
+Square	Final Fantasy V	IBM	Advanced Function Presentation
+Square	Final Fantasy V	Sony	Super Audio CD
+Square	Final Fantasy V	Sony	Clang
+Square	Final Fantasy V	Microsoft	Applesoft BASIC
+Square	Final Fantasy V	Apple	MacBook Air
+Nintendo	Game & Watch	Intel	Xeon
+Nintendo	Game & Watch	Apple	iPhone 5
+Nintendo	Game & Watch	Honda	Acura ILX
+Nintendo	Game & Watch	IBM	Statistical Package for the Social Sciences
+Nintendo	Game & Watch	Square	Final Fantasy Legend III
+Nintendo	Game & Watch	Boeing	B-47 Stratojet
+Nintendo	Game & Watch	Chrysler	Jeep Grand Cherokee
+Nintendo	Game & Watch	Apple	iOS 8
+Nintendo	Game & Watch	Google	Schema.org
+Nintendo	Game & Watch	Sega	Heavyweight Champ
+Nintendo	Game & Watch	Renault	Alpine A106
+Nintendo	Game & Watch	Apple	Mac OS X 10.2
+Nintendo	Game & Watch	Apple	Mac OS X Tiger
+Nintendo	Game & Watch	Iran	Hwasong-5
+Nintendo	Game & Watch	Fiat	Alfa Romeo Montreal
+Nintendo	Game & Watch	Sony	PlayStation Eye
+Nintendo	Game & Watch	Apple	Mac OS 9
+Nintendo	Game & Watch	Microsoft	Windows Live Messenger
+Nintendo	Game & Watch	Square	Final Fantasy V
+Nintendo	Game & Watch	Apple	iOS
+Nintendo	Game & Watch	Microsoft	Windows RT
+Nintendo	Game & Watch	Microsoft	Windows Mobile
+Nintendo	Game & Watch	Apple	MessagePad
+Nintendo	Game & Watch	Chevrolet	Pontiac Firebird
+Nintendo	Game & Watch	Fiat	Lancia Flavia
+Nintendo	Game & Watch	Microsoft	Windows Phone 8
+Nintendo	Game & Watch	Yahoo	Apache Traffic Server
+Nintendo	Game & Watch	Sega	The Ocean Hunter
+Nintendo	Game & Watch	Apple	Mac OS
+Nintendo	Game & Watch	Apple	Squeak
+Nintendo	Game & Watch	Sony	SNES-CD
+Nintendo	Game & Watch	Iran	Nasr-1
+Nintendo	Game & Watch	Fiat	SEAT 133
+Nintendo	Game & Watch	Apple	Newsstand
+Nintendo	Game & Watch	Intel	Silvermont
+Nintendo	Game & Watch	Sega	Zaxxon
+Nintendo	Game & Watch	Douglas	DC-3
+Nintendo	Game & Watch	Apple	Soundtrack Pro
+Nintendo	Game & Watch	Microsoft	Windows Media Video
+Nintendo	Game & Watch	Microsoft	Windows Media Encoder
+Nintendo	Game & Watch	Intel	Itanium
+Nintendo	Game & Watch	Iran	Zelzal-2
+Nintendo	Game & Watch	Apple	iBooks Author
+Nintendo	Game & Watch	Apple	TextEdit
+Nintendo	Game & Watch	IBM	Advanced Function Presentation
+Nintendo	Game & Watch	Sony	Super Audio CD
+Nintendo	Game & Watch	Sony	Clang
+Nintendo	Game & Watch	Microsoft	Applesoft BASIC
+Nintendo	Game & Watch	Apple	MacBook Air
+Apple	iOS	Intel	Xeon
+Apple	iOS	Honda	Acura ILX
+Apple	iOS	IBM	Statistical Package for the Social Sciences
+Apple	iOS	Square	Final Fantasy Legend III
+Apple	iOS	Boeing	B-47 Stratojet
+Apple	iOS	Chrysler	Jeep Grand Cherokee
+Apple	iOS	Google	Schema.org
+Apple	iOS	Sega	Heavyweight Champ
+Apple	iOS	Renault	Alpine A106
+Apple	iOS	Iran	Hwasong-5
+Apple	iOS	Fiat	Alfa Romeo Montreal
+Apple	iOS	Sony	PlayStation Eye
+Apple	iOS	Microsoft	Windows Live Messenger
+Apple	iOS	Square	Final Fantasy V
+Apple	iOS	Nintendo	Game & Watch
+Apple	iOS	Microsoft	Windows RT
+Apple	iOS	Microsoft	Windows Mobile
+Apple	iOS	Chevrolet	Pontiac Firebird
+Apple	iOS	Fiat	Lancia Flavia
+Apple	iOS	Microsoft	Windows Phone 8
+Apple	iOS	Yahoo	Apache Traffic Server
+Apple	iOS	Sega	The Ocean Hunter
+Apple	iOS	Sony	SNES-CD
+Apple	iOS	Iran	Nasr-1
+Apple	iOS	Fiat	SEAT 133
+Apple	iOS	Intel	Silvermont
+Apple	iOS	Sega	Zaxxon
+Apple	iOS	Douglas	DC-3
+Apple	iOS	Microsoft	Windows Media Video
+Apple	iOS	Microsoft	Windows Media Encoder
+Apple	iOS	Intel	Itanium
+Apple	iOS	Iran	Zelzal-2
+Apple	iOS	IBM	Advanced Function Presentation
+Apple	iOS	Sony	Super Audio CD
+Apple	iOS	Sony	Clang
+Apple	iOS	Microsoft	Applesoft BASIC
+Microsoft	Windows RT	Intel	Xeon
+Microsoft	Windows RT	Apple	iPhone 5
+Microsoft	Windows RT	Honda	Acura ILX
+Microsoft	Windows RT	IBM	Statistical Package for the Social Sciences
+Microsoft	Windows RT	Square	Final Fantasy Legend III
+Microsoft	Windows RT	Boeing	B-47 Stratojet
+Microsoft	Windows RT	Chrysler	Jeep Grand Cherokee
+Microsoft	Windows RT	Apple	iOS 8
+Microsoft	Windows RT	Google	Schema.org
+Microsoft	Windows RT	Sega	Heavyweight Champ
+Microsoft	Windows RT	Renault	Alpine A106
+Microsoft	Windows RT	Apple	Mac OS X 10.2
+Microsoft	Windows RT	Apple	Mac OS X Tiger
+Microsoft	Windows RT	Iran	Hwasong-5
+Microsoft	Windows RT	Fiat	Alfa Romeo Montreal
+Microsoft	Windows RT	Sony	PlayStation Eye
+Microsoft	Windows RT	Apple	Mac OS 9
+Microsoft	Windows RT	Square	Final Fantasy V
+Microsoft	Windows RT	Nintendo	Game & Watch
+Microsoft	Windows RT	Apple	iOS
+Microsoft	Windows RT	Apple	MessagePad
+Microsoft	Windows RT	Chevrolet	Pontiac Firebird
+Microsoft	Windows RT	Fiat	Lancia Flavia
+Microsoft	Windows RT	Yahoo	Apache Traffic Server
+Microsoft	Windows RT	Sega	The Ocean Hunter
+Microsoft	Windows RT	Apple	Mac OS
+Microsoft	Windows RT	Apple	Squeak
+Microsoft	Windows RT	Sony	SNES-CD
+Microsoft	Windows RT	Iran	Nasr-1
+Microsoft	Windows RT	Fiat	SEAT 133
+Microsoft	Windows RT	Apple	Newsstand
+Microsoft	Windows RT	Intel	Silvermont
+Microsoft	Windows RT	Sega	Zaxxon
+Microsoft	Windows RT	Douglas	DC-3
+Microsoft	Windows RT	Apple	Soundtrack Pro
+Microsoft	Windows RT	Intel	Itanium
+Microsoft	Windows RT	Iran	Zelzal-2
+Microsoft	Windows RT	Apple	iBooks Author
+Microsoft	Windows RT	Apple	TextEdit
+Microsoft	Windows RT	IBM	Advanced Function Presentation
+Microsoft	Windows RT	Sony	Super Audio CD
+Microsoft	Windows RT	Sony	Clang
+Microsoft	Windows RT	Apple	MacBook Air
+Microsoft	Windows Mobile	Intel	Xeon
+Microsoft	Windows Mobile	Apple	iPhone 5
+Microsoft	Windows Mobile	Honda	Acura ILX
+Microsoft	Windows Mobile	IBM	Statistical Package for the Social Sciences
+Microsoft	Windows Mobile	Square	Final Fantasy Legend III
+Microsoft	Windows Mobile	Boeing	B-47 Stratojet
+Microsoft	Windows Mobile	Chrysler	Jeep Grand Cherokee
+Microsoft	Windows Mobile	Apple	iOS 8
+Microsoft	Windows Mobile	Google	Schema.org
+Microsoft	Windows Mobile	Sega	Heavyweight Champ
+Microsoft	Windows Mobile	Renault	Alpine A106
+Microsoft	Windows Mobile	Apple	Mac OS X 10.2
+Microsoft	Windows Mobile	Apple	Mac OS X Tiger
+Microsoft	Windows Mobile	Iran	Hwasong-5
+Microsoft	Windows Mobile	Fiat	Alfa Romeo Montreal
+Microsoft	Windows Mobile	Sony	PlayStation Eye
+Microsoft	Windows Mobile	Apple	Mac OS 9
+Microsoft	Windows Mobile	Square	Final Fantasy V
+Microsoft	Windows Mobile	Nintendo	Game & Watch
+Microsoft	Windows Mobile	Apple	iOS
+Microsoft	Windows Mobile	Apple	MessagePad
+Microsoft	Windows Mobile	Chevrolet	Pontiac Firebird
+Microsoft	Windows Mobile	Fiat	Lancia Flavia
+Microsoft	Windows Mobile	Yahoo	Apache Traffic Server
+Microsoft	Windows Mobile	Sega	The Ocean Hunter
+Microsoft	Windows Mobile	Apple	Mac OS
+Microsoft	Windows Mobile	Apple	Squeak
+Microsoft	Windows Mobile	Sony	SNES-CD
+Microsoft	Windows Mobile	Iran	Nasr-1
+Microsoft	Windows Mobile	Fiat	SEAT 133
+Microsoft	Windows Mobile	Apple	Newsstand
+Microsoft	Windows Mobile	Intel	Silvermont
+Microsoft	Windows Mobile	Sega	Zaxxon
+Microsoft	Windows Mobile	Douglas	DC-3
+Microsoft	Windows Mobile	Apple	Soundtrack Pro
+Microsoft	Windows Mobile	Intel	Itanium
+Microsoft	Windows Mobile	Iran	Zelzal-2
+Microsoft	Windows Mobile	Apple	iBooks Author
+Microsoft	Windows Mobile	Apple	TextEdit
+Microsoft	Windows Mobile	IBM	Advanced Function Presentation
+Microsoft	Windows Mobile	Sony	Super Audio CD
+Microsoft	Windows Mobile	Sony	Clang
+Microsoft	Windows Mobile	Apple	MacBook Air
+Apple	MessagePad	Intel	Xeon
+Apple	MessagePad	Honda	Acura ILX
+Apple	MessagePad	IBM	Statistical Package for the Social Sciences
+Apple	MessagePad	Square	Final Fantasy Legend III
+Apple	MessagePad	Boeing	B-47 Stratojet
+Apple	MessagePad	Chrysler	Jeep Grand Cherokee
+Apple	MessagePad	Google	Schema.org
+Apple	MessagePad	Sega	Heavyweight Champ
+Apple	MessagePad	Renault	Alpine A106
+Apple	MessagePad	Iran	Hwasong-5
+Apple	MessagePad	Fiat	Alfa Romeo Montreal
+Apple	MessagePad	Sony	PlayStation Eye
+Apple	MessagePad	Microsoft	Windows Live Messenger
+Apple	MessagePad	Square	Final Fantasy V
+Apple	MessagePad	Nintendo	Game & Watch
+Apple	MessagePad	Microsoft	Windows RT
+Apple	MessagePad	Microsoft	Windows Mobile
+Apple	MessagePad	Chevrolet	Pontiac Firebird
+Apple	MessagePad	Fiat	Lancia Flavia
+Apple	MessagePad	Microsoft	Windows Phone 8
+Apple	MessagePad	Yahoo	Apache Traffic Server
+Apple	MessagePad	Sega	The Ocean Hunter
+Apple	MessagePad	Sony	SNES-CD
+Apple	MessagePad	Iran	Nasr-1
+Apple	MessagePad	Fiat	SEAT 133
+Apple	MessagePad	Intel	Silvermont
+Apple	MessagePad	Sega	Zaxxon
+Apple	MessagePad	Douglas	DC-3
+Apple	MessagePad	Microsoft	Windows Media Video
+Apple	MessagePad	Microsoft	Windows Media Encoder
+Apple	MessagePad	Intel	Itanium
+Apple	MessagePad	Iran	Zelzal-2
+Apple	MessagePad	IBM	Advanced Function Presentation
+Apple	MessagePad	Sony	Super Audio CD
+Apple	MessagePad	Sony	Clang
+Apple	MessagePad	Microsoft	Applesoft BASIC
+Chevrolet	Pontiac Firebird	Intel	Xeon
+Chevrolet	Pontiac Firebird	Apple	iPhone 5
+Chevrolet	Pontiac Firebird	Honda	Acura ILX
+Chevrolet	Pontiac Firebird	IBM	Statistical Package for the Social Sciences
+Chevrolet	Pontiac Firebird	Square	Final Fantasy Legend III
+Chevrolet	Pontiac Firebird	Boeing	B-47 Stratojet
+Chevrolet	Pontiac Firebird	Chrysler	Jeep Grand Cherokee
+Chevrolet	Pontiac Firebird	Apple	iOS 8
+Chevrolet	Pontiac Firebird	Google	Schema.org
+Chevrolet	Pontiac Firebird	Sega	Heavyweight Champ
+Chevrolet	Pontiac Firebird	Renault	Alpine A106
+Chevrolet	Pontiac Firebird	Apple	Mac OS X 10.2
+Chevrolet	Pontiac Firebird	Apple	Mac OS X Tiger
+Chevrolet	Pontiac Firebird	Iran	Hwasong-5
+Chevrolet	Pontiac Firebird	Fiat	Alfa Romeo Montreal
+Chevrolet	Pontiac Firebird	Sony	PlayStation Eye
+Chevrolet	Pontiac Firebird	Apple	Mac OS 9
+Chevrolet	Pontiac Firebird	Microsoft	Windows Live Messenger
+Chevrolet	Pontiac Firebird	Square	Final Fantasy V
+Chevrolet	Pontiac Firebird	Nintendo	Game & Watch
+Chevrolet	Pontiac Firebird	Apple	iOS
+Chevrolet	Pontiac Firebird	Microsoft	Windows RT
+Chevrolet	Pontiac Firebird	Microsoft	Windows Mobile
+Chevrolet	Pontiac Firebird	Apple	MessagePad
+Chevrolet	Pontiac Firebird	Fiat	Lancia Flavia
+Chevrolet	Pontiac Firebird	Microsoft	Windows Phone 8
+Chevrolet	Pontiac Firebird	Yahoo	Apache Traffic Server
+Chevrolet	Pontiac Firebird	Sega	The Ocean Hunter
+Chevrolet	Pontiac Firebird	Apple	Mac OS
+Chevrolet	Pontiac Firebird	Apple	Squeak
+Chevrolet	Pontiac Firebird	Sony	SNES-CD
+Chevrolet	Pontiac Firebird	Iran	Nasr-1
+Chevrolet	Pontiac Firebird	Fiat	SEAT 133
+Chevrolet	Pontiac Firebird	Apple	Newsstand
+Chevrolet	Pontiac Firebird	Intel	Silvermont
+Chevrolet	Pontiac Firebird	Sega	Zaxxon
+Chevrolet	Pontiac Firebird	Douglas	DC-3
+Chevrolet	Pontiac Firebird	Apple	Soundtrack Pro
+Chevrolet	Pontiac Firebird	Microsoft	Windows Media Video
+Chevrolet	Pontiac Firebird	Microsoft	Windows Media Encoder
+Chevrolet	Pontiac Firebird	Intel	Itanium
+Chevrolet	Pontiac Firebird	Iran	Zelzal-2
+Chevrolet	Pontiac Firebird	Apple	iBooks Author
+Chevrolet	Pontiac Firebird	Apple	TextEdit
+Chevrolet	Pontiac Firebird	IBM	Advanced Function Presentation
+Chevrolet	Pontiac Firebird	Sony	Super Audio CD
+Chevrolet	Pontiac Firebird	Sony	Clang
+Chevrolet	Pontiac Firebird	Microsoft	Applesoft BASIC
+Chevrolet	Pontiac Firebird	Apple	MacBook Air
+Fiat	Lancia Flavia	Intel	Xeon
+Fiat	Lancia Flavia	Apple	iPhone 5
+Fiat	Lancia Flavia	Honda	Acura ILX
+Fiat	Lancia Flavia	IBM	Statistical Package for the Social Sciences
+Fiat	Lancia Flavia	Square	Final Fantasy Legend III
+Fiat	Lancia Flavia	Boeing	B-47 Stratojet
+Fiat	Lancia Flavia	Chrysler	Jeep Grand Cherokee
+Fiat	Lancia Flavia	Apple	iOS 8
+Fiat	Lancia Flavia	Google	Schema.org
+Fiat	Lancia Flavia	Sega	Heavyweight Champ
+Fiat	Lancia Flavia	Renault	Alpine A106
+Fiat	Lancia Flavia	Apple	Mac OS X 10.2
+Fiat	Lancia Flavia	Apple	Mac OS X Tiger
+Fiat	Lancia Flavia	Iran	Hwasong-5
+Fiat	Lancia Flavia	Sony	PlayStation Eye
+Fiat	Lancia Flavia	Apple	Mac OS 9
+Fiat	Lancia Flavia	Microsoft	Windows Live Messenger
+Fiat	Lancia Flavia	Square	Final Fantasy V
+Fiat	Lancia Flavia	Nintendo	Game & Watch
+Fiat	Lancia Flavia	Apple	iOS
+Fiat	Lancia Flavia	Microsoft	Windows RT
+Fiat	Lancia Flavia	Microsoft	Windows Mobile
+Fiat	Lancia Flavia	Apple	MessagePad
+Fiat	Lancia Flavia	Chevrolet	Pontiac Firebird
+Fiat	Lancia Flavia	Microsoft	Windows Phone 8
+Fiat	Lancia Flavia	Yahoo	Apache Traffic Server
+Fiat	Lancia Flavia	Sega	The Ocean Hunter
+Fiat	Lancia Flavia	Apple	Mac OS
+Fiat	Lancia Flavia	Apple	Squeak
+Fiat	Lancia Flavia	Sony	SNES-CD
+Fiat	Lancia Flavia	Iran	Nasr-1
+Fiat	Lancia Flavia	Apple	Newsstand
+Fiat	Lancia Flavia	Intel	Silvermont
+Fiat	Lancia Flavia	Sega	Zaxxon
+Fiat	Lancia Flavia	Douglas	DC-3
+Fiat	Lancia Flavia	Apple	Soundtrack Pro
+Fiat	Lancia Flavia	Microsoft	Windows Media Video
+Fiat	Lancia Flavia	Microsoft	Windows Media Encoder
+Fiat	Lancia Flavia	Intel	Itanium
+Fiat	Lancia Flavia	Iran	Zelzal-2
+Fiat	Lancia Flavia	Apple	iBooks Author
+Fiat	Lancia Flavia	Apple	TextEdit
+Fiat	Lancia Flavia	IBM	Advanced Function Presentation
+Fiat	Lancia Flavia	Sony	Super Audio CD
+Fiat	Lancia Flavia	Sony	Clang
+Fiat	Lancia Flavia	Microsoft	Applesoft BASIC
+Fiat	Lancia Flavia	Apple	MacBook Air
+Microsoft	Windows Phone 8	Intel	Xeon
+Microsoft	Windows Phone 8	Apple	iPhone 5
+Microsoft	Windows Phone 8	Honda	Acura ILX
+Microsoft	Windows Phone 8	IBM	Statistical Package for the Social Sciences
+Microsoft	Windows Phone 8	Square	Final Fantasy Legend III
+Microsoft	Windows Phone 8	Boeing	B-47 Stratojet
+Microsoft	Windows Phone 8	Chrysler	Jeep Grand Cherokee
+Microsoft	Windows Phone 8	Apple	iOS 8
+Microsoft	Windows Phone 8	Google	Schema.org
+Microsoft	Windows Phone 8	Sega	Heavyweight Champ
+Microsoft	Windows Phone 8	Renault	Alpine A106
+Microsoft	Windows Phone 8	Apple	Mac OS X 10.2
+Microsoft	Windows Phone 8	Apple	Mac OS X Tiger
+Microsoft	Windows Phone 8	Iran	Hwasong-5
+Microsoft	Windows Phone 8	Fiat	Alfa Romeo Montreal
+Microsoft	Windows Phone 8	Sony	PlayStation Eye
+Microsoft	Windows Phone 8	Apple	Mac OS 9
+Microsoft	Windows Phone 8	Square	Final Fantasy V
+Microsoft	Windows Phone 8	Nintendo	Game & Watch
+Microsoft	Windows Phone 8	Apple	iOS
+Microsoft	Windows Phone 8	Apple	MessagePad
+Microsoft	Windows Phone 8	Chevrolet	Pontiac Firebird
+Microsoft	Windows Phone 8	Fiat	Lancia Flavia
+Microsoft	Windows Phone 8	Yahoo	Apache Traffic Server
+Microsoft	Windows Phone 8	Sega	The Ocean Hunter
+Microsoft	Windows Phone 8	Apple	Mac OS
+Microsoft	Windows Phone 8	Apple	Squeak
+Microsoft	Windows Phone 8	Sony	SNES-CD
+Microsoft	Windows Phone 8	Iran	Nasr-1
+Microsoft	Windows Phone 8	Fiat	SEAT 133
+Microsoft	Windows Phone 8	Apple	Newsstand
+Microsoft	Windows Phone 8	Intel	Silvermont
+Microsoft	Windows Phone 8	Sega	Zaxxon
+Microsoft	Windows Phone 8	Douglas	DC-3
+Microsoft	Windows Phone 8	Apple	Soundtrack Pro
+Microsoft	Windows Phone 8	Intel	Itanium
+Microsoft	Windows Phone 8	Iran	Zelzal-2
+Microsoft	Windows Phone 8	Apple	iBooks Author
+Microsoft	Windows Phone 8	Apple	TextEdit
+Microsoft	Windows Phone 8	IBM	Advanced Function Presentation
+Microsoft	Windows Phone 8	Sony	Super Audio CD
+Microsoft	Windows Phone 8	Sony	Clang
+Microsoft	Windows Phone 8	Apple	MacBook Air
+Yahoo	Apache Traffic Server	Intel	Xeon
+Yahoo	Apache Traffic Server	Apple	iPhone 5
+Yahoo	Apache Traffic Server	Honda	Acura ILX
+Yahoo	Apache Traffic Server	IBM	Statistical Package for the Social Sciences
+Yahoo	Apache Traffic Server	Square	Final Fantasy Legend III
+Yahoo	Apache Traffic Server	Boeing	B-47 Stratojet
+Yahoo	Apache Traffic Server	Chrysler	Jeep Grand Cherokee
+Yahoo	Apache Traffic Server	Apple	iOS 8
+Yahoo	Apache Traffic Server	Google	Schema.org
+Yahoo	Apache Traffic Server	Sega	Heavyweight Champ
+Yahoo	Apache Traffic Server	Renault	Alpine A106
+Yahoo	Apache Traffic Server	Apple	Mac OS X 10.2
+Yahoo	Apache Traffic Server	Apple	Mac OS X Tiger
+Yahoo	Apache Traffic Server	Iran	Hwasong-5
+Yahoo	Apache Traffic Server	Fiat	Alfa Romeo Montreal
+Yahoo	Apache Traffic Server	Sony	PlayStation Eye
+Yahoo	Apache Traffic Server	Apple	Mac OS 9
+Yahoo	Apache Traffic Server	Microsoft	Windows Live Messenger
+Yahoo	Apache Traffic Server	Square	Final Fantasy V
+Yahoo	Apache Traffic Server	Nintendo	Game & Watch
+Yahoo	Apache Traffic Server	Apple	iOS
+Yahoo	Apache Traffic Server	Microsoft	Windows RT
+Yahoo	Apache Traffic Server	Microsoft	Windows Mobile
+Yahoo	Apache Traffic Server	Apple	MessagePad
+Yahoo	Apache Traffic Server	Chevrolet	Pontiac Firebird
+Yahoo	Apache Traffic Server	Fiat	Lancia Flavia
+Yahoo	Apache Traffic Server	Microsoft	Windows Phone 8
+Yahoo	Apache Traffic Server	Sega	The Ocean Hunter
+Yahoo	Apache Traffic Server	Apple	Mac OS
+Yahoo	Apache Traffic Server	Apple	Squeak
+Yahoo	Apache Traffic Server	Sony	SNES-CD
+Yahoo	Apache Traffic Server	Iran	Nasr-1
+Yahoo	Apache Traffic Server	Fiat	SEAT 133
+Yahoo	Apache Traffic Server	Apple	Newsstand
+Yahoo	Apache Traffic Server	Intel	Silvermont
+Yahoo	Apache Traffic Server	Sega	Zaxxon
+Yahoo	Apache Traffic Server	Douglas	DC-3
+Yahoo	Apache Traffic Server	Apple	Soundtrack Pro
+Yahoo	Apache Traffic Server	Microsoft	Windows Media Video
+Yahoo	Apache Traffic Server	Microsoft	Windows Media Encoder
+Yahoo	Apache Traffic Server	Intel	Itanium
+Yahoo	Apache Traffic Server	Iran	Zelzal-2
+Yahoo	Apache Traffic Server	Apple	iBooks Author
+Yahoo	Apache Traffic Server	Apple	TextEdit
+Yahoo	Apache Traffic Server	IBM	Advanced Function Presentation
+Yahoo	Apache Traffic Server	Sony	Super Audio CD
+Yahoo	Apache Traffic Server	Sony	Clang
+Yahoo	Apache Traffic Server	Microsoft	Applesoft BASIC
+Yahoo	Apache Traffic Server	Apple	MacBook Air
+Sega	The Ocean Hunter	Intel	Xeon
+Sega	The Ocean Hunter	Apple	iPhone 5
+Sega	The Ocean Hunter	Honda	Acura ILX
+Sega	The Ocean Hunter	IBM	Statistical Package for the Social Sciences
+Sega	The Ocean Hunter	Square	Final Fantasy Legend III
+Sega	The Ocean Hunter	Boeing	B-47 Stratojet
+Sega	The Ocean Hunter	Chrysler	Jeep Grand Cherokee
+Sega	The Ocean Hunter	Apple	iOS 8
+Sega	The Ocean Hunter	Google	Schema.org
+Sega	The Ocean Hunter	Renault	Alpine A106
+Sega	The Ocean Hunter	Apple	Mac OS X 10.2
+Sega	The Ocean Hunter	Apple	Mac OS X Tiger
+Sega	The Ocean Hunter	Iran	Hwasong-5
+Sega	The Ocean Hunter	Fiat	Alfa Romeo Montreal
+Sega	The Ocean Hunter	Sony	PlayStation Eye
+Sega	The Ocean Hunter	Apple	Mac OS 9
+Sega	The Ocean Hunter	Microsoft	Windows Live Messenger
+Sega	The Ocean Hunter	Square	Final Fantasy V
+Sega	The Ocean Hunter	Nintendo	Game & Watch
+Sega	The Ocean Hunter	Apple	iOS
+Sega	The Ocean Hunter	Microsoft	Windows RT
+Sega	The Ocean Hunter	Microsoft	Windows Mobile
+Sega	The Ocean Hunter	Apple	MessagePad
+Sega	The Ocean Hunter	Chevrolet	Pontiac Firebird
+Sega	The Ocean Hunter	Fiat	Lancia Flavia
+Sega	The Ocean Hunter	Microsoft	Windows Phone 8
+Sega	The Ocean Hunter	Yahoo	Apache Traffic Server
+Sega	The Ocean Hunter	Apple	Mac OS
+Sega	The Ocean Hunter	Apple	Squeak
+Sega	The Ocean Hunter	Sony	SNES-CD
+Sega	The Ocean Hunter	Iran	Nasr-1
+Sega	The Ocean Hunter	Fiat	SEAT 133
+Sega	The Ocean Hunter	Apple	Newsstand
+Sega	The Ocean Hunter	Intel	Silvermont
+Sega	The Ocean Hunter	Douglas	DC-3
+Sega	The Ocean Hunter	Apple	Soundtrack Pro
+Sega	The Ocean Hunter	Microsoft	Windows Media Video
+Sega	The Ocean Hunter	Microsoft	Windows Media Encoder
+Sega	The Ocean Hunter	Intel	Itanium
+Sega	The Ocean Hunter	Iran	Zelzal-2
+Sega	The Ocean Hunter	Apple	iBooks Author
+Sega	The Ocean Hunter	Apple	TextEdit
+Sega	The Ocean Hunter	IBM	Advanced Function Presentation
+Sega	The Ocean Hunter	Sony	Super Audio CD
+Sega	The Ocean Hunter	Sony	Clang
+Sega	The Ocean Hunter	Microsoft	Applesoft BASIC
+Sega	The Ocean Hunter	Apple	MacBook Air
+Apple	Mac OS	Intel	Xeon
+Apple	Mac OS	Honda	Acura ILX
+Apple	Mac OS	IBM	Statistical Package for the Social Sciences
+Apple	Mac OS	Square	Final Fantasy Legend III
+Apple	Mac OS	Boeing	B-47 Stratojet
+Apple	Mac OS	Chrysler	Jeep Grand Cherokee
+Apple	Mac OS	Google	Schema.org
+Apple	Mac OS	Sega	Heavyweight Champ
+Apple	Mac OS	Renault	Alpine A106
+Apple	Mac OS	Iran	Hwasong-5
+Apple	Mac OS	Fiat	Alfa Romeo Montreal
+Apple	Mac OS	Sony	PlayStation Eye
+Apple	Mac OS	Microsoft	Windows Live Messenger
+Apple	Mac OS	Square	Final Fantasy V
+Apple	Mac OS	Nintendo	Game & Watch
+Apple	Mac OS	Microsoft	Windows RT
+Apple	Mac OS	Microsoft	Windows Mobile
+Apple	Mac OS	Chevrolet	Pontiac Firebird
+Apple	Mac OS	Fiat	Lancia Flavia
+Apple	Mac OS	Microsoft	Windows Phone 8
+Apple	Mac OS	Yahoo	Apache Traffic Server
+Apple	Mac OS	Sega	The Ocean Hunter
+Apple	Mac OS	Sony	SNES-CD
+Apple	Mac OS	Iran	Nasr-1
+Apple	Mac OS	Fiat	SEAT 133
+Apple	Mac OS	Intel	Silvermont
+Apple	Mac OS	Sega	Zaxxon
+Apple	Mac OS	Douglas	DC-3
+Apple	Mac OS	Microsoft	Windows Media Video
+Apple	Mac OS	Microsoft	Windows Media Encoder
+Apple	Mac OS	Intel	Itanium
+Apple	Mac OS	Iran	Zelzal-2
+Apple	Mac OS	IBM	Advanced Function Presentation
+Apple	Mac OS	Sony	Super Audio CD
+Apple	Mac OS	Sony	Clang
+Apple	Mac OS	Microsoft	Applesoft BASIC
+Apple	Squeak	Intel	Xeon
+Apple	Squeak	Honda	Acura ILX
+Apple	Squeak	IBM	Statistical Package for the Social Sciences
+Apple	Squeak	Square	Final Fantasy Legend III
+Apple	Squeak	Boeing	B-47 Stratojet
+Apple	Squeak	Chrysler	Jeep Grand Cherokee
+Apple	Squeak	Google	Schema.org
+Apple	Squeak	Sega	Heavyweight Champ
+Apple	Squeak	Renault	Alpine A106
+Apple	Squeak	Iran	Hwasong-5
+Apple	Squeak	Fiat	Alfa Romeo Montreal
+Apple	Squeak	Sony	PlayStation Eye
+Apple	Squeak	Microsoft	Windows Live Messenger
+Apple	Squeak	Square	Final Fantasy V
+Apple	Squeak	Nintendo	Game & Watch
+Apple	Squeak	Microsoft	Windows RT
+Apple	Squeak	Microsoft	Windows Mobile
+Apple	Squeak	Chevrolet	Pontiac Firebird
+Apple	Squeak	Fiat	Lancia Flavia
+Apple	Squeak	Microsoft	Windows Phone 8
+Apple	Squeak	Yahoo	Apache Traffic Server
+Apple	Squeak	Sega	The Ocean Hunter
+Apple	Squeak	Sony	SNES-CD
+Apple	Squeak	Iran	Nasr-1
+Apple	Squeak	Fiat	SEAT 133
+Apple	Squeak	Intel	Silvermont
+Apple	Squeak	Sega	Zaxxon
+Apple	Squeak	Douglas	DC-3
+Apple	Squeak	Microsoft	Windows Media Video
+Apple	Squeak	Microsoft	Windows Media Encoder
+Apple	Squeak	Intel	Itanium
+Apple	Squeak	Iran	Zelzal-2
+Apple	Squeak	IBM	Advanced Function Presentation
+Apple	Squeak	Sony	Super Audio CD
+Apple	Squeak	Sony	Clang
+Apple	Squeak	Microsoft	Applesoft BASIC
+Sony	SNES-CD	Intel	Xeon
+Sony	SNES-CD	Apple	iPhone 5
+Sony	SNES-CD	Honda	Acura ILX
+Sony	SNES-CD	IBM	Statistical Package for the Social Sciences
+Sony	SNES-CD	Square	Final Fantasy Legend III
+Sony	SNES-CD	Boeing	B-47 Stratojet
+Sony	SNES-CD	Chrysler	Jeep Grand Cherokee
+Sony	SNES-CD	Apple	iOS 8
+Sony	SNES-CD	Google	Schema.org
+Sony	SNES-CD	Sega	Heavyweight Champ
+Sony	SNES-CD	Renault	Alpine A106
+Sony	SNES-CD	Apple	Mac OS X 10.2
+Sony	SNES-CD	Apple	Mac OS X Tiger
+Sony	SNES-CD	Iran	Hwasong-5
+Sony	SNES-CD	Fiat	Alfa Romeo Montreal
+Sony	SNES-CD	Apple	Mac OS 9
+Sony	SNES-CD	Microsoft	Windows Live Messenger
+Sony	SNES-CD	Square	Final Fantasy V
+Sony	SNES-CD	Nintendo	Game & Watch
+Sony	SNES-CD	Apple	iOS
+Sony	SNES-CD	Microsoft	Windows RT
+Sony	SNES-CD	Microsoft	Windows Mobile
+Sony	SNES-CD	Apple	MessagePad
+Sony	SNES-CD	Chevrolet	Pontiac Firebird
+Sony	SNES-CD	Fiat	Lancia Flavia
+Sony	SNES-CD	Microsoft	Windows Phone 8
+Sony	SNES-CD	Yahoo	Apache Traffic Server
+Sony	SNES-CD	Sega	The Ocean Hunter
+Sony	SNES-CD	Apple	Mac OS
+Sony	SNES-CD	Apple	Squeak
+Sony	SNES-CD	Iran	Nasr-1
+Sony	SNES-CD	Fiat	SEAT 133
+Sony	SNES-CD	Apple	Newsstand
+Sony	SNES-CD	Intel	Silvermont
+Sony	SNES-CD	Sega	Zaxxon
+Sony	SNES-CD	Douglas	DC-3
+Sony	SNES-CD	Apple	Soundtrack Pro
+Sony	SNES-CD	Microsoft	Windows Media Video
+Sony	SNES-CD	Microsoft	Windows Media Encoder
+Sony	SNES-CD	Intel	Itanium
+Sony	SNES-CD	Iran	Zelzal-2
+Sony	SNES-CD	Apple	iBooks Author
+Sony	SNES-CD	Apple	TextEdit
+Sony	SNES-CD	IBM	Advanced Function Presentation
+Sony	SNES-CD	Microsoft	Applesoft BASIC
+Sony	SNES-CD	Apple	MacBook Air
+Iran	Nasr-1	Intel	Xeon
+Iran	Nasr-1	Apple	iPhone 5
+Iran	Nasr-1	Honda	Acura ILX
+Iran	Nasr-1	IBM	Statistical Package for the Social Sciences
+Iran	Nasr-1	Square	Final Fantasy Legend III
+Iran	Nasr-1	Boeing	B-47 Stratojet
+Iran	Nasr-1	Chrysler	Jeep Grand Cherokee
+Iran	Nasr-1	Apple	iOS 8
+Iran	Nasr-1	Google	Schema.org
+Iran	Nasr-1	Sega	Heavyweight Champ
+Iran	Nasr-1	Renault	Alpine A106
+Iran	Nasr-1	Apple	Mac OS X 10.2
+Iran	Nasr-1	Apple	Mac OS X Tiger
+Iran	Nasr-1	Fiat	Alfa Romeo Montreal
+Iran	Nasr-1	Sony	PlayStation Eye
+Iran	Nasr-1	Apple	Mac OS 9
+Iran	Nasr-1	Microsoft	Windows Live Messenger
+Iran	Nasr-1	Square	Final Fantasy V
+Iran	Nasr-1	Nintendo	Game & Watch
+Iran	Nasr-1	Apple	iOS
+Iran	Nasr-1	Microsoft	Windows RT
+Iran	Nasr-1	Microsoft	Windows Mobile
+Iran	Nasr-1	Apple	MessagePad
+Iran	Nasr-1	Chevrolet	Pontiac Firebird
+Iran	Nasr-1	Fiat	Lancia Flavia
+Iran	Nasr-1	Microsoft	Windows Phone 8
+Iran	Nasr-1	Yahoo	Apache Traffic Server
+Iran	Nasr-1	Sega	The Ocean Hunter
+Iran	Nasr-1	Apple	Mac OS
+Iran	Nasr-1	Apple	Squeak
+Iran	Nasr-1	Sony	SNES-CD
+Iran	Nasr-1	Fiat	SEAT 133
+Iran	Nasr-1	Apple	Newsstand
+Iran	Nasr-1	Intel	Silvermont
+Iran	Nasr-1	Sega	Zaxxon
+Iran	Nasr-1	Douglas	DC-3
+Iran	Nasr-1	Apple	Soundtrack Pro
+Iran	Nasr-1	Microsoft	Windows Media Video
+Iran	Nasr-1	Microsoft	Windows Media Encoder
+Iran	Nasr-1	Intel	Itanium
+Iran	Nasr-1	Apple	iBooks Author
+Iran	Nasr-1	Apple	TextEdit
+Iran	Nasr-1	IBM	Advanced Function Presentation
+Iran	Nasr-1	Sony	Super Audio CD
+Iran	Nasr-1	Sony	Clang
+Iran	Nasr-1	Microsoft	Applesoft BASIC
+Iran	Nasr-1	Apple	MacBook Air
+Fiat	SEAT 133	Intel	Xeon
+Fiat	SEAT 133	Apple	iPhone 5
+Fiat	SEAT 133	Honda	Acura ILX
+Fiat	SEAT 133	IBM	Statistical Package for the Social Sciences
+Fiat	SEAT 133	Square	Final Fantasy Legend III
+Fiat	SEAT 133	Boeing	B-47 Stratojet
+Fiat	SEAT 133	Chrysler	Jeep Grand Cherokee
+Fiat	SEAT 133	Apple	iOS 8
+Fiat	SEAT 133	Google	Schema.org
+Fiat	SEAT 133	Sega	Heavyweight Champ
+Fiat	SEAT 133	Renault	Alpine A106
+Fiat	SEAT 133	Apple	Mac OS X 10.2
+Fiat	SEAT 133	Apple	Mac OS X Tiger
+Fiat	SEAT 133	Iran	Hwasong-5
+Fiat	SEAT 133	Sony	PlayStation Eye
+Fiat	SEAT 133	Apple	Mac OS 9
+Fiat	SEAT 133	Microsoft	Windows Live Messenger
+Fiat	SEAT 133	Square	Final Fantasy V
+Fiat	SEAT 133	Nintendo	Game & Watch
+Fiat	SEAT 133	Apple	iOS
+Fiat	SEAT 133	Microsoft	Windows RT
+Fiat	SEAT 133	Microsoft	Windows Mobile
+Fiat	SEAT 133	Apple	MessagePad
+Fiat	SEAT 133	Chevrolet	Pontiac Firebird
+Fiat	SEAT 133	Microsoft	Windows Phone 8
+Fiat	SEAT 133	Yahoo	Apache Traffic Server
+Fiat	SEAT 133	Sega	The Ocean Hunter
+Fiat	SEAT 133	Apple	Mac OS
+Fiat	SEAT 133	Apple	Squeak
+Fiat	SEAT 133	Sony	SNES-CD
+Fiat	SEAT 133	Iran	Nasr-1
+Fiat	SEAT 133	Apple	Newsstand
+Fiat	SEAT 133	Intel	Silvermont
+Fiat	SEAT 133	Sega	Zaxxon
+Fiat	SEAT 133	Douglas	DC-3
+Fiat	SEAT 133	Apple	Soundtrack Pro
+Fiat	SEAT 133	Microsoft	Windows Media Video
+Fiat	SEAT 133	Microsoft	Windows Media Encoder
+Fiat	SEAT 133	Intel	Itanium
+Fiat	SEAT 133	Iran	Zelzal-2
+Fiat	SEAT 133	Apple	iBooks Author
+Fiat	SEAT 133	Apple	TextEdit
+Fiat	SEAT 133	IBM	Advanced Function Presentation
+Fiat	SEAT 133	Sony	Super Audio CD
+Fiat	SEAT 133	Sony	Clang
+Fiat	SEAT 133	Microsoft	Applesoft BASIC
+Fiat	SEAT 133	Apple	MacBook Air
+Apple	Newsstand	Intel	Xeon
+Apple	Newsstand	Honda	Acura ILX
+Apple	Newsstand	IBM	Statistical Package for the Social Sciences
+Apple	Newsstand	Square	Final Fantasy Legend III
+Apple	Newsstand	Boeing	B-47 Stratojet
+Apple	Newsstand	Chrysler	Jeep Grand Cherokee
+Apple	Newsstand	Google	Schema.org
+Apple	Newsstand	Sega	Heavyweight Champ
+Apple	Newsstand	Renault	Alpine A106
+Apple	Newsstand	Iran	Hwasong-5
+Apple	Newsstand	Fiat	Alfa Romeo Montreal
+Apple	Newsstand	Sony	PlayStation Eye
+Apple	Newsstand	Microsoft	Windows Live Messenger
+Apple	Newsstand	Square	Final Fantasy V
+Apple	Newsstand	Nintendo	Game & Watch
+Apple	Newsstand	Microsoft	Windows RT
+Apple	Newsstand	Microsoft	Windows Mobile
+Apple	Newsstand	Chevrolet	Pontiac Firebird
+Apple	Newsstand	Fiat	Lancia Flavia
+Apple	Newsstand	Microsoft	Windows Phone 8
+Apple	Newsstand	Yahoo	Apache Traffic Server
+Apple	Newsstand	Sega	The Ocean Hunter
+Apple	Newsstand	Sony	SNES-CD
+Apple	Newsstand	Iran	Nasr-1
+Apple	Newsstand	Fiat	SEAT 133
+Apple	Newsstand	Intel	Silvermont
+Apple	Newsstand	Sega	Zaxxon
+Apple	Newsstand	Douglas	DC-3
+Apple	Newsstand	Microsoft	Windows Media Video
+Apple	Newsstand	Microsoft	Windows Media Encoder
+Apple	Newsstand	Intel	Itanium
+Apple	Newsstand	Iran	Zelzal-2
+Apple	Newsstand	IBM	Advanced Function Presentation
+Apple	Newsstand	Sony	Super Audio CD
+Apple	Newsstand	Sony	Clang
+Apple	Newsstand	Microsoft	Applesoft BASIC
+Intel	Silvermont	Apple	iPhone 5
+Intel	Silvermont	Honda	Acura ILX
+Intel	Silvermont	IBM	Statistical Package for the Social Sciences
+Intel	Silvermont	Square	Final Fantasy Legend III
+Intel	Silvermont	Boeing	B-47 Stratojet
+Intel	Silvermont	Chrysler	Jeep Grand Cherokee
+Intel	Silvermont	Apple	iOS 8
+Intel	Silvermont	Google	Schema.org
+Intel	Silvermont	Sega	Heavyweight Champ
+Intel	Silvermont	Renault	Alpine A106
+Intel	Silvermont	Apple	Mac OS X 10.2
+Intel	Silvermont	Apple	Mac OS X Tiger
+Intel	Silvermont	Iran	Hwasong-5
+Intel	Silvermont	Fiat	Alfa Romeo Montreal
+Intel	Silvermont	Sony	PlayStation Eye
+Intel	Silvermont	Apple	Mac OS 9
+Intel	Silvermont	Microsoft	Windows Live Messenger
+Intel	Silvermont	Square	Final Fantasy V
+Intel	Silvermont	Nintendo	Game & Watch
+Intel	Silvermont	Apple	iOS
+Intel	Silvermont	Microsoft	Windows RT
+Intel	Silvermont	Microsoft	Windows Mobile
+Intel	Silvermont	Apple	MessagePad
+Intel	Silvermont	Chevrolet	Pontiac Firebird
+Intel	Silvermont	Fiat	Lancia Flavia
+Intel	Silvermont	Microsoft	Windows Phone 8
+Intel	Silvermont	Yahoo	Apache Traffic Server
+Intel	Silvermont	Sega	The Ocean Hunter
+Intel	Silvermont	Apple	Mac OS
+Intel	Silvermont	Apple	Squeak
+Intel	Silvermont	Sony	SNES-CD
+Intel	Silvermont	Iran	Nasr-1
+Intel	Silvermont	Fiat	SEAT 133
+Intel	Silvermont	Apple	Newsstand
+Intel	Silvermont	Sega	Zaxxon
+Intel	Silvermont	Douglas	DC-3
+Intel	Silvermont	Apple	Soundtrack Pro
+Intel	Silvermont	Microsoft	Windows Media Video
+Intel	Silvermont	Microsoft	Windows Media Encoder
+Intel	Silvermont	Iran	Zelzal-2
+Intel	Silvermont	Apple	iBooks Author
+Intel	Silvermont	Apple	TextEdit
+Intel	Silvermont	IBM	Advanced Function Presentation
+Intel	Silvermont	Sony	Super Audio CD
+Intel	Silvermont	Sony	Clang
+Intel	Silvermont	Microsoft	Applesoft BASIC
+Intel	Silvermont	Apple	MacBook Air
+Sega	Zaxxon	Intel	Xeon
+Sega	Zaxxon	Apple	iPhone 5
+Sega	Zaxxon	Honda	Acura ILX
+Sega	Zaxxon	IBM	Statistical Package for the Social Sciences
+Sega	Zaxxon	Square	Final Fantasy Legend III
+Sega	Zaxxon	Boeing	B-47 Stratojet
+Sega	Zaxxon	Chrysler	Jeep Grand Cherokee
+Sega	Zaxxon	Apple	iOS 8
+Sega	Zaxxon	Google	Schema.org
+Sega	Zaxxon	Renault	Alpine A106
+Sega	Zaxxon	Apple	Mac OS X 10.2
+Sega	Zaxxon	Apple	Mac OS X Tiger
+Sega	Zaxxon	Iran	Hwasong-5
+Sega	Zaxxon	Fiat	Alfa Romeo Montreal
+Sega	Zaxxon	Sony	PlayStation Eye
+Sega	Zaxxon	Apple	Mac OS 9
+Sega	Zaxxon	Microsoft	Windows Live Messenger
+Sega	Zaxxon	Square	Final Fantasy V
+Sega	Zaxxon	Nintendo	Game & Watch
+Sega	Zaxxon	Apple	iOS
+Sega	Zaxxon	Microsoft	Windows RT
+Sega	Zaxxon	Microsoft	Windows Mobile
+Sega	Zaxxon	Apple	MessagePad
+Sega	Zaxxon	Chevrolet	Pontiac Firebird
+Sega	Zaxxon	Fiat	Lancia Flavia
+Sega	Zaxxon	Microsoft	Windows Phone 8
+Sega	Zaxxon	Yahoo	Apache Traffic Server
+Sega	Zaxxon	Apple	Mac OS
+Sega	Zaxxon	Apple	Squeak
+Sega	Zaxxon	Sony	SNES-CD
+Sega	Zaxxon	Iran	Nasr-1
+Sega	Zaxxon	Fiat	SEAT 133
+Sega	Zaxxon	Apple	Newsstand
+Sega	Zaxxon	Intel	Silvermont
+Sega	Zaxxon	Douglas	DC-3
+Sega	Zaxxon	Apple	Soundtrack Pro
+Sega	Zaxxon	Microsoft	Windows Media Video
+Sega	Zaxxon	Microsoft	Windows Media Encoder
+Sega	Zaxxon	Intel	Itanium
+Sega	Zaxxon	Iran	Zelzal-2
+Sega	Zaxxon	Apple	iBooks Author
+Sega	Zaxxon	Apple	TextEdit
+Sega	Zaxxon	IBM	Advanced Function Presentation
+Sega	Zaxxon	Sony	Super Audio CD
+Sega	Zaxxon	Sony	Clang
+Sega	Zaxxon	Microsoft	Applesoft BASIC
+Sega	Zaxxon	Apple	MacBook Air
+Douglas	DC-3	Intel	Xeon
+Douglas	DC-3	Apple	iPhone 5
+Douglas	DC-3	Honda	Acura ILX
+Douglas	DC-3	IBM	Statistical Package for the Social Sciences
+Douglas	DC-3	Square	Final Fantasy Legend III
+Douglas	DC-3	Boeing	B-47 Stratojet
+Douglas	DC-3	Chrysler	Jeep Grand Cherokee
+Douglas	DC-3	Apple	iOS 8
+Douglas	DC-3	Google	Schema.org
+Douglas	DC-3	Sega	Heavyweight Champ
+Douglas	DC-3	Renault	Alpine A106
+Douglas	DC-3	Apple	Mac OS X 10.2
+Douglas	DC-3	Apple	Mac OS X Tiger
+Douglas	DC-3	Iran	Hwasong-5
+Douglas	DC-3	Fiat	Alfa Romeo Montreal
+Douglas	DC-3	Sony	PlayStation Eye
+Douglas	DC-3	Apple	Mac OS 9
+Douglas	DC-3	Microsoft	Windows Live Messenger
+Douglas	DC-3	Square	Final Fantasy V
+Douglas	DC-3	Nintendo	Game & Watch
+Douglas	DC-3	Apple	iOS
+Douglas	DC-3	Microsoft	Windows RT
+Douglas	DC-3	Microsoft	Windows Mobile
+Douglas	DC-3	Apple	MessagePad
+Douglas	DC-3	Chevrolet	Pontiac Firebird
+Douglas	DC-3	Fiat	Lancia Flavia
+Douglas	DC-3	Microsoft	Windows Phone 8
+Douglas	DC-3	Yahoo	Apache Traffic Server
+Douglas	DC-3	Sega	The Ocean Hunter
+Douglas	DC-3	Apple	Mac OS
+Douglas	DC-3	Apple	Squeak
+Douglas	DC-3	Sony	SNES-CD
+Douglas	DC-3	Iran	Nasr-1
+Douglas	DC-3	Fiat	SEAT 133
+Douglas	DC-3	Apple	Newsstand
+Douglas	DC-3	Intel	Silvermont
+Douglas	DC-3	Sega	Zaxxon
+Douglas	DC-3	Apple	Soundtrack Pro
+Douglas	DC-3	Microsoft	Windows Media Video
+Douglas	DC-3	Microsoft	Windows Media Encoder
+Douglas	DC-3	Intel	Itanium
+Douglas	DC-3	Iran	Zelzal-2
+Douglas	DC-3	Apple	iBooks Author
+Douglas	DC-3	Apple	TextEdit
+Douglas	DC-3	IBM	Advanced Function Presentation
+Douglas	DC-3	Sony	Super Audio CD
+Douglas	DC-3	Sony	Clang
+Douglas	DC-3	Microsoft	Applesoft BASIC
+Douglas	DC-3	Apple	MacBook Air
+Apple	Soundtrack Pro	Intel	Xeon
+Apple	Soundtrack Pro	Honda	Acura ILX
+Apple	Soundtrack Pro	IBM	Statistical Package for the Social Sciences
+Apple	Soundtrack Pro	Square	Final Fantasy Legend III
+Apple	Soundtrack Pro	Boeing	B-47 Stratojet
+Apple	Soundtrack Pro	Chrysler	Jeep Grand Cherokee
+Apple	Soundtrack Pro	Google	Schema.org
+Apple	Soundtrack Pro	Sega	Heavyweight Champ
+Apple	Soundtrack Pro	Renault	Alpine A106
+Apple	Soundtrack Pro	Iran	Hwasong-5
+Apple	Soundtrack Pro	Fiat	Alfa Romeo Montreal
+Apple	Soundtrack Pro	Sony	PlayStation Eye
+Apple	Soundtrack Pro	Microsoft	Windows Live Messenger
+Apple	Soundtrack Pro	Square	Final Fantasy V
+Apple	Soundtrack Pro	Nintendo	Game & Watch
+Apple	Soundtrack Pro	Microsoft	Windows RT
+Apple	Soundtrack Pro	Microsoft	Windows Mobile
+Apple	Soundtrack Pro	Chevrolet	Pontiac Firebird
+Apple	Soundtrack Pro	Fiat	Lancia Flavia
+Apple	Soundtrack Pro	Microsoft	Windows Phone 8
+Apple	Soundtrack Pro	Yahoo	Apache Traffic Server
+Apple	Soundtrack Pro	Sega	The Ocean Hunter
+Apple	Soundtrack Pro	Sony	SNES-CD
+Apple	Soundtrack Pro	Iran	Nasr-1
+Apple	Soundtrack Pro	Fiat	SEAT 133
+Apple	Soundtrack Pro	Intel	Silvermont
+Apple	Soundtrack Pro	Sega	Zaxxon
+Apple	Soundtrack Pro	Douglas	DC-3
+Apple	Soundtrack Pro	Microsoft	Windows Media Video
+Apple	Soundtrack Pro	Microsoft	Windows Media Encoder
+Apple	Soundtrack Pro	Intel	Itanium
+Apple	Soundtrack Pro	Iran	Zelzal-2
+Apple	Soundtrack Pro	IBM	Advanced Function Presentation
+Apple	Soundtrack Pro	Sony	Super Audio CD
+Apple	Soundtrack Pro	Sony	Clang
+Apple	Soundtrack Pro	Microsoft	Applesoft BASIC
+Microsoft	Windows Media Video	Intel	Xeon
+Microsoft	Windows Media Video	Apple	iPhone 5
+Microsoft	Windows Media Video	Honda	Acura ILX
+Microsoft	Windows Media Video	IBM	Statistical Package for the Social Sciences
+Microsoft	Windows Media Video	Square	Final Fantasy Legend III
+Microsoft	Windows Media Video	Boeing	B-47 Stratojet
+Microsoft	Windows Media Video	Chrysler	Jeep Grand Cherokee
+Microsoft	Windows Media Video	Apple	iOS 8
+Microsoft	Windows Media Video	Google	Schema.org
+Microsoft	Windows Media Video	Sega	Heavyweight Champ
+Microsoft	Windows Media Video	Renault	Alpine A106
+Microsoft	Windows Media Video	Apple	Mac OS X 10.2
+Microsoft	Windows Media Video	Apple	Mac OS X Tiger
+Microsoft	Windows Media Video	Iran	Hwasong-5
+Microsoft	Windows Media Video	Fiat	Alfa Romeo Montreal
+Microsoft	Windows Media Video	Sony	PlayStation Eye
+Microsoft	Windows Media Video	Apple	Mac OS 9
+Microsoft	Windows Media Video	Square	Final Fantasy V
+Microsoft	Windows Media Video	Nintendo	Game & Watch
+Microsoft	Windows Media Video	Apple	iOS
+Microsoft	Windows Media Video	Apple	MessagePad
+Microsoft	Windows Media Video	Chevrolet	Pontiac Firebird
+Microsoft	Windows Media Video	Fiat	Lancia Flavia
+Microsoft	Windows Media Video	Yahoo	Apache Traffic Server
+Microsoft	Windows Media Video	Sega	The Ocean Hunter
+Microsoft	Windows Media Video	Apple	Mac OS
+Microsoft	Windows Media Video	Apple	Squeak
+Microsoft	Windows Media Video	Sony	SNES-CD
+Microsoft	Windows Media Video	Iran	Nasr-1
+Microsoft	Windows Media Video	Fiat	SEAT 133
+Microsoft	Windows Media Video	Apple	Newsstand
+Microsoft	Windows Media Video	Intel	Silvermont
+Microsoft	Windows Media Video	Sega	Zaxxon
+Microsoft	Windows Media Video	Douglas	DC-3
+Microsoft	Windows Media Video	Apple	Soundtrack Pro
+Microsoft	Windows Media Video	Intel	Itanium
+Microsoft	Windows Media Video	Iran	Zelzal-2
+Microsoft	Windows Media Video	Apple	iBooks Author
+Microsoft	Windows Media Video	Apple	TextEdit
+Microsoft	Windows Media Video	IBM	Advanced Function Presentation
+Microsoft	Windows Media Video	Sony	Super Audio CD
+Microsoft	Windows Media Video	Sony	Clang
+Microsoft	Windows Media Video	Apple	MacBook Air
+Microsoft	Windows Media Encoder	Intel	Xeon
+Microsoft	Windows Media Encoder	Apple	iPhone 5
+Microsoft	Windows Media Encoder	Honda	Acura ILX
+Microsoft	Windows Media Encoder	IBM	Statistical Package for the Social Sciences
+Microsoft	Windows Media Encoder	Square	Final Fantasy Legend III
+Microsoft	Windows Media Encoder	Boeing	B-47 Stratojet
+Microsoft	Windows Media Encoder	Chrysler	Jeep Grand Cherokee
+Microsoft	Windows Media Encoder	Apple	iOS 8
+Microsoft	Windows Media Encoder	Google	Schema.org
+Microsoft	Windows Media Encoder	Sega	Heavyweight Champ
+Microsoft	Windows Media Encoder	Renault	Alpine A106
+Microsoft	Windows Media Encoder	Apple	Mac OS X 10.2
+Microsoft	Windows Media Encoder	Apple	Mac OS X Tiger
+Microsoft	Windows Media Encoder	Iran	Hwasong-5
+Microsoft	Windows Media Encoder	Fiat	Alfa Romeo Montreal
+Microsoft	Windows Media Encoder	Sony	PlayStation Eye
+Microsoft	Windows Media Encoder	Apple	Mac OS 9
+Microsoft	Windows Media Encoder	Square	Final Fantasy V
+Microsoft	Windows Media Encoder	Nintendo	Game & Watch
+Microsoft	Windows Media Encoder	Apple	iOS
+Microsoft	Windows Media Encoder	Apple	MessagePad
+Microsoft	Windows Media Encoder	Chevrolet	Pontiac Firebird
+Microsoft	Windows Media Encoder	Fiat	Lancia Flavia
+Microsoft	Windows Media Encoder	Yahoo	Apache Traffic Server
+Microsoft	Windows Media Encoder	Sega	The Ocean Hunter
+Microsoft	Windows Media Encoder	Apple	Mac OS
+Microsoft	Windows Media Encoder	Apple	Squeak
+Microsoft	Windows Media Encoder	Sony	SNES-CD
+Microsoft	Windows Media Encoder	Iran	Nasr-1
+Microsoft	Windows Media Encoder	Fiat	SEAT 133
+Microsoft	Windows Media Encoder	Apple	Newsstand
+Microsoft	Windows Media Encoder	Intel	Silvermont
+Microsoft	Windows Media Encoder	Sega	Zaxxon
+Microsoft	Windows Media Encoder	Douglas	DC-3
+Microsoft	Windows Media Encoder	Apple	Soundtrack Pro
+Microsoft	Windows Media Encoder	Intel	Itanium
+Microsoft	Windows Media Encoder	Iran	Zelzal-2
+Microsoft	Windows Media Encoder	Apple	iBooks Author
+Microsoft	Windows Media Encoder	Apple	TextEdit
+Microsoft	Windows Media Encoder	IBM	Advanced Function Presentation
+Microsoft	Windows Media Encoder	Sony	Super Audio CD
+Microsoft	Windows Media Encoder	Sony	Clang
+Microsoft	Windows Media Encoder	Apple	MacBook Air
+Intel	Itanium	Apple	iPhone 5
+Intel	Itanium	Honda	Acura ILX
+Intel	Itanium	IBM	Statistical Package for the Social Sciences
+Intel	Itanium	Square	Final Fantasy Legend III
+Intel	Itanium	Boeing	B-47 Stratojet
+Intel	Itanium	Chrysler	Jeep Grand Cherokee
+Intel	Itanium	Apple	iOS 8
+Intel	Itanium	Google	Schema.org
+Intel	Itanium	Sega	Heavyweight Champ
+Intel	Itanium	Renault	Alpine A106
+Intel	Itanium	Apple	Mac OS X 10.2
+Intel	Itanium	Apple	Mac OS X Tiger
+Intel	Itanium	Iran	Hwasong-5
+Intel	Itanium	Fiat	Alfa Romeo Montreal
+Intel	Itanium	Sony	PlayStation Eye
+Intel	Itanium	Apple	Mac OS 9
+Intel	Itanium	Microsoft	Windows Live Messenger
+Intel	Itanium	Square	Final Fantasy V
+Intel	Itanium	Nintendo	Game & Watch
+Intel	Itanium	Apple	iOS
+Intel	Itanium	Microsoft	Windows RT
+Intel	Itanium	Microsoft	Windows Mobile
+Intel	Itanium	Apple	MessagePad
+Intel	Itanium	Chevrolet	Pontiac Firebird
+Intel	Itanium	Fiat	Lancia Flavia
+Intel	Itanium	Microsoft	Windows Phone 8
+Intel	Itanium	Yahoo	Apache Traffic Server
+Intel	Itanium	Sega	The Ocean Hunter
+Intel	Itanium	Apple	Mac OS
+Intel	Itanium	Apple	Squeak
+Intel	Itanium	Sony	SNES-CD
+Intel	Itanium	Iran	Nasr-1
+Intel	Itanium	Fiat	SEAT 133
+Intel	Itanium	Apple	Newsstand
+Intel	Itanium	Sega	Zaxxon
+Intel	Itanium	Douglas	DC-3
+Intel	Itanium	Apple	Soundtrack Pro
+Intel	Itanium	Microsoft	Windows Media Video
+Intel	Itanium	Microsoft	Windows Media Encoder
+Intel	Itanium	Iran	Zelzal-2
+Intel	Itanium	Apple	iBooks Author
+Intel	Itanium	Apple	TextEdit
+Intel	Itanium	IBM	Advanced Function Presentation
+Intel	Itanium	Sony	Super Audio CD
+Intel	Itanium	Sony	Clang
+Intel	Itanium	Microsoft	Applesoft BASIC
+Intel	Itanium	Apple	MacBook Air
+Iran	Zelzal-2	Intel	Xeon
+Iran	Zelzal-2	Apple	iPhone 5
+Iran	Zelzal-2	Honda	Acura ILX
+Iran	Zelzal-2	IBM	Statistical Package for the Social Sciences
+Iran	Zelzal-2	Square	Final Fantasy Legend III
+Iran	Zelzal-2	Boeing	B-47 Stratojet
+Iran	Zelzal-2	Chrysler	Jeep Grand Cherokee
+Iran	Zelzal-2	Apple	iOS 8
+Iran	Zelzal-2	Google	Schema.org
+Iran	Zelzal-2	Sega	Heavyweight Champ
+Iran	Zelzal-2	Renault	Alpine A106
+Iran	Zelzal-2	Apple	Mac OS X 10.2
+Iran	Zelzal-2	Apple	Mac OS X Tiger
+Iran	Zelzal-2	Fiat	Alfa Romeo Montreal
+Iran	Zelzal-2	Sony	PlayStation Eye
+Iran	Zelzal-2	Apple	Mac OS 9
+Iran	Zelzal-2	Microsoft	Windows Live Messenger
+Iran	Zelzal-2	Square	Final Fantasy V
+Iran	Zelzal-2	Nintendo	Game & Watch
+Iran	Zelzal-2	Apple	iOS
+Iran	Zelzal-2	Microsoft	Windows RT
+Iran	Zelzal-2	Microsoft	Windows Mobile
+Iran	Zelzal-2	Apple	MessagePad
+Iran	Zelzal-2	Chevrolet	Pontiac Firebird
+Iran	Zelzal-2	Fiat	Lancia Flavia
+Iran	Zelzal-2	Microsoft	Windows Phone 8
+Iran	Zelzal-2	Yahoo	Apache Traffic Server
+Iran	Zelzal-2	Sega	The Ocean Hunter
+Iran	Zelzal-2	Apple	Mac OS
+Iran	Zelzal-2	Apple	Squeak
+Iran	Zelzal-2	Sony	SNES-CD
+Iran	Zelzal-2	Fiat	SEAT 133
+Iran	Zelzal-2	Apple	Newsstand
+Iran	Zelzal-2	Intel	Silvermont
+Iran	Zelzal-2	Sega	Zaxxon
+Iran	Zelzal-2	Douglas	DC-3
+Iran	Zelzal-2	Apple	Soundtrack Pro
+Iran	Zelzal-2	Microsoft	Windows Media Video
+Iran	Zelzal-2	Microsoft	Windows Media Encoder
+Iran	Zelzal-2	Intel	Itanium
+Iran	Zelzal-2	Apple	iBooks Author
+Iran	Zelzal-2	Apple	TextEdit
+Iran	Zelzal-2	IBM	Advanced Function Presentation
+Iran	Zelzal-2	Sony	Super Audio CD
+Iran	Zelzal-2	Sony	Clang
+Iran	Zelzal-2	Microsoft	Applesoft BASIC
+Iran	Zelzal-2	Apple	MacBook Air
+Apple	iBooks Author	Intel	Xeon
+Apple	iBooks Author	Honda	Acura ILX
+Apple	iBooks Author	IBM	Statistical Package for the Social Sciences
+Apple	iBooks Author	Square	Final Fantasy Legend III
+Apple	iBooks Author	Boeing	B-47 Stratojet
+Apple	iBooks Author	Chrysler	Jeep Grand Cherokee
+Apple	iBooks Author	Google	Schema.org
+Apple	iBooks Author	Sega	Heavyweight Champ
+Apple	iBooks Author	Renault	Alpine A106
+Apple	iBooks Author	Iran	Hwasong-5
+Apple	iBooks Author	Fiat	Alfa Romeo Montreal
+Apple	iBooks Author	Sony	PlayStation Eye
+Apple	iBooks Author	Microsoft	Windows Live Messenger
+Apple	iBooks Author	Square	Final Fantasy V
+Apple	iBooks Author	Nintendo	Game & Watch
+Apple	iBooks Author	Microsoft	Windows RT
+Apple	iBooks Author	Microsoft	Windows Mobile
+Apple	iBooks Author	Chevrolet	Pontiac Firebird
+Apple	iBooks Author	Fiat	Lancia Flavia
+Apple	iBooks Author	Microsoft	Windows Phone 8
+Apple	iBooks Author	Yahoo	Apache Traffic Server
+Apple	iBooks Author	Sega	The Ocean Hunter
+Apple	iBooks Author	Sony	SNES-CD
+Apple	iBooks Author	Iran	Nasr-1
+Apple	iBooks Author	Fiat	SEAT 133
+Apple	iBooks Author	Intel	Silvermont
+Apple	iBooks Author	Sega	Zaxxon
+Apple	iBooks Author	Douglas	DC-3
+Apple	iBooks Author	Microsoft	Windows Media Video
+Apple	iBooks Author	Microsoft	Windows Media Encoder
+Apple	iBooks Author	Intel	Itanium
+Apple	iBooks Author	Iran	Zelzal-2
+Apple	iBooks Author	IBM	Advanced Function Presentation
+Apple	iBooks Author	Sony	Super Audio CD
+Apple	iBooks Author	Sony	Clang
+Apple	iBooks Author	Microsoft	Applesoft BASIC
+Apple	TextEdit	Intel	Xeon
+Apple	TextEdit	Honda	Acura ILX
+Apple	TextEdit	IBM	Statistical Package for the Social Sciences
+Apple	TextEdit	Square	Final Fantasy Legend III
+Apple	TextEdit	Boeing	B-47 Stratojet
+Apple	TextEdit	Chrysler	Jeep Grand Cherokee
+Apple	TextEdit	Google	Schema.org
+Apple	TextEdit	Sega	Heavyweight Champ
+Apple	TextEdit	Renault	Alpine A106
+Apple	TextEdit	Iran	Hwasong-5
+Apple	TextEdit	Fiat	Alfa Romeo Montreal
+Apple	TextEdit	Sony	PlayStation Eye
+Apple	TextEdit	Microsoft	Windows Live Messenger
+Apple	TextEdit	Square	Final Fantasy V
+Apple	TextEdit	Nintendo	Game & Watch
+Apple	TextEdit	Microsoft	Windows RT
+Apple	TextEdit	Microsoft	Windows Mobile
+Apple	TextEdit	Chevrolet	Pontiac Firebird
+Apple	TextEdit	Fiat	Lancia Flavia
+Apple	TextEdit	Microsoft	Windows Phone 8
+Apple	TextEdit	Yahoo	Apache Traffic Server
+Apple	TextEdit	Sega	The Ocean Hunter
+Apple	TextEdit	Sony	SNES-CD
+Apple	TextEdit	Iran	Nasr-1
+Apple	TextEdit	Fiat	SEAT 133
+Apple	TextEdit	Intel	Silvermont
+Apple	TextEdit	Sega	Zaxxon
+Apple	TextEdit	Douglas	DC-3
+Apple	TextEdit	Microsoft	Windows Media Video
+Apple	TextEdit	Microsoft	Windows Media Encoder
+Apple	TextEdit	Intel	Itanium
+Apple	TextEdit	Iran	Zelzal-2
+Apple	TextEdit	IBM	Advanced Function Presentation
+Apple	TextEdit	Sony	Super Audio CD
+Apple	TextEdit	Sony	Clang
+Apple	TextEdit	Microsoft	Applesoft BASIC
+IBM	Advanced Function Presentation	Intel	Xeon
+IBM	Advanced Function Presentation	Apple	iPhone 5
+IBM	Advanced Function Presentation	Honda	Acura ILX
+IBM	Advanced Function Presentation	Square	Final Fantasy Legend III
+IBM	Advanced Function Presentation	Boeing	B-47 Stratojet
+IBM	Advanced Function Presentation	Chrysler	Jeep Grand Cherokee
+IBM	Advanced Function Presentation	Apple	iOS 8
+IBM	Advanced Function Presentation	Google	Schema.org
+IBM	Advanced Function Presentation	Sega	Heavyweight Champ
+IBM	Advanced Function Presentation	Renault	Alpine A106
+IBM	Advanced Function Presentation	Apple	Mac OS X 10.2
+IBM	Advanced Function Presentation	Apple	Mac OS X Tiger
+IBM	Advanced Function Presentation	Iran	Hwasong-5
+IBM	Advanced Function Presentation	Fiat	Alfa Romeo Montreal
+IBM	Advanced Function Presentation	Sony	PlayStation Eye
+IBM	Advanced Function Presentation	Apple	Mac OS 9
+IBM	Advanced Function Presentation	Microsoft	Windows Live Messenger
+IBM	Advanced Function Presentation	Square	Final Fantasy V
+IBM	Advanced Function Presentation	Nintendo	Game & Watch
+IBM	Advanced Function Presentation	Apple	iOS
+IBM	Advanced Function Presentation	Microsoft	Windows RT
+IBM	Advanced Function Presentation	Microsoft	Windows Mobile
+IBM	Advanced Function Presentation	Apple	MessagePad
+IBM	Advanced Function Presentation	Chevrolet	Pontiac Firebird
+IBM	Advanced Function Presentation	Fiat	Lancia Flavia
+IBM	Advanced Function Presentation	Microsoft	Windows Phone 8
+IBM	Advanced Function Presentation	Yahoo	Apache Traffic Server
+IBM	Advanced Function Presentation	Sega	The Ocean Hunter
+IBM	Advanced Function Presentation	Apple	Mac OS
+IBM	Advanced Function Presentation	Apple	Squeak
+IBM	Advanced Function Presentation	Sony	SNES-CD
+IBM	Advanced Function Presentation	Iran	Nasr-1
+IBM	Advanced Function Presentation	Fiat	SEAT 133
+IBM	Advanced Function Presentation	Apple	Newsstand
+IBM	Advanced Function Presentation	Intel	Silvermont
+IBM	Advanced Function Presentation	Sega	Zaxxon
+IBM	Advanced Function Presentation	Douglas	DC-3
+IBM	Advanced Function Presentation	Apple	Soundtrack Pro
+IBM	Advanced Function Presentation	Microsoft	Windows Media Video
+IBM	Advanced Function Presentation	Microsoft	Windows Media Encoder
+IBM	Advanced Function Presentation	Intel	Itanium
+IBM	Advanced Function Presentation	Iran	Zelzal-2
+IBM	Advanced Function Presentation	Apple	iBooks Author
+IBM	Advanced Function Presentation	Apple	TextEdit
+IBM	Advanced Function Presentation	Sony	Super Audio CD
+IBM	Advanced Function Presentation	Sony	Clang
+IBM	Advanced Function Presentation	Microsoft	Applesoft BASIC
+IBM	Advanced Function Presentation	Apple	MacBook Air
+Sony	Super Audio CD	Intel	Xeon
+Sony	Super Audio CD	Apple	iPhone 5
+Sony	Super Audio CD	Honda	Acura ILX
+Sony	Super Audio CD	IBM	Statistical Package for the Social Sciences
+Sony	Super Audio CD	Square	Final Fantasy Legend III
+Sony	Super Audio CD	Boeing	B-47 Stratojet
+Sony	Super Audio CD	Chrysler	Jeep Grand Cherokee
+Sony	Super Audio CD	Apple	iOS 8
+Sony	Super Audio CD	Google	Schema.org
+Sony	Super Audio CD	Sega	Heavyweight Champ
+Sony	Super Audio CD	Renault	Alpine A106
+Sony	Super Audio CD	Apple	Mac OS X 10.2
+Sony	Super Audio CD	Apple	Mac OS X Tiger
+Sony	Super Audio CD	Iran	Hwasong-5
+Sony	Super Audio CD	Fiat	Alfa Romeo Montreal
+Sony	Super Audio CD	Apple	Mac OS 9
+Sony	Super Audio CD	Microsoft	Windows Live Messenger
+Sony	Super Audio CD	Square	Final Fantasy V
+Sony	Super Audio CD	Nintendo	Game & Watch
+Sony	Super Audio CD	Apple	iOS
+Sony	Super Audio CD	Microsoft	Windows RT
+Sony	Super Audio CD	Microsoft	Windows Mobile
+Sony	Super Audio CD	Apple	MessagePad
+Sony	Super Audio CD	Chevrolet	Pontiac Firebird
+Sony	Super Audio CD	Fiat	Lancia Flavia
+Sony	Super Audio CD	Microsoft	Windows Phone 8
+Sony	Super Audio CD	Yahoo	Apache Traffic Server
+Sony	Super Audio CD	Sega	The Ocean Hunter
+Sony	Super Audio CD	Apple	Mac OS
+Sony	Super Audio CD	Apple	Squeak
+Sony	Super Audio CD	Iran	Nasr-1
+Sony	Super Audio CD	Fiat	SEAT 133
+Sony	Super Audio CD	Apple	Newsstand
+Sony	Super Audio CD	Intel	Silvermont
+Sony	Super Audio CD	Sega	Zaxxon
+Sony	Super Audio CD	Douglas	DC-3
+Sony	Super Audio CD	Apple	Soundtrack Pro
+Sony	Super Audio CD	Microsoft	Windows Media Video
+Sony	Super Audio CD	Microsoft	Windows Media Encoder
+Sony	Super Audio CD	Intel	Itanium
+Sony	Super Audio CD	Iran	Zelzal-2
+Sony	Super Audio CD	Apple	iBooks Author
+Sony	Super Audio CD	Apple	TextEdit
+Sony	Super Audio CD	IBM	Advanced Function Presentation
+Sony	Super Audio CD	Microsoft	Applesoft BASIC
+Sony	Super Audio CD	Apple	MacBook Air
+Sony	Clang	Intel	Xeon
+Sony	Clang	Apple	iPhone 5
+Sony	Clang	Honda	Acura ILX
+Sony	Clang	IBM	Statistical Package for the Social Sciences
+Sony	Clang	Square	Final Fantasy Legend III
+Sony	Clang	Boeing	B-47 Stratojet
+Sony	Clang	Chrysler	Jeep Grand Cherokee
+Sony	Clang	Apple	iOS 8
+Sony	Clang	Google	Schema.org
+Sony	Clang	Sega	Heavyweight Champ
+Sony	Clang	Renault	Alpine A106
+Sony	Clang	Apple	Mac OS X 10.2
+Sony	Clang	Apple	Mac OS X Tiger
+Sony	Clang	Iran	Hwasong-5
+Sony	Clang	Fiat	Alfa Romeo Montreal
+Sony	Clang	Apple	Mac OS 9
+Sony	Clang	Microsoft	Windows Live Messenger
+Sony	Clang	Square	Final Fantasy V
+Sony	Clang	Nintendo	Game & Watch
+Sony	Clang	Apple	iOS
+Sony	Clang	Microsoft	Windows RT
+Sony	Clang	Microsoft	Windows Mobile
+Sony	Clang	Apple	MessagePad
+Sony	Clang	Chevrolet	Pontiac Firebird
+Sony	Clang	Fiat	Lancia Flavia
+Sony	Clang	Microsoft	Windows Phone 8
+Sony	Clang	Yahoo	Apache Traffic Server
+Sony	Clang	Sega	The Ocean Hunter
+Sony	Clang	Apple	Mac OS
+Sony	Clang	Apple	Squeak
+Sony	Clang	Iran	Nasr-1
+Sony	Clang	Fiat	SEAT 133
+Sony	Clang	Apple	Newsstand
+Sony	Clang	Intel	Silvermont
+Sony	Clang	Sega	Zaxxon
+Sony	Clang	Douglas	DC-3
+Sony	Clang	Apple	Soundtrack Pro
+Sony	Clang	Microsoft	Windows Media Video
+Sony	Clang	Microsoft	Windows Media Encoder
+Sony	Clang	Intel	Itanium
+Sony	Clang	Iran	Zelzal-2
+Sony	Clang	Apple	iBooks Author
+Sony	Clang	Apple	TextEdit
+Sony	Clang	IBM	Advanced Function Presentation
+Sony	Clang	Microsoft	Applesoft BASIC
+Sony	Clang	Apple	MacBook Air
+Microsoft	Applesoft BASIC	Intel	Xeon
+Microsoft	Applesoft BASIC	Apple	iPhone 5
+Microsoft	Applesoft BASIC	Honda	Acura ILX
+Microsoft	Applesoft BASIC	IBM	Statistical Package for the Social Sciences
+Microsoft	Applesoft BASIC	Square	Final Fantasy Legend III
+Microsoft	Applesoft BASIC	Boeing	B-47 Stratojet
+Microsoft	Applesoft BASIC	Chrysler	Jeep Grand Cherokee
+Microsoft	Applesoft BASIC	Apple	iOS 8
+Microsoft	Applesoft BASIC	Google	Schema.org
+Microsoft	Applesoft BASIC	Sega	Heavyweight Champ
+Microsoft	Applesoft BASIC	Renault	Alpine A106
+Microsoft	Applesoft BASIC	Apple	Mac OS X 10.2
+Microsoft	Applesoft BASIC	Apple	Mac OS X Tiger
+Microsoft	Applesoft BASIC	Iran	Hwasong-5
+Microsoft	Applesoft BASIC	Fiat	Alfa Romeo Montreal
+Microsoft	Applesoft BASIC	Sony	PlayStation Eye
+Microsoft	Applesoft BASIC	Apple	Mac OS 9
+Microsoft	Applesoft BASIC	Square	Final Fantasy V
+Microsoft	Applesoft BASIC	Nintendo	Game & Watch
+Microsoft	Applesoft BASIC	Apple	iOS
+Microsoft	Applesoft BASIC	Apple	MessagePad
+Microsoft	Applesoft BASIC	Chevrolet	Pontiac Firebird
+Microsoft	Applesoft BASIC	Fiat	Lancia Flavia
+Microsoft	Applesoft BASIC	Yahoo	Apache Traffic Server
+Microsoft	Applesoft BASIC	Sega	The Ocean Hunter
+Microsoft	Applesoft BASIC	Apple	Mac OS
+Microsoft	Applesoft BASIC	Apple	Squeak
+Microsoft	Applesoft BASIC	Sony	SNES-CD
+Microsoft	Applesoft BASIC	Iran	Nasr-1
+Microsoft	Applesoft BASIC	Fiat	SEAT 133
+Microsoft	Applesoft BASIC	Apple	Newsstand
+Microsoft	Applesoft BASIC	Intel	Silvermont
+Microsoft	Applesoft BASIC	Sega	Zaxxon
+Microsoft	Applesoft BASIC	Douglas	DC-3
+Microsoft	Applesoft BASIC	Apple	Soundtrack Pro
+Microsoft	Applesoft BASIC	Intel	Itanium
+Microsoft	Applesoft BASIC	Iran	Zelzal-2
+Microsoft	Applesoft BASIC	Apple	iBooks Author
+Microsoft	Applesoft BASIC	Apple	TextEdit
+Microsoft	Applesoft BASIC	IBM	Advanced Function Presentation
+Microsoft	Applesoft BASIC	Sony	Super Audio CD
+Microsoft	Applesoft BASIC	Sony	Clang
+Microsoft	Applesoft BASIC	Apple	MacBook Air
+Apple	MacBook Air	Intel	Xeon
+Apple	MacBook Air	Honda	Acura ILX
+Apple	MacBook Air	IBM	Statistical Package for the Social Sciences
+Apple	MacBook Air	Square	Final Fantasy Legend III
+Apple	MacBook Air	Boeing	B-47 Stratojet
+Apple	MacBook Air	Chrysler	Jeep Grand Cherokee
+Apple	MacBook Air	Google	Schema.org
+Apple	MacBook Air	Sega	Heavyweight Champ
+Apple	MacBook Air	Renault	Alpine A106
+Apple	MacBook Air	Iran	Hwasong-5
+Apple	MacBook Air	Fiat	Alfa Romeo Montreal
+Apple	MacBook Air	Sony	PlayStation Eye
+Apple	MacBook Air	Microsoft	Windows Live Messenger
+Apple	MacBook Air	Square	Final Fantasy V
+Apple	MacBook Air	Nintendo	Game & Watch
+Apple	MacBook Air	Microsoft	Windows RT
+Apple	MacBook Air	Microsoft	Windows Mobile
+Apple	MacBook Air	Chevrolet	Pontiac Firebird
+Apple	MacBook Air	Fiat	Lancia Flavia
+Apple	MacBook Air	Microsoft	Windows Phone 8
+Apple	MacBook Air	Yahoo	Apache Traffic Server
+Apple	MacBook Air	Sega	The Ocean Hunter
+Apple	MacBook Air	Sony	SNES-CD
+Apple	MacBook Air	Iran	Nasr-1
+Apple	MacBook Air	Fiat	SEAT 133
+Apple	MacBook Air	Intel	Silvermont
+Apple	MacBook Air	Sega	Zaxxon
+Apple	MacBook Air	Douglas	DC-3
+Apple	MacBook Air	Microsoft	Windows Media Video
+Apple	MacBook Air	Microsoft	Windows Media Encoder
+Apple	MacBook Air	Intel	Itanium
+Apple	MacBook Air	Iran	Zelzal-2
+Apple	MacBook Air	IBM	Advanced Function Presentation
+Apple	MacBook Air	Sony	Super Audio CD
+Apple	MacBook Air	Sony	Clang
+Apple	MacBook Air	Microsoft	Applesoft BASIC

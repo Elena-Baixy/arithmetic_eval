@@ -1,0 +1,2451 @@
+: country-capital
+Panama	Panama City	Sao Tome and Principe	Sao Tome
+Panama	Panama City	Hungary	Budapest
+Panama	Panama City	Russia	Moscow
+Panama	Panama City	Sri Lanka	Colombo
+Panama	Panama City	Rwanda	Kigali
+Panama	Panama City	Vanuatu	Port Vila
+Panama	Panama City	North Macedonia	Skopje
+Panama	Panama City	Indonesia	Jakarta
+Panama	Panama City	Oman	Muscat
+Panama	Panama City	Kenya	Nairobi
+Panama	Panama City	Guinea-Bissau	Bissau
+Panama	Panama City	Lesotho	Maseru
+Panama	Panama City	Belgium	Brussels
+Panama	Panama City	Micronesia	Palikir
+Panama	Panama City	Democratic Republic of the Congo	Kinshasa
+Panama	Panama City	Cuba	Havana
+Panama	Panama City	Botswana	Gaborone
+Panama	Panama City	Burundi	Bujumbura
+Panama	Panama City	Ghana	Accra
+Panama	Panama City	Canada	Ottawa
+Panama	Panama City	Uzbekistan	Tashkent
+Panama	Panama City	India	New Delhi
+Panama	Panama City	Ireland	Dublin
+Panama	Panama City	El Salvador	San Salvador
+Panama	Panama City	Kuwait	Kuwait City
+Panama	Panama City	Saint Lucia	Castries
+Panama	Panama City	Uganda	Kampala
+Panama	Panama City	South Sudan	Juba
+Panama	Panama City	South Korea	Seoul
+Panama	Panama City	Bahamas	Nassau
+Panama	Panama City	Palestine	Ramallah
+Panama	Panama City	Switzerland	Bern
+Panama	Panama City	Croatia	Zagreb
+Panama	Panama City	Tajikistan	Dushanbe
+Panama	Panama City	Thailand	Bangkok
+Panama	Panama City	Saudi Arabia	Riyadh
+Panama	Panama City	Grenada	St. George's
+Panama	Panama City	Turkey	Ankara
+Panama	Panama City	Ukraine	Kiev
+Panama	Panama City	Gambia	Banjul
+Panama	Panama City	Chile	Santiago
+Panama	Panama City	Lebanon	Beirut
+Panama	Panama City	Dominica	Roseau
+Panama	Panama City	Zambia	Lusaka
+Panama	Panama City	Argentina	Buenos Aires
+Panama	Panama City	Uruguay	Montevideo
+Panama	Panama City	Fiji	Suva
+Panama	Panama City	Mongolia	Ulaanbaatar
+Panama	Panama City	Eritrea	Asmara
+Sao Tome and Principe	Sao Tome	Panama	Panama City
+Sao Tome and Principe	Sao Tome	Hungary	Budapest
+Sao Tome and Principe	Sao Tome	Russia	Moscow
+Sao Tome and Principe	Sao Tome	Sri Lanka	Colombo
+Sao Tome and Principe	Sao Tome	Rwanda	Kigali
+Sao Tome and Principe	Sao Tome	Vanuatu	Port Vila
+Sao Tome and Principe	Sao Tome	North Macedonia	Skopje
+Sao Tome and Principe	Sao Tome	Indonesia	Jakarta
+Sao Tome and Principe	Sao Tome	Oman	Muscat
+Sao Tome and Principe	Sao Tome	Kenya	Nairobi
+Sao Tome and Principe	Sao Tome	Guinea-Bissau	Bissau
+Sao Tome and Principe	Sao Tome	Lesotho	Maseru
+Sao Tome and Principe	Sao Tome	Belgium	Brussels
+Sao Tome and Principe	Sao Tome	Micronesia	Palikir
+Sao Tome and Principe	Sao Tome	Democratic Republic of the Congo	Kinshasa
+Sao Tome and Principe	Sao Tome	Cuba	Havana
+Sao Tome and Principe	Sao Tome	Botswana	Gaborone
+Sao Tome and Principe	Sao Tome	Burundi	Bujumbura
+Sao Tome and Principe	Sao Tome	Ghana	Accra
+Sao Tome and Principe	Sao Tome	Canada	Ottawa
+Sao Tome and Principe	Sao Tome	Uzbekistan	Tashkent
+Sao Tome and Principe	Sao Tome	India	New Delhi
+Sao Tome and Principe	Sao Tome	Ireland	Dublin
+Sao Tome and Principe	Sao Tome	El Salvador	San Salvador
+Sao Tome and Principe	Sao Tome	Kuwait	Kuwait City
+Sao Tome and Principe	Sao Tome	Saint Lucia	Castries
+Sao Tome and Principe	Sao Tome	Uganda	Kampala
+Sao Tome and Principe	Sao Tome	South Sudan	Juba
+Sao Tome and Principe	Sao Tome	South Korea	Seoul
+Sao Tome and Principe	Sao Tome	Bahamas	Nassau
+Sao Tome and Principe	Sao Tome	Palestine	Ramallah
+Sao Tome and Principe	Sao Tome	Switzerland	Bern
+Sao Tome and Principe	Sao Tome	Croatia	Zagreb
+Sao Tome and Principe	Sao Tome	Tajikistan	Dushanbe
+Sao Tome and Principe	Sao Tome	Thailand	Bangkok
+Sao Tome and Principe	Sao Tome	Saudi Arabia	Riyadh
+Sao Tome and Principe	Sao Tome	Grenada	St. George's
+Sao Tome and Principe	Sao Tome	Turkey	Ankara
+Sao Tome and Principe	Sao Tome	Ukraine	Kiev
+Sao Tome and Principe	Sao Tome	Gambia	Banjul
+Sao Tome and Principe	Sao Tome	Chile	Santiago
+Sao Tome and Principe	Sao Tome	Lebanon	Beirut
+Sao Tome and Principe	Sao Tome	Dominica	Roseau
+Sao Tome and Principe	Sao Tome	Zambia	Lusaka
+Sao Tome and Principe	Sao Tome	Argentina	Buenos Aires
+Sao Tome and Principe	Sao Tome	Uruguay	Montevideo
+Sao Tome and Principe	Sao Tome	Fiji	Suva
+Sao Tome and Principe	Sao Tome	Mongolia	Ulaanbaatar
+Sao Tome and Principe	Sao Tome	Eritrea	Asmara
+Hungary	Budapest	Panama	Panama City
+Hungary	Budapest	Sao Tome and Principe	Sao Tome
+Hungary	Budapest	Russia	Moscow
+Hungary	Budapest	Sri Lanka	Colombo
+Hungary	Budapest	Rwanda	Kigali
+Hungary	Budapest	Vanuatu	Port Vila
+Hungary	Budapest	North Macedonia	Skopje
+Hungary	Budapest	Indonesia	Jakarta
+Hungary	Budapest	Oman	Muscat
+Hungary	Budapest	Kenya	Nairobi
+Hungary	Budapest	Guinea-Bissau	Bissau
+Hungary	Budapest	Lesotho	Maseru
+Hungary	Budapest	Belgium	Brussels
+Hungary	Budapest	Micronesia	Palikir
+Hungary	Budapest	Democratic Republic of the Congo	Kinshasa
+Hungary	Budapest	Cuba	Havana
+Hungary	Budapest	Botswana	Gaborone
+Hungary	Budapest	Burundi	Bujumbura
+Hungary	Budapest	Ghana	Accra
+Hungary	Budapest	Canada	Ottawa
+Hungary	Budapest	Uzbekistan	Tashkent
+Hungary	Budapest	India	New Delhi
+Hungary	Budapest	Ireland	Dublin
+Hungary	Budapest	El Salvador	San Salvador
+Hungary	Budapest	Kuwait	Kuwait City
+Hungary	Budapest	Saint Lucia	Castries
+Hungary	Budapest	Uganda	Kampala
+Hungary	Budapest	South Sudan	Juba
+Hungary	Budapest	South Korea	Seoul
+Hungary	Budapest	Bahamas	Nassau
+Hungary	Budapest	Palestine	Ramallah
+Hungary	Budapest	Switzerland	Bern
+Hungary	Budapest	Croatia	Zagreb
+Hungary	Budapest	Tajikistan	Dushanbe
+Hungary	Budapest	Thailand	Bangkok
+Hungary	Budapest	Saudi Arabia	Riyadh
+Hungary	Budapest	Grenada	St. George's
+Hungary	Budapest	Turkey	Ankara
+Hungary	Budapest	Ukraine	Kiev
+Hungary	Budapest	Gambia	Banjul
+Hungary	Budapest	Chile	Santiago
+Hungary	Budapest	Lebanon	Beirut
+Hungary	Budapest	Dominica	Roseau
+Hungary	Budapest	Zambia	Lusaka
+Hungary	Budapest	Argentina	Buenos Aires
+Hungary	Budapest	Uruguay	Montevideo
+Hungary	Budapest	Fiji	Suva
+Hungary	Budapest	Mongolia	Ulaanbaatar
+Hungary	Budapest	Eritrea	Asmara
+Russia	Moscow	Panama	Panama City
+Russia	Moscow	Sao Tome and Principe	Sao Tome
+Russia	Moscow	Hungary	Budapest
+Russia	Moscow	Sri Lanka	Colombo
+Russia	Moscow	Rwanda	Kigali
+Russia	Moscow	Vanuatu	Port Vila
+Russia	Moscow	North Macedonia	Skopje
+Russia	Moscow	Indonesia	Jakarta
+Russia	Moscow	Oman	Muscat
+Russia	Moscow	Kenya	Nairobi
+Russia	Moscow	Guinea-Bissau	Bissau
+Russia	Moscow	Lesotho	Maseru
+Russia	Moscow	Belgium	Brussels
+Russia	Moscow	Micronesia	Palikir
+Russia	Moscow	Democratic Republic of the Congo	Kinshasa
+Russia	Moscow	Cuba	Havana
+Russia	Moscow	Botswana	Gaborone
+Russia	Moscow	Burundi	Bujumbura
+Russia	Moscow	Ghana	Accra
+Russia	Moscow	Canada	Ottawa
+Russia	Moscow	Uzbekistan	Tashkent
+Russia	Moscow	India	New Delhi
+Russia	Moscow	Ireland	Dublin
+Russia	Moscow	El Salvador	San Salvador
+Russia	Moscow	Kuwait	Kuwait City
+Russia	Moscow	Saint Lucia	Castries
+Russia	Moscow	Uganda	Kampala
+Russia	Moscow	South Sudan	Juba
+Russia	Moscow	South Korea	Seoul
+Russia	Moscow	Bahamas	Nassau
+Russia	Moscow	Palestine	Ramallah
+Russia	Moscow	Switzerland	Bern
+Russia	Moscow	Croatia	Zagreb
+Russia	Moscow	Tajikistan	Dushanbe
+Russia	Moscow	Thailand	Bangkok
+Russia	Moscow	Saudi Arabia	Riyadh
+Russia	Moscow	Grenada	St. George's
+Russia	Moscow	Turkey	Ankara
+Russia	Moscow	Ukraine	Kiev
+Russia	Moscow	Gambia	Banjul
+Russia	Moscow	Chile	Santiago
+Russia	Moscow	Lebanon	Beirut
+Russia	Moscow	Dominica	Roseau
+Russia	Moscow	Zambia	Lusaka
+Russia	Moscow	Argentina	Buenos Aires
+Russia	Moscow	Uruguay	Montevideo
+Russia	Moscow	Fiji	Suva
+Russia	Moscow	Mongolia	Ulaanbaatar
+Russia	Moscow	Eritrea	Asmara
+Sri Lanka	Colombo	Panama	Panama City
+Sri Lanka	Colombo	Sao Tome and Principe	Sao Tome
+Sri Lanka	Colombo	Hungary	Budapest
+Sri Lanka	Colombo	Russia	Moscow
+Sri Lanka	Colombo	Rwanda	Kigali
+Sri Lanka	Colombo	Vanuatu	Port Vila
+Sri Lanka	Colombo	North Macedonia	Skopje
+Sri Lanka	Colombo	Indonesia	Jakarta
+Sri Lanka	Colombo	Oman	Muscat
+Sri Lanka	Colombo	Kenya	Nairobi
+Sri Lanka	Colombo	Guinea-Bissau	Bissau
+Sri Lanka	Colombo	Lesotho	Maseru
+Sri Lanka	Colombo	Belgium	Brussels
+Sri Lanka	Colombo	Micronesia	Palikir
+Sri Lanka	Colombo	Democratic Republic of the Congo	Kinshasa
+Sri Lanka	Colombo	Cuba	Havana
+Sri Lanka	Colombo	Botswana	Gaborone
+Sri Lanka	Colombo	Burundi	Bujumbura
+Sri Lanka	Colombo	Ghana	Accra
+Sri Lanka	Colombo	Canada	Ottawa
+Sri Lanka	Colombo	Uzbekistan	Tashkent
+Sri Lanka	Colombo	India	New Delhi
+Sri Lanka	Colombo	Ireland	Dublin
+Sri Lanka	Colombo	El Salvador	San Salvador
+Sri Lanka	Colombo	Kuwait	Kuwait City
+Sri Lanka	Colombo	Saint Lucia	Castries
+Sri Lanka	Colombo	Uganda	Kampala
+Sri Lanka	Colombo	South Sudan	Juba
+Sri Lanka	Colombo	South Korea	Seoul
+Sri Lanka	Colombo	Bahamas	Nassau
+Sri Lanka	Colombo	Palestine	Ramallah
+Sri Lanka	Colombo	Switzerland	Bern
+Sri Lanka	Colombo	Croatia	Zagreb
+Sri Lanka	Colombo	Tajikistan	Dushanbe
+Sri Lanka	Colombo	Thailand	Bangkok
+Sri Lanka	Colombo	Saudi Arabia	Riyadh
+Sri Lanka	Colombo	Grenada	St. George's
+Sri Lanka	Colombo	Turkey	Ankara
+Sri Lanka	Colombo	Ukraine	Kiev
+Sri Lanka	Colombo	Gambia	Banjul
+Sri Lanka	Colombo	Chile	Santiago
+Sri Lanka	Colombo	Lebanon	Beirut
+Sri Lanka	Colombo	Dominica	Roseau
+Sri Lanka	Colombo	Zambia	Lusaka
+Sri Lanka	Colombo	Argentina	Buenos Aires
+Sri Lanka	Colombo	Uruguay	Montevideo
+Sri Lanka	Colombo	Fiji	Suva
+Sri Lanka	Colombo	Mongolia	Ulaanbaatar
+Sri Lanka	Colombo	Eritrea	Asmara
+Rwanda	Kigali	Panama	Panama City
+Rwanda	Kigali	Sao Tome and Principe	Sao Tome
+Rwanda	Kigali	Hungary	Budapest
+Rwanda	Kigali	Russia	Moscow
+Rwanda	Kigali	Sri Lanka	Colombo
+Rwanda	Kigali	Vanuatu	Port Vila
+Rwanda	Kigali	North Macedonia	Skopje
+Rwanda	Kigali	Indonesia	Jakarta
+Rwanda	Kigali	Oman	Muscat
+Rwanda	Kigali	Kenya	Nairobi
+Rwanda	Kigali	Guinea-Bissau	Bissau
+Rwanda	Kigali	Lesotho	Maseru
+Rwanda	Kigali	Belgium	Brussels
+Rwanda	Kigali	Micronesia	Palikir
+Rwanda	Kigali	Democratic Republic of the Congo	Kinshasa
+Rwanda	Kigali	Cuba	Havana
+Rwanda	Kigali	Botswana	Gaborone
+Rwanda	Kigali	Burundi	Bujumbura
+Rwanda	Kigali	Ghana	Accra
+Rwanda	Kigali	Canada	Ottawa
+Rwanda	Kigali	Uzbekistan	Tashkent
+Rwanda	Kigali	India	New Delhi
+Rwanda	Kigali	Ireland	Dublin
+Rwanda	Kigali	El Salvador	San Salvador
+Rwanda	Kigali	Kuwait	Kuwait City
+Rwanda	Kigali	Saint Lucia	Castries
+Rwanda	Kigali	Uganda	Kampala
+Rwanda	Kigali	South Sudan	Juba
+Rwanda	Kigali	South Korea	Seoul
+Rwanda	Kigali	Bahamas	Nassau
+Rwanda	Kigali	Palestine	Ramallah
+Rwanda	Kigali	Switzerland	Bern
+Rwanda	Kigali	Croatia	Zagreb
+Rwanda	Kigali	Tajikistan	Dushanbe
+Rwanda	Kigali	Thailand	Bangkok
+Rwanda	Kigali	Saudi Arabia	Riyadh
+Rwanda	Kigali	Grenada	St. George's
+Rwanda	Kigali	Turkey	Ankara
+Rwanda	Kigali	Ukraine	Kiev
+Rwanda	Kigali	Gambia	Banjul
+Rwanda	Kigali	Chile	Santiago
+Rwanda	Kigali	Lebanon	Beirut
+Rwanda	Kigali	Dominica	Roseau
+Rwanda	Kigali	Zambia	Lusaka
+Rwanda	Kigali	Argentina	Buenos Aires
+Rwanda	Kigali	Uruguay	Montevideo
+Rwanda	Kigali	Fiji	Suva
+Rwanda	Kigali	Mongolia	Ulaanbaatar
+Rwanda	Kigali	Eritrea	Asmara
+Vanuatu	Port Vila	Panama	Panama City
+Vanuatu	Port Vila	Sao Tome and Principe	Sao Tome
+Vanuatu	Port Vila	Hungary	Budapest
+Vanuatu	Port Vila	Russia	Moscow
+Vanuatu	Port Vila	Sri Lanka	Colombo
+Vanuatu	Port Vila	Rwanda	Kigali
+Vanuatu	Port Vila	North Macedonia	Skopje
+Vanuatu	Port Vila	Indonesia	Jakarta
+Vanuatu	Port Vila	Oman	Muscat
+Vanuatu	Port Vila	Kenya	Nairobi
+Vanuatu	Port Vila	Guinea-Bissau	Bissau
+Vanuatu	Port Vila	Lesotho	Maseru
+Vanuatu	Port Vila	Belgium	Brussels
+Vanuatu	Port Vila	Micronesia	Palikir
+Vanuatu	Port Vila	Democratic Republic of the Congo	Kinshasa
+Vanuatu	Port Vila	Cuba	Havana
+Vanuatu	Port Vila	Botswana	Gaborone
+Vanuatu	Port Vila	Burundi	Bujumbura
+Vanuatu	Port Vila	Ghana	Accra
+Vanuatu	Port Vila	Canada	Ottawa
+Vanuatu	Port Vila	Uzbekistan	Tashkent
+Vanuatu	Port Vila	India	New Delhi
+Vanuatu	Port Vila	Ireland	Dublin
+Vanuatu	Port Vila	El Salvador	San Salvador
+Vanuatu	Port Vila	Kuwait	Kuwait City
+Vanuatu	Port Vila	Saint Lucia	Castries
+Vanuatu	Port Vila	Uganda	Kampala
+Vanuatu	Port Vila	South Sudan	Juba
+Vanuatu	Port Vila	South Korea	Seoul
+Vanuatu	Port Vila	Bahamas	Nassau
+Vanuatu	Port Vila	Palestine	Ramallah
+Vanuatu	Port Vila	Switzerland	Bern
+Vanuatu	Port Vila	Croatia	Zagreb
+Vanuatu	Port Vila	Tajikistan	Dushanbe
+Vanuatu	Port Vila	Thailand	Bangkok
+Vanuatu	Port Vila	Saudi Arabia	Riyadh
+Vanuatu	Port Vila	Grenada	St. George's
+Vanuatu	Port Vila	Turkey	Ankara
+Vanuatu	Port Vila	Ukraine	Kiev
+Vanuatu	Port Vila	Gambia	Banjul
+Vanuatu	Port Vila	Chile	Santiago
+Vanuatu	Port Vila	Lebanon	Beirut
+Vanuatu	Port Vila	Dominica	Roseau
+Vanuatu	Port Vila	Zambia	Lusaka
+Vanuatu	Port Vila	Argentina	Buenos Aires
+Vanuatu	Port Vila	Uruguay	Montevideo
+Vanuatu	Port Vila	Fiji	Suva
+Vanuatu	Port Vila	Mongolia	Ulaanbaatar
+Vanuatu	Port Vila	Eritrea	Asmara
+North Macedonia	Skopje	Panama	Panama City
+North Macedonia	Skopje	Sao Tome and Principe	Sao Tome
+North Macedonia	Skopje	Hungary	Budapest
+North Macedonia	Skopje	Russia	Moscow
+North Macedonia	Skopje	Sri Lanka	Colombo
+North Macedonia	Skopje	Rwanda	Kigali
+North Macedonia	Skopje	Vanuatu	Port Vila
+North Macedonia	Skopje	Indonesia	Jakarta
+North Macedonia	Skopje	Oman	Muscat
+North Macedonia	Skopje	Kenya	Nairobi
+North Macedonia	Skopje	Guinea-Bissau	Bissau
+North Macedonia	Skopje	Lesotho	Maseru
+North Macedonia	Skopje	Belgium	Brussels
+North Macedonia	Skopje	Micronesia	Palikir
+North Macedonia	Skopje	Democratic Republic of the Congo	Kinshasa
+North Macedonia	Skopje	Cuba	Havana
+North Macedonia	Skopje	Botswana	Gaborone
+North Macedonia	Skopje	Burundi	Bujumbura
+North Macedonia	Skopje	Ghana	Accra
+North Macedonia	Skopje	Canada	Ottawa
+North Macedonia	Skopje	Uzbekistan	Tashkent
+North Macedonia	Skopje	India	New Delhi
+North Macedonia	Skopje	Ireland	Dublin
+North Macedonia	Skopje	El Salvador	San Salvador
+North Macedonia	Skopje	Kuwait	Kuwait City
+North Macedonia	Skopje	Saint Lucia	Castries
+North Macedonia	Skopje	Uganda	Kampala
+North Macedonia	Skopje	South Sudan	Juba
+North Macedonia	Skopje	South Korea	Seoul
+North Macedonia	Skopje	Bahamas	Nassau
+North Macedonia	Skopje	Palestine	Ramallah
+North Macedonia	Skopje	Switzerland	Bern
+North Macedonia	Skopje	Croatia	Zagreb
+North Macedonia	Skopje	Tajikistan	Dushanbe
+North Macedonia	Skopje	Thailand	Bangkok
+North Macedonia	Skopje	Saudi Arabia	Riyadh
+North Macedonia	Skopje	Grenada	St. George's
+North Macedonia	Skopje	Turkey	Ankara
+North Macedonia	Skopje	Ukraine	Kiev
+North Macedonia	Skopje	Gambia	Banjul
+North Macedonia	Skopje	Chile	Santiago
+North Macedonia	Skopje	Lebanon	Beirut
+North Macedonia	Skopje	Dominica	Roseau
+North Macedonia	Skopje	Zambia	Lusaka
+North Macedonia	Skopje	Argentina	Buenos Aires
+North Macedonia	Skopje	Uruguay	Montevideo
+North Macedonia	Skopje	Fiji	Suva
+North Macedonia	Skopje	Mongolia	Ulaanbaatar
+North Macedonia	Skopje	Eritrea	Asmara
+Indonesia	Jakarta	Panama	Panama City
+Indonesia	Jakarta	Sao Tome and Principe	Sao Tome
+Indonesia	Jakarta	Hungary	Budapest
+Indonesia	Jakarta	Russia	Moscow
+Indonesia	Jakarta	Sri Lanka	Colombo
+Indonesia	Jakarta	Rwanda	Kigali
+Indonesia	Jakarta	Vanuatu	Port Vila
+Indonesia	Jakarta	North Macedonia	Skopje
+Indonesia	Jakarta	Oman	Muscat
+Indonesia	Jakarta	Kenya	Nairobi
+Indonesia	Jakarta	Guinea-Bissau	Bissau
+Indonesia	Jakarta	Lesotho	Maseru
+Indonesia	Jakarta	Belgium	Brussels
+Indonesia	Jakarta	Micronesia	Palikir
+Indonesia	Jakarta	Democratic Republic of the Congo	Kinshasa
+Indonesia	Jakarta	Cuba	Havana
+Indonesia	Jakarta	Botswana	Gaborone
+Indonesia	Jakarta	Burundi	Bujumbura
+Indonesia	Jakarta	Ghana	Accra
+Indonesia	Jakarta	Canada	Ottawa
+Indonesia	Jakarta	Uzbekistan	Tashkent
+Indonesia	Jakarta	India	New Delhi
+Indonesia	Jakarta	Ireland	Dublin
+Indonesia	Jakarta	El Salvador	San Salvador
+Indonesia	Jakarta	Kuwait	Kuwait City
+Indonesia	Jakarta	Saint Lucia	Castries
+Indonesia	Jakarta	Uganda	Kampala
+Indonesia	Jakarta	South Sudan	Juba
+Indonesia	Jakarta	South Korea	Seoul
+Indonesia	Jakarta	Bahamas	Nassau
+Indonesia	Jakarta	Palestine	Ramallah
+Indonesia	Jakarta	Switzerland	Bern
+Indonesia	Jakarta	Croatia	Zagreb
+Indonesia	Jakarta	Tajikistan	Dushanbe
+Indonesia	Jakarta	Thailand	Bangkok
+Indonesia	Jakarta	Saudi Arabia	Riyadh
+Indonesia	Jakarta	Grenada	St. George's
+Indonesia	Jakarta	Turkey	Ankara
+Indonesia	Jakarta	Ukraine	Kiev
+Indonesia	Jakarta	Gambia	Banjul
+Indonesia	Jakarta	Chile	Santiago
+Indonesia	Jakarta	Lebanon	Beirut
+Indonesia	Jakarta	Dominica	Roseau
+Indonesia	Jakarta	Zambia	Lusaka
+Indonesia	Jakarta	Argentina	Buenos Aires
+Indonesia	Jakarta	Uruguay	Montevideo
+Indonesia	Jakarta	Fiji	Suva
+Indonesia	Jakarta	Mongolia	Ulaanbaatar
+Indonesia	Jakarta	Eritrea	Asmara
+Oman	Muscat	Panama	Panama City
+Oman	Muscat	Sao Tome and Principe	Sao Tome
+Oman	Muscat	Hungary	Budapest
+Oman	Muscat	Russia	Moscow
+Oman	Muscat	Sri Lanka	Colombo
+Oman	Muscat	Rwanda	Kigali
+Oman	Muscat	Vanuatu	Port Vila
+Oman	Muscat	North Macedonia	Skopje
+Oman	Muscat	Indonesia	Jakarta
+Oman	Muscat	Kenya	Nairobi
+Oman	Muscat	Guinea-Bissau	Bissau
+Oman	Muscat	Lesotho	Maseru
+Oman	Muscat	Belgium	Brussels
+Oman	Muscat	Micronesia	Palikir
+Oman	Muscat	Democratic Republic of the Congo	Kinshasa
+Oman	Muscat	Cuba	Havana
+Oman	Muscat	Botswana	Gaborone
+Oman	Muscat	Burundi	Bujumbura
+Oman	Muscat	Ghana	Accra
+Oman	Muscat	Canada	Ottawa
+Oman	Muscat	Uzbekistan	Tashkent
+Oman	Muscat	India	New Delhi
+Oman	Muscat	Ireland	Dublin
+Oman	Muscat	El Salvador	San Salvador
+Oman	Muscat	Kuwait	Kuwait City
+Oman	Muscat	Saint Lucia	Castries
+Oman	Muscat	Uganda	Kampala
+Oman	Muscat	South Sudan	Juba
+Oman	Muscat	South Korea	Seoul
+Oman	Muscat	Bahamas	Nassau
+Oman	Muscat	Palestine	Ramallah
+Oman	Muscat	Switzerland	Bern
+Oman	Muscat	Croatia	Zagreb
+Oman	Muscat	Tajikistan	Dushanbe
+Oman	Muscat	Thailand	Bangkok
+Oman	Muscat	Saudi Arabia	Riyadh
+Oman	Muscat	Grenada	St. George's
+Oman	Muscat	Turkey	Ankara
+Oman	Muscat	Ukraine	Kiev
+Oman	Muscat	Gambia	Banjul
+Oman	Muscat	Chile	Santiago
+Oman	Muscat	Lebanon	Beirut
+Oman	Muscat	Dominica	Roseau
+Oman	Muscat	Zambia	Lusaka
+Oman	Muscat	Argentina	Buenos Aires
+Oman	Muscat	Uruguay	Montevideo
+Oman	Muscat	Fiji	Suva
+Oman	Muscat	Mongolia	Ulaanbaatar
+Oman	Muscat	Eritrea	Asmara
+Kenya	Nairobi	Panama	Panama City
+Kenya	Nairobi	Sao Tome and Principe	Sao Tome
+Kenya	Nairobi	Hungary	Budapest
+Kenya	Nairobi	Russia	Moscow
+Kenya	Nairobi	Sri Lanka	Colombo
+Kenya	Nairobi	Rwanda	Kigali
+Kenya	Nairobi	Vanuatu	Port Vila
+Kenya	Nairobi	North Macedonia	Skopje
+Kenya	Nairobi	Indonesia	Jakarta
+Kenya	Nairobi	Oman	Muscat
+Kenya	Nairobi	Guinea-Bissau	Bissau
+Kenya	Nairobi	Lesotho	Maseru
+Kenya	Nairobi	Belgium	Brussels
+Kenya	Nairobi	Micronesia	Palikir
+Kenya	Nairobi	Democratic Republic of the Congo	Kinshasa
+Kenya	Nairobi	Cuba	Havana
+Kenya	Nairobi	Botswana	Gaborone
+Kenya	Nairobi	Burundi	Bujumbura
+Kenya	Nairobi	Ghana	Accra
+Kenya	Nairobi	Canada	Ottawa
+Kenya	Nairobi	Uzbekistan	Tashkent
+Kenya	Nairobi	India	New Delhi
+Kenya	Nairobi	Ireland	Dublin
+Kenya	Nairobi	El Salvador	San Salvador
+Kenya	Nairobi	Kuwait	Kuwait City
+Kenya	Nairobi	Saint Lucia	Castries
+Kenya	Nairobi	Uganda	Kampala
+Kenya	Nairobi	South Sudan	Juba
+Kenya	Nairobi	South Korea	Seoul
+Kenya	Nairobi	Bahamas	Nassau
+Kenya	Nairobi	Palestine	Ramallah
+Kenya	Nairobi	Switzerland	Bern
+Kenya	Nairobi	Croatia	Zagreb
+Kenya	Nairobi	Tajikistan	Dushanbe
+Kenya	Nairobi	Thailand	Bangkok
+Kenya	Nairobi	Saudi Arabia	Riyadh
+Kenya	Nairobi	Grenada	St. George's
+Kenya	Nairobi	Turkey	Ankara
+Kenya	Nairobi	Ukraine	Kiev
+Kenya	Nairobi	Gambia	Banjul
+Kenya	Nairobi	Chile	Santiago
+Kenya	Nairobi	Lebanon	Beirut
+Kenya	Nairobi	Dominica	Roseau
+Kenya	Nairobi	Zambia	Lusaka
+Kenya	Nairobi	Argentina	Buenos Aires
+Kenya	Nairobi	Uruguay	Montevideo
+Kenya	Nairobi	Fiji	Suva
+Kenya	Nairobi	Mongolia	Ulaanbaatar
+Kenya	Nairobi	Eritrea	Asmara
+Guinea-Bissau	Bissau	Panama	Panama City
+Guinea-Bissau	Bissau	Sao Tome and Principe	Sao Tome
+Guinea-Bissau	Bissau	Hungary	Budapest
+Guinea-Bissau	Bissau	Russia	Moscow
+Guinea-Bissau	Bissau	Sri Lanka	Colombo
+Guinea-Bissau	Bissau	Rwanda	Kigali
+Guinea-Bissau	Bissau	Vanuatu	Port Vila
+Guinea-Bissau	Bissau	North Macedonia	Skopje
+Guinea-Bissau	Bissau	Indonesia	Jakarta
+Guinea-Bissau	Bissau	Oman	Muscat
+Guinea-Bissau	Bissau	Kenya	Nairobi
+Guinea-Bissau	Bissau	Lesotho	Maseru
+Guinea-Bissau	Bissau	Belgium	Brussels
+Guinea-Bissau	Bissau	Micronesia	Palikir
+Guinea-Bissau	Bissau	Democratic Republic of the Congo	Kinshasa
+Guinea-Bissau	Bissau	Cuba	Havana
+Guinea-Bissau	Bissau	Botswana	Gaborone
+Guinea-Bissau	Bissau	Burundi	Bujumbura
+Guinea-Bissau	Bissau	Ghana	Accra
+Guinea-Bissau	Bissau	Canada	Ottawa
+Guinea-Bissau	Bissau	Uzbekistan	Tashkent
+Guinea-Bissau	Bissau	India	New Delhi
+Guinea-Bissau	Bissau	Ireland	Dublin
+Guinea-Bissau	Bissau	El Salvador	San Salvador
+Guinea-Bissau	Bissau	Kuwait	Kuwait City
+Guinea-Bissau	Bissau	Saint Lucia	Castries
+Guinea-Bissau	Bissau	Uganda	Kampala
+Guinea-Bissau	Bissau	South Sudan	Juba
+Guinea-Bissau	Bissau	South Korea	Seoul
+Guinea-Bissau	Bissau	Bahamas	Nassau
+Guinea-Bissau	Bissau	Palestine	Ramallah
+Guinea-Bissau	Bissau	Switzerland	Bern
+Guinea-Bissau	Bissau	Croatia	Zagreb
+Guinea-Bissau	Bissau	Tajikistan	Dushanbe
+Guinea-Bissau	Bissau	Thailand	Bangkok
+Guinea-Bissau	Bissau	Saudi Arabia	Riyadh
+Guinea-Bissau	Bissau	Grenada	St. George's
+Guinea-Bissau	Bissau	Turkey	Ankara
+Guinea-Bissau	Bissau	Ukraine	Kiev
+Guinea-Bissau	Bissau	Gambia	Banjul
+Guinea-Bissau	Bissau	Chile	Santiago
+Guinea-Bissau	Bissau	Lebanon	Beirut
+Guinea-Bissau	Bissau	Dominica	Roseau
+Guinea-Bissau	Bissau	Zambia	Lusaka
+Guinea-Bissau	Bissau	Argentina	Buenos Aires
+Guinea-Bissau	Bissau	Uruguay	Montevideo
+Guinea-Bissau	Bissau	Fiji	Suva
+Guinea-Bissau	Bissau	Mongolia	Ulaanbaatar
+Guinea-Bissau	Bissau	Eritrea	Asmara
+Lesotho	Maseru	Panama	Panama City
+Lesotho	Maseru	Sao Tome and Principe	Sao Tome
+Lesotho	Maseru	Hungary	Budapest
+Lesotho	Maseru	Russia	Moscow
+Lesotho	Maseru	Sri Lanka	Colombo
+Lesotho	Maseru	Rwanda	Kigali
+Lesotho	Maseru	Vanuatu	Port Vila
+Lesotho	Maseru	North Macedonia	Skopje
+Lesotho	Maseru	Indonesia	Jakarta
+Lesotho	Maseru	Oman	Muscat
+Lesotho	Maseru	Kenya	Nairobi
+Lesotho	Maseru	Guinea-Bissau	Bissau
+Lesotho	Maseru	Belgium	Brussels
+Lesotho	Maseru	Micronesia	Palikir
+Lesotho	Maseru	Democratic Republic of the Congo	Kinshasa
+Lesotho	Maseru	Cuba	Havana
+Lesotho	Maseru	Botswana	Gaborone
+Lesotho	Maseru	Burundi	Bujumbura
+Lesotho	Maseru	Ghana	Accra
+Lesotho	Maseru	Canada	Ottawa
+Lesotho	Maseru	Uzbekistan	Tashkent
+Lesotho	Maseru	India	New Delhi
+Lesotho	Maseru	Ireland	Dublin
+Lesotho	Maseru	El Salvador	San Salvador
+Lesotho	Maseru	Kuwait	Kuwait City
+Lesotho	Maseru	Saint Lucia	Castries
+Lesotho	Maseru	Uganda	Kampala
+Lesotho	Maseru	South Sudan	Juba
+Lesotho	Maseru	South Korea	Seoul
+Lesotho	Maseru	Bahamas	Nassau
+Lesotho	Maseru	Palestine	Ramallah
+Lesotho	Maseru	Switzerland	Bern
+Lesotho	Maseru	Croatia	Zagreb
+Lesotho	Maseru	Tajikistan	Dushanbe
+Lesotho	Maseru	Thailand	Bangkok
+Lesotho	Maseru	Saudi Arabia	Riyadh
+Lesotho	Maseru	Grenada	St. George's
+Lesotho	Maseru	Turkey	Ankara
+Lesotho	Maseru	Ukraine	Kiev
+Lesotho	Maseru	Gambia	Banjul
+Lesotho	Maseru	Chile	Santiago
+Lesotho	Maseru	Lebanon	Beirut
+Lesotho	Maseru	Dominica	Roseau
+Lesotho	Maseru	Zambia	Lusaka
+Lesotho	Maseru	Argentina	Buenos Aires
+Lesotho	Maseru	Uruguay	Montevideo
+Lesotho	Maseru	Fiji	Suva
+Lesotho	Maseru	Mongolia	Ulaanbaatar
+Lesotho	Maseru	Eritrea	Asmara
+Belgium	Brussels	Panama	Panama City
+Belgium	Brussels	Sao Tome and Principe	Sao Tome
+Belgium	Brussels	Hungary	Budapest
+Belgium	Brussels	Russia	Moscow
+Belgium	Brussels	Sri Lanka	Colombo
+Belgium	Brussels	Rwanda	Kigali
+Belgium	Brussels	Vanuatu	Port Vila
+Belgium	Brussels	North Macedonia	Skopje
+Belgium	Brussels	Indonesia	Jakarta
+Belgium	Brussels	Oman	Muscat
+Belgium	Brussels	Kenya	Nairobi
+Belgium	Brussels	Guinea-Bissau	Bissau
+Belgium	Brussels	Lesotho	Maseru
+Belgium	Brussels	Micronesia	Palikir
+Belgium	Brussels	Democratic Republic of the Congo	Kinshasa
+Belgium	Brussels	Cuba	Havana
+Belgium	Brussels	Botswana	Gaborone
+Belgium	Brussels	Burundi	Bujumbura
+Belgium	Brussels	Ghana	Accra
+Belgium	Brussels	Canada	Ottawa
+Belgium	Brussels	Uzbekistan	Tashkent
+Belgium	Brussels	India	New Delhi
+Belgium	Brussels	Ireland	Dublin
+Belgium	Brussels	El Salvador	San Salvador
+Belgium	Brussels	Kuwait	Kuwait City
+Belgium	Brussels	Saint Lucia	Castries
+Belgium	Brussels	Uganda	Kampala
+Belgium	Brussels	South Sudan	Juba
+Belgium	Brussels	South Korea	Seoul
+Belgium	Brussels	Bahamas	Nassau
+Belgium	Brussels	Palestine	Ramallah
+Belgium	Brussels	Switzerland	Bern
+Belgium	Brussels	Croatia	Zagreb
+Belgium	Brussels	Tajikistan	Dushanbe
+Belgium	Brussels	Thailand	Bangkok
+Belgium	Brussels	Saudi Arabia	Riyadh
+Belgium	Brussels	Grenada	St. George's
+Belgium	Brussels	Turkey	Ankara
+Belgium	Brussels	Ukraine	Kiev
+Belgium	Brussels	Gambia	Banjul
+Belgium	Brussels	Chile	Santiago
+Belgium	Brussels	Lebanon	Beirut
+Belgium	Brussels	Dominica	Roseau
+Belgium	Brussels	Zambia	Lusaka
+Belgium	Brussels	Argentina	Buenos Aires
+Belgium	Brussels	Uruguay	Montevideo
+Belgium	Brussels	Fiji	Suva
+Belgium	Brussels	Mongolia	Ulaanbaatar
+Belgium	Brussels	Eritrea	Asmara
+Micronesia	Palikir	Panama	Panama City
+Micronesia	Palikir	Sao Tome and Principe	Sao Tome
+Micronesia	Palikir	Hungary	Budapest
+Micronesia	Palikir	Russia	Moscow
+Micronesia	Palikir	Sri Lanka	Colombo
+Micronesia	Palikir	Rwanda	Kigali
+Micronesia	Palikir	Vanuatu	Port Vila
+Micronesia	Palikir	North Macedonia	Skopje
+Micronesia	Palikir	Indonesia	Jakarta
+Micronesia	Palikir	Oman	Muscat
+Micronesia	Palikir	Kenya	Nairobi
+Micronesia	Palikir	Guinea-Bissau	Bissau
+Micronesia	Palikir	Lesotho	Maseru
+Micronesia	Palikir	Belgium	Brussels
+Micronesia	Palikir	Democratic Republic of the Congo	Kinshasa
+Micronesia	Palikir	Cuba	Havana
+Micronesia	Palikir	Botswana	Gaborone
+Micronesia	Palikir	Burundi	Bujumbura
+Micronesia	Palikir	Ghana	Accra
+Micronesia	Palikir	Canada	Ottawa
+Micronesia	Palikir	Uzbekistan	Tashkent
+Micronesia	Palikir	India	New Delhi
+Micronesia	Palikir	Ireland	Dublin
+Micronesia	Palikir	El Salvador	San Salvador
+Micronesia	Palikir	Kuwait	Kuwait City
+Micronesia	Palikir	Saint Lucia	Castries
+Micronesia	Palikir	Uganda	Kampala
+Micronesia	Palikir	South Sudan	Juba
+Micronesia	Palikir	South Korea	Seoul
+Micronesia	Palikir	Bahamas	Nassau
+Micronesia	Palikir	Palestine	Ramallah
+Micronesia	Palikir	Switzerland	Bern
+Micronesia	Palikir	Croatia	Zagreb
+Micronesia	Palikir	Tajikistan	Dushanbe
+Micronesia	Palikir	Thailand	Bangkok
+Micronesia	Palikir	Saudi Arabia	Riyadh
+Micronesia	Palikir	Grenada	St. George's
+Micronesia	Palikir	Turkey	Ankara
+Micronesia	Palikir	Ukraine	Kiev
+Micronesia	Palikir	Gambia	Banjul
+Micronesia	Palikir	Chile	Santiago
+Micronesia	Palikir	Lebanon	Beirut
+Micronesia	Palikir	Dominica	Roseau
+Micronesia	Palikir	Zambia	Lusaka
+Micronesia	Palikir	Argentina	Buenos Aires
+Micronesia	Palikir	Uruguay	Montevideo
+Micronesia	Palikir	Fiji	Suva
+Micronesia	Palikir	Mongolia	Ulaanbaatar
+Micronesia	Palikir	Eritrea	Asmara
+Democratic Republic of the Congo	Kinshasa	Panama	Panama City
+Democratic Republic of the Congo	Kinshasa	Sao Tome and Principe	Sao Tome
+Democratic Republic of the Congo	Kinshasa	Hungary	Budapest
+Democratic Republic of the Congo	Kinshasa	Russia	Moscow
+Democratic Republic of the Congo	Kinshasa	Sri Lanka	Colombo
+Democratic Republic of the Congo	Kinshasa	Rwanda	Kigali
+Democratic Republic of the Congo	Kinshasa	Vanuatu	Port Vila
+Democratic Republic of the Congo	Kinshasa	North Macedonia	Skopje
+Democratic Republic of the Congo	Kinshasa	Indonesia	Jakarta
+Democratic Republic of the Congo	Kinshasa	Oman	Muscat
+Democratic Republic of the Congo	Kinshasa	Kenya	Nairobi
+Democratic Republic of the Congo	Kinshasa	Guinea-Bissau	Bissau
+Democratic Republic of the Congo	Kinshasa	Lesotho	Maseru
+Democratic Republic of the Congo	Kinshasa	Belgium	Brussels
+Democratic Republic of the Congo	Kinshasa	Micronesia	Palikir
+Democratic Republic of the Congo	Kinshasa	Cuba	Havana
+Democratic Republic of the Congo	Kinshasa	Botswana	Gaborone
+Democratic Republic of the Congo	Kinshasa	Burundi	Bujumbura
+Democratic Republic of the Congo	Kinshasa	Ghana	Accra
+Democratic Republic of the Congo	Kinshasa	Canada	Ottawa
+Democratic Republic of the Congo	Kinshasa	Uzbekistan	Tashkent
+Democratic Republic of the Congo	Kinshasa	India	New Delhi
+Democratic Republic of the Congo	Kinshasa	Ireland	Dublin
+Democratic Republic of the Congo	Kinshasa	El Salvador	San Salvador
+Democratic Republic of the Congo	Kinshasa	Kuwait	Kuwait City
+Democratic Republic of the Congo	Kinshasa	Saint Lucia	Castries
+Democratic Republic of the Congo	Kinshasa	Uganda	Kampala
+Democratic Republic of the Congo	Kinshasa	South Sudan	Juba
+Democratic Republic of the Congo	Kinshasa	South Korea	Seoul
+Democratic Republic of the Congo	Kinshasa	Bahamas	Nassau
+Democratic Republic of the Congo	Kinshasa	Palestine	Ramallah
+Democratic Republic of the Congo	Kinshasa	Switzerland	Bern
+Democratic Republic of the Congo	Kinshasa	Croatia	Zagreb
+Democratic Republic of the Congo	Kinshasa	Tajikistan	Dushanbe
+Democratic Republic of the Congo	Kinshasa	Thailand	Bangkok
+Democratic Republic of the Congo	Kinshasa	Saudi Arabia	Riyadh
+Democratic Republic of the Congo	Kinshasa	Grenada	St. George's
+Democratic Republic of the Congo	Kinshasa	Turkey	Ankara
+Democratic Republic of the Congo	Kinshasa	Ukraine	Kiev
+Democratic Republic of the Congo	Kinshasa	Gambia	Banjul
+Democratic Republic of the Congo	Kinshasa	Chile	Santiago
+Democratic Republic of the Congo	Kinshasa	Lebanon	Beirut
+Democratic Republic of the Congo	Kinshasa	Dominica	Roseau
+Democratic Republic of the Congo	Kinshasa	Zambia	Lusaka
+Democratic Republic of the Congo	Kinshasa	Argentina	Buenos Aires
+Democratic Republic of the Congo	Kinshasa	Uruguay	Montevideo
+Democratic Republic of the Congo	Kinshasa	Fiji	Suva
+Democratic Republic of the Congo	Kinshasa	Mongolia	Ulaanbaatar
+Democratic Republic of the Congo	Kinshasa	Eritrea	Asmara
+Cuba	Havana	Panama	Panama City
+Cuba	Havana	Sao Tome and Principe	Sao Tome
+Cuba	Havana	Hungary	Budapest
+Cuba	Havana	Russia	Moscow
+Cuba	Havana	Sri Lanka	Colombo
+Cuba	Havana	Rwanda	Kigali
+Cuba	Havana	Vanuatu	Port Vila
+Cuba	Havana	North Macedonia	Skopje
+Cuba	Havana	Indonesia	Jakarta
+Cuba	Havana	Oman	Muscat
+Cuba	Havana	Kenya	Nairobi
+Cuba	Havana	Guinea-Bissau	Bissau
+Cuba	Havana	Lesotho	Maseru
+Cuba	Havana	Belgium	Brussels
+Cuba	Havana	Micronesia	Palikir
+Cuba	Havana	Democratic Republic of the Congo	Kinshasa
+Cuba	Havana	Botswana	Gaborone
+Cuba	Havana	Burundi	Bujumbura
+Cuba	Havana	Ghana	Accra
+Cuba	Havana	Canada	Ottawa
+Cuba	Havana	Uzbekistan	Tashkent
+Cuba	Havana	India	New Delhi
+Cuba	Havana	Ireland	Dublin
+Cuba	Havana	El Salvador	San Salvador
+Cuba	Havana	Kuwait	Kuwait City
+Cuba	Havana	Saint Lucia	Castries
+Cuba	Havana	Uganda	Kampala
+Cuba	Havana	South Sudan	Juba
+Cuba	Havana	South Korea	Seoul
+Cuba	Havana	Bahamas	Nassau
+Cuba	Havana	Palestine	Ramallah
+Cuba	Havana	Switzerland	Bern
+Cuba	Havana	Croatia	Zagreb
+Cuba	Havana	Tajikistan	Dushanbe
+Cuba	Havana	Thailand	Bangkok
+Cuba	Havana	Saudi Arabia	Riyadh
+Cuba	Havana	Grenada	St. George's
+Cuba	Havana	Turkey	Ankara
+Cuba	Havana	Ukraine	Kiev
+Cuba	Havana	Gambia	Banjul
+Cuba	Havana	Chile	Santiago
+Cuba	Havana	Lebanon	Beirut
+Cuba	Havana	Dominica	Roseau
+Cuba	Havana	Zambia	Lusaka
+Cuba	Havana	Argentina	Buenos Aires
+Cuba	Havana	Uruguay	Montevideo
+Cuba	Havana	Fiji	Suva
+Cuba	Havana	Mongolia	Ulaanbaatar
+Cuba	Havana	Eritrea	Asmara
+Botswana	Gaborone	Panama	Panama City
+Botswana	Gaborone	Sao Tome and Principe	Sao Tome
+Botswana	Gaborone	Hungary	Budapest
+Botswana	Gaborone	Russia	Moscow
+Botswana	Gaborone	Sri Lanka	Colombo
+Botswana	Gaborone	Rwanda	Kigali
+Botswana	Gaborone	Vanuatu	Port Vila
+Botswana	Gaborone	North Macedonia	Skopje
+Botswana	Gaborone	Indonesia	Jakarta
+Botswana	Gaborone	Oman	Muscat
+Botswana	Gaborone	Kenya	Nairobi
+Botswana	Gaborone	Guinea-Bissau	Bissau
+Botswana	Gaborone	Lesotho	Maseru
+Botswana	Gaborone	Belgium	Brussels
+Botswana	Gaborone	Micronesia	Palikir
+Botswana	Gaborone	Democratic Republic of the Congo	Kinshasa
+Botswana	Gaborone	Cuba	Havana
+Botswana	Gaborone	Burundi	Bujumbura
+Botswana	Gaborone	Ghana	Accra
+Botswana	Gaborone	Canada	Ottawa
+Botswana	Gaborone	Uzbekistan	Tashkent
+Botswana	Gaborone	India	New Delhi
+Botswana	Gaborone	Ireland	Dublin
+Botswana	Gaborone	El Salvador	San Salvador
+Botswana	Gaborone	Kuwait	Kuwait City
+Botswana	Gaborone	Saint Lucia	Castries
+Botswana	Gaborone	Uganda	Kampala
+Botswana	Gaborone	South Sudan	Juba
+Botswana	Gaborone	South Korea	Seoul
+Botswana	Gaborone	Bahamas	Nassau
+Botswana	Gaborone	Palestine	Ramallah
+Botswana	Gaborone	Switzerland	Bern
+Botswana	Gaborone	Croatia	Zagreb
+Botswana	Gaborone	Tajikistan	Dushanbe
+Botswana	Gaborone	Thailand	Bangkok
+Botswana	Gaborone	Saudi Arabia	Riyadh
+Botswana	Gaborone	Grenada	St. George's
+Botswana	Gaborone	Turkey	Ankara
+Botswana	Gaborone	Ukraine	Kiev
+Botswana	Gaborone	Gambia	Banjul
+Botswana	Gaborone	Chile	Santiago
+Botswana	Gaborone	Lebanon	Beirut
+Botswana	Gaborone	Dominica	Roseau
+Botswana	Gaborone	Zambia	Lusaka
+Botswana	Gaborone	Argentina	Buenos Aires
+Botswana	Gaborone	Uruguay	Montevideo
+Botswana	Gaborone	Fiji	Suva
+Botswana	Gaborone	Mongolia	Ulaanbaatar
+Botswana	Gaborone	Eritrea	Asmara
+Burundi	Bujumbura	Panama	Panama City
+Burundi	Bujumbura	Sao Tome and Principe	Sao Tome
+Burundi	Bujumbura	Hungary	Budapest
+Burundi	Bujumbura	Russia	Moscow
+Burundi	Bujumbura	Sri Lanka	Colombo
+Burundi	Bujumbura	Rwanda	Kigali
+Burundi	Bujumbura	Vanuatu	Port Vila
+Burundi	Bujumbura	North Macedonia	Skopje
+Burundi	Bujumbura	Indonesia	Jakarta
+Burundi	Bujumbura	Oman	Muscat
+Burundi	Bujumbura	Kenya	Nairobi
+Burundi	Bujumbura	Guinea-Bissau	Bissau
+Burundi	Bujumbura	Lesotho	Maseru
+Burundi	Bujumbura	Belgium	Brussels
+Burundi	Bujumbura	Micronesia	Palikir
+Burundi	Bujumbura	Democratic Republic of the Congo	Kinshasa
+Burundi	Bujumbura	Cuba	Havana
+Burundi	Bujumbura	Botswana	Gaborone
+Burundi	Bujumbura	Ghana	Accra
+Burundi	Bujumbura	Canada	Ottawa
+Burundi	Bujumbura	Uzbekistan	Tashkent
+Burundi	Bujumbura	India	New Delhi
+Burundi	Bujumbura	Ireland	Dublin
+Burundi	Bujumbura	El Salvador	San Salvador
+Burundi	Bujumbura	Kuwait	Kuwait City
+Burundi	Bujumbura	Saint Lucia	Castries
+Burundi	Bujumbura	Uganda	Kampala
+Burundi	Bujumbura	South Sudan	Juba
+Burundi	Bujumbura	South Korea	Seoul
+Burundi	Bujumbura	Bahamas	Nassau
+Burundi	Bujumbura	Palestine	Ramallah
+Burundi	Bujumbura	Switzerland	Bern
+Burundi	Bujumbura	Croatia	Zagreb
+Burundi	Bujumbura	Tajikistan	Dushanbe
+Burundi	Bujumbura	Thailand	Bangkok
+Burundi	Bujumbura	Saudi Arabia	Riyadh
+Burundi	Bujumbura	Grenada	St. George's
+Burundi	Bujumbura	Turkey	Ankara
+Burundi	Bujumbura	Ukraine	Kiev
+Burundi	Bujumbura	Gambia	Banjul
+Burundi	Bujumbura	Chile	Santiago
+Burundi	Bujumbura	Lebanon	Beirut
+Burundi	Bujumbura	Dominica	Roseau
+Burundi	Bujumbura	Zambia	Lusaka
+Burundi	Bujumbura	Argentina	Buenos Aires
+Burundi	Bujumbura	Uruguay	Montevideo
+Burundi	Bujumbura	Fiji	Suva
+Burundi	Bujumbura	Mongolia	Ulaanbaatar
+Burundi	Bujumbura	Eritrea	Asmara
+Ghana	Accra	Panama	Panama City
+Ghana	Accra	Sao Tome and Principe	Sao Tome
+Ghana	Accra	Hungary	Budapest
+Ghana	Accra	Russia	Moscow
+Ghana	Accra	Sri Lanka	Colombo
+Ghana	Accra	Rwanda	Kigali
+Ghana	Accra	Vanuatu	Port Vila
+Ghana	Accra	North Macedonia	Skopje
+Ghana	Accra	Indonesia	Jakarta
+Ghana	Accra	Oman	Muscat
+Ghana	Accra	Kenya	Nairobi
+Ghana	Accra	Guinea-Bissau	Bissau
+Ghana	Accra	Lesotho	Maseru
+Ghana	Accra	Belgium	Brussels
+Ghana	Accra	Micronesia	Palikir
+Ghana	Accra	Democratic Republic of the Congo	Kinshasa
+Ghana	Accra	Cuba	Havana
+Ghana	Accra	Botswana	Gaborone
+Ghana	Accra	Burundi	Bujumbura
+Ghana	Accra	Canada	Ottawa
+Ghana	Accra	Uzbekistan	Tashkent
+Ghana	Accra	India	New Delhi
+Ghana	Accra	Ireland	Dublin
+Ghana	Accra	El Salvador	San Salvador
+Ghana	Accra	Kuwait	Kuwait City
+Ghana	Accra	Saint Lucia	Castries
+Ghana	Accra	Uganda	Kampala
+Ghana	Accra	South Sudan	Juba
+Ghana	Accra	South Korea	Seoul
+Ghana	Accra	Bahamas	Nassau
+Ghana	Accra	Palestine	Ramallah
+Ghana	Accra	Switzerland	Bern
+Ghana	Accra	Croatia	Zagreb
+Ghana	Accra	Tajikistan	Dushanbe
+Ghana	Accra	Thailand	Bangkok
+Ghana	Accra	Saudi Arabia	Riyadh
+Ghana	Accra	Grenada	St. George's
+Ghana	Accra	Turkey	Ankara
+Ghana	Accra	Ukraine	Kiev
+Ghana	Accra	Gambia	Banjul
+Ghana	Accra	Chile	Santiago
+Ghana	Accra	Lebanon	Beirut
+Ghana	Accra	Dominica	Roseau
+Ghana	Accra	Zambia	Lusaka
+Ghana	Accra	Argentina	Buenos Aires
+Ghana	Accra	Uruguay	Montevideo
+Ghana	Accra	Fiji	Suva
+Ghana	Accra	Mongolia	Ulaanbaatar
+Ghana	Accra	Eritrea	Asmara
+Canada	Ottawa	Panama	Panama City
+Canada	Ottawa	Sao Tome and Principe	Sao Tome
+Canada	Ottawa	Hungary	Budapest
+Canada	Ottawa	Russia	Moscow
+Canada	Ottawa	Sri Lanka	Colombo
+Canada	Ottawa	Rwanda	Kigali
+Canada	Ottawa	Vanuatu	Port Vila
+Canada	Ottawa	North Macedonia	Skopje
+Canada	Ottawa	Indonesia	Jakarta
+Canada	Ottawa	Oman	Muscat
+Canada	Ottawa	Kenya	Nairobi
+Canada	Ottawa	Guinea-Bissau	Bissau
+Canada	Ottawa	Lesotho	Maseru
+Canada	Ottawa	Belgium	Brussels
+Canada	Ottawa	Micronesia	Palikir
+Canada	Ottawa	Democratic Republic of the Congo	Kinshasa
+Canada	Ottawa	Cuba	Havana
+Canada	Ottawa	Botswana	Gaborone
+Canada	Ottawa	Burundi	Bujumbura
+Canada	Ottawa	Ghana	Accra
+Canada	Ottawa	Uzbekistan	Tashkent
+Canada	Ottawa	India	New Delhi
+Canada	Ottawa	Ireland	Dublin
+Canada	Ottawa	El Salvador	San Salvador
+Canada	Ottawa	Kuwait	Kuwait City
+Canada	Ottawa	Saint Lucia	Castries
+Canada	Ottawa	Uganda	Kampala
+Canada	Ottawa	South Sudan	Juba
+Canada	Ottawa	South Korea	Seoul
+Canada	Ottawa	Bahamas	Nassau
+Canada	Ottawa	Palestine	Ramallah
+Canada	Ottawa	Switzerland	Bern
+Canada	Ottawa	Croatia	Zagreb
+Canada	Ottawa	Tajikistan	Dushanbe
+Canada	Ottawa	Thailand	Bangkok
+Canada	Ottawa	Saudi Arabia	Riyadh
+Canada	Ottawa	Grenada	St. George's
+Canada	Ottawa	Turkey	Ankara
+Canada	Ottawa	Ukraine	Kiev
+Canada	Ottawa	Gambia	Banjul
+Canada	Ottawa	Chile	Santiago
+Canada	Ottawa	Lebanon	Beirut
+Canada	Ottawa	Dominica	Roseau
+Canada	Ottawa	Zambia	Lusaka
+Canada	Ottawa	Argentina	Buenos Aires
+Canada	Ottawa	Uruguay	Montevideo
+Canada	Ottawa	Fiji	Suva
+Canada	Ottawa	Mongolia	Ulaanbaatar
+Canada	Ottawa	Eritrea	Asmara
+Uzbekistan	Tashkent	Panama	Panama City
+Uzbekistan	Tashkent	Sao Tome and Principe	Sao Tome
+Uzbekistan	Tashkent	Hungary	Budapest
+Uzbekistan	Tashkent	Russia	Moscow
+Uzbekistan	Tashkent	Sri Lanka	Colombo
+Uzbekistan	Tashkent	Rwanda	Kigali
+Uzbekistan	Tashkent	Vanuatu	Port Vila
+Uzbekistan	Tashkent	North Macedonia	Skopje
+Uzbekistan	Tashkent	Indonesia	Jakarta
+Uzbekistan	Tashkent	Oman	Muscat
+Uzbekistan	Tashkent	Kenya	Nairobi
+Uzbekistan	Tashkent	Guinea-Bissau	Bissau
+Uzbekistan	Tashkent	Lesotho	Maseru
+Uzbekistan	Tashkent	Belgium	Brussels
+Uzbekistan	Tashkent	Micronesia	Palikir
+Uzbekistan	Tashkent	Democratic Republic of the Congo	Kinshasa
+Uzbekistan	Tashkent	Cuba	Havana
+Uzbekistan	Tashkent	Botswana	Gaborone
+Uzbekistan	Tashkent	Burundi	Bujumbura
+Uzbekistan	Tashkent	Ghana	Accra
+Uzbekistan	Tashkent	Canada	Ottawa
+Uzbekistan	Tashkent	India	New Delhi
+Uzbekistan	Tashkent	Ireland	Dublin
+Uzbekistan	Tashkent	El Salvador	San Salvador
+Uzbekistan	Tashkent	Kuwait	Kuwait City
+Uzbekistan	Tashkent	Saint Lucia	Castries
+Uzbekistan	Tashkent	Uganda	Kampala
+Uzbekistan	Tashkent	South Sudan	Juba
+Uzbekistan	Tashkent	South Korea	Seoul
+Uzbekistan	Tashkent	Bahamas	Nassau
+Uzbekistan	Tashkent	Palestine	Ramallah
+Uzbekistan	Tashkent	Switzerland	Bern
+Uzbekistan	Tashkent	Croatia	Zagreb
+Uzbekistan	Tashkent	Tajikistan	Dushanbe
+Uzbekistan	Tashkent	Thailand	Bangkok
+Uzbekistan	Tashkent	Saudi Arabia	Riyadh
+Uzbekistan	Tashkent	Grenada	St. George's
+Uzbekistan	Tashkent	Turkey	Ankara
+Uzbekistan	Tashkent	Ukraine	Kiev
+Uzbekistan	Tashkent	Gambia	Banjul
+Uzbekistan	Tashkent	Chile	Santiago
+Uzbekistan	Tashkent	Lebanon	Beirut
+Uzbekistan	Tashkent	Dominica	Roseau
+Uzbekistan	Tashkent	Zambia	Lusaka
+Uzbekistan	Tashkent	Argentina	Buenos Aires
+Uzbekistan	Tashkent	Uruguay	Montevideo
+Uzbekistan	Tashkent	Fiji	Suva
+Uzbekistan	Tashkent	Mongolia	Ulaanbaatar
+Uzbekistan	Tashkent	Eritrea	Asmara
+India	New Delhi	Panama	Panama City
+India	New Delhi	Sao Tome and Principe	Sao Tome
+India	New Delhi	Hungary	Budapest
+India	New Delhi	Russia	Moscow
+India	New Delhi	Sri Lanka	Colombo
+India	New Delhi	Rwanda	Kigali
+India	New Delhi	Vanuatu	Port Vila
+India	New Delhi	North Macedonia	Skopje
+India	New Delhi	Indonesia	Jakarta
+India	New Delhi	Oman	Muscat
+India	New Delhi	Kenya	Nairobi
+India	New Delhi	Guinea-Bissau	Bissau
+India	New Delhi	Lesotho	Maseru
+India	New Delhi	Belgium	Brussels
+India	New Delhi	Micronesia	Palikir
+India	New Delhi	Democratic Republic of the Congo	Kinshasa
+India	New Delhi	Cuba	Havana
+India	New Delhi	Botswana	Gaborone
+India	New Delhi	Burundi	Bujumbura
+India	New Delhi	Ghana	Accra
+India	New Delhi	Canada	Ottawa
+India	New Delhi	Uzbekistan	Tashkent
+India	New Delhi	Ireland	Dublin
+India	New Delhi	El Salvador	San Salvador
+India	New Delhi	Kuwait	Kuwait City
+India	New Delhi	Saint Lucia	Castries
+India	New Delhi	Uganda	Kampala
+India	New Delhi	South Sudan	Juba
+India	New Delhi	South Korea	Seoul
+India	New Delhi	Bahamas	Nassau
+India	New Delhi	Palestine	Ramallah
+India	New Delhi	Switzerland	Bern
+India	New Delhi	Croatia	Zagreb
+India	New Delhi	Tajikistan	Dushanbe
+India	New Delhi	Thailand	Bangkok
+India	New Delhi	Saudi Arabia	Riyadh
+India	New Delhi	Grenada	St. George's
+India	New Delhi	Turkey	Ankara
+India	New Delhi	Ukraine	Kiev
+India	New Delhi	Gambia	Banjul
+India	New Delhi	Chile	Santiago
+India	New Delhi	Lebanon	Beirut
+India	New Delhi	Dominica	Roseau
+India	New Delhi	Zambia	Lusaka
+India	New Delhi	Argentina	Buenos Aires
+India	New Delhi	Uruguay	Montevideo
+India	New Delhi	Fiji	Suva
+India	New Delhi	Mongolia	Ulaanbaatar
+India	New Delhi	Eritrea	Asmara
+Ireland	Dublin	Panama	Panama City
+Ireland	Dublin	Sao Tome and Principe	Sao Tome
+Ireland	Dublin	Hungary	Budapest
+Ireland	Dublin	Russia	Moscow
+Ireland	Dublin	Sri Lanka	Colombo
+Ireland	Dublin	Rwanda	Kigali
+Ireland	Dublin	Vanuatu	Port Vila
+Ireland	Dublin	North Macedonia	Skopje
+Ireland	Dublin	Indonesia	Jakarta
+Ireland	Dublin	Oman	Muscat
+Ireland	Dublin	Kenya	Nairobi
+Ireland	Dublin	Guinea-Bissau	Bissau
+Ireland	Dublin	Lesotho	Maseru
+Ireland	Dublin	Belgium	Brussels
+Ireland	Dublin	Micronesia	Palikir
+Ireland	Dublin	Democratic Republic of the Congo	Kinshasa
+Ireland	Dublin	Cuba	Havana
+Ireland	Dublin	Botswana	Gaborone
+Ireland	Dublin	Burundi	Bujumbura
+Ireland	Dublin	Ghana	Accra
+Ireland	Dublin	Canada	Ottawa
+Ireland	Dublin	Uzbekistan	Tashkent
+Ireland	Dublin	India	New Delhi
+Ireland	Dublin	El Salvador	San Salvador
+Ireland	Dublin	Kuwait	Kuwait City
+Ireland	Dublin	Saint Lucia	Castries
+Ireland	Dublin	Uganda	Kampala
+Ireland	Dublin	South Sudan	Juba
+Ireland	Dublin	South Korea	Seoul
+Ireland	Dublin	Bahamas	Nassau
+Ireland	Dublin	Palestine	Ramallah
+Ireland	Dublin	Switzerland	Bern
+Ireland	Dublin	Croatia	Zagreb
+Ireland	Dublin	Tajikistan	Dushanbe
+Ireland	Dublin	Thailand	Bangkok
+Ireland	Dublin	Saudi Arabia	Riyadh
+Ireland	Dublin	Grenada	St. George's
+Ireland	Dublin	Turkey	Ankara
+Ireland	Dublin	Ukraine	Kiev
+Ireland	Dublin	Gambia	Banjul
+Ireland	Dublin	Chile	Santiago
+Ireland	Dublin	Lebanon	Beirut
+Ireland	Dublin	Dominica	Roseau
+Ireland	Dublin	Zambia	Lusaka
+Ireland	Dublin	Argentina	Buenos Aires
+Ireland	Dublin	Uruguay	Montevideo
+Ireland	Dublin	Fiji	Suva
+Ireland	Dublin	Mongolia	Ulaanbaatar
+Ireland	Dublin	Eritrea	Asmara
+El Salvador	San Salvador	Panama	Panama City
+El Salvador	San Salvador	Sao Tome and Principe	Sao Tome
+El Salvador	San Salvador	Hungary	Budapest
+El Salvador	San Salvador	Russia	Moscow
+El Salvador	San Salvador	Sri Lanka	Colombo
+El Salvador	San Salvador	Rwanda	Kigali
+El Salvador	San Salvador	Vanuatu	Port Vila
+El Salvador	San Salvador	North Macedonia	Skopje
+El Salvador	San Salvador	Indonesia	Jakarta
+El Salvador	San Salvador	Oman	Muscat
+El Salvador	San Salvador	Kenya	Nairobi
+El Salvador	San Salvador	Guinea-Bissau	Bissau
+El Salvador	San Salvador	Lesotho	Maseru
+El Salvador	San Salvador	Belgium	Brussels
+El Salvador	San Salvador	Micronesia	Palikir
+El Salvador	San Salvador	Democratic Republic of the Congo	Kinshasa
+El Salvador	San Salvador	Cuba	Havana
+El Salvador	San Salvador	Botswana	Gaborone
+El Salvador	San Salvador	Burundi	Bujumbura
+El Salvador	San Salvador	Ghana	Accra
+El Salvador	San Salvador	Canada	Ottawa
+El Salvador	San Salvador	Uzbekistan	Tashkent
+El Salvador	San Salvador	India	New Delhi
+El Salvador	San Salvador	Ireland	Dublin
+El Salvador	San Salvador	Kuwait	Kuwait City
+El Salvador	San Salvador	Saint Lucia	Castries
+El Salvador	San Salvador	Uganda	Kampala
+El Salvador	San Salvador	South Sudan	Juba
+El Salvador	San Salvador	South Korea	Seoul
+El Salvador	San Salvador	Bahamas	Nassau
+El Salvador	San Salvador	Palestine	Ramallah
+El Salvador	San Salvador	Switzerland	Bern
+El Salvador	San Salvador	Croatia	Zagreb
+El Salvador	San Salvador	Tajikistan	Dushanbe
+El Salvador	San Salvador	Thailand	Bangkok
+El Salvador	San Salvador	Saudi Arabia	Riyadh
+El Salvador	San Salvador	Grenada	St. George's
+El Salvador	San Salvador	Turkey	Ankara
+El Salvador	San Salvador	Ukraine	Kiev
+El Salvador	San Salvador	Gambia	Banjul
+El Salvador	San Salvador	Chile	Santiago
+El Salvador	San Salvador	Lebanon	Beirut
+El Salvador	San Salvador	Dominica	Roseau
+El Salvador	San Salvador	Zambia	Lusaka
+El Salvador	San Salvador	Argentina	Buenos Aires
+El Salvador	San Salvador	Uruguay	Montevideo
+El Salvador	San Salvador	Fiji	Suva
+El Salvador	San Salvador	Mongolia	Ulaanbaatar
+El Salvador	San Salvador	Eritrea	Asmara
+Kuwait	Kuwait City	Panama	Panama City
+Kuwait	Kuwait City	Sao Tome and Principe	Sao Tome
+Kuwait	Kuwait City	Hungary	Budapest
+Kuwait	Kuwait City	Russia	Moscow
+Kuwait	Kuwait City	Sri Lanka	Colombo
+Kuwait	Kuwait City	Rwanda	Kigali
+Kuwait	Kuwait City	Vanuatu	Port Vila
+Kuwait	Kuwait City	North Macedonia	Skopje
+Kuwait	Kuwait City	Indonesia	Jakarta
+Kuwait	Kuwait City	Oman	Muscat
+Kuwait	Kuwait City	Kenya	Nairobi
+Kuwait	Kuwait City	Guinea-Bissau	Bissau
+Kuwait	Kuwait City	Lesotho	Maseru
+Kuwait	Kuwait City	Belgium	Brussels
+Kuwait	Kuwait City	Micronesia	Palikir
+Kuwait	Kuwait City	Democratic Republic of the Congo	Kinshasa
+Kuwait	Kuwait City	Cuba	Havana
+Kuwait	Kuwait City	Botswana	Gaborone
+Kuwait	Kuwait City	Burundi	Bujumbura
+Kuwait	Kuwait City	Ghana	Accra
+Kuwait	Kuwait City	Canada	Ottawa
+Kuwait	Kuwait City	Uzbekistan	Tashkent
+Kuwait	Kuwait City	India	New Delhi
+Kuwait	Kuwait City	Ireland	Dublin
+Kuwait	Kuwait City	El Salvador	San Salvador
+Kuwait	Kuwait City	Saint Lucia	Castries
+Kuwait	Kuwait City	Uganda	Kampala
+Kuwait	Kuwait City	South Sudan	Juba
+Kuwait	Kuwait City	South Korea	Seoul
+Kuwait	Kuwait City	Bahamas	Nassau
+Kuwait	Kuwait City	Palestine	Ramallah
+Kuwait	Kuwait City	Switzerland	Bern
+Kuwait	Kuwait City	Croatia	Zagreb
+Kuwait	Kuwait City	Tajikistan	Dushanbe
+Kuwait	Kuwait City	Thailand	Bangkok
+Kuwait	Kuwait City	Saudi Arabia	Riyadh
+Kuwait	Kuwait City	Grenada	St. George's
+Kuwait	Kuwait City	Turkey	Ankara
+Kuwait	Kuwait City	Ukraine	Kiev
+Kuwait	Kuwait City	Gambia	Banjul
+Kuwait	Kuwait City	Chile	Santiago
+Kuwait	Kuwait City	Lebanon	Beirut
+Kuwait	Kuwait City	Dominica	Roseau
+Kuwait	Kuwait City	Zambia	Lusaka
+Kuwait	Kuwait City	Argentina	Buenos Aires
+Kuwait	Kuwait City	Uruguay	Montevideo
+Kuwait	Kuwait City	Fiji	Suva
+Kuwait	Kuwait City	Mongolia	Ulaanbaatar
+Kuwait	Kuwait City	Eritrea	Asmara
+Saint Lucia	Castries	Panama	Panama City
+Saint Lucia	Castries	Sao Tome and Principe	Sao Tome
+Saint Lucia	Castries	Hungary	Budapest
+Saint Lucia	Castries	Russia	Moscow
+Saint Lucia	Castries	Sri Lanka	Colombo
+Saint Lucia	Castries	Rwanda	Kigali
+Saint Lucia	Castries	Vanuatu	Port Vila
+Saint Lucia	Castries	North Macedonia	Skopje
+Saint Lucia	Castries	Indonesia	Jakarta
+Saint Lucia	Castries	Oman	Muscat
+Saint Lucia	Castries	Kenya	Nairobi
+Saint Lucia	Castries	Guinea-Bissau	Bissau
+Saint Lucia	Castries	Lesotho	Maseru
+Saint Lucia	Castries	Belgium	Brussels
+Saint Lucia	Castries	Micronesia	Palikir
+Saint Lucia	Castries	Democratic Republic of the Congo	Kinshasa
+Saint Lucia	Castries	Cuba	Havana
+Saint Lucia	Castries	Botswana	Gaborone
+Saint Lucia	Castries	Burundi	Bujumbura
+Saint Lucia	Castries	Ghana	Accra
+Saint Lucia	Castries	Canada	Ottawa
+Saint Lucia	Castries	Uzbekistan	Tashkent
+Saint Lucia	Castries	India	New Delhi
+Saint Lucia	Castries	Ireland	Dublin
+Saint Lucia	Castries	El Salvador	San Salvador
+Saint Lucia	Castries	Kuwait	Kuwait City
+Saint Lucia	Castries	Uganda	Kampala
+Saint Lucia	Castries	South Sudan	Juba
+Saint Lucia	Castries	South Korea	Seoul
+Saint Lucia	Castries	Bahamas	Nassau
+Saint Lucia	Castries	Palestine	Ramallah
+Saint Lucia	Castries	Switzerland	Bern
+Saint Lucia	Castries	Croatia	Zagreb
+Saint Lucia	Castries	Tajikistan	Dushanbe
+Saint Lucia	Castries	Thailand	Bangkok
+Saint Lucia	Castries	Saudi Arabia	Riyadh
+Saint Lucia	Castries	Grenada	St. George's
+Saint Lucia	Castries	Turkey	Ankara
+Saint Lucia	Castries	Ukraine	Kiev
+Saint Lucia	Castries	Gambia	Banjul
+Saint Lucia	Castries	Chile	Santiago
+Saint Lucia	Castries	Lebanon	Beirut
+Saint Lucia	Castries	Dominica	Roseau
+Saint Lucia	Castries	Zambia	Lusaka
+Saint Lucia	Castries	Argentina	Buenos Aires
+Saint Lucia	Castries	Uruguay	Montevideo
+Saint Lucia	Castries	Fiji	Suva
+Saint Lucia	Castries	Mongolia	Ulaanbaatar
+Saint Lucia	Castries	Eritrea	Asmara
+Uganda	Kampala	Panama	Panama City
+Uganda	Kampala	Sao Tome and Principe	Sao Tome
+Uganda	Kampala	Hungary	Budapest
+Uganda	Kampala	Russia	Moscow
+Uganda	Kampala	Sri Lanka	Colombo
+Uganda	Kampala	Rwanda	Kigali
+Uganda	Kampala	Vanuatu	Port Vila
+Uganda	Kampala	North Macedonia	Skopje
+Uganda	Kampala	Indonesia	Jakarta
+Uganda	Kampala	Oman	Muscat
+Uganda	Kampala	Kenya	Nairobi
+Uganda	Kampala	Guinea-Bissau	Bissau
+Uganda	Kampala	Lesotho	Maseru
+Uganda	Kampala	Belgium	Brussels
+Uganda	Kampala	Micronesia	Palikir
+Uganda	Kampala	Democratic Republic of the Congo	Kinshasa
+Uganda	Kampala	Cuba	Havana
+Uganda	Kampala	Botswana	Gaborone
+Uganda	Kampala	Burundi	Bujumbura
+Uganda	Kampala	Ghana	Accra
+Uganda	Kampala	Canada	Ottawa
+Uganda	Kampala	Uzbekistan	Tashkent
+Uganda	Kampala	India	New Delhi
+Uganda	Kampala	Ireland	Dublin
+Uganda	Kampala	El Salvador	San Salvador
+Uganda	Kampala	Kuwait	Kuwait City
+Uganda	Kampala	Saint Lucia	Castries
+Uganda	Kampala	South Sudan	Juba
+Uganda	Kampala	South Korea	Seoul
+Uganda	Kampala	Bahamas	Nassau
+Uganda	Kampala	Palestine	Ramallah
+Uganda	Kampala	Switzerland	Bern
+Uganda	Kampala	Croatia	Zagreb
+Uganda	Kampala	Tajikistan	Dushanbe
+Uganda	Kampala	Thailand	Bangkok
+Uganda	Kampala	Saudi Arabia	Riyadh
+Uganda	Kampala	Grenada	St. George's
+Uganda	Kampala	Turkey	Ankara
+Uganda	Kampala	Ukraine	Kiev
+Uganda	Kampala	Gambia	Banjul
+Uganda	Kampala	Chile	Santiago
+Uganda	Kampala	Lebanon	Beirut
+Uganda	Kampala	Dominica	Roseau
+Uganda	Kampala	Zambia	Lusaka
+Uganda	Kampala	Argentina	Buenos Aires
+Uganda	Kampala	Uruguay	Montevideo
+Uganda	Kampala	Fiji	Suva
+Uganda	Kampala	Mongolia	Ulaanbaatar
+Uganda	Kampala	Eritrea	Asmara
+South Sudan	Juba	Panama	Panama City
+South Sudan	Juba	Sao Tome and Principe	Sao Tome
+South Sudan	Juba	Hungary	Budapest
+South Sudan	Juba	Russia	Moscow
+South Sudan	Juba	Sri Lanka	Colombo
+South Sudan	Juba	Rwanda	Kigali
+South Sudan	Juba	Vanuatu	Port Vila
+South Sudan	Juba	North Macedonia	Skopje
+South Sudan	Juba	Indonesia	Jakarta
+South Sudan	Juba	Oman	Muscat
+South Sudan	Juba	Kenya	Nairobi
+South Sudan	Juba	Guinea-Bissau	Bissau
+South Sudan	Juba	Lesotho	Maseru
+South Sudan	Juba	Belgium	Brussels
+South Sudan	Juba	Micronesia	Palikir
+South Sudan	Juba	Democratic Republic of the Congo	Kinshasa
+South Sudan	Juba	Cuba	Havana
+South Sudan	Juba	Botswana	Gaborone
+South Sudan	Juba	Burundi	Bujumbura
+South Sudan	Juba	Ghana	Accra
+South Sudan	Juba	Canada	Ottawa
+South Sudan	Juba	Uzbekistan	Tashkent
+South Sudan	Juba	India	New Delhi
+South Sudan	Juba	Ireland	Dublin
+South Sudan	Juba	El Salvador	San Salvador
+South Sudan	Juba	Kuwait	Kuwait City
+South Sudan	Juba	Saint Lucia	Castries
+South Sudan	Juba	Uganda	Kampala
+South Sudan	Juba	South Korea	Seoul
+South Sudan	Juba	Bahamas	Nassau
+South Sudan	Juba	Palestine	Ramallah
+South Sudan	Juba	Switzerland	Bern
+South Sudan	Juba	Croatia	Zagreb
+South Sudan	Juba	Tajikistan	Dushanbe
+South Sudan	Juba	Thailand	Bangkok
+South Sudan	Juba	Saudi Arabia	Riyadh
+South Sudan	Juba	Grenada	St. George's
+South Sudan	Juba	Turkey	Ankara
+South Sudan	Juba	Ukraine	Kiev
+South Sudan	Juba	Gambia	Banjul
+South Sudan	Juba	Chile	Santiago
+South Sudan	Juba	Lebanon	Beirut
+South Sudan	Juba	Dominica	Roseau
+South Sudan	Juba	Zambia	Lusaka
+South Sudan	Juba	Argentina	Buenos Aires
+South Sudan	Juba	Uruguay	Montevideo
+South Sudan	Juba	Fiji	Suva
+South Sudan	Juba	Mongolia	Ulaanbaatar
+South Sudan	Juba	Eritrea	Asmara
+South Korea	Seoul	Panama	Panama City
+South Korea	Seoul	Sao Tome and Principe	Sao Tome
+South Korea	Seoul	Hungary	Budapest
+South Korea	Seoul	Russia	Moscow
+South Korea	Seoul	Sri Lanka	Colombo
+South Korea	Seoul	Rwanda	Kigali
+South Korea	Seoul	Vanuatu	Port Vila
+South Korea	Seoul	North Macedonia	Skopje
+South Korea	Seoul	Indonesia	Jakarta
+South Korea	Seoul	Oman	Muscat
+South Korea	Seoul	Kenya	Nairobi
+South Korea	Seoul	Guinea-Bissau	Bissau
+South Korea	Seoul	Lesotho	Maseru
+South Korea	Seoul	Belgium	Brussels
+South Korea	Seoul	Micronesia	Palikir
+South Korea	Seoul	Democratic Republic of the Congo	Kinshasa
+South Korea	Seoul	Cuba	Havana
+South Korea	Seoul	Botswana	Gaborone
+South Korea	Seoul	Burundi	Bujumbura
+South Korea	Seoul	Ghana	Accra
+South Korea	Seoul	Canada	Ottawa
+South Korea	Seoul	Uzbekistan	Tashkent
+South Korea	Seoul	India	New Delhi
+South Korea	Seoul	Ireland	Dublin
+South Korea	Seoul	El Salvador	San Salvador
+South Korea	Seoul	Kuwait	Kuwait City
+South Korea	Seoul	Saint Lucia	Castries
+South Korea	Seoul	Uganda	Kampala
+South Korea	Seoul	South Sudan	Juba
+South Korea	Seoul	Bahamas	Nassau
+South Korea	Seoul	Palestine	Ramallah
+South Korea	Seoul	Switzerland	Bern
+South Korea	Seoul	Croatia	Zagreb
+South Korea	Seoul	Tajikistan	Dushanbe
+South Korea	Seoul	Thailand	Bangkok
+South Korea	Seoul	Saudi Arabia	Riyadh
+South Korea	Seoul	Grenada	St. George's
+South Korea	Seoul	Turkey	Ankara
+South Korea	Seoul	Ukraine	Kiev
+South Korea	Seoul	Gambia	Banjul
+South Korea	Seoul	Chile	Santiago
+South Korea	Seoul	Lebanon	Beirut
+South Korea	Seoul	Dominica	Roseau
+South Korea	Seoul	Zambia	Lusaka
+South Korea	Seoul	Argentina	Buenos Aires
+South Korea	Seoul	Uruguay	Montevideo
+South Korea	Seoul	Fiji	Suva
+South Korea	Seoul	Mongolia	Ulaanbaatar
+South Korea	Seoul	Eritrea	Asmara
+Bahamas	Nassau	Panama	Panama City
+Bahamas	Nassau	Sao Tome and Principe	Sao Tome
+Bahamas	Nassau	Hungary	Budapest
+Bahamas	Nassau	Russia	Moscow
+Bahamas	Nassau	Sri Lanka	Colombo
+Bahamas	Nassau	Rwanda	Kigali
+Bahamas	Nassau	Vanuatu	Port Vila
+Bahamas	Nassau	North Macedonia	Skopje
+Bahamas	Nassau	Indonesia	Jakarta
+Bahamas	Nassau	Oman	Muscat
+Bahamas	Nassau	Kenya	Nairobi
+Bahamas	Nassau	Guinea-Bissau	Bissau
+Bahamas	Nassau	Lesotho	Maseru
+Bahamas	Nassau	Belgium	Brussels
+Bahamas	Nassau	Micronesia	Palikir
+Bahamas	Nassau	Democratic Republic of the Congo	Kinshasa
+Bahamas	Nassau	Cuba	Havana
+Bahamas	Nassau	Botswana	Gaborone
+Bahamas	Nassau	Burundi	Bujumbura
+Bahamas	Nassau	Ghana	Accra
+Bahamas	Nassau	Canada	Ottawa
+Bahamas	Nassau	Uzbekistan	Tashkent
+Bahamas	Nassau	India	New Delhi
+Bahamas	Nassau	Ireland	Dublin
+Bahamas	Nassau	El Salvador	San Salvador
+Bahamas	Nassau	Kuwait	Kuwait City
+Bahamas	Nassau	Saint Lucia	Castries
+Bahamas	Nassau	Uganda	Kampala
+Bahamas	Nassau	South Sudan	Juba
+Bahamas	Nassau	South Korea	Seoul
+Bahamas	Nassau	Palestine	Ramallah
+Bahamas	Nassau	Switzerland	Bern
+Bahamas	Nassau	Croatia	Zagreb
+Bahamas	Nassau	Tajikistan	Dushanbe
+Bahamas	Nassau	Thailand	Bangkok
+Bahamas	Nassau	Saudi Arabia	Riyadh
+Bahamas	Nassau	Grenada	St. George's
+Bahamas	Nassau	Turkey	Ankara
+Bahamas	Nassau	Ukraine	Kiev
+Bahamas	Nassau	Gambia	Banjul
+Bahamas	Nassau	Chile	Santiago
+Bahamas	Nassau	Lebanon	Beirut
+Bahamas	Nassau	Dominica	Roseau
+Bahamas	Nassau	Zambia	Lusaka
+Bahamas	Nassau	Argentina	Buenos Aires
+Bahamas	Nassau	Uruguay	Montevideo
+Bahamas	Nassau	Fiji	Suva
+Bahamas	Nassau	Mongolia	Ulaanbaatar
+Bahamas	Nassau	Eritrea	Asmara
+Palestine	Ramallah	Panama	Panama City
+Palestine	Ramallah	Sao Tome and Principe	Sao Tome
+Palestine	Ramallah	Hungary	Budapest
+Palestine	Ramallah	Russia	Moscow
+Palestine	Ramallah	Sri Lanka	Colombo
+Palestine	Ramallah	Rwanda	Kigali
+Palestine	Ramallah	Vanuatu	Port Vila
+Palestine	Ramallah	North Macedonia	Skopje
+Palestine	Ramallah	Indonesia	Jakarta
+Palestine	Ramallah	Oman	Muscat
+Palestine	Ramallah	Kenya	Nairobi
+Palestine	Ramallah	Guinea-Bissau	Bissau
+Palestine	Ramallah	Lesotho	Maseru
+Palestine	Ramallah	Belgium	Brussels
+Palestine	Ramallah	Micronesia	Palikir
+Palestine	Ramallah	Democratic Republic of the Congo	Kinshasa
+Palestine	Ramallah	Cuba	Havana
+Palestine	Ramallah	Botswana	Gaborone
+Palestine	Ramallah	Burundi	Bujumbura
+Palestine	Ramallah	Ghana	Accra
+Palestine	Ramallah	Canada	Ottawa
+Palestine	Ramallah	Uzbekistan	Tashkent
+Palestine	Ramallah	India	New Delhi
+Palestine	Ramallah	Ireland	Dublin
+Palestine	Ramallah	El Salvador	San Salvador
+Palestine	Ramallah	Kuwait	Kuwait City
+Palestine	Ramallah	Saint Lucia	Castries
+Palestine	Ramallah	Uganda	Kampala
+Palestine	Ramallah	South Sudan	Juba
+Palestine	Ramallah	South Korea	Seoul
+Palestine	Ramallah	Bahamas	Nassau
+Palestine	Ramallah	Switzerland	Bern
+Palestine	Ramallah	Croatia	Zagreb
+Palestine	Ramallah	Tajikistan	Dushanbe
+Palestine	Ramallah	Thailand	Bangkok
+Palestine	Ramallah	Saudi Arabia	Riyadh
+Palestine	Ramallah	Grenada	St. George's
+Palestine	Ramallah	Turkey	Ankara
+Palestine	Ramallah	Ukraine	Kiev
+Palestine	Ramallah	Gambia	Banjul
+Palestine	Ramallah	Chile	Santiago
+Palestine	Ramallah	Lebanon	Beirut
+Palestine	Ramallah	Dominica	Roseau
+Palestine	Ramallah	Zambia	Lusaka
+Palestine	Ramallah	Argentina	Buenos Aires
+Palestine	Ramallah	Uruguay	Montevideo
+Palestine	Ramallah	Fiji	Suva
+Palestine	Ramallah	Mongolia	Ulaanbaatar
+Palestine	Ramallah	Eritrea	Asmara
+Switzerland	Bern	Panama	Panama City
+Switzerland	Bern	Sao Tome and Principe	Sao Tome
+Switzerland	Bern	Hungary	Budapest
+Switzerland	Bern	Russia	Moscow
+Switzerland	Bern	Sri Lanka	Colombo
+Switzerland	Bern	Rwanda	Kigali
+Switzerland	Bern	Vanuatu	Port Vila
+Switzerland	Bern	North Macedonia	Skopje
+Switzerland	Bern	Indonesia	Jakarta
+Switzerland	Bern	Oman	Muscat
+Switzerland	Bern	Kenya	Nairobi
+Switzerland	Bern	Guinea-Bissau	Bissau
+Switzerland	Bern	Lesotho	Maseru
+Switzerland	Bern	Belgium	Brussels
+Switzerland	Bern	Micronesia	Palikir
+Switzerland	Bern	Democratic Republic of the Congo	Kinshasa
+Switzerland	Bern	Cuba	Havana
+Switzerland	Bern	Botswana	Gaborone
+Switzerland	Bern	Burundi	Bujumbura
+Switzerland	Bern	Ghana	Accra
+Switzerland	Bern	Canada	Ottawa
+Switzerland	Bern	Uzbekistan	Tashkent
+Switzerland	Bern	India	New Delhi
+Switzerland	Bern	Ireland	Dublin
+Switzerland	Bern	El Salvador	San Salvador
+Switzerland	Bern	Kuwait	Kuwait City
+Switzerland	Bern	Saint Lucia	Castries
+Switzerland	Bern	Uganda	Kampala
+Switzerland	Bern	South Sudan	Juba
+Switzerland	Bern	South Korea	Seoul
+Switzerland	Bern	Bahamas	Nassau
+Switzerland	Bern	Palestine	Ramallah
+Switzerland	Bern	Croatia	Zagreb
+Switzerland	Bern	Tajikistan	Dushanbe
+Switzerland	Bern	Thailand	Bangkok
+Switzerland	Bern	Saudi Arabia	Riyadh
+Switzerland	Bern	Grenada	St. George's
+Switzerland	Bern	Turkey	Ankara
+Switzerland	Bern	Ukraine	Kiev
+Switzerland	Bern	Gambia	Banjul
+Switzerland	Bern	Chile	Santiago
+Switzerland	Bern	Lebanon	Beirut
+Switzerland	Bern	Dominica	Roseau
+Switzerland	Bern	Zambia	Lusaka
+Switzerland	Bern	Argentina	Buenos Aires
+Switzerland	Bern	Uruguay	Montevideo
+Switzerland	Bern	Fiji	Suva
+Switzerland	Bern	Mongolia	Ulaanbaatar
+Switzerland	Bern	Eritrea	Asmara
+Croatia	Zagreb	Panama	Panama City
+Croatia	Zagreb	Sao Tome and Principe	Sao Tome
+Croatia	Zagreb	Hungary	Budapest
+Croatia	Zagreb	Russia	Moscow
+Croatia	Zagreb	Sri Lanka	Colombo
+Croatia	Zagreb	Rwanda	Kigali
+Croatia	Zagreb	Vanuatu	Port Vila
+Croatia	Zagreb	North Macedonia	Skopje
+Croatia	Zagreb	Indonesia	Jakarta
+Croatia	Zagreb	Oman	Muscat
+Croatia	Zagreb	Kenya	Nairobi
+Croatia	Zagreb	Guinea-Bissau	Bissau
+Croatia	Zagreb	Lesotho	Maseru
+Croatia	Zagreb	Belgium	Brussels
+Croatia	Zagreb	Micronesia	Palikir
+Croatia	Zagreb	Democratic Republic of the Congo	Kinshasa
+Croatia	Zagreb	Cuba	Havana
+Croatia	Zagreb	Botswana	Gaborone
+Croatia	Zagreb	Burundi	Bujumbura
+Croatia	Zagreb	Ghana	Accra
+Croatia	Zagreb	Canada	Ottawa
+Croatia	Zagreb	Uzbekistan	Tashkent
+Croatia	Zagreb	India	New Delhi
+Croatia	Zagreb	Ireland	Dublin
+Croatia	Zagreb	El Salvador	San Salvador
+Croatia	Zagreb	Kuwait	Kuwait City
+Croatia	Zagreb	Saint Lucia	Castries
+Croatia	Zagreb	Uganda	Kampala
+Croatia	Zagreb	South Sudan	Juba
+Croatia	Zagreb	South Korea	Seoul
+Croatia	Zagreb	Bahamas	Nassau
+Croatia	Zagreb	Palestine	Ramallah
+Croatia	Zagreb	Switzerland	Bern
+Croatia	Zagreb	Tajikistan	Dushanbe
+Croatia	Zagreb	Thailand	Bangkok
+Croatia	Zagreb	Saudi Arabia	Riyadh
+Croatia	Zagreb	Grenada	St. George's
+Croatia	Zagreb	Turkey	Ankara
+Croatia	Zagreb	Ukraine	Kiev
+Croatia	Zagreb	Gambia	Banjul
+Croatia	Zagreb	Chile	Santiago
+Croatia	Zagreb	Lebanon	Beirut
+Croatia	Zagreb	Dominica	Roseau
+Croatia	Zagreb	Zambia	Lusaka
+Croatia	Zagreb	Argentina	Buenos Aires
+Croatia	Zagreb	Uruguay	Montevideo
+Croatia	Zagreb	Fiji	Suva
+Croatia	Zagreb	Mongolia	Ulaanbaatar
+Croatia	Zagreb	Eritrea	Asmara
+Tajikistan	Dushanbe	Panama	Panama City
+Tajikistan	Dushanbe	Sao Tome and Principe	Sao Tome
+Tajikistan	Dushanbe	Hungary	Budapest
+Tajikistan	Dushanbe	Russia	Moscow
+Tajikistan	Dushanbe	Sri Lanka	Colombo
+Tajikistan	Dushanbe	Rwanda	Kigali
+Tajikistan	Dushanbe	Vanuatu	Port Vila
+Tajikistan	Dushanbe	North Macedonia	Skopje
+Tajikistan	Dushanbe	Indonesia	Jakarta
+Tajikistan	Dushanbe	Oman	Muscat
+Tajikistan	Dushanbe	Kenya	Nairobi
+Tajikistan	Dushanbe	Guinea-Bissau	Bissau
+Tajikistan	Dushanbe	Lesotho	Maseru
+Tajikistan	Dushanbe	Belgium	Brussels
+Tajikistan	Dushanbe	Micronesia	Palikir
+Tajikistan	Dushanbe	Democratic Republic of the Congo	Kinshasa
+Tajikistan	Dushanbe	Cuba	Havana
+Tajikistan	Dushanbe	Botswana	Gaborone
+Tajikistan	Dushanbe	Burundi	Bujumbura
+Tajikistan	Dushanbe	Ghana	Accra
+Tajikistan	Dushanbe	Canada	Ottawa
+Tajikistan	Dushanbe	Uzbekistan	Tashkent
+Tajikistan	Dushanbe	India	New Delhi
+Tajikistan	Dushanbe	Ireland	Dublin
+Tajikistan	Dushanbe	El Salvador	San Salvador
+Tajikistan	Dushanbe	Kuwait	Kuwait City
+Tajikistan	Dushanbe	Saint Lucia	Castries
+Tajikistan	Dushanbe	Uganda	Kampala
+Tajikistan	Dushanbe	South Sudan	Juba
+Tajikistan	Dushanbe	South Korea	Seoul
+Tajikistan	Dushanbe	Bahamas	Nassau
+Tajikistan	Dushanbe	Palestine	Ramallah
+Tajikistan	Dushanbe	Switzerland	Bern
+Tajikistan	Dushanbe	Croatia	Zagreb
+Tajikistan	Dushanbe	Thailand	Bangkok
+Tajikistan	Dushanbe	Saudi Arabia	Riyadh
+Tajikistan	Dushanbe	Grenada	St. George's
+Tajikistan	Dushanbe	Turkey	Ankara
+Tajikistan	Dushanbe	Ukraine	Kiev
+Tajikistan	Dushanbe	Gambia	Banjul
+Tajikistan	Dushanbe	Chile	Santiago
+Tajikistan	Dushanbe	Lebanon	Beirut
+Tajikistan	Dushanbe	Dominica	Roseau
+Tajikistan	Dushanbe	Zambia	Lusaka
+Tajikistan	Dushanbe	Argentina	Buenos Aires
+Tajikistan	Dushanbe	Uruguay	Montevideo
+Tajikistan	Dushanbe	Fiji	Suva
+Tajikistan	Dushanbe	Mongolia	Ulaanbaatar
+Tajikistan	Dushanbe	Eritrea	Asmara
+Thailand	Bangkok	Panama	Panama City
+Thailand	Bangkok	Sao Tome and Principe	Sao Tome
+Thailand	Bangkok	Hungary	Budapest
+Thailand	Bangkok	Russia	Moscow
+Thailand	Bangkok	Sri Lanka	Colombo
+Thailand	Bangkok	Rwanda	Kigali
+Thailand	Bangkok	Vanuatu	Port Vila
+Thailand	Bangkok	North Macedonia	Skopje
+Thailand	Bangkok	Indonesia	Jakarta
+Thailand	Bangkok	Oman	Muscat
+Thailand	Bangkok	Kenya	Nairobi
+Thailand	Bangkok	Guinea-Bissau	Bissau
+Thailand	Bangkok	Lesotho	Maseru
+Thailand	Bangkok	Belgium	Brussels
+Thailand	Bangkok	Micronesia	Palikir
+Thailand	Bangkok	Democratic Republic of the Congo	Kinshasa
+Thailand	Bangkok	Cuba	Havana
+Thailand	Bangkok	Botswana	Gaborone
+Thailand	Bangkok	Burundi	Bujumbura
+Thailand	Bangkok	Ghana	Accra
+Thailand	Bangkok	Canada	Ottawa
+Thailand	Bangkok	Uzbekistan	Tashkent
+Thailand	Bangkok	India	New Delhi
+Thailand	Bangkok	Ireland	Dublin
+Thailand	Bangkok	El Salvador	San Salvador
+Thailand	Bangkok	Kuwait	Kuwait City
+Thailand	Bangkok	Saint Lucia	Castries
+Thailand	Bangkok	Uganda	Kampala
+Thailand	Bangkok	South Sudan	Juba
+Thailand	Bangkok	South Korea	Seoul
+Thailand	Bangkok	Bahamas	Nassau
+Thailand	Bangkok	Palestine	Ramallah
+Thailand	Bangkok	Switzerland	Bern
+Thailand	Bangkok	Croatia	Zagreb
+Thailand	Bangkok	Tajikistan	Dushanbe
+Thailand	Bangkok	Saudi Arabia	Riyadh
+Thailand	Bangkok	Grenada	St. George's
+Thailand	Bangkok	Turkey	Ankara
+Thailand	Bangkok	Ukraine	Kiev
+Thailand	Bangkok	Gambia	Banjul
+Thailand	Bangkok	Chile	Santiago
+Thailand	Bangkok	Lebanon	Beirut
+Thailand	Bangkok	Dominica	Roseau
+Thailand	Bangkok	Zambia	Lusaka
+Thailand	Bangkok	Argentina	Buenos Aires
+Thailand	Bangkok	Uruguay	Montevideo
+Thailand	Bangkok	Fiji	Suva
+Thailand	Bangkok	Mongolia	Ulaanbaatar
+Thailand	Bangkok	Eritrea	Asmara
+Saudi Arabia	Riyadh	Panama	Panama City
+Saudi Arabia	Riyadh	Sao Tome and Principe	Sao Tome
+Saudi Arabia	Riyadh	Hungary	Budapest
+Saudi Arabia	Riyadh	Russia	Moscow
+Saudi Arabia	Riyadh	Sri Lanka	Colombo
+Saudi Arabia	Riyadh	Rwanda	Kigali
+Saudi Arabia	Riyadh	Vanuatu	Port Vila
+Saudi Arabia	Riyadh	North Macedonia	Skopje
+Saudi Arabia	Riyadh	Indonesia	Jakarta
+Saudi Arabia	Riyadh	Oman	Muscat
+Saudi Arabia	Riyadh	Kenya	Nairobi
+Saudi Arabia	Riyadh	Guinea-Bissau	Bissau
+Saudi Arabia	Riyadh	Lesotho	Maseru
+Saudi Arabia	Riyadh	Belgium	Brussels
+Saudi Arabia	Riyadh	Micronesia	Palikir
+Saudi Arabia	Riyadh	Democratic Republic of the Congo	Kinshasa
+Saudi Arabia	Riyadh	Cuba	Havana
+Saudi Arabia	Riyadh	Botswana	Gaborone
+Saudi Arabia	Riyadh	Burundi	Bujumbura
+Saudi Arabia	Riyadh	Ghana	Accra
+Saudi Arabia	Riyadh	Canada	Ottawa
+Saudi Arabia	Riyadh	Uzbekistan	Tashkent
+Saudi Arabia	Riyadh	India	New Delhi
+Saudi Arabia	Riyadh	Ireland	Dublin
+Saudi Arabia	Riyadh	El Salvador	San Salvador
+Saudi Arabia	Riyadh	Kuwait	Kuwait City
+Saudi Arabia	Riyadh	Saint Lucia	Castries
+Saudi Arabia	Riyadh	Uganda	Kampala
+Saudi Arabia	Riyadh	South Sudan	Juba
+Saudi Arabia	Riyadh	South Korea	Seoul
+Saudi Arabia	Riyadh	Bahamas	Nassau
+Saudi Arabia	Riyadh	Palestine	Ramallah
+Saudi Arabia	Riyadh	Switzerland	Bern
+Saudi Arabia	Riyadh	Croatia	Zagreb
+Saudi Arabia	Riyadh	Tajikistan	Dushanbe
+Saudi Arabia	Riyadh	Thailand	Bangkok
+Saudi Arabia	Riyadh	Grenada	St. George's
+Saudi Arabia	Riyadh	Turkey	Ankara
+Saudi Arabia	Riyadh	Ukraine	Kiev
+Saudi Arabia	Riyadh	Gambia	Banjul
+Saudi Arabia	Riyadh	Chile	Santiago
+Saudi Arabia	Riyadh	Lebanon	Beirut
+Saudi Arabia	Riyadh	Dominica	Roseau
+Saudi Arabia	Riyadh	Zambia	Lusaka
+Saudi Arabia	Riyadh	Argentina	Buenos Aires
+Saudi Arabia	Riyadh	Uruguay	Montevideo
+Saudi Arabia	Riyadh	Fiji	Suva
+Saudi Arabia	Riyadh	Mongolia	Ulaanbaatar
+Saudi Arabia	Riyadh	Eritrea	Asmara
+Grenada	St. George's	Panama	Panama City
+Grenada	St. George's	Sao Tome and Principe	Sao Tome
+Grenada	St. George's	Hungary	Budapest
+Grenada	St. George's	Russia	Moscow
+Grenada	St. George's	Sri Lanka	Colombo
+Grenada	St. George's	Rwanda	Kigali
+Grenada	St. George's	Vanuatu	Port Vila
+Grenada	St. George's	North Macedonia	Skopje
+Grenada	St. George's	Indonesia	Jakarta
+Grenada	St. George's	Oman	Muscat
+Grenada	St. George's	Kenya	Nairobi
+Grenada	St. George's	Guinea-Bissau	Bissau
+Grenada	St. George's	Lesotho	Maseru
+Grenada	St. George's	Belgium	Brussels
+Grenada	St. George's	Micronesia	Palikir
+Grenada	St. George's	Democratic Republic of the Congo	Kinshasa
+Grenada	St. George's	Cuba	Havana
+Grenada	St. George's	Botswana	Gaborone
+Grenada	St. George's	Burundi	Bujumbura
+Grenada	St. George's	Ghana	Accra
+Grenada	St. George's	Canada	Ottawa
+Grenada	St. George's	Uzbekistan	Tashkent
+Grenada	St. George's	India	New Delhi
+Grenada	St. George's	Ireland	Dublin
+Grenada	St. George's	El Salvador	San Salvador
+Grenada	St. George's	Kuwait	Kuwait City
+Grenada	St. George's	Saint Lucia	Castries
+Grenada	St. George's	Uganda	Kampala
+Grenada	St. George's	South Sudan	Juba
+Grenada	St. George's	South Korea	Seoul
+Grenada	St. George's	Bahamas	Nassau
+Grenada	St. George's	Palestine	Ramallah
+Grenada	St. George's	Switzerland	Bern
+Grenada	St. George's	Croatia	Zagreb
+Grenada	St. George's	Tajikistan	Dushanbe
+Grenada	St. George's	Thailand	Bangkok
+Grenada	St. George's	Saudi Arabia	Riyadh
+Grenada	St. George's	Turkey	Ankara
+Grenada	St. George's	Ukraine	Kiev
+Grenada	St. George's	Gambia	Banjul
+Grenada	St. George's	Chile	Santiago
+Grenada	St. George's	Lebanon	Beirut
+Grenada	St. George's	Dominica	Roseau
+Grenada	St. George's	Zambia	Lusaka
+Grenada	St. George's	Argentina	Buenos Aires
+Grenada	St. George's	Uruguay	Montevideo
+Grenada	St. George's	Fiji	Suva
+Grenada	St. George's	Mongolia	Ulaanbaatar
+Grenada	St. George's	Eritrea	Asmara
+Turkey	Ankara	Panama	Panama City
+Turkey	Ankara	Sao Tome and Principe	Sao Tome
+Turkey	Ankara	Hungary	Budapest
+Turkey	Ankara	Russia	Moscow
+Turkey	Ankara	Sri Lanka	Colombo
+Turkey	Ankara	Rwanda	Kigali
+Turkey	Ankara	Vanuatu	Port Vila
+Turkey	Ankara	North Macedonia	Skopje
+Turkey	Ankara	Indonesia	Jakarta
+Turkey	Ankara	Oman	Muscat
+Turkey	Ankara	Kenya	Nairobi
+Turkey	Ankara	Guinea-Bissau	Bissau
+Turkey	Ankara	Lesotho	Maseru
+Turkey	Ankara	Belgium	Brussels
+Turkey	Ankara	Micronesia	Palikir
+Turkey	Ankara	Democratic Republic of the Congo	Kinshasa
+Turkey	Ankara	Cuba	Havana
+Turkey	Ankara	Botswana	Gaborone
+Turkey	Ankara	Burundi	Bujumbura
+Turkey	Ankara	Ghana	Accra
+Turkey	Ankara	Canada	Ottawa
+Turkey	Ankara	Uzbekistan	Tashkent
+Turkey	Ankara	India	New Delhi
+Turkey	Ankara	Ireland	Dublin
+Turkey	Ankara	El Salvador	San Salvador
+Turkey	Ankara	Kuwait	Kuwait City
+Turkey	Ankara	Saint Lucia	Castries
+Turkey	Ankara	Uganda	Kampala
+Turkey	Ankara	South Sudan	Juba
+Turkey	Ankara	South Korea	Seoul
+Turkey	Ankara	Bahamas	Nassau
+Turkey	Ankara	Palestine	Ramallah
+Turkey	Ankara	Switzerland	Bern
+Turkey	Ankara	Croatia	Zagreb
+Turkey	Ankara	Tajikistan	Dushanbe
+Turkey	Ankara	Thailand	Bangkok
+Turkey	Ankara	Saudi Arabia	Riyadh
+Turkey	Ankara	Grenada	St. George's
+Turkey	Ankara	Ukraine	Kiev
+Turkey	Ankara	Gambia	Banjul
+Turkey	Ankara	Chile	Santiago
+Turkey	Ankara	Lebanon	Beirut
+Turkey	Ankara	Dominica	Roseau
+Turkey	Ankara	Zambia	Lusaka
+Turkey	Ankara	Argentina	Buenos Aires
+Turkey	Ankara	Uruguay	Montevideo
+Turkey	Ankara	Fiji	Suva
+Turkey	Ankara	Mongolia	Ulaanbaatar
+Turkey	Ankara	Eritrea	Asmara
+Ukraine	Kiev	Panama	Panama City
+Ukraine	Kiev	Sao Tome and Principe	Sao Tome
+Ukraine	Kiev	Hungary	Budapest
+Ukraine	Kiev	Russia	Moscow
+Ukraine	Kiev	Sri Lanka	Colombo
+Ukraine	Kiev	Rwanda	Kigali
+Ukraine	Kiev	Vanuatu	Port Vila
+Ukraine	Kiev	North Macedonia	Skopje
+Ukraine	Kiev	Indonesia	Jakarta
+Ukraine	Kiev	Oman	Muscat
+Ukraine	Kiev	Kenya	Nairobi
+Ukraine	Kiev	Guinea-Bissau	Bissau
+Ukraine	Kiev	Lesotho	Maseru
+Ukraine	Kiev	Belgium	Brussels
+Ukraine	Kiev	Micronesia	Palikir
+Ukraine	Kiev	Democratic Republic of the Congo	Kinshasa
+Ukraine	Kiev	Cuba	Havana
+Ukraine	Kiev	Botswana	Gaborone
+Ukraine	Kiev	Burundi	Bujumbura
+Ukraine	Kiev	Ghana	Accra
+Ukraine	Kiev	Canada	Ottawa
+Ukraine	Kiev	Uzbekistan	Tashkent
+Ukraine	Kiev	India	New Delhi
+Ukraine	Kiev	Ireland	Dublin
+Ukraine	Kiev	El Salvador	San Salvador
+Ukraine	Kiev	Kuwait	Kuwait City
+Ukraine	Kiev	Saint Lucia	Castries
+Ukraine	Kiev	Uganda	Kampala
+Ukraine	Kiev	South Sudan	Juba
+Ukraine	Kiev	South Korea	Seoul
+Ukraine	Kiev	Bahamas	Nassau
+Ukraine	Kiev	Palestine	Ramallah
+Ukraine	Kiev	Switzerland	Bern
+Ukraine	Kiev	Croatia	Zagreb
+Ukraine	Kiev	Tajikistan	Dushanbe
+Ukraine	Kiev	Thailand	Bangkok
+Ukraine	Kiev	Saudi Arabia	Riyadh
+Ukraine	Kiev	Grenada	St. George's
+Ukraine	Kiev	Turkey	Ankara
+Ukraine	Kiev	Gambia	Banjul
+Ukraine	Kiev	Chile	Santiago
+Ukraine	Kiev	Lebanon	Beirut
+Ukraine	Kiev	Dominica	Roseau
+Ukraine	Kiev	Zambia	Lusaka
+Ukraine	Kiev	Argentina	Buenos Aires
+Ukraine	Kiev	Uruguay	Montevideo
+Ukraine	Kiev	Fiji	Suva
+Ukraine	Kiev	Mongolia	Ulaanbaatar
+Ukraine	Kiev	Eritrea	Asmara
+Gambia	Banjul	Panama	Panama City
+Gambia	Banjul	Sao Tome and Principe	Sao Tome
+Gambia	Banjul	Hungary	Budapest
+Gambia	Banjul	Russia	Moscow
+Gambia	Banjul	Sri Lanka	Colombo
+Gambia	Banjul	Rwanda	Kigali
+Gambia	Banjul	Vanuatu	Port Vila
+Gambia	Banjul	North Macedonia	Skopje
+Gambia	Banjul	Indonesia	Jakarta
+Gambia	Banjul	Oman	Muscat
+Gambia	Banjul	Kenya	Nairobi
+Gambia	Banjul	Guinea-Bissau	Bissau
+Gambia	Banjul	Lesotho	Maseru
+Gambia	Banjul	Belgium	Brussels
+Gambia	Banjul	Micronesia	Palikir
+Gambia	Banjul	Democratic Republic of the Congo	Kinshasa
+Gambia	Banjul	Cuba	Havana
+Gambia	Banjul	Botswana	Gaborone
+Gambia	Banjul	Burundi	Bujumbura
+Gambia	Banjul	Ghana	Accra
+Gambia	Banjul	Canada	Ottawa
+Gambia	Banjul	Uzbekistan	Tashkent
+Gambia	Banjul	India	New Delhi
+Gambia	Banjul	Ireland	Dublin
+Gambia	Banjul	El Salvador	San Salvador
+Gambia	Banjul	Kuwait	Kuwait City
+Gambia	Banjul	Saint Lucia	Castries
+Gambia	Banjul	Uganda	Kampala
+Gambia	Banjul	South Sudan	Juba
+Gambia	Banjul	South Korea	Seoul
+Gambia	Banjul	Bahamas	Nassau
+Gambia	Banjul	Palestine	Ramallah
+Gambia	Banjul	Switzerland	Bern
+Gambia	Banjul	Croatia	Zagreb
+Gambia	Banjul	Tajikistan	Dushanbe
+Gambia	Banjul	Thailand	Bangkok
+Gambia	Banjul	Saudi Arabia	Riyadh
+Gambia	Banjul	Grenada	St. George's
+Gambia	Banjul	Turkey	Ankara
+Gambia	Banjul	Ukraine	Kiev
+Gambia	Banjul	Chile	Santiago
+Gambia	Banjul	Lebanon	Beirut
+Gambia	Banjul	Dominica	Roseau
+Gambia	Banjul	Zambia	Lusaka
+Gambia	Banjul	Argentina	Buenos Aires
+Gambia	Banjul	Uruguay	Montevideo
+Gambia	Banjul	Fiji	Suva
+Gambia	Banjul	Mongolia	Ulaanbaatar
+Gambia	Banjul	Eritrea	Asmara
+Chile	Santiago	Panama	Panama City
+Chile	Santiago	Sao Tome and Principe	Sao Tome
+Chile	Santiago	Hungary	Budapest
+Chile	Santiago	Russia	Moscow
+Chile	Santiago	Sri Lanka	Colombo
+Chile	Santiago	Rwanda	Kigali
+Chile	Santiago	Vanuatu	Port Vila
+Chile	Santiago	North Macedonia	Skopje
+Chile	Santiago	Indonesia	Jakarta
+Chile	Santiago	Oman	Muscat
+Chile	Santiago	Kenya	Nairobi
+Chile	Santiago	Guinea-Bissau	Bissau
+Chile	Santiago	Lesotho	Maseru
+Chile	Santiago	Belgium	Brussels
+Chile	Santiago	Micronesia	Palikir
+Chile	Santiago	Democratic Republic of the Congo	Kinshasa
+Chile	Santiago	Cuba	Havana
+Chile	Santiago	Botswana	Gaborone
+Chile	Santiago	Burundi	Bujumbura
+Chile	Santiago	Ghana	Accra
+Chile	Santiago	Canada	Ottawa
+Chile	Santiago	Uzbekistan	Tashkent
+Chile	Santiago	India	New Delhi
+Chile	Santiago	Ireland	Dublin
+Chile	Santiago	El Salvador	San Salvador
+Chile	Santiago	Kuwait	Kuwait City
+Chile	Santiago	Saint Lucia	Castries
+Chile	Santiago	Uganda	Kampala
+Chile	Santiago	South Sudan	Juba
+Chile	Santiago	South Korea	Seoul
+Chile	Santiago	Bahamas	Nassau
+Chile	Santiago	Palestine	Ramallah
+Chile	Santiago	Switzerland	Bern
+Chile	Santiago	Croatia	Zagreb
+Chile	Santiago	Tajikistan	Dushanbe
+Chile	Santiago	Thailand	Bangkok
+Chile	Santiago	Saudi Arabia	Riyadh
+Chile	Santiago	Grenada	St. George's
+Chile	Santiago	Turkey	Ankara
+Chile	Santiago	Ukraine	Kiev
+Chile	Santiago	Gambia	Banjul
+Chile	Santiago	Lebanon	Beirut
+Chile	Santiago	Dominica	Roseau
+Chile	Santiago	Zambia	Lusaka
+Chile	Santiago	Argentina	Buenos Aires
+Chile	Santiago	Uruguay	Montevideo
+Chile	Santiago	Fiji	Suva
+Chile	Santiago	Mongolia	Ulaanbaatar
+Chile	Santiago	Eritrea	Asmara
+Lebanon	Beirut	Panama	Panama City
+Lebanon	Beirut	Sao Tome and Principe	Sao Tome
+Lebanon	Beirut	Hungary	Budapest
+Lebanon	Beirut	Russia	Moscow
+Lebanon	Beirut	Sri Lanka	Colombo
+Lebanon	Beirut	Rwanda	Kigali
+Lebanon	Beirut	Vanuatu	Port Vila
+Lebanon	Beirut	North Macedonia	Skopje
+Lebanon	Beirut	Indonesia	Jakarta
+Lebanon	Beirut	Oman	Muscat
+Lebanon	Beirut	Kenya	Nairobi
+Lebanon	Beirut	Guinea-Bissau	Bissau
+Lebanon	Beirut	Lesotho	Maseru
+Lebanon	Beirut	Belgium	Brussels
+Lebanon	Beirut	Micronesia	Palikir
+Lebanon	Beirut	Democratic Republic of the Congo	Kinshasa
+Lebanon	Beirut	Cuba	Havana
+Lebanon	Beirut	Botswana	Gaborone
+Lebanon	Beirut	Burundi	Bujumbura
+Lebanon	Beirut	Ghana	Accra
+Lebanon	Beirut	Canada	Ottawa
+Lebanon	Beirut	Uzbekistan	Tashkent
+Lebanon	Beirut	India	New Delhi
+Lebanon	Beirut	Ireland	Dublin
+Lebanon	Beirut	El Salvador	San Salvador
+Lebanon	Beirut	Kuwait	Kuwait City
+Lebanon	Beirut	Saint Lucia	Castries
+Lebanon	Beirut	Uganda	Kampala
+Lebanon	Beirut	South Sudan	Juba
+Lebanon	Beirut	South Korea	Seoul
+Lebanon	Beirut	Bahamas	Nassau
+Lebanon	Beirut	Palestine	Ramallah
+Lebanon	Beirut	Switzerland	Bern
+Lebanon	Beirut	Croatia	Zagreb
+Lebanon	Beirut	Tajikistan	Dushanbe
+Lebanon	Beirut	Thailand	Bangkok
+Lebanon	Beirut	Saudi Arabia	Riyadh
+Lebanon	Beirut	Grenada	St. George's
+Lebanon	Beirut	Turkey	Ankara
+Lebanon	Beirut	Ukraine	Kiev
+Lebanon	Beirut	Gambia	Banjul
+Lebanon	Beirut	Chile	Santiago
+Lebanon	Beirut	Dominica	Roseau
+Lebanon	Beirut	Zambia	Lusaka
+Lebanon	Beirut	Argentina	Buenos Aires
+Lebanon	Beirut	Uruguay	Montevideo
+Lebanon	Beirut	Fiji	Suva
+Lebanon	Beirut	Mongolia	Ulaanbaatar
+Lebanon	Beirut	Eritrea	Asmara
+Dominica	Roseau	Panama	Panama City
+Dominica	Roseau	Sao Tome and Principe	Sao Tome
+Dominica	Roseau	Hungary	Budapest
+Dominica	Roseau	Russia	Moscow
+Dominica	Roseau	Sri Lanka	Colombo
+Dominica	Roseau	Rwanda	Kigali
+Dominica	Roseau	Vanuatu	Port Vila
+Dominica	Roseau	North Macedonia	Skopje
+Dominica	Roseau	Indonesia	Jakarta
+Dominica	Roseau	Oman	Muscat
+Dominica	Roseau	Kenya	Nairobi
+Dominica	Roseau	Guinea-Bissau	Bissau
+Dominica	Roseau	Lesotho	Maseru
+Dominica	Roseau	Belgium	Brussels
+Dominica	Roseau	Micronesia	Palikir
+Dominica	Roseau	Democratic Republic of the Congo	Kinshasa
+Dominica	Roseau	Cuba	Havana
+Dominica	Roseau	Botswana	Gaborone
+Dominica	Roseau	Burundi	Bujumbura
+Dominica	Roseau	Ghana	Accra
+Dominica	Roseau	Canada	Ottawa
+Dominica	Roseau	Uzbekistan	Tashkent
+Dominica	Roseau	India	New Delhi
+Dominica	Roseau	Ireland	Dublin
+Dominica	Roseau	El Salvador	San Salvador
+Dominica	Roseau	Kuwait	Kuwait City
+Dominica	Roseau	Saint Lucia	Castries
+Dominica	Roseau	Uganda	Kampala
+Dominica	Roseau	South Sudan	Juba
+Dominica	Roseau	South Korea	Seoul
+Dominica	Roseau	Bahamas	Nassau
+Dominica	Roseau	Palestine	Ramallah
+Dominica	Roseau	Switzerland	Bern
+Dominica	Roseau	Croatia	Zagreb
+Dominica	Roseau	Tajikistan	Dushanbe
+Dominica	Roseau	Thailand	Bangkok
+Dominica	Roseau	Saudi Arabia	Riyadh
+Dominica	Roseau	Grenada	St. George's
+Dominica	Roseau	Turkey	Ankara
+Dominica	Roseau	Ukraine	Kiev
+Dominica	Roseau	Gambia	Banjul
+Dominica	Roseau	Chile	Santiago
+Dominica	Roseau	Lebanon	Beirut
+Dominica	Roseau	Zambia	Lusaka
+Dominica	Roseau	Argentina	Buenos Aires
+Dominica	Roseau	Uruguay	Montevideo
+Dominica	Roseau	Fiji	Suva
+Dominica	Roseau	Mongolia	Ulaanbaatar
+Dominica	Roseau	Eritrea	Asmara
+Zambia	Lusaka	Panama	Panama City
+Zambia	Lusaka	Sao Tome and Principe	Sao Tome
+Zambia	Lusaka	Hungary	Budapest
+Zambia	Lusaka	Russia	Moscow
+Zambia	Lusaka	Sri Lanka	Colombo
+Zambia	Lusaka	Rwanda	Kigali
+Zambia	Lusaka	Vanuatu	Port Vila
+Zambia	Lusaka	North Macedonia	Skopje
+Zambia	Lusaka	Indonesia	Jakarta
+Zambia	Lusaka	Oman	Muscat
+Zambia	Lusaka	Kenya	Nairobi
+Zambia	Lusaka	Guinea-Bissau	Bissau
+Zambia	Lusaka	Lesotho	Maseru
+Zambia	Lusaka	Belgium	Brussels
+Zambia	Lusaka	Micronesia	Palikir
+Zambia	Lusaka	Democratic Republic of the Congo	Kinshasa
+Zambia	Lusaka	Cuba	Havana
+Zambia	Lusaka	Botswana	Gaborone
+Zambia	Lusaka	Burundi	Bujumbura
+Zambia	Lusaka	Ghana	Accra
+Zambia	Lusaka	Canada	Ottawa
+Zambia	Lusaka	Uzbekistan	Tashkent
+Zambia	Lusaka	India	New Delhi
+Zambia	Lusaka	Ireland	Dublin
+Zambia	Lusaka	El Salvador	San Salvador
+Zambia	Lusaka	Kuwait	Kuwait City
+Zambia	Lusaka	Saint Lucia	Castries
+Zambia	Lusaka	Uganda	Kampala
+Zambia	Lusaka	South Sudan	Juba
+Zambia	Lusaka	South Korea	Seoul
+Zambia	Lusaka	Bahamas	Nassau
+Zambia	Lusaka	Palestine	Ramallah
+Zambia	Lusaka	Switzerland	Bern
+Zambia	Lusaka	Croatia	Zagreb
+Zambia	Lusaka	Tajikistan	Dushanbe
+Zambia	Lusaka	Thailand	Bangkok
+Zambia	Lusaka	Saudi Arabia	Riyadh
+Zambia	Lusaka	Grenada	St. George's
+Zambia	Lusaka	Turkey	Ankara
+Zambia	Lusaka	Ukraine	Kiev
+Zambia	Lusaka	Gambia	Banjul
+Zambia	Lusaka	Chile	Santiago
+Zambia	Lusaka	Lebanon	Beirut
+Zambia	Lusaka	Dominica	Roseau
+Zambia	Lusaka	Argentina	Buenos Aires
+Zambia	Lusaka	Uruguay	Montevideo
+Zambia	Lusaka	Fiji	Suva
+Zambia	Lusaka	Mongolia	Ulaanbaatar
+Zambia	Lusaka	Eritrea	Asmara
+Argentina	Buenos Aires	Panama	Panama City
+Argentina	Buenos Aires	Sao Tome and Principe	Sao Tome
+Argentina	Buenos Aires	Hungary	Budapest
+Argentina	Buenos Aires	Russia	Moscow
+Argentina	Buenos Aires	Sri Lanka	Colombo
+Argentina	Buenos Aires	Rwanda	Kigali
+Argentina	Buenos Aires	Vanuatu	Port Vila
+Argentina	Buenos Aires	North Macedonia	Skopje
+Argentina	Buenos Aires	Indonesia	Jakarta
+Argentina	Buenos Aires	Oman	Muscat
+Argentina	Buenos Aires	Kenya	Nairobi
+Argentina	Buenos Aires	Guinea-Bissau	Bissau
+Argentina	Buenos Aires	Lesotho	Maseru
+Argentina	Buenos Aires	Belgium	Brussels
+Argentina	Buenos Aires	Micronesia	Palikir
+Argentina	Buenos Aires	Democratic Republic of the Congo	Kinshasa
+Argentina	Buenos Aires	Cuba	Havana
+Argentina	Buenos Aires	Botswana	Gaborone
+Argentina	Buenos Aires	Burundi	Bujumbura
+Argentina	Buenos Aires	Ghana	Accra
+Argentina	Buenos Aires	Canada	Ottawa
+Argentina	Buenos Aires	Uzbekistan	Tashkent
+Argentina	Buenos Aires	India	New Delhi
+Argentina	Buenos Aires	Ireland	Dublin
+Argentina	Buenos Aires	El Salvador	San Salvador
+Argentina	Buenos Aires	Kuwait	Kuwait City
+Argentina	Buenos Aires	Saint Lucia	Castries
+Argentina	Buenos Aires	Uganda	Kampala
+Argentina	Buenos Aires	South Sudan	Juba
+Argentina	Buenos Aires	South Korea	Seoul
+Argentina	Buenos Aires	Bahamas	Nassau
+Argentina	Buenos Aires	Palestine	Ramallah
+Argentina	Buenos Aires	Switzerland	Bern
+Argentina	Buenos Aires	Croatia	Zagreb
+Argentina	Buenos Aires	Tajikistan	Dushanbe
+Argentina	Buenos Aires	Thailand	Bangkok
+Argentina	Buenos Aires	Saudi Arabia	Riyadh
+Argentina	Buenos Aires	Grenada	St. George's
+Argentina	Buenos Aires	Turkey	Ankara
+Argentina	Buenos Aires	Ukraine	Kiev
+Argentina	Buenos Aires	Gambia	Banjul
+Argentina	Buenos Aires	Chile	Santiago
+Argentina	Buenos Aires	Lebanon	Beirut
+Argentina	Buenos Aires	Dominica	Roseau
+Argentina	Buenos Aires	Zambia	Lusaka
+Argentina	Buenos Aires	Uruguay	Montevideo
+Argentina	Buenos Aires	Fiji	Suva
+Argentina	Buenos Aires	Mongolia	Ulaanbaatar
+Argentina	Buenos Aires	Eritrea	Asmara
+Uruguay	Montevideo	Panama	Panama City
+Uruguay	Montevideo	Sao Tome and Principe	Sao Tome
+Uruguay	Montevideo	Hungary	Budapest
+Uruguay	Montevideo	Russia	Moscow
+Uruguay	Montevideo	Sri Lanka	Colombo
+Uruguay	Montevideo	Rwanda	Kigali
+Uruguay	Montevideo	Vanuatu	Port Vila
+Uruguay	Montevideo	North Macedonia	Skopje
+Uruguay	Montevideo	Indonesia	Jakarta
+Uruguay	Montevideo	Oman	Muscat
+Uruguay	Montevideo	Kenya	Nairobi
+Uruguay	Montevideo	Guinea-Bissau	Bissau
+Uruguay	Montevideo	Lesotho	Maseru
+Uruguay	Montevideo	Belgium	Brussels
+Uruguay	Montevideo	Micronesia	Palikir
+Uruguay	Montevideo	Democratic Republic of the Congo	Kinshasa
+Uruguay	Montevideo	Cuba	Havana
+Uruguay	Montevideo	Botswana	Gaborone
+Uruguay	Montevideo	Burundi	Bujumbura
+Uruguay	Montevideo	Ghana	Accra
+Uruguay	Montevideo	Canada	Ottawa
+Uruguay	Montevideo	Uzbekistan	Tashkent
+Uruguay	Montevideo	India	New Delhi
+Uruguay	Montevideo	Ireland	Dublin
+Uruguay	Montevideo	El Salvador	San Salvador
+Uruguay	Montevideo	Kuwait	Kuwait City
+Uruguay	Montevideo	Saint Lucia	Castries
+Uruguay	Montevideo	Uganda	Kampala
+Uruguay	Montevideo	South Sudan	Juba
+Uruguay	Montevideo	South Korea	Seoul
+Uruguay	Montevideo	Bahamas	Nassau
+Uruguay	Montevideo	Palestine	Ramallah
+Uruguay	Montevideo	Switzerland	Bern
+Uruguay	Montevideo	Croatia	Zagreb
+Uruguay	Montevideo	Tajikistan	Dushanbe
+Uruguay	Montevideo	Thailand	Bangkok
+Uruguay	Montevideo	Saudi Arabia	Riyadh
+Uruguay	Montevideo	Grenada	St. George's
+Uruguay	Montevideo	Turkey	Ankara
+Uruguay	Montevideo	Ukraine	Kiev
+Uruguay	Montevideo	Gambia	Banjul
+Uruguay	Montevideo	Chile	Santiago
+Uruguay	Montevideo	Lebanon	Beirut
+Uruguay	Montevideo	Dominica	Roseau
+Uruguay	Montevideo	Zambia	Lusaka
+Uruguay	Montevideo	Argentina	Buenos Aires
+Uruguay	Montevideo	Fiji	Suva
+Uruguay	Montevideo	Mongolia	Ulaanbaatar
+Uruguay	Montevideo	Eritrea	Asmara
+Fiji	Suva	Panama	Panama City
+Fiji	Suva	Sao Tome and Principe	Sao Tome
+Fiji	Suva	Hungary	Budapest
+Fiji	Suva	Russia	Moscow
+Fiji	Suva	Sri Lanka	Colombo
+Fiji	Suva	Rwanda	Kigali
+Fiji	Suva	Vanuatu	Port Vila
+Fiji	Suva	North Macedonia	Skopje
+Fiji	Suva	Indonesia	Jakarta
+Fiji	Suva	Oman	Muscat
+Fiji	Suva	Kenya	Nairobi
+Fiji	Suva	Guinea-Bissau	Bissau
+Fiji	Suva	Lesotho	Maseru
+Fiji	Suva	Belgium	Brussels
+Fiji	Suva	Micronesia	Palikir
+Fiji	Suva	Democratic Republic of the Congo	Kinshasa
+Fiji	Suva	Cuba	Havana
+Fiji	Suva	Botswana	Gaborone
+Fiji	Suva	Burundi	Bujumbura
+Fiji	Suva	Ghana	Accra
+Fiji	Suva	Canada	Ottawa
+Fiji	Suva	Uzbekistan	Tashkent
+Fiji	Suva	India	New Delhi
+Fiji	Suva	Ireland	Dublin
+Fiji	Suva	El Salvador	San Salvador
+Fiji	Suva	Kuwait	Kuwait City
+Fiji	Suva	Saint Lucia	Castries
+Fiji	Suva	Uganda	Kampala
+Fiji	Suva	South Sudan	Juba
+Fiji	Suva	South Korea	Seoul
+Fiji	Suva	Bahamas	Nassau
+Fiji	Suva	Palestine	Ramallah
+Fiji	Suva	Switzerland	Bern
+Fiji	Suva	Croatia	Zagreb
+Fiji	Suva	Tajikistan	Dushanbe
+Fiji	Suva	Thailand	Bangkok
+Fiji	Suva	Saudi Arabia	Riyadh
+Fiji	Suva	Grenada	St. George's
+Fiji	Suva	Turkey	Ankara
+Fiji	Suva	Ukraine	Kiev
+Fiji	Suva	Gambia	Banjul
+Fiji	Suva	Chile	Santiago
+Fiji	Suva	Lebanon	Beirut
+Fiji	Suva	Dominica	Roseau
+Fiji	Suva	Zambia	Lusaka
+Fiji	Suva	Argentina	Buenos Aires
+Fiji	Suva	Uruguay	Montevideo
+Fiji	Suva	Mongolia	Ulaanbaatar
+Fiji	Suva	Eritrea	Asmara
+Mongolia	Ulaanbaatar	Panama	Panama City
+Mongolia	Ulaanbaatar	Sao Tome and Principe	Sao Tome
+Mongolia	Ulaanbaatar	Hungary	Budapest
+Mongolia	Ulaanbaatar	Russia	Moscow
+Mongolia	Ulaanbaatar	Sri Lanka	Colombo
+Mongolia	Ulaanbaatar	Rwanda	Kigali
+Mongolia	Ulaanbaatar	Vanuatu	Port Vila
+Mongolia	Ulaanbaatar	North Macedonia	Skopje
+Mongolia	Ulaanbaatar	Indonesia	Jakarta
+Mongolia	Ulaanbaatar	Oman	Muscat
+Mongolia	Ulaanbaatar	Kenya	Nairobi
+Mongolia	Ulaanbaatar	Guinea-Bissau	Bissau
+Mongolia	Ulaanbaatar	Lesotho	Maseru
+Mongolia	Ulaanbaatar	Belgium	Brussels
+Mongolia	Ulaanbaatar	Micronesia	Palikir
+Mongolia	Ulaanbaatar	Democratic Republic of the Congo	Kinshasa
+Mongolia	Ulaanbaatar	Cuba	Havana
+Mongolia	Ulaanbaatar	Botswana	Gaborone
+Mongolia	Ulaanbaatar	Burundi	Bujumbura
+Mongolia	Ulaanbaatar	Ghana	Accra
+Mongolia	Ulaanbaatar	Canada	Ottawa
+Mongolia	Ulaanbaatar	Uzbekistan	Tashkent
+Mongolia	Ulaanbaatar	India	New Delhi
+Mongolia	Ulaanbaatar	Ireland	Dublin
+Mongolia	Ulaanbaatar	El Salvador	San Salvador
+Mongolia	Ulaanbaatar	Kuwait	Kuwait City
+Mongolia	Ulaanbaatar	Saint Lucia	Castries
+Mongolia	Ulaanbaatar	Uganda	Kampala
+Mongolia	Ulaanbaatar	South Sudan	Juba
+Mongolia	Ulaanbaatar	South Korea	Seoul
+Mongolia	Ulaanbaatar	Bahamas	Nassau
+Mongolia	Ulaanbaatar	Palestine	Ramallah
+Mongolia	Ulaanbaatar	Switzerland	Bern
+Mongolia	Ulaanbaatar	Croatia	Zagreb
+Mongolia	Ulaanbaatar	Tajikistan	Dushanbe
+Mongolia	Ulaanbaatar	Thailand	Bangkok
+Mongolia	Ulaanbaatar	Saudi Arabia	Riyadh
+Mongolia	Ulaanbaatar	Grenada	St. George's
+Mongolia	Ulaanbaatar	Turkey	Ankara
+Mongolia	Ulaanbaatar	Ukraine	Kiev
+Mongolia	Ulaanbaatar	Gambia	Banjul
+Mongolia	Ulaanbaatar	Chile	Santiago
+Mongolia	Ulaanbaatar	Lebanon	Beirut
+Mongolia	Ulaanbaatar	Dominica	Roseau
+Mongolia	Ulaanbaatar	Zambia	Lusaka
+Mongolia	Ulaanbaatar	Argentina	Buenos Aires
+Mongolia	Ulaanbaatar	Uruguay	Montevideo
+Mongolia	Ulaanbaatar	Fiji	Suva
+Mongolia	Ulaanbaatar	Eritrea	Asmara
+Eritrea	Asmara	Panama	Panama City
+Eritrea	Asmara	Sao Tome and Principe	Sao Tome
+Eritrea	Asmara	Hungary	Budapest
+Eritrea	Asmara	Russia	Moscow
+Eritrea	Asmara	Sri Lanka	Colombo
+Eritrea	Asmara	Rwanda	Kigali
+Eritrea	Asmara	Vanuatu	Port Vila
+Eritrea	Asmara	North Macedonia	Skopje
+Eritrea	Asmara	Indonesia	Jakarta
+Eritrea	Asmara	Oman	Muscat
+Eritrea	Asmara	Kenya	Nairobi
+Eritrea	Asmara	Guinea-Bissau	Bissau
+Eritrea	Asmara	Lesotho	Maseru
+Eritrea	Asmara	Belgium	Brussels
+Eritrea	Asmara	Micronesia	Palikir
+Eritrea	Asmara	Democratic Republic of the Congo	Kinshasa
+Eritrea	Asmara	Cuba	Havana
+Eritrea	Asmara	Botswana	Gaborone
+Eritrea	Asmara	Burundi	Bujumbura
+Eritrea	Asmara	Ghana	Accra
+Eritrea	Asmara	Canada	Ottawa
+Eritrea	Asmara	Uzbekistan	Tashkent
+Eritrea	Asmara	India	New Delhi
+Eritrea	Asmara	Ireland	Dublin
+Eritrea	Asmara	El Salvador	San Salvador
+Eritrea	Asmara	Kuwait	Kuwait City
+Eritrea	Asmara	Saint Lucia	Castries
+Eritrea	Asmara	Uganda	Kampala
+Eritrea	Asmara	South Sudan	Juba
+Eritrea	Asmara	South Korea	Seoul
+Eritrea	Asmara	Bahamas	Nassau
+Eritrea	Asmara	Palestine	Ramallah
+Eritrea	Asmara	Switzerland	Bern
+Eritrea	Asmara	Croatia	Zagreb
+Eritrea	Asmara	Tajikistan	Dushanbe
+Eritrea	Asmara	Thailand	Bangkok
+Eritrea	Asmara	Saudi Arabia	Riyadh
+Eritrea	Asmara	Grenada	St. George's
+Eritrea	Asmara	Turkey	Ankara
+Eritrea	Asmara	Ukraine	Kiev
+Eritrea	Asmara	Gambia	Banjul
+Eritrea	Asmara	Chile	Santiago
+Eritrea	Asmara	Lebanon	Beirut
+Eritrea	Asmara	Dominica	Roseau
+Eritrea	Asmara	Zambia	Lusaka
+Eritrea	Asmara	Argentina	Buenos Aires
+Eritrea	Asmara	Uruguay	Montevideo
+Eritrea	Asmara	Fiji	Suva
+Eritrea	Asmara	Mongolia	Ulaanbaatar
