@@ -1,0 +1,1 @@
+{"results": [{"task": "synonym", "proj": false, "raw": false, "proj_pred": "quick", "raw_pred": "quick"}, {"task": "antonym", "proj": false, "raw": false, "proj_pred": "down", "raw_pred": "down"}, {"task": "person-occupation", "proj": false, "raw": false, "proj_pred": "composer", "raw_pred": "composer"}], "pass": false, "count": 0}

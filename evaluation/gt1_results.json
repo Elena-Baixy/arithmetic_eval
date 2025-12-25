@@ -1,0 +1,1 @@
+{"results": [{"proj": false, "raw": false, "proj_pred": "Athens", "raw_pred": "Athens"}, {"proj": false, "raw": false, "proj_pred": "Berlin", "raw_pred": "Berlin"}, {"proj": true, "raw": false, "proj_pred": "running", "raw_pred": "ran"}], "pass": true, "count": 1, "model": "Meta-Llama-3-8B"}

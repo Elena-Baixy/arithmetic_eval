@@ -1,0 +1,1 @@
+{"results": [{"proj": false, "raw": false, "proj_pred": "Brasilia", "raw_pred": "Brasilia"}, {"proj": false, "raw": false, "proj_pred": "Bogota", "raw_pred": "Ecuador"}, {"proj": true, "raw": false, "proj_pred": "painting", "raw_pred": "painted"}], "pass": true, "count": 1}
