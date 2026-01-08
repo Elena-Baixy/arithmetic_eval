@@ -1,0 +1,12 @@
+{
+  "Checklist": {
+    "GT1_ModelGeneralization": "PASS",
+    "GT2_DataGeneralization": "PASS",
+    "GT3_MethodGeneralization": "PASS"
+  },
+  "Rationale": {
+    "GT1_ModelGeneralization": "The method (concept/token lens via OV matrix summation) has been applied to 6 different models across 4 model families: Llama-2-7b-hf (original), Meta-Llama-3-8B, Llama-3.2-3B, pythia-6.9b, OLMo-2-0425-1B, and OLMo-2-1124-7B. All models show identifiable concept/token heads with consistent patterns in middle layers (8-21), demonstrating the finding generalizes across architectures, model sizes (1B-8B), and training procedures.",
+    "GT2_DataGeneralization": "The method works on two distinct data sources: (1) Word2Vec analogy dataset with 14 task categories, and (2) Function Vector (FVS) dataset with 27 task categories. Key results on new FVS data: country-capital improved from 21.5% to 60.8% with concept lens; singular-plural improved from 14.4% to 51.7% with token lens. The pattern that concept lens helps semantic tasks and token lens helps grammatical tasks generalizes consistently to new data.",
+    "GT3_MethodGeneralization": "The work proposes a new method (concept/token lens projection) that has been successfully applied to 41 distinct task categories including: geographic relations (capitals, currencies), grammatical transformations (plurals, tenses), translation tasks (English to French/German/Spanish), and character-level tasks (capitalization). The method shows improvement over raw hidden states in the majority of applicable tasks."
+  }
+}
