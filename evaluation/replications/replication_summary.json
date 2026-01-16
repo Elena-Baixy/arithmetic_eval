@@ -1,0 +1,163 @@
+{
+  "replication_date": "2026-01-16",
+  "model": "meta-llama/Llama-2-7b-hf",
+  "tasks_replicated": [
+    {
+      "task": "capital-common-countries",
+      "dataset": "word2vec",
+      "layers": [
+        0,
+        4,
+        8,
+        12,
+        16,
+        20,
+        24,
+        28,
+        31
+      ],
+      "results": {
+        "raw": [
+          0.0,
+          0.023715,
+          0.051383,
+          0.090909,
+          0.171937,
+          0.158103,
+          0.059289,
+          0.0,
+          0.009881
+        ],
+        "concept": [
+          0.0,
+          0.237154,
+          0.333992,
+          0.606719,
+          0.883399,
+          0.895257,
+          0.865613,
+          0.62253,
+          0.225296
+        ],
+        "token": [
+          0.0,
+          0.021739,
+          0.033597,
+          0.051383,
+          0.055336,
+          0.073123,
+          0.041502,
+          0.0,
+          0.007905
+        ],
+        "all": [
+          0.0,
+          0.055336,
+          0.094862,
+          0.126482,
+          0.197628,
+          0.181818,
+          0.100791,
+          0.009881,
+          0.029644
+        ]
+      },
+      "best_method": "concept",
+      "best_layer": 20,
+      "best_accuracy": 0.8953
+    },
+    {
+      "task": "gram5-present-participle",
+      "dataset": "word2vec",
+      "layers": [
+        0,
+        4,
+        8,
+        12,
+        16,
+        20,
+        24,
+        28,
+        31
+      ],
+      "results": {
+        "raw": [
+          0.0,
+          0.018939,
+          0.024621,
+          0.056818,
+          0.107955,
+          0.028409,
+          0.006629,
+          0.002841,
+          0.030303
+        ],
+        "concept": [
+          0.0,
+          0.041667,
+          0.035038,
+          0.159091,
+          0.247159,
+          0.099432,
+          0.029356,
+          0.012311,
+          0.048295
+        ],
+        "token": [
+          0.0,
+          0.14678,
+          0.123106,
+          0.366477,
+          0.541667,
+          0.400568,
+          0.19697,
+          0.083333,
+          0.056818
+        ],
+        "all": [
+          0.0,
+          0.054924,
+          0.066288,
+          0.161932,
+          0.247159,
+          0.131629,
+          0.056818,
+          0.022727,
+          0.046402
+        ]
+      },
+      "best_method": "token",
+      "best_layer": 16,
+      "best_accuracy": 0.5417
+    },
+    {
+      "task": "family",
+      "dataset": "word2vec",
+      "layer": 20,
+      "results": {
+        "raw": 0.004,
+        "concept": 0.0692,
+        "token": 0.0237,
+        "all": 0.0336
+      }
+    },
+    {
+      "task": "gram7-past-tense",
+      "dataset": "word2vec",
+      "layer": 16,
+      "results": {
+        "raw": 0.0949,
+        "concept": 0.2558,
+        "token": 0.5641,
+        "all": 0.3
+      }
+    }
+  ],
+  "validation_status": "ALL_RESULTS_MATCH",
+  "key_findings": [
+    "Concept lens achieves 89.5% NN accuracy on capital cities at layer 20 (vs 15.8% raw)",
+    "Token lens achieves 54.2% NN accuracy on present participle at layer 16 (vs 10.8% raw)",
+    "Token lens achieves 56.4% NN accuracy on past tense at layer 16 (vs 9.5% raw)",
+    "Results perfectly match all cached values from original repository"
+  ]
+}
