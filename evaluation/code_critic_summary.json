@@ -1,26 +1,26 @@
 {
-  "Runnable_Percentage": 100.0,
-  "Incorrect_Percentage": 0.0,
+  "Runnable_Percentage": 68.0,
+  "Incorrect_Percentage": 32.0,
   "Redundant_Percentage": 0.0,
   "Irrelevant_Percentage": 0.0,
   "Correction_Rate_Percentage": 0.0,
   "Issues": {
-    "Runnable_Issues_Exist": false,
+    "Runnable_Issues_Exist": true,
     "Output_Mismatch_Exists": false,
-    "Incorrect_Exists": false,
+    "Incorrect_Exists": true,
     "Redundant_Exists": false,
     "Irrelevant_Exists": false
   },
   "Checklist": {
-    "C1_All_Runnable": "PASS",
-    "C2_All_Correct": "PASS",
+    "C1_All_Runnable": "FAIL",
+    "C2_All_Correct": "FAIL",
     "C3_No_Redundant": "PASS",
     "C4_No_Irrelevant": "PASS"
   },
   "Rationale": {
-    "C1_All_Runnable": "All 28 code blocks executed without errors.",
-    "C2_All_Correct": "All implementations correctly follow the described computation in the plan/codewalk.",
-    "C3_No_Redundant": "No duplicate computations found across the codebase.",
-    "C4_No_Irrelevant": "All code blocks contribute to the project goal of parallelogram arithmetic analysis."
+    "C1_All_Runnable": "8 blocks have Runnable=N due to logit_lens() API compatibility issue with nnsight.",
+    "C2_All_Correct": "8 blocks have Correct-Implementation=N due to logit_lens() using incorrect nnsight API (model.lm_head instead of model._model.lm_head).",
+    "C3_No_Redundant": "No blocks are redundant.",
+    "C4_No_Irrelevant": "All blocks are relevant to the project goal."
   }
 }
