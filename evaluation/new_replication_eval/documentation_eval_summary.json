@@ -5,8 +5,8 @@
     "DE3_NoExternalInformation": "PASS"
   },
   "Rationale": {
-    "DE1_ResultFidelity": "All 16 quantitative results (nearest-neighbor accuracy for 4 tasks \u00d7 4 lens types) exactly match the cached original results with 0.0% deviation. Specific matches include: capital-common-countries concept L20 (83.4%), family concept L20 (51.6%), gram5-present-participle token L16 (68.3%), and gram7-past-tense token L16 (85.4%).",
-    "DE2_ConclusionConsistency": "The replicated documentation's conclusions are fully consistent with the original: (1) concept lens excels at semantic tasks, (2) token lens excels at grammatical tasks, (3) raw hidden states underperform due to interference. The replicated doc adds quantitative evidence supporting these same conclusions without contradiction.",
-    "DE3_NoExternalInformation": "All claims verified against original sources: paper title/authors match CodeWalkthrough.md citation, model (Llama-2-7b) and datasets (word2vec, fvs) match original, methodology matches plan.md, and all numerical results verified against cached data. No external references or invented findings introduced."
+    "DE1_ResultFidelity": "All 9 compared result configurations matched within 0.05% deviation, well within the 5% tolerance threshold. Results include capital-common-countries (concept: 89.5%, raw: 15.8%, token: 7.3%), family relations (concept: 6.9%, raw: 0.4%, token: 2.4%), and present participle (concept: 24.8%, raw: 10.8%, token: 54.2%).",
+    "DE2_ConclusionConsistency": "The replicated documentation's conclusions align with the original: (1) concept lens improves semantic analogies, (2) token lens excels at grammatical tasks, and (3) different induction head types are specialized for different analogy types. No contradictions or omissions of essential claims.",
+    "DE3_NoExternalInformation": "All claims in the replicated documentation trace back to the original CodeWalkthrough.md, cached experimental results, or standard mathematical derivations. No external references, invented findings, or hallucinated details were introduced."
   }
 }

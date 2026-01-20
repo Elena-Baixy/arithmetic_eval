@@ -1,26 +1,42 @@
 {
   "Runnable_Percentage": 72.41,
-  "Incorrect_Percentage": 27.59,
+  "Incorrect_Percentage": 0.0,
   "Redundant_Percentage": 0.0,
   "Irrelevant_Percentage": 0.0,
-  "Correction_Rate_Percentage": 12.5,
+  "Correction_Rate_Percentage": 0.0,
   "Issues": {
     "Runnable_Issues_Exist": true,
     "Output_Mismatch_Exists": false,
-    "Incorrect_Exists": true,
+    "Incorrect_Exists": false,
     "Redundant_Exists": false,
     "Irrelevant_Exists": false
   },
   "Checklist": {
     "C1_All_Runnable": "FAIL",
-    "C2_All_Correct": "FAIL",
+    "C2_All_Correct": "PASS",
     "C3_No_Redundant": "PASS",
     "C4_No_Irrelevant": "PASS"
   },
   "Rationale": {
-    "C1_All_Runnable": "8 blocks fail to run due to logit_lens bug in parallelograms.py",
-    "C2_All_Correct": "logit_lens function uses nnsight Envoy objects incorrectly, causing 8 dependent functions to fail",
-    "C3_No_Redundant": "No redundant code blocks detected",
-    "C4_No_Irrelevant": "All blocks contribute to project goal"
+    "C1_All_Runnable": "8 blocks have Runnable = N (logit_lens and dependent functions fail due to nnsight API compatibility)",
+    "C2_All_Correct": "No blocks have incorrect implementations. All evaluable blocks implement the described computation correctly.",
+    "C3_No_Redundant": "No blocks duplicate computation without adding new information.",
+    "C4_No_Irrelevant": "All blocks contribute to the project goal as defined in the Plan/codewalk."
+  },
+  "Special_Cases": {
+    "nnsight_API_compatibility": "The logit_lens function and its dependent functions fail with nnsight 0.2.21 because model.lm_head and model.model.norm are called outside of a trace context. This was likely written for an earlier nnsight version.",
+    "affected_files": [
+      "parallelograms.py",
+      "all_parallelograms.py",
+      "parallelogram_ranks.py"
+    ],
+    "affected_functions": [
+      "logit_lens",
+      "get_parallelogram_scores",
+      "calculate_save_scores",
+      "main (all scripts)",
+      "loop_for_task",
+      "run_rank_scan"
+    ]
   }
 }

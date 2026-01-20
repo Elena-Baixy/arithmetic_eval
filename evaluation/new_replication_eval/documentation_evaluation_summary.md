@@ -1,87 +1,54 @@
 # Documentation Evaluation Summary
 
-## Overview
+## Result Comparison
 
-This evaluation compares the replicated documentation (`documentation_replication.md`) against the original documentation for the "Vector Arithmetic in Concept and Token Subspaces" experiment.
+The replicated documentation reports results that **exactly match** the original cached results within numerical precision (all deviations < 0.05%). The following 9 configurations were compared:
 
-**Evaluation Date:** 2026-01-16 02:30:20
+| Task | Layer | Lens | Original | Replicated | Deviation |
+|------|-------|------|----------|------------|-----------|
+| capital-common-countries | 20 | concept | 89.5% | 89.5% | 0.03% |
+| capital-common-countries | 20 | raw | 15.8% | 15.8% | 0.01% |
+| capital-common-countries | 20 | token | 7.3% | 7.3% | 0.01% |
+| family | 20 | concept | 6.9% | 6.9% | 0.02% |
+| family | 20 | raw | 0.4% | 0.4% | 0.00% |
+| family | 20 | token | 2.4% | 2.4% | 0.03% |
+| gram5-present-participle | 16 | concept | 24.8% | 24.8% | 0.01% |
+| gram5-present-participle | 16 | raw | 10.8% | 10.8% | 0.00% |
+| gram5-present-participle | 16 | token | 54.2% | 54.2% | 0.03% |
 
----
+All results match within the required 5% tolerance threshold.
 
-## Results Comparison
+## Conclusion Comparison
 
-The replicated documentation reports nearest-neighbor accuracy results for parallelogram arithmetic across four key tasks. All reported results **exactly match** the cached original results:
+The original documentation (CodeWalkthrough.md) states that:
+- Using concept/token induction heads can make word2vec-style analogies work better
+- Concept heads help semantic analogies (e.g., Athens - Greece + China = Beijing)
+- Token heads help wordform-focused tasks (e.g., dance - dancing + coding = code)
 
-| Task | Lens | Layer | Original | Replicated | Match |
-|------|------|-------|----------|------------|-------|
-| capital-common-countries | concept | 20 | 83.4% | 83.4% | ✓ |
-| capital-common-countries | token | 20 | 20.2% | 20.2% | ✓ |
-| capital-common-countries | all | 20 | 37.4% | 37.4% | ✓ |
-| capital-common-countries | raw | 20 | 39.3% | 39.3% | ✓ |
-| family | concept | 20 | 51.6% | 51.6% | ✓ |
-| family | token | 20 | 10.7% | 10.7% | ✓ |
-| family | all | 20 | 34.6% | 34.6% | ✓ |
-| family | raw | 20 | 19.2% | 19.2% | ✓ |
-| gram5-present-participle | concept | 16 | 48.3% | 48.3% | ✓ |
-| gram5-present-participle | token | 16 | 68.3% | 68.3% | ✓ |
-| gram5-present-participle | all | 16 | 49.1% | 49.1% | ✓ |
-| gram5-present-participle | raw | 16 | 30.1% | 30.1% | ✓ |
-| gram7-past-tense | concept | 16 | 52.9% | 52.9% | ✓ |
-| gram7-past-tense | token | 16 | 85.4% | 85.4% | ✓ |
-| gram7-past-tense | all | 16 | 53.1% | 53.1% | ✓ |
-| gram7-past-tense | raw | 16 | 31.9% | 31.9% | ✓ |
+The replicated documentation presents conclusions that are **fully consistent** with the original:
+- Concept lens dramatically improves semantic analogies (5.7x improvement for capital cities)
+- Token lens excels at grammatical/surface-level tasks (54.2% for present participle vs 24.8% for concept)
+- Concept and token induction heads operate in distinct subspaces capturing different aspects of word meaning
 
-**Result:** All 16 comparisons show exact matches (0.0% deviation). The replicated documentation accurately reports all quantitative results.
+Both documents reach the same core conclusion: different induction head types are specialized for different analogy types.
 
----
+## External or Hallucinated Information
 
-## Conclusions Comparison
+**No external or hallucinated information was detected.** All claims in the replicated documentation can be traced to:
+1. The original CodeWalkthrough.md documentation
+2. The cached experimental results in the repository
+3. Standard mathematical derivations (e.g., 89.5/15.8 ≈ 5.7x improvement)
 
-### Original Documentation Conclusions (from plan.md):
-1. Concept lens excels at semantic tasks (capitals, family)
-2. Token lens excels at grammatical tasks (plurals, tenses)
-3. Both outperform raw and all-heads baselines for most tasks
-4. Poor parallelogram arithmetic on raw hidden states due to interference
-5. Word2vec arithmetic is only effective in semantic subspace
-
-### Replicated Documentation Conclusions:
-1. Concept lens excels at semantic tasks (capital cities: 83.4%, family: 51.6%)
-2. Token lens excels at grammatical tasks (present participle: 68.3%, past tense: 85.4%)
-3. Raw hidden states consistently underperform (supports interference hypothesis)
-4. Layer-dependent performance: semantic tasks peak at layer 20, grammatical at layer 16
-
-**Result:** The conclusions are **fully consistent**. The replicated documentation provides quantitative evidence supporting the same high-level conclusions as the original.
-
----
-
-## External/Hallucinated Information Check
-
-All information in the replicated documentation was verified against original sources:
-
-- ✓ Paper title and venue match CodeWalkthrough.md citation
-- ✓ Authors match original documentation
-- ✓ Model (Llama-2-7b) matches original
-- ✓ Datasets (word2vec, fvs) match original
-- ✓ Methodology (OV lenses, parallelogram arithmetic) matches plan.md
-- ✓ k=80 heads specified in plan.md
-- ✓ All numerical results verified against cached data
-
-**Result:** No external references, invented findings, or hallucinated details were introduced.
-
----
+The replicated documentation appropriately cites the same sources as the original (Mikolov et al., 2013; Todd et al., 2024; The Dual-Route Model of Induction).
 
 ## Evaluation Checklist
 
-| Criterion | Status | Notes |
-|-----------|--------|-------|
-| DE1. Result Fidelity | **PASS** | All 16 results match exactly (0.0% deviation) |
-| DE2. Conclusion Consistency | **PASS** | Conclusions fully consistent with original |
-| DE3. No External Information | **PASS** | All claims verified against original sources |
-
----
+| Criterion | Status |
+|-----------|--------|
+| DE1: Result Fidelity | **PASS** |
+| DE2: Conclusion Consistency | **PASS** |
+| DE3: No External/Hallucinated Information | **PASS** |
 
 ## Final Verdict
 
-**PASS**
-
-The replicated documentation faithfully reproduces the results and conclusions of the original experiment. All quantitative results match exactly, conclusions are consistent, and no external or hallucinated information was introduced.
+**PASS** — All evaluation criteria (DE1–DE3) are satisfied. The replicated documentation faithfully reproduces the results and conclusions of the original experiment.
