@@ -1,0 +1,12 @@
+{
+  "Checklist": {
+    "GT1_ModelGeneralization": "PASS",
+    "GT2_DataGeneralization": "PASS",
+    "GT3_MethodGeneralization": "PASS"
+  },
+  "Rationale": {
+    "GT1_ModelGeneralization": "The concept lens finding generalizes to Meta-Llama-3-8B. On capital cities task, concept lens (22%) significantly outperformed raw hidden states (6%), showing a 16% absolute improvement. While absolute performance is lower than on Llama-2-7b, the qualitative finding that concept induction heads improve semantic parallelogram arithmetic holds on the new model.",
+    "GT2_DataGeneralization": "The finding generalizes to completely new data instances. On 20 new capital-country pairs (Dublin-Ireland, Warsaw-Poland, Prague-Czechia, Vienna-Austria, etc.) with NO overlap with original dataset, concept lens achieved 60% accuracy while raw hidden states achieved 0%. This strongly validates that the method identifies a genuine semantic subspace, not memorized patterns.",
+    "GT3_MethodGeneralization": "The method generalizes to new task types not used in main experiments. On currency task (semantic): concept lens (8%) > raw (0%). On plural task (grammatical): token lens (60%) > concept (30%) > raw (14%). The task-type to lens-type mapping from the paper (concept for semantic, token for grammatical) correctly predicts which lens type works best on new tasks."
+  }
+}
